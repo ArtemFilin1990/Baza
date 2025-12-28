@@ -27,23 +27,23 @@
 
 ### SKF
 - SKF General Catalogue (2023)
-- URL: https://www.skf.com/group/products/rolling-bearings
+- Локальное хранение: `sources/vendor_catalogs/skf_rolling_bearings.md` (ожидается PDF без внешней ссылки)
 
 ### FAG (Schaeffler)
 - FAG Rolling Bearings Catalogue (2022)
-- URL: https://www.schaeffler.com/en/products-and-solutions/industrial/
+- Локальное хранение: добавлять офлайн-PDF в `sources/vendor_catalogs/` с описанием и контрольной суммой.
 
 ### NSK
 - NSK Ball & Roller Bearings Catalogue (2023)
-- URL: https://www.nskeurope.com/en/products/bearings.html
+- Локальное хранение: `sources/vendor_catalogs/nsk_catalog_overview.md` (+ выгрузки таблиц).
 
 ### NTN
 - NTN Ball Bearing Catalogue (2022)
-- URL: https://www.ntn.com/en/products/catalog/
+- Локальное хранение: `sources/vendor_catalogs/ntn_bearing_finder.md` (+ офлайн-выгрузки).
 
 ### Timken
 - Timken Bearing Catalogue (2023)
-- URL: https://www.timken.com/products/bearings/
+- Локальное хранение: `sources/vendor_catalogs/timken_tapered_roller_bearing_catalog.md` (+ ожидаемый PDF).
 
 ## Справочная литература
 
@@ -53,9 +53,20 @@
 
 ## Онлайн-ресурсы
 
-- [ГОСТ стандарты (docs.cntd.ru)](http://docs.cntd.ru/)
-- [ISO стандарты (iso.org)](https://www.iso.org/standards.html)
-- [Bearing Designation System Guide (medias.schaeffler.com)](https://medias.schaeffler.com/)
+- ГОСТ стандарты (docs.cntd.ru) — требуется офлайн-копия стандартов; не хранить ссылки.
+- ISO стандарты (iso.org) — использовать локальные копии стандартов ISO.
+- Bearing Designation System Guide (medias.schaeffler.com) — хранить локальную копию PDF/HTML.
+- podshipnik.info — каталог ГОСТ-подшипников; офлайн-выгрузки фиксируются в `sources/vendor_catalogs/podshipnik_info_snapshot.md`.
+- irbis.ua — таблица размеров подшипников (2600+ типоразмеров); офлайн-выгрузки фиксируются в `sources/vendor_catalogs/irbis_table_snapshot.md`.
+- kugellager-express.de — международный каталог роликовых/шариковых подшипников; офлайн-данные фиксируются в `sources/vendor_catalogs/kugellager_express_snapshot.md`.
+- 2rs.com.ua — подбор подшипника по d/D/B; офлайн-данные фиксируются в `sources/vendor_catalogs/2rs_selector_snapshot.md`.
+- podshipnikon.ru — размерные таблицы и поиск по диапазонам; офлайн-данные фиксируются в `sources/vendor_catalogs/podshipnikon_snapshot.md`.
+- planetapodshipnik.ru — таблица маркировки ISO↔ГОСТ; офлайн-данные фиксируются в `sources/vendor_catalogs/planeta_iso_gost_snapshot.md`.
+- SKF Rolling Bearings — официальный PDF-каталог; офлайн-метаданные в `sources/vendor_catalogs/skf_rolling_bearings.md` (ожидается PDF без внешних ссылок).
+- NTN Bearing Finder — интерактивный каталог и CAD; офлайн-метаданные в `sources/vendor_catalogs/ntn_bearing_finder.md`.
+- NSK Global — официальный каталог производителя; офлайн-метаданные в `sources/vendor_catalogs/nsk_catalog_overview.md`.
+- Timken Tapered Roller Bearing Catalog — PDF; офлайн-метаданные в `sources/vendor_catalogs/timken_tapered_roller_bearing_catalog.md`.
+- sacom.lt — архив PDF-каталогов разных производителей; офлайн-метаданные в `sources/vendor_catalogs/sacom_catalog_index.md`.
 
 ---
 
