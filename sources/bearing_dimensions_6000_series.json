@@ -1,6 +1,7 @@
 [
   {
     "designation": "6000",
+    "designation_gost": "6000",
     "designation_iso": "6000",
     "type": "Радиальный шариковый однорядный",
     "series": "6000",
@@ -16,6 +17,7 @@
   },
   {
     "designation": "6001",
+    "designation_gost": "6001",
     "designation_iso": "6001",
     "type": "Радиальный шариковый однорядный",
     "series": "6000",
@@ -31,13 +33,14 @@
   },
   {
     "designation": "6002",
+    "designation_gost": "6002",
     "designation_iso": "6002",
     "type": "Радиальный шариковый однорядный",
     "series": "6000",
     "d_mm": 15,
     "D_mm": 32,
     "B_mm": 9,
-    "mass_kg": 0.030,
+    "mass_kg": 0.03,
     "C_kN": 5.6,
     "C0_kN": 2.8,
     "n_rpm": 24000,
@@ -46,6 +49,7 @@
   },
   {
     "designation": "6003",
+    "designation_gost": "6003",
     "designation_iso": "6003",
     "type": "Радиальный шариковый однорядный",
     "series": "6000",
@@ -61,6 +65,7 @@
   },
   {
     "designation": "6004",
+    "designation_gost": "6004",
     "designation_iso": "6004",
     "type": "Радиальный шариковый однорядный",
     "series": "6000",
@@ -76,6 +81,7 @@
   },
   {
     "designation": "6005",
+    "designation_gost": "6005",
     "designation_iso": "6005",
     "type": "Радиальный шариковый однорядный",
     "series": "6000",
@@ -91,6 +97,7 @@
   },
   {
     "designation": "6006",
+    "designation_gost": "6006",
     "designation_iso": "6006",
     "type": "Радиальный шариковый однорядный",
     "series": "6000",
@@ -106,6 +113,7 @@
   },
   {
     "designation": "6007",
+    "designation_gost": "6007",
     "designation_iso": "6007",
     "type": "Радиальный шариковый однорядный",
     "series": "6000",
@@ -121,6 +129,7 @@
   },
   {
     "designation": "6008",
+    "designation_gost": "6008",
     "designation_iso": "6008",
     "type": "Радиальный шариковый однорядный",
     "series": "6000",
@@ -136,6 +145,7 @@
   },
   {
     "designation": "6009",
+    "designation_gost": "6009",
     "designation_iso": "6009",
     "type": "Радиальный шариковый однорядный",
     "series": "6000",
@@ -151,6 +161,7 @@
   },
   {
     "designation": "6010",
+    "designation_gost": "6010",
     "designation_iso": "6010",
     "type": "Радиальный шариковый однорядный",
     "series": "6000",

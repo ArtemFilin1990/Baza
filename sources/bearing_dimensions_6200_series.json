@@ -1,6 +1,7 @@
 [
   {
     "designation": "6200",
+    "designation_gost": "6200",
     "designation_iso": "6200",
     "type": "Радиальный шариковый однорядный",
     "series": "6200",
@@ -16,6 +17,7 @@
   },
   {
     "designation": "6201",
+    "designation_gost": "6201",
     "designation_iso": "6201",
     "type": "Радиальный шариковый однорядный",
     "series": "6200",
@@ -31,6 +33,7 @@
   },
   {
     "designation": "6202",
+    "designation_gost": "6202",
     "designation_iso": "6202",
     "type": "Радиальный шариковый однорядный",
     "series": "6200",
@@ -46,6 +49,7 @@
   },
   {
     "designation": "6203",
+    "designation_gost": "6203",
     "designation_iso": "6203",
     "type": "Радиальный шариковый однорядный",
     "series": "6200",
@@ -61,6 +65,7 @@
   },
   {
     "designation": "6204",
+    "designation_gost": "6204",
     "designation_iso": "6204",
     "type": "Радиальный шариковый однорядный",
     "series": "6200",
@@ -76,6 +81,7 @@
   },
   {
     "designation": "6205",
+    "designation_gost": "6205",
     "designation_iso": "6205",
     "type": "Радиальный шариковый однорядный",
     "series": "6200",
@@ -91,6 +97,7 @@
   },
   {
     "designation": "6206",
+    "designation_gost": "6206",
     "designation_iso": "6206",
     "type": "Радиальный шариковый однорядный",
     "series": "6200",
@@ -106,6 +113,7 @@
   },
   {
     "designation": "6207",
+    "designation_gost": "6207",
     "designation_iso": "6207",
     "type": "Радиальный шариковый однорядный",
     "series": "6200",
@@ -121,6 +129,7 @@
   },
   {
     "designation": "6208",
+    "designation_gost": "6208",
     "designation_iso": "6208",
     "type": "Радиальный шариковый однорядный",
     "series": "6200",
@@ -136,6 +145,7 @@
   },
   {
     "designation": "6209",
+    "designation_gost": "6209",
     "designation_iso": "6209",
     "type": "Радиальный шариковый однорядный",
     "series": "6200",
@@ -151,6 +161,7 @@
   },
   {
     "designation": "6210",
+    "designation_gost": "6210",
     "designation_iso": "6210",
     "type": "Радиальный шариковый однорядный",
     "series": "6200",
@@ -166,6 +177,7 @@
   },
   {
     "designation": "6211",
+    "designation_gost": "6211",
     "designation_iso": "6211",
     "type": "Радиальный шариковый однорядный",
     "series": "6200",
@@ -181,6 +193,7 @@
   },
   {
     "designation": "6212",
+    "designation_gost": "6212",
     "designation_iso": "6212",
     "type": "Радиальный шариковый однорядный",
     "series": "6200",

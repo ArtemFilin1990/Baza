@@ -53,9 +53,11 @@
   {
     "designation": "7205B",
     "designation_iso": "7205B",
+    "designation_gost": null,
     "type": "Радиально-упорный шариковый",
     "series": "7200",
     "contact_angle": "40°",
+    "note": "Модификация B (40°) - обозначение ISO, нет прямого аналога ГОСТ",
     "d_mm": 25,
     "D_mm": 52,
     "B_mm": 15,
@@ -69,9 +71,11 @@
   {
     "designation": "7206B",
     "designation_iso": "7206B",
+    "designation_gost": null,
     "type": "Радиально-упорный шариковый",
     "series": "7200",
     "contact_angle": "40°",
+    "note": "Модификация B (40°) - обозначение ISO, нет прямого аналога ГОСТ",
     "d_mm": 30,
     "D_mm": 62,
     "B_mm": 16,
