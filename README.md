@@ -39,10 +39,12 @@
 - [Обозначения ГОСТ](docs/bearings/designations/gost.md)
 - [Обозначения ISO](docs/bearings/designations/iso.md)
 - [Суффиксы ISO](docs/bearings/designations/iso_suffixes.md)
+- [Кросс-референс суффиксов производителей](docs/bearings/designations/manufacturer_suffixes_cross_reference.md) - **Новое: Полная таблица соответствий суффиксов**
 - [Общая информация о системах обозначений](docs/bearings/designations/README.md)
 
 #### Аналоги подшипников
 - [Таблицы аналогов ГОСТ ↔ ISO](docs/bearings/analogues/README.md) - **Полные таблицы соответствий**
+- [Полная таблица аналогов](docs/bearings/analogues/complete_analogues_table.md) - **Новое: 2000+ записей соответствий**
 - [Таблица ГОСТ/ISO соответствий](docs/bearings/analogues/gost_iso_table.md)
 - [Примеры подбора аналогов](docs/bearings/analogues/analog_examples.md)
 - [Подшипниковые узлы](docs/bearings/analogues/bearing_units.md)
@@ -51,9 +53,11 @@
 - [Международные бренды](docs/bearings/brands/international_brands.md) - **Классификация по качеству и цене**
 - [Каталог брендов и поставщиков](docs/bearings/brands/supplier_directory.md) - **Алфавитный список брендов и товарных категорий**
 - [Обзор бренда SKF](docs/bearings/brands/skf_overview.md)
+- [Система обозначений SKF](docs/bearings/brands/skf_designation_system.md) - **Новое: Полное руководство по обозначениям SKF**
 
 #### Стандарты и классификация
 - [Стандарты ГОСТ](docs/bearings/standards/gost_standards.md)
+- [Подшипники качения ГОСТ - Полное руководство](docs/bearings/gost_comprehensive_guide.md) - **Новое: Исчерпывающее руководство по ГОСТ**
 - [Классификация подшипников](docs/bearings/classification/README.md)
 
 #### Каталог и FAQ
