@@ -18,6 +18,7 @@ Thumbs.db
 *.pdf
 *.docx
 !sources/*.pdf
+!sources/catalogs/*.pdf
 
 # Node (if using MkDocs/Jekyll)
 node_modules/
