@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Documentation](https://img.shields.io/badge/docs-available-brightgreen.svg)](docs/bearings/selection_guide.md)
-[![Status](https://img.shields.io/badge/status-active-success.svg)]()
+![Status](https://img.shields.io/badge/status-active-success.svg)
 
 > Комплексная справочная система по подшипникам качения стандартов ГОСТ и ISO
 
