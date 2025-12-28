@@ -301,20 +301,20 @@ Baza/
 - **bearing_dimensions_6200_series.json** - серия 6200, легкая, самая популярная (13 подшипников)
 - **bearing_dimensions_6300_series.json** - серия 6300, средняя (13 подшипников)
 
-**Роликовые подшипники (41 шт.):**
-- **bearing_dimensions_cylindrical_rollers.json** - цилиндрические NU 200/300 (14 подшипников)
-- **bearing_dimensions_tapered_rollers.json** - конические 30200/30300/32000 (16 подшипников)
-- **bearing_dimensions_spherical.json** - сферические 1200/22200/22300 (11 подшипников)
+**Роликовые подшипники (48 шт.):**
+- **bearing_dimensions_cylindrical_rollers.json** - цилиндрические NU 200/300 (15 подшипников)
+- **bearing_dimensions_tapered_rollers.json** - конические 30200/30300/32000 (18 подшипников)
+- **bearing_dimensions_spherical.json** - сферические 1200/22200/22300 (15 подшипников)
 
-**Специальные подшипники (13 шт.):**
+**Специальные подшипники (21 шт.):**
 - **bearing_dimensions_angular_contact.json** - радиально-упорные 7200 (5 подшипников)
-- **bearing_dimensions_thrust.json** - упорные 51100/51200 (8 подшипников)
+- **bearing_dimensions_thrust.json** - упорные 51100/51200 (16 подшипников)
 
 **Справочные данные:**
 - **gost_iso_correspondence.json** - таблица соответствий ГОСТ ↔ ISO (26 соответствий)
 - **aprom_brands.json** - база данных брендов и производителей
 
-**Всего: 91 подшипник с полными техническими характеристиками**
+**Всего: 106 подшипников с полными техническими характеристиками**
 
 Подробное описание структуры данных и примеры использования см. в [sources/README.md](sources/README.md)
 
