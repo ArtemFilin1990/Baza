@@ -11,10 +11,14 @@ configurable via CLI flags or environment variables:
   REQUEST_DELAY_SECONDS  - delay between pages in seconds (default: 0.2)
   APROM_MAX_PAGES        - hard cap for visited pages (default: 250)
   APROM_SCRAPER_USER_AGENT - optional override for the HTTP User-Agent
+  APROM_MAX_RETRIES      - maximum retry attempts for failed requests (default: 3)
+  APROM_RETRY_DELAY      - delay between retry attempts in seconds (default: 2.0)
 
 Example:
     python sources/aprom_table_scraper.py \\
-        --output sources/aprom_table_data.json
+        --output sources/aprom_table_data.json \\
+        --max-retries 5 \\
+        --retry-delay 3.0
 
 If network access is blocked, the script will log a warning and exit without
 creating or altering the output file.
@@ -41,6 +45,8 @@ DEFAULT_TIMEOUT_SECONDS = int(os.getenv("HTTP_TIMEOUT_SECONDS", "10"))
 DEFAULT_DELAY_SECONDS = float(os.getenv("REQUEST_DELAY_SECONDS", "0.2"))
 DEFAULT_MAX_PAGES = int(os.getenv("APROM_MAX_PAGES", "250"))
 DEFAULT_USER_AGENT = os.getenv("APROM_SCRAPER_USER_AGENT", "BazaApromScraper/1.0")
+DEFAULT_MAX_RETRIES = int(os.getenv("APROM_MAX_RETRIES", "3"))
+DEFAULT_RETRY_DELAY = float(os.getenv("APROM_RETRY_DELAY", "2.0"))
 
 
 def configure_logging(verbosity: int) -> None:
@@ -201,10 +207,48 @@ def table_to_records(table: List[List[TableCell]]) -> List[Dict[str, str]]:
     return records
 
 
-def fetch_html(url: str, timeout: int) -> str:
+def fetch_html(url: str, timeout: int, max_retries: int = DEFAULT_MAX_RETRIES, retry_delay: float = DEFAULT_RETRY_DELAY) -> str:
+    """
+    Fetch HTML with retry logic for transient network errors.
+    
+    Args:
+        url: URL to fetch
+        timeout: Request timeout in seconds
+        max_retries: Maximum number of retry attempts (default: 3)
+        retry_delay: Delay between retries in seconds (default: 2.0)
+    
+    Returns:
+        str: HTML content decoded as UTF-8
+    
+    Raises:
+        HTTPError: If HTTP request fails after all retries
+        URLError: If network connection fails after all retries
+        ValueError: If max_retries is less than 1
+    """
+    if max_retries < 1:
+        raise ValueError("max_retries must be at least 1")
+    
     request = Request(url, headers={"User-Agent": DEFAULT_USER_AGENT})
-    with urlopen(request, timeout=timeout) as response:
-        return response.read().decode(response.headers.get_content_charset("utf-8"), errors="replace")
+    last_error: Optional[Exception] = None
+    
+    for attempt in range(max_retries):
+        try:
+            with urlopen(request, timeout=timeout) as response:
+                return response.read().decode(response.headers.get_content_charset("utf-8"), errors="replace")
+        except (HTTPError, URLError) as error:
+            last_error = error
+            if attempt < max_retries - 1:
+                logging.warning("Attempt %d/%d failed for %s: %s. Retrying in %.1fs...", 
+                              attempt + 1, max_retries, url, error, retry_delay)
+                time.sleep(retry_delay)
+            else:
+                logging.error("All %d attempts failed for %s: %s", max_retries, url, error)
+    
+    # This should never happen since we always set last_error in the loop, but for type safety
+    if last_error is None:
+        raise RuntimeError(f"Unexpected error: fetch failed but no error was captured for {url}")
+    
+    raise last_error
 
 
 def crawl_all_pages(
@@ -212,21 +256,26 @@ def crawl_all_pages(
     timeout_seconds: int,
     delay_seconds: float,
     max_pages: int,
+    max_retries: int = DEFAULT_MAX_RETRIES,
+    retry_delay: float = DEFAULT_RETRY_DELAY,
 ) -> List[Dict[str, str]]:
     visited: Set[str] = set()
     queue: Deque[str] = deque([normalize_url(base_url)])
     aggregated_rows: List[Dict[str, str]] = []
+    failed_urls: List[str] = []
 
     while queue and len(visited) < max_pages:
         url = queue.popleft()
         if url in visited:
             continue
-        logging.info("Fetching %s", url)
+        logging.info("Fetching %s (page %d/%d)", url, len(visited) + 1, max_pages)
         try:
-            html = fetch_html(url, timeout_seconds)
+            html = fetch_html(url, timeout_seconds, max_retries, retry_delay)
         except (HTTPError, URLError) as error:
-            logging.warning("Failed to fetch %s: %s", url, error)
-            break
+            logging.warning("Failed to fetch %s after %d retries: %s", url, max_retries, error)
+            failed_urls.append(url)
+            # Continue to next URL instead of breaking
+            continue
         visited.add(url)
         tables = extract_tables(html)
         primary_table = select_primary_table(tables)
@@ -242,6 +291,12 @@ def crawl_all_pages(
                 queue.append(link)
 
         time.sleep(delay_seconds)
+
+    if failed_urls:
+        if len(failed_urls) <= 5:
+            logging.warning("Failed to fetch %d URLs: %s", len(failed_urls), failed_urls)
+        else:
+            logging.warning("Failed to fetch %d URLs (showing first 5): %s", len(failed_urls), failed_urls[:5])
 
     return aggregated_rows
 
@@ -296,6 +351,18 @@ def parse_args(argv: Sequence[str]) -> argparse.Namespace:
         default=0,
         help="Increase log verbosity (can be repeated)",
     )
+    parser.add_argument(
+        "--max-retries",
+        type=int,
+        default=DEFAULT_MAX_RETRIES,
+        help="Maximum number of retry attempts for failed requests (default: %(default)s)",
+    )
+    parser.add_argument(
+        "--retry-delay",
+        type=float,
+        default=DEFAULT_RETRY_DELAY,
+        help="Delay between retry attempts in seconds (default: %(default)s)",
+    )
     return parser.parse_args(argv)
 
 
@@ -303,17 +370,20 @@ def main(argv: Sequence[str]) -> int:
     args = parse_args(argv)
     configure_logging(args.verbose)
     logging.info(
-        "Starting crawl: url=%s, max_pages=%d, timeout=%ds, delay=%.2fs",
+        "Starting crawl: url=%s, max_pages=%d, timeout=%ds, delay=%.2fs, max_retries=%d",
         args.url,
         args.max_pages,
         args.timeout,
         args.delay,
+        args.max_retries,
     )
     rows = crawl_all_pages(
         base_url=args.url,
         timeout_seconds=args.timeout,
         delay_seconds=args.delay,
         max_pages=args.max_pages,
+        max_retries=args.max_retries,
+        retry_delay=args.retry_delay,
     )
     if not rows:
         logging.warning("No rows extracted; output file will not be created.")

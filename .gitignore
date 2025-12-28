@@ -33,3 +33,7 @@ venv/
 _site/
 .jekyll-cache/
 .mkdocs-cache/
+
+# Generated data files
+sources/aprom_brands.csv
+sources/aprom_table_data.json

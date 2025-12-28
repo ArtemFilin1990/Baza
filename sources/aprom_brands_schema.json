@@ -1,0 +1,69 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Bearing Brands Database Schema",
+  "description": "Schema for bearing manufacturer and brand information",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": ["name", "country", "description"],
+    "properties": {
+      "name": {
+        "type": "string",
+        "description": "Official brand or manufacturer name"
+      },
+      "country": {
+        "type": "string",
+        "description": "Country of origin or primary manufacturing location"
+      },
+      "description": {
+        "type": "string",
+        "description": "Brief description of products and specialization"
+      },
+      "category": {
+        "type": "string",
+        "enum": ["premium", "standard", "budget", "specialized", "unknown"],
+        "description": "Quality/price category (optional)"
+      },
+      "website": {
+        "type": "string",
+        "format": "uri",
+        "description": "Official website URL (optional)"
+      },
+      "product_categories": {
+        "type": "array",
+        "items": {
+          "type": "string",
+          "enum": [
+            "bearings",
+            "linear_motion",
+            "seals",
+            "belts",
+            "chains",
+            "couplings",
+            "gears",
+            "lubricants",
+            "tools",
+            "other"
+          ]
+        },
+        "description": "List of product categories offered (optional)"
+      },
+      "certifications": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        },
+        "description": "Quality certifications (ISO, GOST, etc.) (optional)"
+      },
+      "source": {
+        "type": "string",
+        "description": "Source of information (e.g., aprom.by, official catalog)"
+      },
+      "last_updated": {
+        "type": "string",
+        "format": "date",
+        "description": "Date when information was last verified (YYYY-MM-DD)"
+      }
+    }
+  }
+}

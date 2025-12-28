@@ -102,6 +102,27 @@
    - Наличие источников
    - Корректность маркировки
 
+## Использование шаблонов
+
+Репозиторий предоставляет стандартные шаблоны в `.github/templates/`:
+
+### Для стандартов и спецификаций
+```bash
+cp .github/templates/bearing_standard_template.md docs/bearings/standards/new_standard.md
+```
+
+### Для таблиц аналогов
+```bash
+cp .github/templates/analogue_table_template.md docs/bearings/analogues/new_table.md
+```
+
+### Для информации о производителях
+```bash
+cp .github/templates/brand_info_template.md docs/bearings/brands/new_brand.md
+```
+
+Заполните шаблон, заменив все `[Placeholder]` на фактические данные.
+
 ## Коммиты
 
 ### Формат
@@ -145,6 +166,37 @@ Examples:
 - [ ] Примеры расшифрованы полностью
 - [ ] Нет смешивания стандартов
 - [ ] Коммит-сообщение соответствует формату
+
+## Тестирование и проверка
+
+### Проверка Python-скриптов
+```bash
+# Проверка синтаксиса
+python -m py_compile sources/aprom_table_scraper.py
+
+# Запуск unit-тестов
+python tests/test_aprom_scraper.py
+
+# Или с pytest (если установлен)
+python -m pytest tests/test_aprom_scraper.py -v
+```
+
+### Проверка JSON-файлов
+```bash
+# Валидация JSON синтаксиса
+python -m json.tool sources/aprom_brands.json > /dev/null
+
+# Или для всех JSON файлов
+find . -name "*.json" -exec python -m json.tool {} \; > /dev/null
+```
+
+### Локальная проверка CI
+При наличии GitHub Actions можно локально проверить:
+- Структуру репозитория
+- Наличие обязательных файлов
+- Валидность Python и JSON файлов
+
+См. `.github/workflows/ci.yml` для полного списка проверок.
 
 ## Вопросы
 
