@@ -6,24 +6,40 @@ Run tests with:
     python -m pytest tests/test_aprom_scraper.py -v
     
 Or with standard unittest:
-    python tests/test_aprom_scraper.py
+    python -m unittest tests.test_aprom_scraper
+    
+Or from tests directory:
+    cd tests && python test_aprom_scraper.py
 """
 
 import sys
 import unittest
 from pathlib import Path
 
-# Add sources directory to path for imports
-sys.path.insert(0, str(Path(__file__).parent.parent / "sources"))
+# Only modify sys.path when running as standalone script (not imported as module)
+if __name__ == "__main__" and __package__ is None:
+    sys.path.insert(0, str(Path(__file__).parent.parent / "sources"))
 
-from aprom_table_scraper import (
-    TableCell,
-    extract_tables,
-    derive_headers,
-    table_to_records,
-    clean_text,
-    normalize_url,
-)
+try:
+    from aprom_table_scraper import (
+        TableCell,
+        extract_tables,
+        derive_headers,
+        table_to_records,
+        clean_text,
+        normalize_url,
+    )
+except ImportError:
+    # Fallback for different execution contexts
+    sys.path.insert(0, str(Path(__file__).parent.parent / "sources"))
+    from aprom_table_scraper import (
+        TableCell,
+        extract_tables,
+        derive_headers,
+        table_to_records,
+        clean_text,
+        normalize_url,
+    )
 
 
 class TestCleanText(unittest.TestCase):

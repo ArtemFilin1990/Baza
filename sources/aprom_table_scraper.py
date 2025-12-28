@@ -208,9 +208,24 @@ def table_to_records(table: List[List[TableCell]]) -> List[Dict[str, str]]:
 
 
 def fetch_html(url: str, timeout: int, max_retries: int = DEFAULT_MAX_RETRIES, retry_delay: float = DEFAULT_RETRY_DELAY) -> str:
-    """Fetch HTML with retry logic for transient network errors."""
+    """
+    Fetch HTML with retry logic for transient network errors.
+    
+    Args:
+        url: URL to fetch
+        timeout: Request timeout in seconds
+        max_retries: Maximum number of retry attempts (default: 3)
+        retry_delay: Delay between retries in seconds (default: 2.0)
+    
+    Returns:
+        str: HTML content decoded as UTF-8
+    
+    Raises:
+        HTTPError: If HTTP request fails after all retries
+        URLError: If network connection fails after all retries
+    """
     request = Request(url, headers={"User-Agent": DEFAULT_USER_AGENT})
-    last_error = None
+    last_error = URLError("No retry attempts made")
     
     for attempt in range(max_retries):
         try:

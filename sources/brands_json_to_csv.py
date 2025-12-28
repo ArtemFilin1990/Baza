@@ -79,4 +79,5 @@ def main():
 
 
 if __name__ == '__main__':
-    sys.exit(main())
+    exit_code = main()
+    sys.exit(exit_code if exit_code is not None else 1)
