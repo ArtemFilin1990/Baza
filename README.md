@@ -33,6 +33,7 @@
 
 #### Производители и бренды
 - [Международные бренды](docs/bearings/brands/international_brands.md) - **Классификация по качеству и цене**
+- [Каталог брендов и поставщиков](docs/bearings/brands/supplier_directory.md) - **Алфавитный список брендов и товарных категорий**
 - [Обзор бренда SKF](docs/bearings/brands/skf_overview.md)
 
 #### Стандарты и классификация
