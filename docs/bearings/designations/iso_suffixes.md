@@ -769,11 +769,16 @@
 - **ISO 492** — Радиальные подшипники, допуски
 - **ISO 5753** — Радиальный внутренний зазор
 
-### Каталоги производителей
+### Каталоги производителей (онлайн)
 - [SKF Rolling Bearings Catalogue](https://www.skf.com)
 - [FAG Rolling Bearings Catalogue (Schaeffler)](https://www.schaeffler.com)
 - [NSK Ball & Roller Bearings](https://www.nskeurope.com)
 - [NTN Bearing Catalogue](https://www.ntn.com)
+
+### Локальные справочники
+- **Обозначения подшипников NSK** — `sources/catalogs/Oboznacheniya-podshipnikov-NSK.pdf` ([метаданные](../../../sources/vendor_catalogs/nsk_designations.md))
+- **Общий каталог подшипников SKF** — `sources/catalogs/Obshchii_-katalog-podshipnikov-SKF.pdf` ([метаданные](../../../sources/vendor_catalogs/skf_rolling_bearings.md))
+- Полный список доступных каталогов см. в [sources/literature.md](../../../sources/literature.md)
 
 ---
 

@@ -40,14 +40,64 @@
 ## Каталоги производителей
 
 ### SKF
-- SKF General Catalogue (2023)
-- Локальное хранение: `sources/vendor_catalogs/skf_rolling_bearings.md` (ожидается PDF без внешней ссылки)
+- **Общий каталог подшипников SKF** (Obshchii katalog podshipnikov SKF)
+  - Локальное хранение: `sources/catalogs/Obshchii_-katalog-podshipnikov-SKF.pdf`
+  - SHA256: `03eedc232dff7e7223e9647c04c3ab6976b7ff2d8a7b98a417037bd9096003e3`
+  - Размер: 20 MB
+  - Описание: Полный каталог подшипников качения SKF с техническими характеристиками, размерами и обозначениями
+  - Метаданные: `sources/vendor_catalogs/skf_rolling_bearings.md`
+
+- **Игольчатые подшипники SKF** (Igolchatye podshipniki SKF)
+  - Локальное хранение: `sources/catalogs/Igolchatye-podshipniki-SKF.pdf`
+  - SHA256: `e2c40dba6eb7eb5d52c0c6d516d8fbedd52a0c38db49aa090c20a64eddcd1457`
+  - Размер: 6.5 MB
+  - Описание: Специализированный каталог игольчатых подшипников SKF
+  - Метаданные: `sources/vendor_catalogs/skf_needle_bearings.md`
+
+- **Каталог бесшпоночных втулок FX SKF** (Katalog Besshponochnye Vtulki FX SKF)
+  - Локальное хранение: `sources/catalogs/Katalog-Besshponochnye-Vtulki-FX-SKF.pdf`
+  - SHA256: `4445c0b2148df787e1197771d4dd7de197b9696c3f9a69fd604fc9fc53343536`
+  - Размер: 1.3 MB
+  - Описание: Каталог бесшпоночных втулок для крепления подшипников
+  - Метаданные: `sources/vendor_catalogs/skf_keyless_bushings.md`
+
+- **Каталог силовых приводных ремней SKF** (Katalog Silovye Privodnye Remni SKF)
+  - Локальное хранение: `sources/catalogs/Katalog-Silovye-Privodnye-Remni-SKF.pdf`
+  - SHA256: `eb0aa42213d01d08af7eb583d568c44a6e39e1f944343117b30970f67d330832`
+  - Размер: 7.2 MB
+  - Описание: Каталог силовых приводных ремней и элементов трансмиссии
+  - Метаданные: `sources/vendor_catalogs/skf_power_transmission.md`
 
 ### FAG (Schaeffler)
-- FAG Rolling Bearings Catalogue (2022)
-- Локальное хранение: добавлять офлайн-PDF в `sources/vendor_catalogs/` с описанием и контрольной суммой.
+- **Индукционные нагреватели подшипников Schaeffler HEATER**
+  - Локальное хранение: `sources/catalogs/Induktsionnye_nagrevateli_podshipnikov_Schaeffler_HEATER.pdf`
+  - SHA256: `cdcf6d38107d49bab2b5f507bab529b9be2461a7fbd84de30a9602e20905611f`
+  - Размер: 2.1 MB
+  - Описание: Каталог индукционных нагревателей для монтажа подшипников
+  - Метаданные: `sources/vendor_catalogs/schaeffler_heaters.md`
 
 ### NSK
+- **Карманный справочник по техническому обслуживанию подшипников NSK**
+  - Локальное хранение: `sources/catalogs/Karmannyy-spravochnik-po-tekhnicheskomu-obsluzhivaniyu-podshipnikov-ot-NSk.pdf`
+  - SHA256: `5edc26f22bff6199b4556d7a0080b0aa89ff1cabfbd9d30b5568a67ba8f7233c`
+  - Размер: 3.2 MB
+  - Описание: Практическое руководство по установке, эксплуатации и обслуживанию подшипников
+  - Метаданные: `sources/vendor_catalogs/nsk_maintenance_guide.md`
+
+- **Каталог инструментов для монтажа подшипников NSK**
+  - Локальное хранение: `sources/catalogs/Katalog-instrumentov-dlya-montazha-podshipnikov-NSK.pdf`
+  - SHA256: `5f1b4c32e395bf86bf39c240063c1ba73bcb86df6c948c7b27cb07779c136bf5`
+  - Размер: 3.3 MB
+  - Описание: Каталог специализированного инструмента для монтажа и демонтажа подшипников
+  - Метаданные: `sources/vendor_catalogs/nsk_tools_catalog.md`
+
+- **Обозначения подшипников NSK**
+  - Локальное хранение: `sources/catalogs/Oboznacheniya-podshipnikov-NSK.pdf`
+  - SHA256: `f4ffcd93d224a246ebb0f815f1012725123737b1063644f02ba97c5a3ca3d4cb`
+  - Размер: 1014 KB
+  - Описание: Система обозначений и маркировки подшипников NSK
+  - Метаданные: `sources/vendor_catalogs/nsk_designations.md`
+
 - NSK Ball & Roller Bearings Catalogue (2023)
 - Локальное хранение: `sources/vendor_catalogs/nsk_catalog_overview.md` (+ выгрузки таблиц).
 
