@@ -1,0 +1,327 @@
+#!/usr/bin/env python3
+"""
+Scraper for aprom.by/table.php that crawls all pagination links and exports the
+resulting rows into a JSON file under sources/.
+
+The script is intentionally dependency-free (stdlib only) to simplify execution
+in restricted environments. Network timeouts, page limits and delays are
+configurable via CLI flags or environment variables:
+
+  HTTP_TIMEOUT_SECONDS   - request timeout (default: 10)
+  REQUEST_DELAY_SECONDS  - delay between pages in seconds (default: 0.2)
+  APROM_MAX_PAGES        - hard cap for visited pages (default: 250)
+  APROM_SCRAPER_USER_AGENT - optional override for the HTTP User-Agent
+
+Example:
+    python sources/aprom_table_scraper.py \\
+        --output sources/aprom_table_data.json
+
+If network access is blocked, the script will log a warning and exit without
+creating or altering the output file.
+"""
+from __future__ import annotations
+
+import argparse
+import json
+import logging
+import os
+import re
+import sys
+import time
+from collections import deque
+from dataclasses import dataclass
+from datetime import datetime, timezone
+from html.parser import HTMLParser
+from typing import Deque, Dict, Iterable, List, Optional, Sequence, Set, Tuple
+from urllib.error import HTTPError, URLError
+from urllib.parse import parse_qsl, urlencode, urljoin, urlparse, urlunparse
+from urllib.request import Request, urlopen
+
+DEFAULT_TIMEOUT_SECONDS = int(os.getenv("HTTP_TIMEOUT_SECONDS", "10"))
+DEFAULT_DELAY_SECONDS = float(os.getenv("REQUEST_DELAY_SECONDS", "0.2"))
+DEFAULT_MAX_PAGES = int(os.getenv("APROM_MAX_PAGES", "250"))
+DEFAULT_USER_AGENT = os.getenv("APROM_SCRAPER_USER_AGENT", "BazaApromScraper/1.0")
+
+
+def configure_logging(verbosity: int) -> None:
+    """Configure structured logging with level based on the verbosity flag."""
+    level = logging.WARNING
+    if verbosity == 1:
+        level = logging.INFO
+    elif verbosity >= 2:
+        level = logging.DEBUG
+
+    logging.basicConfig(
+        level=level,
+        format="%(asctime)s %(levelname)s %(name)s %(message)s",
+        datefmt="%Y-%m-%dT%H:%M:%SZ",
+    )
+
+
+def clean_text(raw: str) -> str:
+    """Collapse whitespace and strip surrounding spaces for table cell content."""
+    return re.sub(r"\s+", " ", raw).strip()
+
+
+@dataclass
+class TableCell:
+    text: str
+    is_header: bool
+
+
+class TableHTMLParser(HTMLParser):
+    """Minimal HTML table extractor without external dependencies."""
+
+    def __init__(self) -> None:
+        super().__init__(convert_charrefs=True)
+        self.tables: List[List[List[TableCell]]] = []
+        self._current_table: Optional[List[List[TableCell]]] = None
+        self._current_row: Optional[List[TableCell]] = None
+        self._current_cell: List[str] = []
+        self._current_is_header = False
+        self._table_depth = 0
+
+    def handle_starttag(self, tag: str, attrs: Sequence[Tuple[str, Optional[str]]]) -> None:
+        if tag == "table":
+            self._table_depth += 1
+            if self._table_depth == 1:
+                self._current_table = []
+        if self._table_depth == 0:
+            return
+        if tag == "tr":
+            self._current_row = []
+        elif tag in {"td", "th"}:
+            self._current_cell = []
+            self._current_is_header = tag == "th"
+
+    def handle_data(self, data: str) -> None:
+        if self._table_depth and self._current_cell is not None:
+            self._current_cell.append(data)
+
+    def handle_endtag(self, tag: str) -> None:
+        if self._table_depth == 0:
+            return
+        if tag in {"td", "th"} and self._current_row is not None:
+            text = clean_text("".join(self._current_cell))
+            if text:
+                self._current_row.append(TableCell(text=text, is_header=self._current_is_header))
+            self._current_cell = []
+        elif tag == "tr":
+            if self._current_table is not None and self._current_row:
+                self._current_table.append(self._current_row)
+            self._current_row = None
+        elif tag == "table":
+            if self._table_depth == 1 and self._current_table:
+                self.tables.append(self._current_table)
+            self._current_table = None
+            self._table_depth = max(0, self._table_depth - 1)
+
+
+class AnchorParser(HTMLParser):
+    """Collect anchor hrefs for pagination discovery."""
+
+    def __init__(self) -> None:
+        super().__init__(convert_charrefs=True)
+        self.links: Set[str] = set()
+
+    def handle_starttag(self, tag: str, attrs: Sequence[Tuple[str, Optional[str]]]) -> None:
+        if tag != "a":
+            return
+        href = dict(attrs).get("href")
+        if href:
+            self.links.add(href)
+
+
+def normalize_url(url: str) -> str:
+    """Normalize URL for deduplication by sorting query params and dropping fragments."""
+    parsed = urlparse(url)
+    sorted_query = urlencode(sorted(parse_qsl(parsed.query)))
+    return urlunparse((parsed.scheme, parsed.netloc, parsed.path, "", sorted_query, ""))
+
+
+def is_same_resource(target_url: str, base_url: str) -> bool:
+    """Restrict crawling to the same path as the base resource."""
+    base_path = urlparse(base_url).path
+    return urlparse(target_url).path == base_path
+
+
+def extract_tables(html: str) -> List[List[List[TableCell]]]:
+    parser = TableHTMLParser()
+    parser.feed(html)
+    return parser.tables
+
+
+def extract_links(html: str, base_url: str) -> Set[str]:
+    parser = AnchorParser()
+    parser.feed(html)
+    links: Set[str] = set()
+    for raw_href in parser.links:
+        absolute = urljoin(base_url, raw_href)
+        if is_same_resource(absolute, base_url):
+            links.add(normalize_url(absolute))
+    return links
+
+
+def select_primary_table(tables: List[List[List[TableCell]]]) -> Optional[List[List[TableCell]]]:
+    if not tables:
+        return None
+    return max(tables, key=len)
+
+
+def derive_headers(table: List[List[TableCell]]) -> List[str]:
+    for row in table:
+        if any(cell.is_header for cell in row):
+            return [_normalize_header(cell.text, idx) for idx, cell in enumerate(row, start=1)]
+    reference_width = len(table[0]) if table else 0
+    return [
+        _normalize_header(f"column_{idx}", idx)
+        for idx in range(1, reference_width + 1)
+    ]
+
+
+def _normalize_header(text: str, position: int) -> str:
+    normalized = re.sub(r"[^0-9A-Za-zА-Яа-я_]+", "_", text.strip())
+    normalized = re.sub(r"_+", "_", normalized).strip("_").lower()
+    return normalized or f"column_{position}"
+
+
+def table_to_records(table: List[List[TableCell]]) -> List[Dict[str, str]]:
+    if not table:
+        return []
+    headers = derive_headers(table)
+    records: List[Dict[str, str]] = []
+    for row in table:
+        if all(cell.is_header for cell in row):
+            continue
+        record: Dict[str, str] = {}
+        for idx, header in enumerate(headers):
+            value = row[idx].text if idx < len(row) else ""
+            record[header] = value
+        records.append(record)
+    return records
+
+
+def fetch_html(url: str, timeout: int) -> str:
+    request = Request(url, headers={"User-Agent": DEFAULT_USER_AGENT})
+    with urlopen(request, timeout=timeout) as response:
+        return response.read().decode(response.headers.get_content_charset("utf-8"), errors="replace")
+
+
+def crawl_all_pages(
+    base_url: str,
+    timeout_seconds: int,
+    delay_seconds: float,
+    max_pages: int,
+) -> List[Dict[str, str]]:
+    visited: Set[str] = set()
+    queue: Deque[str] = deque([normalize_url(base_url)])
+    aggregated_rows: List[Dict[str, str]] = []
+
+    while queue and len(visited) < max_pages:
+        url = queue.popleft()
+        if url in visited:
+            continue
+        logging.info("Fetching %s", url)
+        try:
+            html = fetch_html(url, timeout_seconds)
+        except (HTTPError, URLError) as error:
+            logging.warning("Failed to fetch %s: %s", url, error)
+            break
+        visited.add(url)
+        tables = extract_tables(html)
+        primary_table = select_primary_table(tables)
+        if primary_table:
+            page_records = table_to_records(primary_table)
+            logging.info("Extracted %d rows from %s", len(page_records), url)
+            aggregated_rows.extend(page_records)
+        else:
+            logging.warning("No tables found on %s", url)
+
+        for link in extract_links(html, url):
+            if link not in visited and link not in queue and len(visited) + len(queue) < max_pages:
+                queue.append(link)
+
+        time.sleep(delay_seconds)
+
+    return aggregated_rows
+
+
+def dump_results(rows: List[Dict[str, str]], output_path: str, source_url: str) -> None:
+    payload = {
+        "source": source_url,
+        "retrieved_at": datetime.now(timezone.utc).isoformat(),
+        "row_count": len(rows),
+        "rows": rows,
+    }
+    with open(output_path, "w", encoding="utf-8") as file:
+        json.dump(payload, file, ensure_ascii=False, indent=2)
+
+
+def parse_args(argv: Sequence[str]) -> argparse.Namespace:
+    parser = argparse.ArgumentParser(
+        description="Crawl aprom.by/table.php and export table data into JSON."
+    )
+    parser.add_argument(
+        "--url",
+        default="https://aprom.by/table.php",
+        help="Base URL to crawl (default: %(default)s)",
+    )
+    parser.add_argument(
+        "--output",
+        default="sources/aprom_table_data.json",
+        help="Output JSON path (default: %(default)s)",
+    )
+    parser.add_argument(
+        "--timeout",
+        type=int,
+        default=DEFAULT_TIMEOUT_SECONDS,
+        help="Request timeout in seconds (default: %(default)s)",
+    )
+    parser.add_argument(
+        "--delay",
+        type=float,
+        default=DEFAULT_DELAY_SECONDS,
+        help="Delay between requests in seconds (default: %(default)s)",
+    )
+    parser.add_argument(
+        "--max-pages",
+        type=int,
+        default=DEFAULT_MAX_PAGES,
+        help="Maximum number of pages to crawl (default: %(default)s)",
+    )
+    parser.add_argument(
+        "-v",
+        "--verbose",
+        action="count",
+        default=0,
+        help="Increase log verbosity (can be repeated)",
+    )
+    return parser.parse_args(argv)
+
+
+def main(argv: Sequence[str]) -> int:
+    args = parse_args(argv)
+    configure_logging(args.verbose)
+    logging.info(
+        "Starting crawl: url=%s, max_pages=%d, timeout=%ds, delay=%.2fs",
+        args.url,
+        args.max_pages,
+        args.timeout,
+        args.delay,
+    )
+    rows = crawl_all_pages(
+        base_url=args.url,
+        timeout_seconds=args.timeout,
+        delay_seconds=args.delay,
+        max_pages=args.max_pages,
+    )
+    if not rows:
+        logging.warning("No rows extracted; output file will not be created.")
+        return 1
+    dump_results(rows, args.output, args.url)
+    logging.info("Saved %d rows into %s", len(rows), args.output)
+    return 0
+
+
+if __name__ == "__main__":
+    sys.exit(main(sys.argv[1:]))
