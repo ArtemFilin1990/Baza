@@ -1,0 +1,238 @@
+[
+  {
+    "gost": "6000",
+    "iso": "6000",
+    "d_mm": 10,
+    "D_mm": 26,
+    "B_mm": 8,
+    "type": "Радиальный шариковый однорядный",
+    "source": "planetapodshipnik.ru, podshipnik.info"
+  },
+  {
+    "gost": "6001",
+    "iso": "6001",
+    "d_mm": 12,
+    "D_mm": 28,
+    "B_mm": 8,
+    "type": "Радиальный шариковый однорядный",
+    "source": "planetapodshipnik.ru, podshipnik.info"
+  },
+  {
+    "gost": "6002",
+    "iso": "6002",
+    "d_mm": 15,
+    "D_mm": 32,
+    "B_mm": 9,
+    "type": "Радиальный шариковый однорядный",
+    "source": "planetapodshipnik.ru, podshipnik.info"
+  },
+  {
+    "gost": "6200",
+    "iso": "6200",
+    "d_mm": 10,
+    "D_mm": 30,
+    "B_mm": 9,
+    "type": "Радиальный шариковый однорядный",
+    "source": "planetapodshipnik.ru, podshipnik.info"
+  },
+  {
+    "gost": "6201",
+    "iso": "6201",
+    "d_mm": 12,
+    "D_mm": 32,
+    "B_mm": 10,
+    "type": "Радиальный шариковый однорядный",
+    "source": "planetapodshipnik.ru, podshipnik.info"
+  },
+  {
+    "gost": "6202",
+    "iso": "6202",
+    "d_mm": 15,
+    "D_mm": 35,
+    "B_mm": 11,
+    "type": "Радиальный шариковый однорядный",
+    "source": "planetapodshipnik.ru, podshipnik.info"
+  },
+  {
+    "gost": "6203",
+    "iso": "6203",
+    "d_mm": 17,
+    "D_mm": 40,
+    "B_mm": 12,
+    "type": "Радиальный шариковый однорядный",
+    "source": "planetapodshipnik.ru, podshipnik.info"
+  },
+  {
+    "gost": "6204",
+    "iso": "6204",
+    "d_mm": 20,
+    "D_mm": 47,
+    "B_mm": 14,
+    "type": "Радиальный шариковый однорядный",
+    "source": "planetapodshipnik.ru, podshipnik.info"
+  },
+  {
+    "gost": "6205",
+    "iso": "6205",
+    "d_mm": 25,
+    "D_mm": 52,
+    "B_mm": 15,
+    "type": "Радиальный шариковый однорядный",
+    "source": "planetapodshipnik.ru, podshipnik.info"
+  },
+  {
+    "gost": "6206",
+    "iso": "6206",
+    "d_mm": 30,
+    "D_mm": 62,
+    "B_mm": 16,
+    "type": "Радиальный шариковый однорядный",
+    "source": "planetapodshipnik.ru, podshipnik.info"
+  },
+  {
+    "gost": "205",
+    "iso": "6205",
+    "d_mm": 25,
+    "D_mm": 52,
+    "B_mm": 15,
+    "type": "Радиальный шариковый однорядный",
+    "note": "Краткое обозначение ГОСТ",
+    "source": "planetapodshipnik.ru"
+  },
+  {
+    "gost": "305",
+    "iso": "6305",
+    "d_mm": 25,
+    "D_mm": 62,
+    "B_mm": 17,
+    "type": "Радиальный шариковый однорядный",
+    "note": "Краткое обозначение ГОСТ",
+    "source": "planetapodshipnik.ru"
+  },
+  {
+    "gost": "2204",
+    "iso": "NU 204",
+    "d_mm": 20,
+    "D_mm": 47,
+    "B_mm": 14,
+    "type": "Роликовый цилиндрический",
+    "source": "planetapodshipnik.ru, podshipnik.info"
+  },
+  {
+    "gost": "2205",
+    "iso": "NU 205",
+    "d_mm": 25,
+    "D_mm": 52,
+    "B_mm": 15,
+    "type": "Роликовый цилиндрический",
+    "source": "planetapodshipnik.ru, podshipnik.info"
+  },
+  {
+    "gost": "2206",
+    "iso": "NU 206",
+    "d_mm": 30,
+    "D_mm": 62,
+    "B_mm": 16,
+    "type": "Роликовый цилиндрический",
+    "source": "planetapodshipnik.ru, podshipnik.info"
+  },
+  {
+    "gost": "7204",
+    "iso": "30204",
+    "d_mm": 20,
+    "D_mm": 47,
+    "B_mm": 15.25,
+    "type": "Роликовый конический",
+    "source": "planetapodshipnik.ru, Timken"
+  },
+  {
+    "gost": "7205",
+    "iso": "30205",
+    "d_mm": 25,
+    "D_mm": 52,
+    "B_mm": 16.25,
+    "type": "Роликовый конический",
+    "source": "planetapodshipnik.ru, Timken"
+  },
+  {
+    "gost": "7206",
+    "iso": "30206",
+    "d_mm": 30,
+    "D_mm": 62,
+    "B_mm": 17.25,
+    "type": "Роликовый конический",
+    "source": "planetapodshipnik.ru, Timken"
+  },
+  {
+    "gost": "7304",
+    "iso": "30304",
+    "d_mm": 20,
+    "D_mm": 52,
+    "B_mm": 16.25,
+    "type": "Роликовый конический",
+    "source": "planetapodshipnik.ru, Timken"
+  },
+  {
+    "gost": "7305",
+    "iso": "30305",
+    "d_mm": 25,
+    "D_mm": 62,
+    "B_mm": 18.25,
+    "type": "Роликовый конический",
+    "source": "planetapodshipnik.ru, Timken"
+  },
+  {
+    "gost": "3205",
+    "iso": "22205",
+    "d_mm": 25,
+    "D_mm": 52,
+    "B_mm": 18,
+    "type": "Роликовый сферический двухрядный",
+    "source": "planetapodshipnik.ru, podshipnik.info"
+  },
+  {
+    "gost": "3206",
+    "iso": "22206",
+    "d_mm": 30,
+    "D_mm": 62,
+    "B_mm": 20,
+    "type": "Роликовый сферический двухрядный",
+    "source": "planetapodshipnik.ru, podshipnik.info"
+  },
+  {
+    "gost": "8104",
+    "iso": "51104",
+    "d_mm": 20,
+    "D_mm": 35,
+    "B_mm": 10,
+    "type": "Упорный шариковый",
+    "source": "planetapodshipnik.ru, podshipnik.info"
+  },
+  {
+    "gost": "8105",
+    "iso": "51105",
+    "d_mm": 25,
+    "D_mm": 42,
+    "B_mm": 11,
+    "type": "Упорный шариковый",
+    "source": "planetapodshipnik.ru, podshipnik.info"
+  },
+  {
+    "gost": "8204",
+    "iso": "51204",
+    "d_mm": 20,
+    "D_mm": 40,
+    "B_mm": 14,
+    "type": "Упорный шариковый увеличенный",
+    "source": "planetapodshipnik.ru, podshipnik.info"
+  },
+  {
+    "gost": "8205",
+    "iso": "51205",
+    "d_mm": 25,
+    "D_mm": 47,
+    "B_mm": 15,
+    "type": "Упорный шариковый увеличенный",
+    "source": "planetapodshipnik.ru, podshipnik.info"
+  }
+]

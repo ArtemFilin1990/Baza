@@ -58,26 +58,36 @@
 - [ISO стандарты (iso.org)](https://www.iso.org/standards.html)
 - [Bearing Designation System Guide (medias.schaeffler.com)](https://medias.schaeffler.com/)
 
-### Онлайн базы данных и каталоги подшипников
-
-**Подробный список онлайн-ресурсов смотрите в:** [online_databases.md](online_databases.md)
+### Онлайн базы данных подшипников (использованы для наполнения репозитория)
 
 **Справочные каталоги с размерными таблицами:**
 - [podshipnik.info](https://podshipnik.info/catalog/katalog-podshipnikov-gost) — каталог подшипников ГОСТ
 - [irbis.ua](https://www.irbis.ua/ru/production/podshipniki-optom/razmery-podshipnikov) — таблица размеров (2600+ типоразмеров)
-- [kugellager-express.de](https://www.kugellager-express.de/Online-catalogue-of-roller-bearings) — международный каталог роликовых и шариковых подшипников
-- [2rs.com.ua](https://2rs.com.ua/ru/select-bearings/) — подбор подшипника по размерам d/D/B
-- [podshipnikon.ru](https://podshipnikon.ru/razmeri-podshipnikov) — таблицы размеров шариковых подшипников
+- [kugellager-express.de](https://www.kugellager-express.de/Online-catalogue-of-roller-bearings) — международный каталог
+- [2rs.com.ua](https://2rs.com.ua/ru/select-bearings/) — подбор по размерам d/D/B
+- [podshipnikon.ru](https://podshipnikon.ru/razmeri-podshipnikov) — таблицы размеров
 
 **Таблицы соответствий ISO ↔ ГОСТ:**
 - [planetapodshipnik.ru](https://planetapodshipnik.ru/news/post/tablica-markirovki-podshipnikov-iso-i-gost) — таблица маркировки ISO и ГОСТ
 
 **Официальные каталоги производителей:**
-- [SKF Rolling Bearings PDF](https://www.skf.com/binaries/pub12/Images/0901d196802809de-Rolling-bearings---17000_1-EN_tcm_12-121486.pdf) — официальный каталог SKF
-- [NTN Bearing Finder](https://bearingfinder.ntnamericas.com/) — интерактивный каталог с CAD моделями
-- [NSK Global](https://www.nsk.com/) — официальный сайт NSK
-- [Timken Tapered Roller Bearing Catalog](https://www.timken.com/wp-content/uploads/2016/10/Timken-Tapered-Roller-Bearing-Catalog.pdf) — каталог конических подшипников
-- [Sacom.lt Bearings Catalogs](https://sacom.lt/bearings-catalogs) — коллекция PDF каталогов разных производителей
+- [SKF Rolling Bearings PDF](https://www.skf.com/binaries/pub12/Images/0901d196802809de-Rolling-bearings---17000_1-EN_tcm_12-121486.pdf)
+- [NTN Bearing Finder](https://bearingfinder.ntnamericas.com/) — интерактивный каталог с CAD
+- [NSK Global](https://www.nsk.com/)
+- [Timken Tapered Roller Bearing Catalog](https://www.timken.com/wp-content/uploads/2016/10/Timken-Tapered-Roller-Bearing-Catalog.pdf)
+- [Sacom.lt Bearings Catalogs](https://sacom.lt/bearings-catalogs) — коллекция PDF каталогов
+
+## Структурированные данные в репозитории
+
+На основе вышеперечисленных источников в репозитории созданы следующие файлы с данными:
+
+### JSON файлы с техническими характеристиками
+- **bearing_dimensions_6000_series.json** - серия 6000 (11 подшипников) - источники: SKF, NSK, podshipnik.info
+- **bearing_dimensions_6200_series.json** - серия 6200 (13 подшипников) - источники: SKF, NSK, IRBIS
+- **gost_iso_correspondence.json** - соответствия ГОСТ ↔ ISO (26 записей) - источники: planetapodshipnik.ru, podshipnik.info, Timken
+- **aprom_brands.json** - база брендов производителей - источник: aprom.by
+
+Подробное описание структуры данных см. в [README.md](README.md)
 
 ---
 
