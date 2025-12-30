@@ -1,4 +1,4 @@
-# SKF Explorer
+# 1.5.6 Подшипники SKF Explorer
 
 ## Цель
 TODO
