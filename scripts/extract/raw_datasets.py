@@ -23,7 +23,7 @@ RAW_DATASETS: Dict[str, DatasetSpec] = {
         "sort_by": ["gost", "iso", "brand"],
         "rows": [
             {
-                "source": "Аналоги/ГОСТ_ISО.md".replace("ISО", "ISO"),
+                "source": "Аналоги/ГОСТ_ISO.md",
                 "gost": "2205",
                 "iso": "NU 205",
                 "brand": "",
