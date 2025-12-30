@@ -52,13 +52,16 @@ def load_schemas(schema_dir: Path) -> List[TableSchema]:
 
 def _coerce(value: str, expected_type: str) -> Tuple[bool, str]:
     caster = TYPE_CASTERS.get(expected_type, str)
-    if value == "" and expected_type == "string":
-        return True, value
+    if not value:
+        if expected_type == "string":
+            return True, value
+        return False, value  # Invalid empty value for number
+
     try:
-        coerced = caster(value) if value != "" else caster("0") if expected_type == "number" else caster(value)
-    except Exception:
+        coerced = caster(value)
+    except (ValueError, TypeError):
         return False, value
-    return True, str(coerced) if expected_type == "number" else str(coerced)
+    return True, str(coerced)
 
 
 def _sort_key(row: Dict[str, str], schema: TableSchema) -> Tuple:
