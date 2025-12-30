@@ -320,6 +320,9 @@ XXXXXX YY ZZ
    ```bash
    pip install -r requirements.txt
    ```
+   
+   > **Примечание:** Скрипты обработки данных используют только стандартную библиотеку Python. 
+   > В requirements.txt указан только pytest для запуска тестов.
 
 3. Начните работу с главного справочника:
    - [📖 Справочник подбора подшипников](docs/bearings/selection_guide.md)
@@ -494,7 +497,9 @@ Baza/
 │   │   ├── brands/                              # Производители
 │   │   │   ├── international_brands.md          # Классификация брендов
 │   │   │   ├── supplier_directory.md            # Каталог брендов и поставщиков
-│   │   │   └── skf_overview.md                  # Обзор SKF
+│   │   │   ├── aprom_brands.md                  # Бренды с aprom.by
+│   │   │   ├── skf_overview.md                  # Обзор SKF
+│   │   │   └── skf_designation_system.md        # Система обозначений SKF
 │   │   ├── standards/                           # Стандарты
 │   │   │   └── gost_standards.md                # Стандарты ГОСТ
 │   │   ├── classification/                      # Классификация подшипников
@@ -536,7 +541,11 @@ Baza/
 │   ├── test_suffixes.py                         # Тесты суффиксов
 │   └── test_aprom_scraper.py                    # Тесты скрейпера
 │
-└── schemas/                                     # Схемы данных
+└── schemas/                                     # 📋 Схемы данных (YAML)
+    ├── gost.yaml                                # Схема данных ГОСТ
+    ├── iso.yaml                                 # Схема данных ISO
+    ├── analogs.yaml                             # Схема таблиц аналогов
+    └── brands.yaml                              # Схема данных брендов
 ```
 
 ## Вклад в проект
