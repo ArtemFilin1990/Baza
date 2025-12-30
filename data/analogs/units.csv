@@ -1,0 +1,26 @@
+source,gost,iso,brand,notes
+docs/bearings/analogues/bearing_units.md,AELF,ENF,NSK,Самоцентрирующийся вариант; подходит для валов с перекосом.
+docs/bearings/analogues/bearing_units.md,AELF,FG16200,FAG,Каталожный аналог FAG; сохранены габариты крепления.
+docs/bearings/analogues/bearing_units.md,AELF,FYJ-FM / FY-CB,SKF,Фланцевый узел; требуется проверка посадочных размеров корпуса.
+docs/bearings/analogues/bearing_units.md,AELF,KHF,ASAHI,Корпусный узел с эксцентриковой втулкой; соответствует коду NTN.
+docs/bearings/analogues/bearing_units.md,AELF,PCF/PCJ,INA,Прямой аналог для фланцевых узлов; проверьте способ фиксации.
+docs/bearings/analogues/bearing_units.md,AELF,SAFC,FYH,Совместимый корпусный узел; уточнить смазочные отверстия.
+docs/bearings/analogues/bearing_units.md,AELF,SF-EC,RHP,Исполнение с эксцентриковой втулкой; проверить допуски отверстий.
+docs/bearings/analogues/bearing_units.md,AELF,VCJ,FAFNIR,Эквивалент для корпусных узлов с эксцентрическим кольцом.
+docs/bearings/analogues/bearing_units.md,AELF,VFE,SEAL,"Аналогичный узел, требует сверки материала корпуса."
+docs/bearings/analogues/bearing_units.md,AELFD,ALF,FYH,Фланцевый корпус FYH; уточнить тип стопорного кольца.
+docs/bearings/analogues/bearing_units.md,AELFD,ENFD,NSK,Исполнение с эксцентриковой втулкой; совместимо с NTN AELFD.
+docs/bearings/analogues/bearing_units.md,AELFD,FGF16200,FAG,Фланцевый корпус FAG; смазочные каналы уточняются по каталогу.
+docs/bearings/analogues/bearing_units.md,AELFD,FLCT,FAFNIR,Каталожный аналог под фланцевый монтаж; проверить отверстия.
+docs/bearings/analogues/bearing_units.md,AELFD,FLCTE,INA,Фланцевый узел INA; совпадают габариты и схема крепления.
+docs/bearings/analogues/bearing_units.md,AELFD,FYTF-CA,SKF,Фланцевый корпус; уточните тип подшипника в комплекте.
+docs/bearings/analogues/bearing_units.md,AELFD,KHCTE,ASAHI,Исполнение с эксцентриком; подходит для тех же валов.
+docs/bearings/analogues/bearing_units.md,AELFD,LFT,SEAL,Аналогичный фланцевый корпус; проверить уплотнения.
+docs/bearings/analogues/bearing_units.md,AELFD,LFTC-EC,RHP,Каталожный аналог RHP; просверленные отверстия совпадают.
+docs/bearings/analogues/bearing_units.md,UCFL,*FC2-25/UCFL*,ASAHI,Рекомендованный аналог; требуется проверка материала корпуса.
+docs/bearings/analogues/bearing_units.md,UCFL,FL56205,FAG,Каталожный аналог FAG; совпадают посадочные размеры.
+docs/bearings/analogues/bearing_units.md,UCFL,FYTB-TF / FYTJ-TF,SKF,Двух- и трёхболтовые фланцы; проверить шаг отверстий.
+docs/bearings/analogues/bearing_units.md,UCFL,RCJTC,FAFNIR,Фланцевый корпус; требуется сверка размеров болтов.
+docs/bearings/analogues/bearing_units.md,UCFL,RCJTY,INA,Каталожный аналог INA; одинаковая схема крепления.
+docs/bearings/analogues/bearing_units.md,UCFL,SFT,SEAL;RHP,Фланцевый корпус с аналогичными размерами; проверить обработку отверстий.
+docs/bearings/analogues/bearing_units.md,UCFL,UCFL,FYH;NSK,Стандартный фланцевый корпус; совместим с кодом NTN UCFL.

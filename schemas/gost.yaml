@@ -1,0 +1,53 @@
+{
+  "tables": [
+    {
+      "name": "gost_bearings",
+      "path": "data/gost/bearings.csv",
+      "columns": {
+        "designation": "string",
+        "type": "string",
+        "description": "string",
+        "source": "string"
+      },
+      "unique": ["designation"],
+      "sort_by": ["designation"]
+    },
+    {
+      "name": "gost_dimensions",
+      "path": "data/gost/dimensions.csv",
+      "columns": {
+        "designation": "string",
+        "d": "number",
+        "D": "number",
+        "B": "number",
+        "source": "string"
+      },
+      "unique": ["designation", "d", "D", "B"],
+      "sort_by": ["designation", "d", "D"]
+    },
+    {
+      "name": "gost_series",
+      "path": "data/gost/series.csv",
+      "columns": {
+        "designation": "string",
+        "width_series": "string",
+        "diameter_series": "string",
+        "type": "string",
+        "source": "string"
+      },
+      "unique": ["designation"],
+      "sort_by": ["designation"]
+    },
+    {
+      "name": "gost_tolerances",
+      "path": "data/gost/tolerances.csv",
+      "columns": {
+        "class": "string",
+        "description": "string",
+        "source": "string"
+      },
+      "unique": ["class"],
+      "sort_by": ["class"]
+    }
+  ]
+}

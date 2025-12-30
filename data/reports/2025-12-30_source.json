@@ -1,0 +1,37 @@
+{
+  "source_name": "normalized_catalog",
+  "timestamp": "2025-12-30T02:33:32+00:00",
+  "input_files": [
+    "ISO/префиксы.md",
+    "ISO/система_обозначений.md",
+    "ISO/суффиксы.md",
+    "docs/bearings/analogues/bearing_units.md",
+    "docs/bearings/analogues/complete_analogues_table.md",
+    "Аналоги/ГОСТ_ISO.md",
+    "Бренды/бюджет.md",
+    "Бренды/премиум.md",
+    "Бренды/средний_класс.md",
+    "ГОСТ/README.md",
+    "Таблицы/размеры.md",
+    "Таблицы/суффиксы_производителей.md"
+  ],
+  "output_files": [
+    "data/analogs/gost_iso.csv",
+    "data/analogs/housings.csv",
+    "data/analogs/units.csv",
+    "data/brands/brands.csv",
+    "data/gost/bearings.csv",
+    "data/gost/dimensions.csv",
+    "data/gost/series.csv",
+    "data/gost/tolerances.csv",
+    "data/iso/bearings.csv",
+    "data/iso/dimensions.csv",
+    "data/iso/prefixes.csv",
+    "data/iso/suffixes.csv"
+  ],
+  "rows_total": 126,
+  "rows_added": 126,
+  "rows_deduped": 0,
+  "rows_removed": 0,
+  "errors": []
+}

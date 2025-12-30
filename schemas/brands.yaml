@@ -1,0 +1,18 @@
+{
+  "tables": [
+    {
+      "name": "brands",
+      "path": "data/brands/brands.csv",
+      "columns": {
+        "brand": "string",
+        "country": "string",
+        "segment": "string",
+        "categories": "string",
+        "notes": "string",
+        "source": "string"
+      },
+      "unique": ["brand"],
+      "sort_by": ["brand"]
+    }
+  ]
+}

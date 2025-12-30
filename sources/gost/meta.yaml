@@ -1,0 +1,61 @@
+sources:
+  - file: GOST-13218.1_80-сжатый-сжатый.pdf
+    purpose: standard
+    status: unverified
+  - file: GOST-13218.1_80.pdf
+    purpose: standard
+    status: unverified
+  - file: GOST-7872_89-сжатый-сжатый.pdf
+    purpose: standard
+    status: unverified
+  - file: GOST-7872_89.pdf
+    purpose: standard
+    status: unverified
+  - file: GOST-8328_75-сжатый-сжатый.pdf
+    purpose: standard
+    status: unverified
+  - file: GOST-8328_75.pdf
+    purpose: standard
+    status: unverified
+  - file: GOST520_2011-сжатый-сжатый.pdf
+    purpose: standard
+    status: unverified
+  - file: GOST520_2011.pdf
+    purpose: standard
+    status: unverified
+  - file: GOST5721_2022-сжатый-сжатый.pdf
+    purpose: standard
+    status: unverified
+  - file: GOST5721_2022.pdf
+    purpose: standard
+    status: unverified
+  - file: GOST_10058_90-сжатый-сжатый.pdf
+    purpose: standard
+    status: unverified
+  - file: GOST_10058_90.pdf
+    purpose: standard
+    status: unverified
+  - file: GOST_18854_2013-сжатый-сжатый.pdf
+    purpose: standard
+    status: unverified
+  - file: GOST_18854_2013.pdf
+    purpose: standard
+    status: unverified
+  - file: GOST_18855_2013-сжатый-сжатый.pdf
+    purpose: standard
+    status: unverified
+  - file: GOST_18855_2013.pdf
+    purpose: standard
+    status: unverified
+  - file: GOST_7242.pdf
+    purpose: standard
+    status: unverified
+  - file: GOST_8338_75.pdf
+    purpose: standard
+    status: unverified
+  - file: GOST_8882_75.pdf
+    purpose: standard
+    status: unverified
+  - file: ПОДШИПНИКИ ГОСТ.docx
+    purpose: standard
+    status: unverified

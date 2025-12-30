@@ -1,0 +1,22 @@
+source,gost,iso,brand,notes
+Аналоги/ГОСТ_ISO.md,2205,22205,,Сферический роликовый шире базового цилиндрического: замена не рекомендуется без перерасчёта посадок.
+Аналоги/ГОСТ_ISO.md,2205,NU 205,,Цилиндрический роликовый аналог с совпадающими d/D/B; требуется контроль буртов и зазора.
+Аналоги/ГОСТ_ISO.md,3205,22205,,"Сферический роликовый двухрядный, выдерживает перекосы; применим при ударных нагрузках."
+Аналоги/ГОСТ_ISO.md,3306,22306,,"Сферический роликовый, совпадение габаритов; требует усиленной смазки."
+docs/bearings/analogues/complete_analogues_table.md,3632,22332EAW33,SNR,Размеры совпадают; усиленная конструкция и смазочная канавка.
+docs/bearings/analogues/complete_analogues_table.md,3634,22334EAW33,SNR,Габариты соответствуют серии; уточнить исполнение W33 при подборе корпуса.
+Аналоги/ГОСТ_ISO.md,3636,22336EA/W33,,Условная замена: требуется проверка D/B и наличия смазочных каналов.
+docs/bearings/analogues/complete_analogues_table.md,3636,22336EAW33,SNR,Размеры подтверждены в каталоге; смазочные отверстия обязательны.
+docs/bearings/analogues/complete_analogues_table.md,3636У1,22336EAW33,SNR,Исполнение У1 соответствует усиленному аналогу с W33.
+docs/bearings/analogues/complete_analogues_table.md,3640,22340EAW33,SNR,Сферический роликовый с усилением EA и смазочными каналами.
+docs/bearings/analogues/complete_analogues_table.md,3652,22352,SNR,Сферический роликовый тяжёлой серии; уточнить группу зазора перед заменой.
+docs/bearings/analogues/complete_analogues_table.md,3756205,3205,KOYO,Конический роликовый узел; требует настройки преднатяга.
+docs/bearings/analogues/complete_analogues_table.md,38204,52204,KOYO,Двухрядный упорный шариковый аналог по размерам.
+docs/bearings/analogues/complete_analogues_table.md,405,6405,KOYO;FAG;SNR;SKF,Допустима прямая замена при совпадении зазора и посадок.
+docs/bearings/analogues/complete_analogues_table.md,406,6406,SKF;KOYO;FAG;SNR,Стандартный шариковый аналог; проверить класс точности.
+docs/bearings/analogues/complete_analogues_table.md,407,6407,SKF;KOYO;FAG;SNR,Размеры совпадают; учитывать требования к смазке.
+docs/bearings/analogues/complete_analogues_table.md,408,6408,KOYO;SKF;FAG;SNR,Прямая замена по габаритам; проверить массу и скорость.
+docs/bearings/analogues/complete_analogues_table.md,409,6409,SKF;KOYO,Совпадают размеры и тип; уточнить зазор.
+Аналоги/ГОСТ_ISO.md,6205,6305,,"Неверная замена: увеличены D и B, требуется другой корпус."
+Аналоги/ГОСТ_ISO.md,7205,30205,,"Конический роликовый, размеры совпадают; обязательна регулировка преднатяга."
+Аналоги/ГОСТ_ISO.md,7505,32005,,Конический роликовый узкой серии; рассчитан на высокие скорости.
