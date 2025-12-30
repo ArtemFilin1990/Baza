@@ -1,0 +1,43 @@
+{
+  "tables": [
+    {
+      "name": "analogs_gost_iso",
+      "path": "data/analogs/gost_iso.csv",
+      "columns": {
+        "source": "string",
+        "gost": "string",
+        "iso": "string",
+        "brand": "string",
+        "notes": "string"
+      },
+      "unique": ["gost", "iso"],
+      "sort_by": ["gost", "iso", "brand"]
+    },
+    {
+      "name": "analogs_units",
+      "path": "data/analogs/units.csv",
+      "columns": {
+        "source": "string",
+        "gost": "string",
+        "iso": "string",
+        "brand": "string",
+        "notes": "string"
+      },
+      "unique": ["gost", "iso"],
+      "sort_by": ["gost", "iso", "brand"]
+    },
+    {
+      "name": "analogs_housings",
+      "path": "data/analogs/housings.csv",
+      "columns": {
+        "source": "string",
+        "gost": "string",
+        "iso": "string",
+        "brand": "string",
+        "notes": "string"
+      },
+      "unique": ["gost", "iso"],
+      "sort_by": ["gost", "iso", "brand"]
+    }
+  ]
+}

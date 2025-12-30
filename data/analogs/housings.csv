@@ -1,0 +1,10 @@
+source,gost,iso,brand,notes
+docs/bearings/analogues/bearing_units.md,AELP,PASE,INA,Фланцевый корпус; размеры совпадают по каталогу INA.
+docs/bearings/analogues/bearing_units.md,AELP,SAP,FYH,Самоцентрирующийся узел; уточните материалы корпуса.
+docs/bearings/analogues/bearing_units.md,AELP,SYJ-FM / SYP / SY-CB,SKF,Самоцентрирующийся блок с эксцентриковым кольцом; подобрать смазку под режим работы.
+docs/bearings/analogues/bearing_units.md,AELP,VAS,FAFNIR,Каталожный аналог для сельхозтехники; проверить тип уплотнения.
+docs/bearings/analogues/bearing_units.md,UCFC,FYC-TF / FYGF-TF,SKF,Круглый фланцевый корпус; подобрать под требуемый диаметр крепления.
+docs/bearings/analogues/bearing_units.md,UCFC,RMEY,INA,Сферический корпус INA; проверить совместимость втулки.
+docs/bearings/analogues/bearing_units.md,UELF,EWF,FYH,Эквивалентный корпус FYH; уточните смазочные отверстия.
+docs/bearings/analogues/bearing_units.md,UELF,FYJ-WM,SKF,Радиальный узел с эксцентриком; учитывать требуемый зазор подшипника.
+docs/bearings/analogues/bearing_units.md,UELF,RCJ,FAFNIR,Корпусный узел с эксцентриковым кольцом; совместим по габаритам.

@@ -17,8 +17,8 @@ Thumbs.db
 # Build artifacts
 *.pdf
 *.docx
-!sources/*.pdf
-!sources/catalogs/*.pdf
+!sources/**/*.pdf
+!sources/**/*.docx
 
 # Node (if using MkDocs/Jekyll)
 node_modules/

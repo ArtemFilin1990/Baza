@@ -1,0 +1,56 @@
+{
+  "tables": [
+    {
+      "name": "iso_bearings",
+      "path": "data/iso/bearings.csv",
+      "columns": {
+        "designation": "string",
+        "type": "string",
+        "description": "string",
+        "source": "string"
+      },
+      "unique": ["designation"],
+      "sort_by": ["designation"]
+    },
+    {
+      "name": "iso_dimensions",
+      "path": "data/iso/dimensions.csv",
+      "columns": {
+        "designation": "string",
+        "d": "number",
+        "D": "number",
+        "B": "number",
+        "source": "string"
+      },
+      "unique": ["designation", "d", "D", "B"],
+      "sort_by": ["designation", "d", "D"]
+    },
+    {
+      "name": "iso_prefixes",
+      "path": "data/iso/prefixes.csv",
+      "columns": {
+        "code": "string",
+        "category": "string",
+        "description": "string",
+        "source": "string"
+      },
+      "unique": ["code"],
+      "sort_by": ["code"]
+    },
+    {
+      "name": "iso_suffixes",
+      "path": "data/iso/suffixes.csv",
+      "columns": {
+        "code": "string",
+        "manufacturer": "string",
+        "type": "string",
+        "description": "string",
+        "snr_equivalent": "string",
+        "notes": "string",
+        "source": "string"
+      },
+      "unique": ["code", "manufacturer"],
+      "sort_by": ["code", "manufacturer"]
+    }
+  ]
+}
