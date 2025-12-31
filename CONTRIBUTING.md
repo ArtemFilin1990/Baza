@@ -198,9 +198,204 @@ find . -name "*.json" -exec python -m json.tool {} \; > /dev/null
 
 См. `.github/workflows/ci.yml` для полного списка проверок.
 
+## Работа с Git
+
+### Рабочий процесс (Git Workflow)
+
+1. **Синхронизация с основной веткой**
+   ```bash
+   git checkout main
+   git pull origin main
+   ```
+
+2. **Создание новой ветки**
+   ```bash
+   git checkout -b feature/add-bearing-data
+   ```
+   Используйте префиксы:
+   - `feature/` - новая функциональность
+   - `fix/` - исправление ошибок
+   - `docs/` - изменения в документации
+   - `data/` - обновление данных
+
+3. **Внесение изменений**
+   ```bash
+   # Редактируйте файлы
+   # Проверьте изменения
+   git status
+   git diff
+   ```
+
+4. **Валидация перед коммитом**
+   ```bash
+   # Запустите валидацию данных
+   python scripts/validate/run_validations.py
+   
+   # Запустите тесты
+   pytest tests/
+   ```
+
+5. **Коммит изменений**
+   ```bash
+   git add data/gost/bearings.csv
+   git commit -m "Add bearing 6205 specification from GOST 3478-2012"
+   ```
+
+6. **Отправка в удалённый репозиторий**
+   ```bash
+   git push origin feature/add-bearing-data
+   ```
+
+7. **Создание Pull Request**
+   - Перейдите на GitHub
+   - Нажмите "New Pull Request"
+   - Выберите вашу ветку
+   - Заполните описание:
+     - Что изменено
+     - Зачем это нужно
+     - Источники данных
+     - Результаты тестирования
+
+### Советы по работе с Git
+
+- **Частые коммиты**: делайте коммиты небольшими и логически связанными
+- **Описательные сообщения**: пишите понятные commit messages
+- **Проверка перед push**: всегда проверяйте изменения локально
+- **Синхронизация**: регулярно синхронизируйтесь с main
+- **Конфликты**: при конфликтах слияния - разрешайте их аккуратно
+
+### Пример полного цикла
+
+```bash
+# 1. Подготовка
+git checkout main
+git pull origin main
+git checkout -b data/update-iso-suffixes
+
+# 2. Изменения
+# Редактируем data/iso/suffixes.csv
+# Добавляем источник в sources/iso/
+
+# 3. Проверка
+python scripts/validate/run_validations.py
+pytest tests/test_suffixes.py
+
+# 4. Коммит
+git add data/iso/suffixes.csv sources/iso/meta.yaml
+git commit -m "Update ISO suffixes from ISO 15:2017
+
+- Added 15 new suffix codes
+- Updated descriptions for existing codes
+- Source: ISO 15:2017 catalogue"
+
+# 5. Отправка
+git push origin data/update-iso-suffixes
+
+# 6. Создание PR на GitHub
+```
+
+## CI/CD и автоматические проверки
+
+### GitHub Actions
+
+При создании Pull Request автоматически запускаются проверки:
+
+1. **Синтаксис Python** - проверка всех .py файлов
+2. **Валидация JSON** - проверка всех .json файлов
+3. **Валидация CSV** - проверка структуры и соответствия схемам
+4. **Тесты** - запуск всех unit и integration тестов
+5. **Нормализация данных** - проверка сортировки и форматирования
+
+### Статусы проверок
+
+- ✅ **Passed** - все проверки прошли успешно, PR готов к ревью
+- ❌ **Failed** - есть ошибки, требуется исправление
+- ⏳ **Running** - проверки выполняются
+
+### Как исправить failing CI
+
+Если CI упал:
+
+1. **Посмотрите логи**
+   - Откройте вкладку "Actions" в PR
+   - Найдите упавшую проверку
+   - Изучите сообщение об ошибке
+
+2. **Исправьте локально**
+   ```bash
+   # Воспроизведите ошибку
+   python scripts/validate/run_validations.py
+   
+   # Исправьте
+   # ...
+   
+   # Проверьте
+   pytest tests/
+   ```
+
+3. **Запушьте исправление**
+   ```bash
+   git add .
+   git commit -m "Fix CSV validation errors"
+   git push origin feature/your-branch
+   ```
+
+CI автоматически перезапустится с новыми изменениями.
+
+### Локальная эмуляция CI
+
+Чтобы проверить все до push:
+
+```bash
+# Создайте скрипт local_ci.sh
+#!/bin/bash
+set -e
+
+echo "Running Python syntax checks..."
+find . -name "*.py" -exec python -m py_compile {} \;
+
+echo "Running JSON validation..."
+find . -name "*.json" -exec python -m json.tool {} \; > /dev/null
+
+echo "Running CSV validation..."
+python scripts/validate/run_validations.py
+
+echo "Running tests..."
+pytest tests/ -v
+
+echo "All checks passed!"
+```
+
+Запуск:
+```bash
+chmod +x local_ci.sh
+./local_ci.sh
+```
+
 ## Вопросы
 
 Создать [Issue](../../issues) с тегом `question`.
+
+### Контакты
+
+- **GitHub Issues**: [создать вопрос](../../issues) - основной способ связи
+- **Pull Requests**: для предложений по улучшению
+- **Email**: support@example.com (для срочных вопросов)
+
+### Процесс ревью Pull Requests
+
+1. **Автоматические проверки** - CI должен пройти успешно
+2. **Ревью кода** - проверка логики и стиля
+3. **Проверка данных** - валидация источников и корректности
+4. **Обсуждение** - комментарии и предложения
+5. **Одобрение** - минимум 1 approving review
+6. **Мердж** - объединение с main веткой
+
+### Ожидаемое время ревью
+
+- Простые изменения (опечатки, форматирование): 1-2 дня
+- Добавление данных: 3-5 дней
+- Новая функциональность: 5-10 дней
 
 ---
 

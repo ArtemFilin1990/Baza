@@ -1,0 +1,33 @@
+{
+  "tables": [
+    {
+      "name": "brand_descriptions",
+      "path": "data/brands.csv",
+      "description": "Detailed brand descriptions and information",
+      "columns": {
+        "Name": {
+          "type": "string",
+          "required": true,
+          "description": "Brand or manufacturer name"
+        },
+        "Description": {
+          "type": "string",
+          "required": false,
+          "description": "Detailed description and history of the brand"
+        },
+        "Logo URL": {
+          "type": "string",
+          "required": false,
+          "description": "URL to brand logo image"
+        },
+        "Search URL": {
+          "type": "string",
+          "required": false,
+          "description": "URL for searching brand products"
+        }
+      },
+      "uniqueKey": ["Name"],
+      "sort_by": ["Name"]
+    }
+  ]
+}

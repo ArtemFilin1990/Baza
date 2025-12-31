@@ -1,0 +1,43 @@
+{
+  "tables": [
+    {
+      "name": "nomenclature",
+      "path": "data/nomenclature.csv",
+      "description": "Product nomenclature with brand-specific and analog designations",
+      "columns": {
+        "Brand": {
+          "type": "string",
+          "required": true,
+          "description": "Brand or manufacturer name"
+        },
+        "Product Name": {
+          "type": "string",
+          "required": true,
+          "description": "Brand-specific product designation"
+        },
+        "Product Link": {
+          "type": "string",
+          "required": false,
+          "description": "URL to product on aprom.by or other catalog"
+        },
+        "Analog Name": {
+          "type": "string",
+          "required": false,
+          "description": "Standard analog designation (GOST/ISO)"
+        },
+        "Analog Link": {
+          "type": "string",
+          "required": false,
+          "description": "URL to analog product on aprom.by or other catalog"
+        },
+        "Factory": {
+          "type": "string",
+          "required": true,
+          "description": "Manufacturing factory name"
+        }
+      },
+      "uniqueKey": ["Brand", "Product Name"],
+      "sort_by": ["Brand", "Product Name"]
+    }
+  ]
+}

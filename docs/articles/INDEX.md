@@ -12,8 +12,17 @@
 
 | Цель | Куда идти |
 |------|-----------|
+<<<<<<< HEAD
 | **Найти аналог ГОСТ → ISO** | → [Аналоги ГОСТ → ISO](bearings/1_2_standards_and_codes/1_2_3_analogs_gost_to_iso.md) |
 | **Изучить производителей** | → [Бренды и производители](#15-бренды-и-производители) |
+=======
+| **Выбрать подшипник для оборудования** | → [Как выбрать подшипник](bearings/1_3_general_information/1_3_4_how_to_choose_bearing.md) |
+| **Расшифровать обозначение ГОСТ** | → [Система обозначений ГОСТ](bearings/1_1_designations_gost_iso_etu/1_1_1_gost_designation_system.md) |
+| **Найти аналог ГОСТ → ISO** | → [Аналоги ГОСТ → ISO](bearings/1_2_standards_and_codes/1_2_3_analogs_gost_to_iso.md) |
+| **Изучить производителей** | → [Бренды и производители](#15-бренды-и-производители) |
+| **Понять классификацию** | → [Классификация подшипников](bearings/1_3_general_information/1_3_5_classification.md) |
+| **Узнать о монтаже и эксплуатации** | → [Монтаж подшипников](bearings/1_3_general_information/1_3_18_installation.md) |
+>>>>>>> copilot/improve-root-files-structure
 | **Подобрать приводной ремень** | → [Приводные ремни](#5-приводные-ремни) |
 | **Найти сальник по размеру** | → [Подбор сальника](6_seals_and_cuffs/6_2_seal_selection_by_size.md) |
 
@@ -40,13 +49,29 @@
 Следующие статьи уже заполнены подробным техническим контентом с примерами, таблицами и ссылками на данные:
 
 #### Системы обозначений и стандарты
+<<<<<<< HEAD
+=======
+- ✅ [1.1.1 Система условных обозначений подшипников (ГОСТ)](bearings/1_1_designations_gost_iso_etu/1_1_1_gost_designation_system.md)
+>>>>>>> copilot/improve-root-files-structure
 - ✅ [1.1.3 Радиальные зазоры в подшипниках качения](bearings/1_1_designations_gost_iso_etu/1_1_3_radial_clearances.md)
 - ✅ [1.2.1 ГОСТ. Подшипники. Стандарты](bearings/1_2_standards_and_codes/1_2_1_gost_standards.md)
 - ✅ [1.2.3 Аналоги подшипников ГОСТ → ISO](bearings/1_2_standards_and_codes/1_2_3_analogs_gost_to_iso.md)
 
 #### Практические руководства
+<<<<<<< HEAD
 
 #### Производители и специальные типы
+=======
+- ✅ [1.3.2 Из чего состоит подшипник](bearings/1_3_general_information/1_3_2_bearing_components.md)
+- ✅ [1.3.3 Как делают подшипники](bearings/1_3_general_information/1_3_3_how_bearings_are_made.md)
+- ✅ [1.3.4 Как выбрать подшипник](bearings/1_3_general_information/1_3_4_how_to_choose_bearing.md)
+- ✅ [1.3.5 Классификация подшипников](bearings/1_3_general_information/1_3_5_classification.md)
+
+#### Производители и специальные типы
+- ✅ [1.5.5 Обозначения подшипников SKF](bearings/1_5_brands_and_manufacturers/1_5_5_skf_designations.md)
+- ✅ [1.4.8 Подшипниковые узлы и корпусные подшипники (UCF, UCFL, UCP и др.)](bearings/1_4_types_and_modifications/1_4_8_housed_units_ucf_ucp.md)
+- ✅ [1.7.1 Втулки скольжения](bearings/1_7_plain_bushings/1_7_1_plain_bushings.md)
+>>>>>>> copilot/improve-root-files-structure
 
 ---
 
@@ -85,6 +110,10 @@ docs/articles/
 
 ### 1.1. Обозначения ГОСТ, ISO, ЕТУ
 
+<<<<<<< HEAD
+=======
+- ✅ [1.1.1 Система условных обозначений подшипников (ГОСТ)](bearings/1_1_designations_gost_iso_etu/1_1_1_gost_designation_system.md)
+>>>>>>> copilot/improve-root-files-structure
 - [1.1.2 Класс точности подшипников (ГОСТ, ISO, ABEC)](bearings/1_1_designations_gost_iso_etu/1_1_2_accuracy_classes_gost_iso_abec.md)
 - ✅ [1.1.3 Радиальные зазоры в подшипниках качения](bearings/1_1_designations_gost_iso_etu/1_1_3_radial_clearances.md)
 - [1.1.4 Обозначение момента трения подшипников](bearings/1_1_designations_gost_iso_etu/1_1_4_friction_torque_designation.md)
@@ -101,12 +130,24 @@ docs/articles/
 - ✅ [1.2.1 ГОСТ. Подшипники. Стандарты](bearings/1_2_standards_and_codes/1_2_1_gost_standards.md)
 - [1.2.2 ISO. Стандарты подшипников](bearings/1_2_standards_and_codes/1_2_2_iso_standards.md)
 - ✅ [1.2.3 Аналоги подшипников ГОСТ → ISO](bearings/1_2_standards_and_codes/1_2_3_analogs_gost_to_iso.md)
+<<<<<<< HEAD
+=======
+- [1.2.4 Аналоги подшипников ISO → ГОСТ](bearings/1_2_standards_and_codes/1_2_4_analogs_iso_to_gost.md)
+- [1.2.5 Аналоги дополнительных знаков ГОСТ ↔ ISO](bearings/1_2_standards_and_codes/1_2_5_additional_marks_analogs.md)
+>>>>>>> copilot/improve-root-files-structure
 - [1.2.6 Условные обозначения по ЕТУ-100, ЕТУ-500 и ТУ](bearings/1_2_standards_and_codes/1_2_6_etu_100_500_tu.md)
 - [1.2.7 Коды ТН ВЭД на подшипники](bearings/1_2_standards_and_codes/1_2_7_tnved_codes.md)
 
 ### 1.3. Общая информация
 
 - [1.3.1 Модификации подшипников и взаимозаменяемость](bearings/1_3_general_information/1_3_1_modifications_and_interchangeability.md)
+<<<<<<< HEAD
+=======
+- ✅ [1.3.2 Из чего состоит подшипник](bearings/1_3_general_information/1_3_2_bearing_components.md)
+- ✅ [1.3.3 Как делают подшипники](bearings/1_3_general_information/1_3_3_how_bearings_are_made.md)
+- ✅ [1.3.4 Как выбрать подшипник](bearings/1_3_general_information/1_3_4_how_to_choose_bearing.md)
+- ✅ [1.3.5 Классификация подшипников](bearings/1_3_general_information/1_3_5_classification.md)
+>>>>>>> copilot/improve-root-files-structure
 - [1.3.6 Терминология конструкции подшипников](bearings/1_3_general_information/1_3_6_design_terminology.md)
 - [1.3.7 Основные термины и определения](bearings/1_3_general_information/1_3_7_terms_and_definitions.md)
 - [1.3.8 Нагрузки на подшипники](bearings/1_3_general_information/1_3_8_loads.md)
@@ -119,6 +160,10 @@ docs/articles/
 - [1.3.15 Подшипники в виброустойчивом исполнении](bearings/1_3_general_information/1_3_15_vibration_resistant.md)
 - [1.3.16 Миниатюрные подшипники](bearings/1_3_general_information/1_3_16_miniature.md)
 - [1.3.17 Высокотемпературные подшипники](bearings/1_3_general_information/1_3_17_high_temperature.md)
+<<<<<<< HEAD
+=======
+- [1.3.18 Монтаж подшипников](bearings/1_3_general_information/1_3_18_installation.md)
+>>>>>>> copilot/improve-root-files-structure
 - [1.3.19 Переконсервация](bearings/1_3_general_information/1_3_19_depreservation.md)
 - [1.3.20 Посадки подшипников](bearings/1_3_general_information/1_3_20_fits.md)
 - [1.3.21 Ревизия подшипников](bearings/1_3_general_information/1_3_21_inspection.md)
@@ -138,6 +183,10 @@ docs/articles/
 - [1.4.5 Упорно-радиальные комбинированные (РИК, РИКБ и др.)](bearings/1_4_types_and_modifications/1_4_5_combined_thrust_radial_rik.md)
 - [1.4.6 Шарнирные головки и наконечники (таблицы аналогов)](bearings/1_4_types_and_modifications/1_4_6_rod_ends_cross_reference.md)
 - [1.4.7 Подшипники с валиком вместо внутреннего кольца](bearings/1_4_types_and_modifications/1_4_7_bearings_with_roller_instead_of_inner_ring.md)
+<<<<<<< HEAD
+=======
+- ✅ [1.4.8 Подшипниковые узлы и корпусные подшипники (UCF, UCFL, UCP и др.)](bearings/1_4_types_and_modifications/1_4_8_housed_units_ucf_ucp.md)
+>>>>>>> copilot/improve-root-files-structure
 - [1.4.9 Подшипники SKF Y-типа (YEL, YET, YAR, YAT, YSA, YSP)](bearings/1_4_types_and_modifications/1_4_9_skf_y_bearings.md)
 - [1.4.10 Крестовины карданного и рулевого вала](bearings/1_4_types_and_modifications/1_4_10_universal_joints.md)
 - [1.4.11 Гибридные подшипники](bearings/1_4_types_and_modifications/1_4_11_hybrid_bearings.md)
@@ -151,6 +200,10 @@ docs/articles/
 - [1.5.2 Каталоги производителей](bearings/1_5_brands_and_manufacturers/1_5_2_manufacturer_catalogs.md)
 - [1.5.3 Онлайн-каталоги производителей](bearings/1_5_brands_and_manufacturers/1_5_3_online_catalogs.md)
 - [1.5.4 Обозначения подшипников МПЗ](bearings/1_5_brands_and_manufacturers/1_5_4_mpz_designations.md)
+<<<<<<< HEAD
+=======
+- ✅ [1.5.5 Обозначения подшипников SKF](bearings/1_5_brands_and_manufacturers/1_5_5_skf_designations.md)
+>>>>>>> copilot/improve-root-files-structure
 - [1.5.6 Подшипники SKF Explorer](bearings/1_5_brands_and_manufacturers/1_5_6_skf_explorer.md)
 - [1.5.7 Обозначения подшипников FAG](bearings/1_5_brands_and_manufacturers/1_5_7_fag_designations.md)
 - [1.5.8 Обозначения подшипников NSK](bearings/1_5_brands_and_manufacturers/1_5_8_nsk_designations.md)
@@ -172,6 +225,10 @@ docs/articles/
 
 ### 1.7. Втулки и подшипники скольжения
 
+<<<<<<< HEAD
+=======
+- ✅ [1.7.1 Втулки скольжения](bearings/1_7_plain_bushings/1_7_1_plain_bushings.md)
+>>>>>>> copilot/improve-root-files-structure
 - [1.7.2 Подшипники скольжения](bearings/1_7_plain_bushings/1_7_2_plain_bearings.md)
 
 ### 1.8. Автомобильные подшипники
@@ -337,6 +394,10 @@ data/
 ### Для специалистов
 - [📘 Полное руководство ГОСТ](../bearings/gost_comprehensive_guide.md) - углубленное изучение
 - [💡 Практические примеры](../bearings/practical_examples.md) - реальные кейсы
+<<<<<<< HEAD
+=======
+- [🔧 Монтаж подшипников](bearings/1_3_general_information/1_3_18_installation.md) - правильная установка
+>>>>>>> copilot/improve-root-files-structure
 - [⚠️ Причины повреждений](bearings/1_3_general_information/1_3_23_damage_causes.md) - диагностика
 
 ### По отраслям применения
@@ -364,6 +425,11 @@ data/
 4. Проверьте данные: [`data/gost/bearings.csv`](../../data/gost/bearings.csv)
 
 #### Расшифровать маркировку
+<<<<<<< HEAD
+=======
+- **ГОСТ**: [Система обозначений ГОСТ](bearings/1_1_designations_gost_iso_etu/1_1_1_gost_designation_system.md)
+- **SKF**: [Обозначения SKF](bearings/1_5_brands_and_manufacturers/1_5_5_skf_designations.md)
+>>>>>>> copilot/improve-root-files-structure
 - **FAG**: [Обозначения FAG](bearings/1_5_brands_and_manufacturers/1_5_7_fag_designations.md)
 - **NSK**: [Обозначения NSK](bearings/1_5_brands_and_manufacturers/1_5_8_nsk_designations.md)
 
