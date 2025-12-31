@@ -1,0 +1,2030 @@
+# Каталог подшипников NMB.
+
+**Language:** английский о производителе ...
+
+**Size:** 4,5Mb
+
+**Source:** [PDF](https://aprom.by/catalog/catalog-nmb.pdf)
+
+---
+
+## Content
+
+
+
+-- 1 of 48 --
+
+2
+
+-- 2 of 48 --
+
+Contents
+3
+NMB Minebea - about ourselves 	4
+Part numbering system, Pelmec ball bearings 	6
+Part numbering system, M+I ball bearings 	7
+NMB ball bearings – dimensions
+Deep groove single row ball bearings (metric) 	8
+Flanged deep groove single row ball bearings (metric) 	14
+Deep groove single row ball bearings (imperial) 	18
+Flanged Deep groove single row ball bearings (imperial) 	20
+Deep groove single row ball bearings with snap ring 	21
+Information on applications
+Materials for rings and roller bodies 	22
+Bearing cover disc 	23
+Retainer 	24
+Measurement methods 	25
+Roller bearing tolerances 	26
+Corner radii 	29
+Bearing clearance 	30
+Lubrication 	31
+Service life - static loadability 	32
+Pre-stressing/ bearing adjustment 	33
+Preload 	34
+Fitting 	36
+Bearing deflection, yield 	37
+Vibration from Rotation 	40
+Installation tolerances 	41
+Handling ball bearings 	41
+Mechanical components 	42
+Engineering support 	44
+Sample copy of request form 	45
+Notes 	46
+
+-- 3 of 48 --
+
+NMB Minebea is the world’s leading manufacturer of minia-
+ture ball bearings. With over 45,000 employees in 70 locations,
+200 sales organisations and 40 manufacturing facilities,
+NMB Minebea is now a true multi-national concern.
+Founded in Tokyo in 1951, NMB (Nippon Miniature Bearings)
+started with the development and manufacture of miniature ball
+bearings. Over the following years, the product range was conti-
+nuously extended. In nine different countries, the concern now
+manufactures miniature ball bearings, ventilators and blowers
+(air-movers), computer keyboards, stepper and geared motors, hi-
+fi loudspeakers and disk drives and today is one of the biggest
+manufacturers of industrial components.
+The manufacturing process known as the ‘vertical integration
+manufacturing system’ has its essential feature in the fact that
+almost all individual parts for an NMB Minebea finished product
+are manufactured internally.
+The manufacturing depth on the one hand, and on the other the
+development and construction of assembly lines, machines, tools
+and devices for manufacturing processes together guarantee an
+optimum standard of quality for all our products.
+As a leading components manufacturer, today NMB Minebea is
+active globally – in Japan, Mexico, Brazil, Singapore, Taiwan,
+Thailand, the USA, China and in Europe.
+4
+About ourselves
+
+-- 4 of 48 --
+
+5
+The NMB Minebea ball bearings group offers technical support in
+Germany, in Langen (Hess) and Villingen. Thus the group is repre-
+sented in Central Europe and in close proximity to its customers.
+There are further technology centres in England, Japan, Singa-
+pore, Thailand and the USA.
+Our technology centres are equipped with all the usual equip-
+ment for examination of ball bearings, as well as for product and
+application analysis.
+In addition to the continuing further development of our ball
+bearing range, high-precision mechanical components (assemblies)
+are developed according to special customer requirements to the
+production stage and then put into series production.
+Manufacturing and inspection processes are being continually
+developed to improve our product standards even further. Raw
+materials and lubricant testing, noise-testing and measurement
+all belong to the day-to-day standards in our production. The
+level of vertical integration makes it possible for us to
+manufacture all of the components for miniature ball bearings,
+such as inner and outer rings, balls, retainer, covers and sealing
+discs in the widest possible variety. As raw material, we use a sel-
+ection of chrome steel and stainless steel. Similarly, various types
+of radial bearings and lubricants (grease and oils) are available
+for both normal and exceptional service and applications.
+Manufacturing is carried out either in accordance with JIS (ISO) or
+AFBMA standards (ABEC).
+Today, NMB Minebea provides a wide range of services. These
+extend from individual customer advice to planning and design
+specifications of ball bearings. Similarly, we offer services
+accompanying projects, ball bearing analysis and functional and
+endurance-testing.
+The high level of quality of our products is achieved through con-
+tinuous and permanent quality checking. NMB-Minebea-GmbH is
+ISO 9000 and ISO/TS 16949 as the remote location certificated.
+Our production facilities are ISO 9000, QS 9000, ISO/TS 16949 and
+ISO 14001 certificated.
+CFC-free and trichloroethylene-free manufacture was introduced
+in our factories in the early 1990s. In 1993, 1995 and 1997
+NMB Minebea was awarded the accolade ‘Best of the Best’ by
+the American Environmental Protection Agency on this account.
+We count amongst our customers market leading companies in
+the automotive industry, ventilator, blower, measuring device,
+domestic equipment and electric motor manufacturers.
+We are therefore not merely a reliable supplier, but also a
+partner on both a local and a global scale.
+
+-- 5 of 48 --
+
+*PELMEC: Precision ELectro MEChanic Bearings
+This numbering system is valid for the following part numbers:
+607, 608, 609, 626, 627, 629, 635, 6000, 6001
+6
+PELMEC* Parts numbering system
+608 MN ZZ M5 MT A5 LY121 H
+Size
+See Pages 8–21
+Retainer type
+MN 	Crown
+(fibreglass-
+reinforced
+Plastic)
+J 	Crown
+(Plastic)
+- 	Ribbon
+(steel)
+See Page 24
+Cover disk
+Z 	Steel shield
+(pressed in)
+D 	Rubber seal
+(contact)
+S 	Rubber seal
+(non-contact)
+See Page 23
+Radial bearing
+clearance
+M2 	3 	- 	8 μm
+M3 	5 	- 	10 μm
+M4 	8 	- 	13 μm
+M5 	13 	- 	20 μm
+See Page 29
+Lubricant content
+L 	10-15%
+T 	15-20%
+– 	25-35%
+H 	40-50%
+See Page 31
+Lubricants
+See Page 31
+Tolerance classes
+- 	ABEC 1P
+A5 	ABEC 5P
+See Pages 26–28
+Noise class
+MT 	E-motor quality
+SM 	Standard noise
+tested
+Further characteristic specifications are available on request
+
+-- 6 of 48 --
+
+M+I*-Parts numbering system
+7
+DD R 2280 HH MT R A1 P25 LY121 H
+Material
+- 	Chrome steel
+DD Stainless steel
+See Page 22
+Series
+R: R-series, metric (D/d large)
+RF: R-series, flanged, metric
+RI: R-series, imperial
+RIF: R-series, imperial, flanged
+L: L-series, metric (D/d small)
+LI: L-series, imperial
+LIF: L-series, metric, flanged
+A: A-series (D/d very small)
+See Pages 8-21
+Sizes
+See Pages 8-21
+H,K,K1 Shield
+(pressed in)
+Z 	Shield
+(secured with
+snap ring)
+D 	Rubber seal
+(contact)
+S 	Rubber seal
+(non-contact)
+L 	PTFE disc
+See Page 23
+Lubricant content
+L 	10-15 %
+T 	15-20 %
+- 	25-35 %
+H 	40-50 %
+See Page 31
+Lubricants
+See Page 31
+Tolerance classes
+A1 	ABEC 1P
+A5 	ABEC 5P
+See Pages 25-27
+Noise class
+- 	Standard noise
+tested
+MT 	E-motor quality
+*M+I: Miniature + Instrument Bearings
+Retainer type
+MN 	Crown
+(Plastic, glass-
+fibre reinforced
+J 	Crown
+(Plastic)
+H 	Crown
+(Steel)
+R 	Two-part Ribbon
+(steel)
+See Pages 26–28
+Radial bearing
+clearance
+P13 	2,5 - 	7,5 	μm
+P24 	5,0 - 	10 	μm
+P25 	5,0 - 12,5 	μm
+P58 12,5 - 	20 	μm
+See Page 29
+Further characteristic specifications are available on request.
+
+-- 7 of 48 --
+
+8
+bore
+Ø
+d
+(mm)
+outer
+Ø
+D
+(mm)
+width
+B
+(mm)
+JIS/ISO 	Da
+(mm)
+di
+(mm)
+ball
+Ø
+(mm)
+no.
+of
+ball
+bear.
+Dyn.
+C
+(N)
+1 	3 	1 	618/1 	L-310 	2,41 	1,60 	0,5000 	7 	80 	23
+1 	3 	1,5 	638/1 	L-310W51 	2,41 	1,60 	0,5000 	7 	80 	23
+1 	4 	1,6 	619/1 	R-410 	3,16 	2,05 	0,7938 	6 	158 	44
+1 	4 	2 	- 	R-410ZZ 	3,42 	2,15 	0,6000 	7 	113 	34
+1,2 	4 	1,2 	- 	R-412 	3,16 	2,05 	0,7938 	6 	158 	44
+1,5 	4 	1,2 	618/1,5 	L-415 	3,25 	2,26 	0,6350 	7 	125 	38
+1,5 	4 	2 	638/1,5 	L-415X5ZZ 	3,42 	2,15 	0,6000 	7 	113 	34
+1,5 	4 	2 	638/1,5 	L-415ZZ 	3,49 	2,26 	0,6350 	7 	125 	38
+1,5 	4 	2,5 	- 	L-415ZZW52 	3,49 	2,26 	0,6350 	7 	125 	38
+1,5 	5 	2 	619/1,5 	R-515 	3,73 	2,60 	0,7938 	7 	184 	57
+1,5 	5 	2,6 	639/1,5 	R-515ZZ 	4,03 	2,60 	0,7938 	7 	184 	57
+1,5 	6 	2,5 	610/1,5 	R-615 	4,73 	2,90 	1,1906 	6 	324 	97
+2 	5 	1,5 	618/2 	L-520 	4,00 	2,90 	0,7938 	7 	187 	59
+2 	5 	2 	- 	L-520W02 	4,00 	2,90 	0,7938 	7 	187 	59
+2 	5 	2,3 	638/2 	L-520ZZ 	4,28 	2,90 	0,7938 	7 	187 	59
+2 	5 	2,5 	- 	L-520ZZW52 	4,28 	2,90 	0,7938 	7 	187 	59
+2 	5 	2,5 	- 	L-520W52 	4,00 	2,90 	0,7938 	7 	187 	59
+2 	6 	2,3 	619/2 	R-620 	4,78 	3,16 	1,0000 	7 	279 	89
+2 	6 	2,3 	619/2 	R-620ZZY32 	5,23 	3,16 	1,0000 	7 	279 	89
+NMB
+designation
+NMB
+designation
+Stat.
+Co
+(N)
+Deep groove single row ball bearings (metric)
+
+-- 8 of 48 --
+
+9
+2 	6 	2,5 	- 	R-620W52 	5,23 	3,10 	1,1906 	6 	330 	99
+2 	6 	2,5 	- 	R-620ZZY52 	5,23 	3,10 	1,1906 	6 	330 	99
+2 	6 	3 	639/2 	R-620ZZ 	5,23 	3,10 	1,1906 	6 	330 	99
+2 	6 	3 	639/2 	R-620W03 	4,93 	3,10 	1,1906 	6 	330 	99
+2 	7 	2,5 	- 	R-720Y52 	5,52 	3,80 	1,1906 	7 	380 	126
+2 	7 	2,8 	610/2 	R-720 	5,52 	3,80 	1,1906 	7 	380 	126
+2 	7 	3 	- 	R-720ZZY03 	5,93 	3,80 	1,1906 	7 	380 	126
+2 	7 	3,5 	630/2 	R-720ZZ 	5,93 	3,80 	1,1906 	7 	380 	126
+2,5 	6 	1,8 	618/2,5 	L-625 	4,93 	3,80 	0,7938 	8 	206 	73
+2,5 	6 	2,6 	638/2,5 	L-625ZZ 	5,23 	3,80 	0,7938 	8 	206 	73
+2,5 	7 	2,5 	619/2,5 	R-725 	5,52 	3,80 	1,1906 	7 	380 	126
+2,5 	7 	3 	- 	R-725ZZY03 	5,93 	3,80 	1,1906 	7 	380 	126
+2,5 	7 	3,5 	639/2,5 	R-725ZZ 	5,93 	3,80 	1,1906 	7 	383 	126
+2,5 	8 	2,8 	610/2,5 	R-825 	6,53 	4,10 	1,5875 	6 	553 	176
+2,5 	8 	2,8 	610/2,5 	R-825ZZY82 	6,89 	4,77 	1,1906 	8 	426 	156
+2,5 	8 	4 	630/2,5 	R-825ZZ 	7,19 	4,10 	1,5875 	6 	553 	176
+3 	6 	2 	617/3 	L-630 	4,93 	3,80 	0,7938 	8 	206 	73
+3 	6 	2,5 	- 	L-630ZZ 	5,23 	3,80 	0,7938 	8 	206 	73
+3 	7 	2 	618/3 	L-730 	5,83 	4,10 	1,1906 	7 	384 	129
+3 	7 	3 	638/3 	L-730ZZ 	6,13 	4,10 	1,1906 	7 	384 	129
+3 	7 	3 	638/3 	L-730W03 	5,83 	4,10 	1,1906 	7 	384 	129
+3 	8 	2,5 	- 	R-830Y52 	6,53 	4,10 	1,5875 	6 	553 	176
+3 	8 	3 	619/3 	R-830 	6,53 	4,10 	1,5875 	6 	553 	176
+3 	8 	3 	619/3 	R-830ZZY03 	6,89 	4,77 	1,1906 	8 	426 	156
+3 	8 	4 	639/3 	R-830ZZ 	7,20 	4,10 	1,5875 	6 	553 	176
+3 	9 	2,5 	- 	R-930Y52 	7,23 	4,80 	1,5875 	7 	634 	219
+3 	9 	3 	610/3 	R-930 	7,23 	4,80 	1,5875 	7 	634 	219
+3 	9 	4 	- 	R-930ZZY04 	7,64 	4,80 	1,5875 	7 	634 	219
+3 	9 	5 	630/3 	R-930ZZ 	7,64 	4,80 	1,5875 	7 	634 	219
+3 	10 	4 	623 	R-1030 	8,20 	5,08 	1,5875 	7 	641 	226
+3 	10 	4 	623 	R-1030ZZ 	8,20 	5,08 	1,5875 	7 	641 	226
+4 	7 	2 	617/4 	L-740 	5,93 	4,80 	0,7938 	11 	252 	106
+bore
+Ø
+d
+(mm)
+outer
+Ø
+D
+(mm)
+width
+B
+(mm)
+JIS/ISO 	Da
+(mm)
+di
+(mm)
+ball
+Ø
+(mm)
+no.
+of
+ball
+bear.
+Dyn.
+C
+(N)
+NMB
+designation
+NMB
+designation
+Stat.
+Co
+(N)
+
+-- 9 of 48 --
+
+10
+Deep groove single row ball bearings (metric)
+4 	7 	2,5 	- 	L-740ZZ 	6,33 	4,80 	0,7938 	11 	252 	106
+4 	8 	2 	- 	L-840 	6,93 	5,20 	1,1906 	7 	384 	140
+4 	8 	3 	- 	L-840W03 	7,24 	5,20 	1,1906 	7 	384 	140
+4 	8 	3 	- 	L-840ZZ 	7,24 	5,20 	1,1906 	7 	384 	140
+4 	9 	2,5 	618/4 	L-940 	7,48 	5,20 	1,5875 	7 	641 	226
+4 	9 	3,5 	628/4 	L-940ZZY53 	7,31 	5,62 	1,1906 	7 	391 	142
+4 	9 	4 	638/4 	L-940ZZ 	7,93 	5,20 	1,5875 	7 	641 	226
+4 	10 	3 	- 	L-1040X2 	7,96 	5,80 	1,5875 	8 	708 	266
+4 	10 	4 	- 	L-1040X2ZZ 	8,50 	5,46 	1,5875 	8 	708 	265
+4 	11 	4 	619/4 	R-1140 	9,53 	6,40 	1,5875 	8 	708 	276
+4 	11 	4 	619/4 	R-1140ZZ 	9,54 	6,40 	1,5875 	8 	708 	276
+4 	12 	4 	610/4 	R-1240 	9,99 	5,62 	2,0000 	7 	959 	347
+4 	12 	4 	610/4 	R-1240ZZ 	9,99 	5,62 	2,0000 	7 	959 	347
+4 	13 	5 	624 	R-1340 	11,20 	5,97 	2,3813 	7 	1306 	487
+4 	13 	5 	624 	R-1340HH 	11,20 	5,97 	2,3813 	7 	1306 	487
+4 	16 	5 	634 	R-1640 	13,41 	7,80 	2,7782 	7 	1735 	671
+4 	16 	5 	634 	R-1640HH 	13,41 	7,80 	2,7782 	7 	1735 	671
+5 	8 	2 	617/5 	L-850 	6,95 	5,80 	0,7938 	13 	274 	130
+5 	8 	2,5 	- 	L-850ZZ 	7,26 	5,80 	0,7938 	13 	274 	130
+5 	9 	2,5 	- 	L-950 	7,73 	6,00 	1,1906 	10 	495 	207
+5 	9 	3 	- 	L-950ZZ 	8,04 	6,00 	1,1906 	10 	495 	207
+5 	10 	3 	- 	L-1050 	8,63 	6,40 	1,5875 	8 	714 	276
+5 	10 	4 	- 	L-1050ZZ 	8,94 	6,40 	1,5875 	8 	714 	276
+5 	11 	3 	618/5 	L-1150 	8,63 	6,40 	1,5875 	8 	714 	276
+5 	11 	4 	628/5 	L-1150ZZY04 	9,54 	6,95 	1,5875 	7 	714 	276
+5 	11 	5 	638/5 	L-1150ZZ 	9,54 	6,40 	1,5875 	8 	714 	276
+5 	13 	4 	619/5 	R-1350 	11,14 	6,66 	2,0000 	8 	1074 	422
+5 	13 	4 	619/5 	R-1350ZZ 	11,14 	6,66 	2,0000 	8 	1074 	422
+5 	13 	5 	- 	R-1350W05 	11,04 	7,00 	2,3813 	7 	1306 	487
+5 	13 	5 	- 	R-1350ZZW05 	11,04 	7,00 	2,3813 	7 	1306 	487
+5 	14 	5 	610/5 	R-1450 	12,14 	6,88 	2,3813 	7 	1329 	508
+5 	14 	5 	610/5 	R-1450ZZ 	12,14 	6,88 	2,3813 	7 	1329 	508
+bore
+Ø
+d
+(mm)
+outer
+Ø
+D
+(mm)
+width
+B
+(mm)
+JIS/ISO 	Da
+(mm)
+di
+(mm)
+ball
+Ø
+(mm)
+no.
+of
+ball
+bear.
+Dyn.
+C
+(N)
+NMB
+designation
+NMB
+designation
+Stat.
+Co
+(N)
+
+-- 10 of 48 --
+
+11
+5 	16 	5 	625 	R-1650 	13,41 	7,80 	2,7782 	7 	1735 	671
+5 	16 	5 	625 	R-1650HH 	13,41 	7,80 	2,7782 	7 	1735 	671
+5 	19 	6 	635 	635 	16,60 	10,60 	3,5000 	7 	2614 	1059
+5 	19 	6 	635 	635ZZ 	16,60 	9,20 	3,5000 	7 	2614 	1059
+5 	19 	6 	635 	R-1950 	16,26 	8,67 	3,9689 	6 	2815 	1069
+5 	19 	6 	635 	R-1950ZZ 	16,26 	8,67 	3,9689 	6 	2815 	1069
+6 	10 	2,5 	617/6 	L-1060 	8,73 	6,95 	1,1906 	9 	457 	194
+6 	10 	3 	- 	L-1060ZZ 	9,04 	6,95 	1,1906 	9 	457 	194
+6 	12 	3 	- 	L-1260 	9,94 	7,70 	1,5875 	10 	834 	363
+6 	12 	4 	- 	L-1260ZZ 	10,48 	7,70 	1,5875 	10 	834 	363
+6 	13 	3,5 	618/6 	L-1360 	10,98 	8,00 	2,0000 	8 	1083 	438
+6 	13 	4,5 	- 	L-1360ZZY54 	11,44 	7,33 	2,0000 	8 	1083 	438
+6 	13 	5 	628/6 	L-1360ZZ 	11,44 	7,33 	2,0000 	8 	1083 	438
+6 	15 	5 	619/6 	R-1560X2 	13,20 	7,80 	2,7782 	7 	1735 	671
+6 	15 	5 	619/6 	R-1560X2ZZ 	13,20 	7,80 	2,7782 	7 	1735 	671
+6 	16 	5 	- 	R-1660HH 	13,41 	7,80 	2,7782 	7 	1735 	671
+6 	17 	6 	610/6 	R-1760X2 	14,70 	8,22 	3,5000 	6 	2265 	839
+6 	17 	6 	610/6 	R-1760X2ZZ 	14,70 	8,22 	3,5000 	6 	2265 	839
+6 	19 	6 	626 	626 	16,68 	9,20 	3,5000 	7 	2614 	1059
+6 	19 	6 	626 	626ZZ 	16,68 	9,20 	3,5000 	7 	2614 	1053
+6 	19 	6 	626 	R-1960 	16,26 	8,67 	3,9689 	6 	2815 	1053
+6 	19 	6 	626 	R-1960ZZ 	16,26 	8,67 	3,9689 	6 	2815 	1069
+6 	19 	6 	626 	626ZZSD02 	16,68 	10,60 	3,5000 	7 	2614 	1053
+7 	11 	2,5 	617/7 	L-1170 	9,83 	8,10 	1,1906 	9 	449 	199
+7 	11 	3 	- 	L-1170ZZ 	10,14 	8,10 	1,1906 	9 	449 	199
+7 	13 	3 	- 	L-1370 	11,13 	8,90 	1,5875 	11 	883 	414
+7 	13 	4 	- 	L-1370ZZ 	11,54 	8,43 	1,5875 	11 	883 	414
+7 	14 	3,5 	618/7 	L-1470 	12,03 	9,00 	2,0000 	9 	1175 	511
+7 	14 	5 	628/7 	L-1470ZZ 	12,45 	9,00 	2,0000 	9 	1175 	511
+7 	17 	5 	619/7 	R-1770HH 	14,20 	9,68 	2,3813 	9 	1606 	712
+7 	19 	6 	607 	R-1970 	16,24 	9,55 	3,1750 	7 	2246 	912
+7 	19 	6 	607 	R-1970ZZ 	16,24 	9,55 	3,1750 	7 	2246 	912
+bore
+Ø
+d
+(mm)
+outer
+Ø
+D
+(mm)
+width
+B
+(mm)
+JIS/ISO 	Da
+(mm)
+di
+(mm)
+ball
+Ø
+(mm)
+no.
+of
+ball
+bear.
+Dyn.
+C
+(N)
+NMB
+designation
+NMB
+designation
+Stat.
+Co
+(N)
+
+-- 11 of 48 --
+
+12
+7 	19 	6 	607 	607 	16,68 	9,20 	3,5000 	7 	2614 	1059
+7 	19 	6 	607 	607ZZ 	16,68 	9,20 	3,5000 	7 	2614 	1059
+7 	19 	6 	607 	607ZZSD02 	16,68 	10,60 	3,5000 	7 	2614 	1059
+7 	22 	7 	627 	627 	19,02 	10,80 	3,9688 	7 	3297 	1368
+7 	22 	7 	627 	627ZZ 	19,02 	10,80 	3,9688 	7 	3297 	1368
+7 	22 	7 	627 	R-2270 	19,08 	10,80 	3,9688 	7 	3297 	1368
+7 	22 	7 	627 	R-2270ZZ 	18,89 	10,80 	3,9688 	7 	3297 	1368
+7 	22 	7 	627 	627ZZSD02 	19,10 	12,40 	3,9688 	7 	3297 	1368
+8 	12 	2,5 	617/8 	L-1280 	10,93 	9,10 	1,1906 	11 	510 	255
+8 	12 	3,5 	637/8 	L-1280ZZ 	11,24 	9,10 	1,1906 	11 	510 	255
+8 	14 	3,5 	- 	L-1480 	12,13 	9,90 	1,5875 	10 	819 	386
+8 	14 	4 	- 	L-1480ZZ 	12,55 	9,90 	1,5875 	10 	819 	386
+8 	16 	4 	618/8 	L-1680 	13,63 	10,40 	2,3813 	9 	1606 	712
+8 	16 	5 	628/8 	L-1680HH 	14,20 	9,68 	2,3813 	9 	1606 	712
+8 	16 	5 	628/8 	L-1680X2HH 	14,18 	10,30 	2,3813 	9 	1606 	712
+8 	16 	6 	638/8 	L-1680HHW06 	14,20 	9,68 	2,3813 	9 	1606 	712
+8 	19 	6 	619/8 	R-1980 	16,68 	10,60 	3,1750 	8 	2463 	1059
+8 	19 	6 	619/8 	R-1980HH 	16,68 	10,60 	3,1750 	8 	2463 	1059
+8 	19 	8 	- 	R-1980HHW08 	16,68 	10,60 	3,1750 	8 	2463 	1059
+8 	22 	7 	608 	608 	19,10 	10,80 	3,9688 	7 	3297 	1368
+8 	22 	7 	608 	608ZZ 	19,10 	10,80 	3,9688 	7 	3297 	1368
+8 	22 	7 	608 	R-2280 	19,07 	10,80 	3,9688 	7 	3297 	1368
+8 	22 	7 	608 	R-2280ZZ 	18,89 	10,76 	3,9688 	7 	3297 	1368
+8 	22 	7 	608 	608ZZSD02 	19,10 	12,40 	3,9688 	7 	3297 	1368
+8 	24 	8 	628 	R-2480HH 	19,10 	12,00 	3,9688 	7 	3297 	1368
+9 	17 	4 	618/9 	L-1790 	14,84 	11,20 	2,3813 	10 	1724 	813
+9 	17 	5 	628/9 	L-1790ZZ 	15,34 	11,20 	2,3813 	10 	1724 	813
+9 	20 	6 	619/9 	L-2090 	17,74 	12,32 	2,7782 	9 	2123 	985
+9 	20 	6 	619/9 	L-2090ZZ 	17,44 	12,32 	2,7782 	9 	2123 	985
+9 	24 	7 	609 	609 	19,10 	12,40 	3,9688 	7 	3297 	1368
+9 	24 	7 	609 	609ZZ 	19,00 	12,40 	3,9688 	7 	3297 	1368
+9 	26 	8 	629 	629 	22,80 	12,88 	4,7625 	7 	4581 	1972
+Deep groove single row ball bearings (metric)
+bore
+Ø
+d
+(mm)
+outer
+Ø
+D
+(mm)
+width
+B
+(mm)
+JIS/ISO 	Da
+(mm)
+di
+(mm)
+ball
+Ø
+(mm)
+no.
+of
+ball
+bear.
+Dyn.
+C
+(N)
+NMB
+designation
+NMB
+designation
+Stat.
+Co
+(N)
+
+-- 12 of 48 --
+
+13
+9 	26 	8 	629 	629ZZ 	22,80 	12,88 	4,7625 	7 	4581 	1972
+9 	26 	8 	629 	R-2690 	21,25 	13,80 	4,7625 	7 	4578 	1970
+9 	26 	8 	629 	R-2690ZZ 	22,65 	13,80 	4,7625 	7 	4578 	1970
+10 	15 	3 	61700 	A-1510 	13,60 	11,25 	1,5875 	11 	857 	435
+10 	15 	4 	- 	A-1510ZZ 	14,00 	11,25 	1,5875 	11 	857 	435
+10 	19 	5 	61800 	L-1910 	17,74 	12,32 	2,7782 	9 	2123 	985
+10 	19 	5 	61800 	L-1910ZZY05 	17,40 	12,32 	2,7782 	9 	2123 	985
+10 	19 	7 	63800 	L-1910ZZ 	17,44 	12,32 	2,7782 	9 	2123 	985
+10 	19 	7 	63800 	L-1910W07 	17,44 	12,32 	2,7782 	9 	2123 	985
+10 	20 	5 	- 	L-2010ZZY05 	17,44 	12,32 	2,7782 	9 	2123 	985
+10 	20 	6 	- 	L-2010ZZ 	17,44 	12,32 	2,7782 	9 	2123 	985
+10 	22 	6 	61900 	R-2210X3HHSD21 	19,40 	13,40 	3,1750 	9 	2697 	1273
+10 	26 	8 	6000 	6000ZZ 	22,80 	13,75 	4,7625 	7 	4578 	1970
+10 	26 	8 	6000 	6000 	22,80 	13,75 	4,7625 	7 	4578 	1970
+10 	26 	8 	6000 	R-2610 	21,25 	14,80 	4,7625 	7 	4578 	1970
+10 	26 	8 	6000 	R-2610ZZ 	22,42 	13,76 	4,7625 	7 	4578 	1970
+12 	21 	5 	61801 	L-2112HH 	19,60 	14,74 	2,3813 	12 	1917 	1042
+12 	24 	6 	61901 	R-2412X3ZZ 	21,69 	15,35 	3,5718 	8 	3082 	1433
+12 	28 	8 	6001 	6001 	24,50 	16,65 	4,76 	8 	5100 	2360
+12 	28 	8 	6001 	6001ZZ 	24,50 	16,65 	4,76 	8 	5100 	2360
+15 	20 	3,5 	- 	A-2015 	18,43 	16,40 	1,5875 	14 	944 	582
+15 	21 	3,5 	- 	A-2115 	18,93 	16,80 	1,5875 	14 	938 	581
+15 	24 	5 	61802 	L-2415 	22,00 	17,70 	2,3813 	14 	2076 	1258
+15 	24 	5 	61802 	L-2415ZZ 	22,00 	17,70 	2,3813 	14 	2076 	1258
+16 	22 	4 	- 	A-2216 	19,90 	17,80 	1,5875 	15 	969 	619
+16 	22 	4 	- 	A-2216ZZ 	20,72 	17,80 	1,5875 	15 	969 	619
+18 	24 	4 	- 	A-2418 	21,90 	19,75 	1,5875 	16 	988 	654
+20 	25 	4 	- 	A-2520 	23,40 	21,35 	1,5875 	17 	1012 	691
+20 	25 	4 	- 	A-2520ZZ 	23,80 	21,35 	1,5875 	17 	1012 	691
+bore
+Ø
+d
+(mm)
+outer
+Ø
+D
+(mm)
+width
+B
+(mm)
+JIS/ISO 	Da
+(mm)
+di
+(mm)
+ball
+Ø
+(mm)
+no.
+of
+ball
+bear.
+Dyn.
+C
+(N)
+NMB
+designation
+NMB
+designation
+Stat.
+Co
+(N)
+
+-- 13 of 48 --
+
+14
+1 	3 	1 	618/1 	LF-310 	3,80 	0,30 	2,41 	1,60 	0,5000 	7 	80 	23
+1,5 	4 	1,2 	618/1,5 	LF-415 	5,00 	0,40 	3,24 	2,26 	0,6350 	7 	125 	38
+1,5 	5 	2,6 	639/1,5 	RF-515 	6,50 	0,80 	4,03 	2,00 	0,7938 	7 	186 	59
+1,5 	5 	2,6 	639/1,5 	RF-515ZZ 	6,50 	0,80 	4,03 	2,60 	0,7938 	7 	186 	59
+1,5 	6 	3 	RF-615ZZ 	7,50 	0,80 	5,00 	2,90 	1,1906 	6 	334 	98
+2 	5 	1,5 	618/2 	LF-520 	6,10 	0,50 	4,01 	2,90 	0,7938 	7 	187 	59
+2 	5 	2,3 	638/2 	LF-520ZZ 	6,10 	0,60 	4,28 	2,90 	0,7938 	7 	186 	59
+2 	6 	2,3 	619/2 	RF-620 	7,50 	0,60 	4,78 	3,16 	1,0000 	7 	279 	89
+2 	6 	2,5 	- 	RF-620ZZY52 	7,20 	0,60 	5,23 	3,10 	1,1906 	6 	330 	99
+2 	6 	3 	639/2 	RF-620ZZ 	7,50 	0,80 	5,23 	3,10 	1,1906 	6 	334 	108
+2 	7 	3 	- 	RF-720ZZY03 	8,20 	0,60 	5,93 	3,80 	1,1906 	7 	380 	126
+2 	7 	3,5 	630/2 	RF-720ZZ 	8,50 	0,90 	5,93 	3,80 	1,1906 	7 	383 	128
+2,5 	6 	1,5 	LF-625Y51 	7,10 	0,50 	4,93 	3,80 	0,7938 	8 	206 	73
+2,5 	6 	1,8 	618/2,5 	LF-625 	7,10 	0,50 	4,93 	3,80 	0,7938 	8 	206 	73
+2,5 	6 	2,6 	638/2,5 	LF-625ZZ 	7,10 	0,80 	5,23 	3,80 	0,7938 	8 	206 	78
+Flanged deep groove single row ball bea-
+rings (metric)
+bore
+Ø
+d
+(mm)
+outer
+Ø
+D
+(mm)
+width
+B
+(mm)
+JIS/ISO 	flange
+Ø
+DF
+(mm)
+flange
+width
+BF
+(mm)
+Da
+(mm)
+no.
+of
+ball
+bear.
+Dyn.
+C
+(N)
+ball
+Ø
+(mm)
+di
+(mm)
+Stat.
+Co
+(N)
+NMB-des. 	NMB-designation
+
+-- 14 of 48 --
+
+15
+2,5 	7 	3 	- 	RF-725ZZY03 	8,20 	0,60 	5,93 	3,80 	1,1906 	7 	380 	126
+2,5 	7 	3,5 	639/2,5 	RF-725ZZ 	8,50 	0,90 	5,93 	3,80 	1,1906 	7 	383 	128
+2,5 	8 	2,8 	610/2,5 	RF-825 	9,50 	0,70 	6,53 	4,10 	1,5875 	6 	553 	176
+2,5 	8 	4 	630/2,5 	RF-825ZZ 	9,50 	0,90 	7,20 	4,10 	1/16 	6 	559 	177
+3 	6 	2 	617/3 	LF-630 	7,20 	0,60 	4,93 	3,80 	0,7938 	8 	206 	73
+3 	6 	2,5 	- 	LF-630ZZ 	7,20 	0,60 	5,23 	3,80 	0,7938 	8 	206 	78
+3 	7 	2 	618/3 	LF-730 	8,10 	0,50 	5,83 	4,10 	1,1906 	7 	384 	129
+3 	7 	3 	638/3 	LF-730ZZ 	8,10 	0,80 	6,14 	4,10 	1,1906 	7 	392 	137
+3 	8 	2,5 	- 	RF-830Y52 	9,20 	0,60 	6,53 	4,10 	1,5875 	6 	553 	176
+3 	8 	3 	619/3 	RF-830 	9,50 	0,70 	6,53 	4,10 	1,5875 	6 	553 	176
+3 	8 	4 	639/3 	RF-830ZZ 	9,50 	0,90 	7,19 	4,10 	1,5875 	6 	553 	176
+3 	9 	4 	- 	RF-930ZZY04 	10,60 	0,80 	7,64 	4,80 	1,5875 	7 	638 	226
+3 	9 	5 	630/3 	RF-930ZZ 	10,50 	1,00 	7,64 	4,80 	1/16 	7 	638 	226
+3 	10 	4 	623 	RF-1030ZZ 	11,50 	1,00 	8,20 	5,08 	1,5875 	7 	647 	226
+4 	7 	2 	617/4 	LF-740 	8,20 	0,60 	5,93 	4,80 	0,7938 	11 	252 	106
+4 	7 	2,5 	- 	LF-740ZZ 	8,20 	0,60 	6,33 	4,80 	0,7938 	11 	252 	106
+4 	8 	2 	- 	LF-840 	9,20 	0,60 	6,93 	5,20 	1,1906 	7 	391 	140
+4 	8 	3 	- 	LF-840ZZ 	9,20 	0,60 	7,24 	5,20 	1,1906 	7 	391 	140
+4 	9 	2,5 	618/4 	LF-940 	10,30 	0,60 	7,48 	5,20 	1,5875 	7 	641 	226
+4 	9 	4 	638/4 	LF-940ZZ 	10,30 	1,00 	7,93 	5,20 	1,5875 	7 	647 	226
+4 	10 	3 	- 	LF-1040X2 	11,20 	0,60 	7,96 	5,80 	1,5875 	8 	708 	266
+4 	10 	4 	- 	LF-1040X2ZZ 	11,60 	0,80 	8,50 	5,46 	1,5875 	8 	708 	266
+4 	11 	4 	619/4 	RFW-1140 	12,60 	0,80 	8,60 	6,40 	1,5875 	8 	714 	276
+4 	11 	4 	619/4 	RF-1140ZZ 	12,50 	1,00 	9,54 	6,40 	1,5875 	8 	714 	276
+4 	12 	4 	RF-1240 	13,50 	1,00 	9,99 	5,62 	2,0000 	7 	959 	347
+4 	12 	4 	610/4 	RF-1240ZZ 	13,50 	1,00 	9,99 	5,62 	2,0000 	7 	959 	347
+4 	13 	5 	624 	RF-1340ZZ 	15,00 	1,00 	11,04 	7,00 	2,3813 	7 	1306 	487
+4 	16 	5 	634 	RF-1640ZZ 	18,00 	1,00 	13,20 	7,80 	2,3813 	7 	1735 	671
+5 	8 	2 	617/5 	LF-850 	9,20 	0,60 	6,95 	5,80 	0,7938 	13 	274 	130
+5 	8 	2,5 	- 	LF-850ZZ 	9,20 	0,60 	7,26 	5,80 	0,7938 	13 	274 	130
+5 	9 	2,5 	- 	LF-950 	10,20 	0,60 	7,73 	6,00 	1,1906 	10 	495 	207
+5 	9 	3 	- 	LF-950ZZ 	10,20 	0,60 	8,04 	6,00 	1,1906 	10 	495 	207
+bore
+Ø
+d
+(mm)
+outer
+Ø
+D
+(mm)
+width
+B
+(mm)
+JIS/ISO 	flange
+Ø
+DF
+(mm)
+flange
+width
+BF
+(mm)
+Da
+(mm)
+no.
+of
+ball
+bear.
+Dyn.
+C
+(N)
+ball
+Ø
+(mm)
+di
+(mm)
+Stat.
+Co
+(N)
+NMB-des. 	NMB-designation
+
+-- 15 of 48 --
+
+16
+Flanged deep groove single row ball bearings (metric)
+5 	10 	3 	- 	LF-1050 	11,20 	0,60 	8,63 	6,40 	1,5875 	8 	714 	276
+5 	10 	4 	- 	LF-1050ZZ 	11,60 	0,80 	8,94 	6,40 	1,5875 	8 	714 	276
+5 	11 	3 	618/5 	LF-1150 	12,50 	0,80 	8,63 	6,40 	1,5875 	8 	714 	276
+5 	11 	4 	628/5 	LF-1150ZZY04 	12,60 	0,80 	9,54 	6,40 	1,5875 	8 	714 	276
+5 	11 	5 	638/5 	LF-1150ZZ 	12,50 	1,00 	9,54 	6,40 	1,5875 	8 	714 	276
+5 	13 	4 	619/5 	RF-1350 	15,00 	1,00 	11,14 	6,66 	2,0000 	8 	1074 	422
+5 	13 	4 	619/5 	RF-1350ZZ 	15,00 	1,00 	11,14 	6,66 	2,0000 	8 	1074 	422
+5 	13 	5 	- 	RF-1350ZZW05 15,00 	1,00 	11,04 	7,00 	2,3813 	7 	1306 	487
+5 	14 	5 	610/5 	RF-1450 	16,00 	1,00 	12,14 	6,88 	2,3813 	7 	1329 	508
+5 	14 	5 	610/5 	RF-1450ZZ 	16,00 	1,00 	12,14 	6,88 	2,3813 	7 	1334 	510
+5 	16 	5 	625 	RF-1650HH 	18,00 	1,00 	13,41 	7,80 	2,7782 	7 	1736 	677
+5 	19 	6 	635 	RF-1950 	22,00 	1,50 	15,60 	8,67 	3,9688 	6 	2805 1060
+5 	19 	6 	635 	RF-1950ZZ 	22,00 	1,50 	16,26 	8,67 	3,9688 	6 	2805 1060
+6 	10 	2,5 	617/6 	LF-1060 	11,20 	0,60 	8,73 	6,95 	1,1906 	9 	457 	194
+6 	10 	3 	- 	LF-1060ZZ 	11,20 	0,60 	9,04 	6,95 	1,1906 	9 	457 	194
+6 	12 	3 	- 	LF-1260 	13,20 	0,60 	9,94 	7,70 	1,5875 	10 	831 	363
+6 	12 	4 	- 	LF-1260ZZ 	13,60 	0,80 	10,48 	7,70 	1,5875 	10 	831 	363
+6 	13 	3,5 	618/6 	LF-1360 	15,00 	1,00 	10,98 	8,00 	2,0000 	8 	1083 	438
+6 	13 	4,5 	- 	LF-1360ZZY54 	15,00 	1,00 	11,44 	7,33 	2,0000 	8 	1083 	438
+6 	13 	5 	628/6 	LF-1360ZZ 	15,00 	1,10 	11,44 	7,33 	2,0000 	8 	1083 	438
+6 	15 	5 	619/6 	RF-1560 	17,00 	1,20 	13,20 	7,80 	2,7782 	7 	1735 	671
+6 	15 	5 	619/6 	RF-1560ZZ 	17,00 	1,20 	13,20 	7,80 	2,7782 	7 	1735 	671
+6 	17 	6 	610/6 	RF-1760X2ZZ 	19,00 	1,20 	14,70 	8,22 	3,5000 	6 	2265 	839
+6 	19 	6 	626 	RF-1960ZZ 	22,00 	1,50 	16,26 	8,67 	3,9688 	6 	2805 1060
+7 	11 	2,5 	617/7 	LF-1170 	12,20 	0,60 	9,83 	8,10 	1,1906 	9 	449 	199
+7 	11 	3 	- 	LF-1170ZZ 	12,20 	0,60 	10,14 	8,10 	1,1906 	9 	449 	199
+7 	13 	3 	- 	LF-1370 	14,20 	0,60 	11,13 	8,90 	1,5875 	11 	880 	414
+7 	13 	4 	- 	LF-1370ZZ 	14,60 	0,80 	11,54 	8,43 	1,5875 	11 	880 	414
+7 	14 	3,5 	618/7 	LF-1470 	16,00 	1,00 	12,03 	9,00 	2,0000 	9 	1175 	511
+7 	14 	5 	628/7 	LF-1470ZZ 	16,00 	1,10 	12,45 	9,00 	2,0000 	9 	1175 	511
+7 	19 	6 	607 	RF-1970ZZ 	22,00 	1,50 	16,24 	9,55 	3,1750 	7 	2240 	912
+7 	22 	7 	627 	RF-2270HH 	25,00 	1,50 	19,07 10,80 	3,9688 	7 	3297 1368
+bore
+Ø
+d
+(mm)
+outer
+Ø
+D
+(mm)
+width
+B
+(mm)
+JIS/ISO 	flange
+Ø
+DF
+(mm)
+flange
+width
+BF
+(mm)
+Da
+(mm)
+no.
+of
+ball
+bear.
+Dyn.
+C
+(N)
+ball
+Ø
+(mm)
+di
+(mm)
+Stat.
+Co
+(N)
+NMB-des. 	NMB-designation
+
+-- 16 of 48 --
+
+17
+8 	12 	2,5 	617/8 	LF-1280 	13,20 	0,60 	10,93 	9,10 	1,1906 	11 	506 	249
+8 	12 	3,5 	637/8 	LF-1280ZZ 	13,60 	0,80 	11,24 	9,10 	1,1906 	11 	506 	249
+8 	14 	3,5 	- 	LF-1480 	15,60 	0,80 	12,13 	9,90 	1,5875 	10 	819 	386
+8 	14 	4 	- 	LF-1480X3ZZ 	15,60 	0,80 	11,77 	9,20 	1,5875 	11 	878 	419
+8 	16 	4 	618/8 	LF-1680 	18,00 	1,00 	13,40 10,30 	2,3813 	9 	1606 	712
+8 	16 	4 	618/8 	LFW-1680 	17,60 	0,80 	13,40 10,30 	2,3813 	9 	1606 	712
+8 	16 	5 	628/8 	LF-1680HH 	18,00 	1,10 	14,20 	9,68 	2,3813 	9 	1606 	712
+8 	16 	6 	638/8 	LF-1680ZZW06 	18,00 	1,10 	14,04 	9,73 	2,3813 	9 	1607 	716
+8 	19 	6 	619/8 	RF-1980 	22,00 	1,50 	16,24 	9,55 	3,1750 	7 	2240 	912
+8 	19 	6 	619/8 	RF-1980ZZ 	22,00 	1,50 	16,24 	9,55 	3,1750 	7 	2240 	912
+8 	22 	7 	608 	RF-2280 	25,00 	1,50 	18,89 10,76 	3,9688 	7 	3297 1368
+8 	22 	7 	608 	RF-2280HH 	25,00 	1,50 	19,07 10,80 	3,9688 	7 	3297 1368
+9 	17 	4 	618/9 	LF-1790 	19,00 	1,00 	14,81 11,20 	2,3813 	10 	1724 	813
+9 	17 	5 	628/9 	LF-1790ZZ 	19,00 	1,10 	15,34 11,20 	2,3813 	10 	1724 	813
+10 	15 	4 	- 	AF-1510ZZ 	16,50 	0,80 	14,04 11,25 	1,5875 	11 	857 	435
+10 	19 	5 	61800 	LF-1910 	22,00 	1,50 	16,68 12,32 	2,7782 	9 	2123 	985
+10 	19 	5 	61800 	LF-1910ZZY05 	22,00 	1,50 	17,44 12,32 	2,7782 	9 	2123 	985
+10 	19 	7 	63800 	LF-1910ZZ 	22,00 	1,50 	17,44 12,32 	2,7782 	9 	2123 	985
+10 	20 	6 	- 	RF-2210X2HH 	25,00 	1,50 	19,08 12,40 	3,1750 	9 	2697 1273
+bore
+Ø
+d
+(mm)
+outer
+Ø
+D
+(mm)
+width
+B
+(mm)
+JIS/ISO 	flange
+Ø
+DF
+(mm)
+flange
+width
+BF
+(mm)
+Da
+(mm)
+no.
+of
+ball
+bear.
+Dyn.
+C
+(N)
+ball
+Ø
+(mm)
+di
+(mm)
+Stat.
+Co
+(N)
+NMB-des. 	NMB-designation
+
+-- 17 of 48 --
+
+18
+1,0160 	3,1750 	1,1913 	RI-2x2 	2,56 	1,64 	0,63500 	6 	106 	28
+1,1913 	3,9675 	1,5875 	RI-21/2 	3,16 	2,05 	0,79375 	6 	158 	44
+1,1913 	3,9675 	2,3800 	RI-21/2ZZ 	3,43 	2,05 	0,79375 	6 	158 	44
+1,3970 	4,7625 	1,9837 	RI-3 	4,02 	2,36 	1,19062 	5 	264 	71
+1,3970 	4,7625 	2,7788 	RI-3ZZ 	4,29 	2,36 	1,19062 	5 	264 	71
+1,9837 	6,3500 	2,3800 	RI-4 	4,90 	3,10 	1,19062 	6 	330 	99
+1,9837 	6,3500 	3,5712 	RI-4ZZ 	5,23 	3,10 	1,19062 	6 	330 	99
+2,3800 	4,7625 	1,5875 	RI-3332 	4,13 	3,00 	0,79375 	7 	187 	59
+2,3800 	4,7625 	2,3800 	RI-3332ZZ 	4,28 	3,00 	0,79375 	7 	187 	59
+2,3800 	7,9375 	2,7788 	RI-5 	6,88 	4,40 	1,58750 	6 	563 	183
+2,3800 	7,9375 	3,5712 	RI-5ZZ 	7,19 	4,40 	1,58750 	6 	563 	183
+3,1750 	6,3500 	2,3800 	RI-418 	5,52 	4,10 	1,00000 	7 	285 	97
+3,1750 	6,3500 	2,7788 	RI-418ZZ 	5,85 	4,10 	1,00000 	7 	285 	97
+Deep groove single row ball bearings
+(imperial)
+bore
+Ø
+d
+(mm)
+outer
+Ø
+D
+(mm)
+width
+B
+(mm)
+Da
+(mm)
+di
+(mm)
+ball
+Ø
+(mm)
+no.
+of
+ball
+bear.
+Dyn.
+C
+(N)
+NMB
+designation
+NMB
+designation
+Stat.
+Co
+(N)
+
+-- 18 of 48 --
+
+19
+3,1750 	7,9375 	2,7788 	RI-518 	6,88 	4,40 	1,58750 	6 	563 	183
+3,1750 	7,9375 	3,5712 	RI-518ZZ 	7,19 	4,40 	1,58750 	6 	563 	183
+3,1750 	9,5250 	2,7788 	RI-618 	6,88 	4,40 	1,58750 	6 	563 	183
+3,1750 	9,5250 	3,5712 	RI-618ZZ 	7,20 	4,40 	1,58750 	6 	563 	183
+3,1750 	9,5250 	3,9675 	R-2 	7,65 	5,08 	1,58750 	7 	641 	226
+3,1750 	9,5250 	3,9675 	R-2ZZ 	8,19 	5,08 	1,58750 	7 	641 	226
+3,9675 	7,9375 	2,7788 	RI-5532 	7,08 	5,62 	1,19062 	7 	391 	142
+3,9675 	7,9375 	3,1750 	RI-5532ZZ 	7,31 	5,62 	1,19062 	7 	391 	142
+4,7625 	7,9375 	2,7788 	RI-5632 	7,08 	5,62 	1,19062 	7 	391 	142
+4,7625 	7,9375 	3,1750 	RI-5632ZZ 	7,31 	5,62 	1,19062 	7 	391 	142
+4,7625 	9,5250 	3,1750 	RI-6632 	8,72 	5,97 	1,58750 	8 	712 	271
+4,7625 	9,5250 	3,1750 	RI-6632ZZ 	8,72 	5,97 	1,58750 	8 	712 	271
+4,7625 	12,7000 	3,9675 	R-3 	10,49 	7,00 	2,38125 	7 	1306 	487
+4,7625 	12,7000 	4,9784 	R-3HH 	11,00 	7,00 	2,38125 	7 	1306 	487
+6,3500 	9,5250 	3,1750 	RI-614 	8,63 	7,25 	1,00000 	13 	417 	205
+6,3500 	9,5250 	3,1750 	RI-614ZZ 	8,88 	7,25 	1,00000 	13 	417 	205
+6,3500 	12,7000 	3,1750 	RI-814 	10,98 	8,38 	1,58750 	10 	828 	374
+6,3500 	12,7000 	4,7625 	RI-814ZZ 	11,55 	8,38 	1,58750 	10 	828 	374
+6,3500 	15,8750 	4,9784 	R-4 	13,03 	8,20 	2,38125 	8 	1470 	599
+6,3500 	15,8750 	4,9784 	R-4HH 	13,03 	8,20 	2,38125 	8 	1470 	599
+6,3500 	19,0500 	5,5575 	RI-1214 	15,19 	9,80 	3,57188 	6 	2411 	912
+6,3500 	19,0500 	7,1425 	RI-1214ZZ 	16,28 	8,63 	3,57188 	6 	2411 	912
+7,9375 	12,7000 	3,9675 	RI-8516 	11,44 	9,20 	1,58750 	11 	878 	419
+7,9375 	12,7000 	3,9675 	RI-8516ZZ 	11,77 	9,20 	1,58750 	11 	878 	419
+9,5250 	22,2250 	5,5575 	RI-1438 	18,83 	13,22 	3,96875 	7 	3297 	1368
+9,5250 	22,2250 	7,1425 	RI-1438HH 	19,08 	12,40 	3,96875 	7 	3297 	1368
+12,7000 	28,5750 	6,3500 	RI-1812 	24,05 	17,18 	4,76250 	8 	5113 	2387
+12,7000 	28,5750 	7,9375 	RI-1812HH 	25,13 	16,00 	4,76250 	8 	5113 	2387
+bore
+Ø
+d
+(mm)
+outer
+Ø
+D
+(mm)
+width
+B
+(mm)
+Da
+(mm)
+di
+(mm)
+ball
+Ø
+(mm)
+no.
+of
+ball
+bear.
+Dyn.
+C
+(N)
+NMB
+designation
+NMB
+designation
+Stat.
+Co
+(N)
+
+-- 19 of 48 --
+
+20
+1,1913 	3,9675 	2,3800 	RIF-21/2ZZ 	5,156 	0,787 	3,43 	2,05 	0,79375 	6 	158 	44
+1,3970 	4,7625 	2,7788 	RIF-3ZZ 	5,944 	0,787 	4,29 	2,36 	1,19062 	5 	264 	71
+1,9837 	6,3500 	3,5712 	RIF-4ZZ 	7,518 	0,787 	5,23 	3,10 	1,19062 	6 	330 	99
+2,3800 	4,7625 	2,3800 	RIF-3332ZZ 	5,944 	0,787 	4,28 	3,00 	0,79375 	7 	187 	59
+2,3800 	7,9375 	3,5712 	RIF-5ZZ 	9,119 	0,787 	7,19 	4,40 	1,58750 	6 	563 	183
+3,1750 	6,3500 	2,7788 	RIF-418ZZ 	7,518 	0,787 	5,85 	4,10 	1,00000 	7 	285 	97
+3,1750 	7,9375 	3,5712 	RIF-518ZZ 	9,119 	0,787 	7,19 	4,40 	1,58750 	6 	563 	183
+3,1750 	9,5250 	3,5712 	RIF-618ZZ 	10,719 	0,787 	7,19 	4,40 	1,58750 	6 	563 	183
+3,1750 	9,5250 	3,9675 	RF-2ZZ 	11,176 	0,762 	8,19 	5,08 	1,58750 	7 	641 	226
+3,9675 	7,9375 	3,1750 	RIF-5532ZZ 	9,119 	0,914 	7,31 	5,62 	1,19062 	7 	391 	142
+4,7625 	7,9375 	3,1750 	RIF-5632ZZ 	9,119 	0,914 	7,31 	5,62 	1,19062 	7 	391 	142
+4,7625 	9,5250 	3,1750 	RIF-6632ZZ 	10,719 	0,787 	8,72 	5,97 	1,58750 	8 	712 	271
+4,7625 	12,7000 	4,9784 	RF-3ZZ 	14,351 	1,067 	11,04 	7,00 	2,38125 	7 	1306 	487
+6,3500 	9,5250 	3,1750 	RIF-614ZZ 	10,719 	0,914 	8,88 	7,25 	1,00000 	13 	417 	205
+6,3500 	12,7000 	4,7625 	RIF-814ZZ 	13,894 	1,143 	11,54 	8,38 	1,58750 	10 	828 	374
+6,3500 	15,8750 	4,9784 	RF-4ZZ 	17,526 	1,067 	13,04 	8,20 	2,38125 	8 	1470 	599
+7,9375 	12,7000 	3,9675 	RIF-8516ZZ 	13,894 	0,787 	11,77 	9,20 	1,58750 	11 	878 	419
+9,5250 	22,2250 	7,1425 	RIF-1438HH 	24,613 	1,575 	19,08 	12,40 	3,96875 	7 	3297 	1368
+Flanged deep groove single row
+ball bearings (imperial)
+bore Ø
+d
+(mm)
+outer
+Ø
+D
+(mm)
+width
+B
+(mm)
+flange
+Ø
+DF
+(mm)
+flange
+width
+BF
+(mm)
+Da
+(mm)
+no.
+of
+ball
+bear.
+Dyn.
+C
+(N)
+ball
+Ø
+(mm)
+di
+(mm)
+Stat.
+Co
+(N)
+NMB
+designation
+
+-- 20 of 48 --
+
+21
+bore
+Ø
+d
+(mm)
+outer
+Ø
+D
+(mm)
+width
+B
+(mm)
+JIS/ISO 	DF
+(mm)
+BF
+(mm)
+Da
+(mm)
+no.
+of
+ball
+bear.
+Dyn.
+C
+(N)
+ball
+Ø
+(mm)
+di
+(mm)
+Stat.
+Co
+(N)
+6 	13 	5 	686ZZNR 	LNR-1360X3ZZ 	14,5 	1,10 	10,48 	7,7 	1,58750 	10 	831 	363
+6 	15 	5 	696ZZNR 	RNR-1560ZZ 	17,2 	1,5 	13,20 	7,8 	2,77812 	7 	1735 	671
+6 	17 	6 	606ZZNR 	RNR-1760X2ZZ 	19,2 	1,2 	14,70 	8,22 	3,50000 	6 	2265 	839
+6 	19 	6 	607ZZNR 	22,1 	1,5 	16,68 	9,20 	3,50000 	7 	2614 	1053
+7 	19 	6 	626ZZNR 	22,1 	1,5 	16,68 	9,20 	3,50000 	7 	2614 	1053
+8 	16 	5 	688ZZNR 	LNR-1680HH 	18,2 	0,95 	14,18 	9,68 	2,38125 	9 	1606 	712
+8 	22 	7 	608ZZNRSD03 	24,8 	2,95 	19,10 	10,80 	3,96875 	7 	3297 	1368
+10 	22 	6 	61900ZZNR 	RNR-2210X3HH 	24,7 	1,75 	19,40 	13,40 	3,17500 	9 	2697 	1273
+10 	26 	8 	6000ZZNR 	29,2 	2,31 	22,88 	13,75 	4,76250 	7 	4578 	1970
+Deep groove single row ball bearings with
+snap ring
+NMB designation
+
+-- 21 of 48 --
+
+Rings and roller bearing housings are made of very hard, very high purity roller bearing steel in
+order to be able to withstand even the most extreme stresses. For this reason, only the most
+carefully-assessed steel suppliers are selected.
+NMB Minebea uses chrome steel for rings and roller bearing housings. In cases where resistance
+to rust is important, stainless steel bearings are used. On request, ceramic roller bearing housings
+are available for certain types of ball bearing.
+NMB Minebea uses high quality, vacuum-degassed chrome steel complying with specification
+JISG4805/SUJ2 or AISI/SAE 52100 or equivalent. With heat treatment, this steel attains a hardness
+of 62 to 64 HRC and is thus suited to withstand high stresses over a long service life.
+The NMB Minebea developed in-house stainless steel type DD400, when compared with other
+steel types such as SUS440C/JISG4303/AISI440C, displays improved qualities in respect of hardness,
+durability and stress resistance. The finer, more even structure of stainless steel DD400 results, in
+comparison with ordinary stainless steel AISI/440C, in reduced levels of noise. In addition, DD400
+has enhanced properties of rust resistance as compared with AISI/440C (according to ASTM-A380).
+22
+Material for rings and roller bearing housings
+chrome steel 	composition
+standard designation 	C 	Si 	Mn 	P 	S 	Cr 	Mo
+JISG4805 	SUJ2 	0.95-1.10 0.15-0.35 	0.5 MAX 0.025 MAX 0.025 MAX 1.3-1.6 	–
+AISI 	52100 	0.98-1.10 0.15-0.35 0.25-0.45 0.025 MAX 0.025 MAX 	1.3-1.6 	–
+stainless steel 	composition
+standard designation 	C 	Si 	Mn 	P 	S 	Cr 	Mo
+– 	DD400 	0.6-0.75 	1.00 MAX 	1.0 MAX 	0.03 MAX 0.02 MAX 11.50-13.50 0.3 MAX
+JISG4303 	SUS440C 	0.95-1.2 	1.00 MAX 	1.0 MAX 	0.04 MAX 0.03 MAX 16.00-18.00 	*
+Standard 	grade 	percentage composition
+C 	Si 	Mn 	P 	S 	Ni 	Cr
+JISG4303 	SUS304 	0.08 MAX 1.00 MAX 2.00 MAX 0.045 MAX 0.03 MAX 	8.0~10.5 18.0~20.0
+JISG4303 	SUS410 	0.15 MAX 1.00 MAX 1.00 MAX 0.04 MAX 0.03 MAX 	** 	11.5~13.5
+JISG3141 	SPCC 	0.12 MAX 	– 	0.50 MAX 0.04 MAX 0.045 MAX 	– 	–
+* It is also possible to add a maximum of 0.75% molybdenum.
+** 0.6 % of Nickel is permissible.
+
+-- 22 of 48 --
+
+Cover disc 	NMB PELMEC 	NMB M+I 	DIN/ISO
+Steel shield + snap ring 	Z 	Z
+Steel shield 	elastic 	– 	H 	Z
+Steel shield pressed-in 	deformed zinc-plated 	Z 	K 	Z
+deformed stainless steel 	– 	K1 	Z
+Rubber seal 	contact 	D 	D 	RS
+non contact 	S 	S 	N/A (RS)
+Teflon seal 	contact 	– 	L 	N/A (RS)
+Bearing cover disc
+Covers protect the ball bearing from dirt and moisture penetration, and at the same time prevent
+the lubricant from escaping. The NMB Minebea range covers ball bearings with cover discs (non-
+contact) and sealing discs (contact).
+Non-contact shields
+The narrow gap between the inner ring and the cover disc and the maze effect created by the
+geometry of the inner ring make it difficult for dirt to penetrate from outside. Since there is no
+contact between inner ring and cover disc, the negative effects of any friction being generated
+are avoided.
+Metal shields
+Metal shields are made of coated deep-drawn sheet metal or stainless steel and, according to ball
+bearing type are either pressed into place in the outer ring (figure A.), or secured in place with a
+snap ring (figure B).
+Rubber seals
+Non-contact rubber seals are made of Perbunan® (NBR) with a steel plate insert, and may be used
+in temperatures of up to 120 °C. The rubber seals are snapped into place in the outer ring of the
+bearing (figure C). The cover gap between the inner ring and the cover disc is much less than in
+the case of cover discs of metal.
+Contact shields
+Contact shields provide much better protection against the penetration of dirt and moisture.
+However, through the rubbing contact between inner ring and sealing disc, there are extra fric-
+tional influences generated.
+Rubber seals
+Contact rubber seals are also made of Perbunan® (NBR) with a steel plate insert, and may also be
+used in temperatures of up to 120 °C. The rubber seals are snapped into place in the outer ring
+of the bearing. The sealing lip has contact with the inner ring (figure D).
+For higher temperature requirements or chemical resistance, sealing discs in EPDM or HNBR (up
+to approx. 130 °C), ACM (up to approx. 150 °C), or Teflon (>200 °C) may also be used. Additionally,
+it is possible to develop special sealing discs with specific sealing lip geometry for particular appli-
+cations. In this way, length of service life can be assured even in more polluted environments, or
+lower rates of lubricant loss. However, such special covers must only be used after consultation
+with NMB Minebea.
+23
+A. Non removable
+metal shield
+B. Removable
+metal shield
+C. Non contact
+rubber seal
+D. Contact
+rubber seal
+
+-- 23 of 48 --
+
+Type 	Material 	NMB PELMEC 	NMB M+I 	DIN/ISO
+Steel sheet 	H 	JH
+one-piece snap in 	Fibreglass-reinforced polyamide 	MN 	MN 	TNH
+Polyamide ‘Nylon’ 	J 	M7 	TNH
+Polyacetate ‘Delrin’ 	J 	TNH
+Two-pieces 	Steel sheet 	without 	R 	J
+The function of the retainer is to maintain separation between the balls and so to prevent addi-
+tional friction and heat developing, and also to distribute the load evenly. Retainers are mainly
+manufactured from steel sheet or plastic.
+The following types of retainer are used:
+Snap in crown retainer
+is used for low to medium speeds, where a very low
+friction generation is required. The snap in crown retai-
+ner is made of deep-drawn steel sheet and is used pri-
+marily in the manufacture of very small sizes of ball
+bearings.
+Two-pieces ribbon retainer
+The two-pieces ribbon retainer is also made of deep-
+drawn steel sheet. It is characterised by its low starting
+torque and an even friction torque. Due to the simpler
+automation of the ball bearing assembly, the two-
+pieces ribbon retainer is used for larger sizes of ball
+bearings with very high production volumes.
+Snap in moulded plastic retainer
+The one-piece moulded plastic retainer is obtainable in
+various materials such as fibreglass-reinforced polyami-
+de or polyacetate. As a general rule moulded plastic
+retainers are for higher-speed applications. Through
+their incase emergency running properties, moulded
+plastic retainers also demonstrate advantages when
+applied in difficult lubrication situations.
+Application temperature is restricted according to the material of which the retainer is made.
+Chemical resistance must also be checked beforehand by NMB Minebea.
+24
+Retainer
+
+-- 24 of 48 --
+
+Measurement methods
+NMB Minebea supply bearings for a variety of applications, many of which require extreme levels
+of high precision and accuracy. A ball bearing is an essential component the performance of
+which is fundamental to the operating performance of the machine.
+NMB Minebea have worke for many years to obtain the reputation that we proudly deserve for
+dimensional accuracy and reliability. To maintain our current levels of excellence, we need to con-
+tinue to use purpose built precision machinery such as: Talyronds, Talysurfs, Anderonmeters, as
+well as equipment that has been designed, developed and manufactured ‘in-house’. For definiti-
+ons and illustrations of Methods of Measurements, please refer to Sec. JISB 1515 (ISO/TR 9274).
+Rotational Accuray
+(1) Inner Ring Cylindrical Bore Run Out with Side (Sd) – see fig. 2-1
+(2) Outside Cylindrical Surface Run Out with Side (SD) – see fig. 2-2
+(3) Radial Run Out - Inner Ring (Kia) – see fig. 2-3
+Radial Run Out - Outer Ring (Kea) – see fig. 2-4
+(4) Axial Run Out - Inner Ring (Sia) – see fig. 2-5
+Axial Run Out - Outer Ring (Sea) – see fig. 2-6
+25
+
+-- 25 of 48 --
+
+Ball bearings tolerances
+NMB Minebea ball bearings are manufactured in accordance with JIS B 1514 (ISO 492) or AFBMA.
+The following symbols are used:
+Dimensions:
+d 	= 	nominal bore diameter
+D 	= 	nominal diameter of outer ring
+B 	= 	nominal width of inner ring
+C 	= 	nominal width of outer ring
+Variances
+Δds 	= 	Variance of an individual bore diameter
+Δdmp 	= 	Variance of the average bore diameter on one plane
+ΔDs 	= 	Variance of an individual external diameter
+ΔDmp 	= 	Variance of the average external diameter on one plane
+ΔBs 	= 	Variance of an individual inner ring width
+ΔCs 	= 	Variance of an individual outer ring width
+Fluctuations
+VD p 	= 	Fluctuation of the outer diameter in an individual radial plane
+VD mp 	= 	Fluctuation of the average external diameter
+Vdp 	= 	Fluctuation of the bore diameter in one radial plane
+Vdmp 	= 	Fluctuation of the average bore diameter
+VBs 	= 	Fluctuation of the inner ring width
+VCs 	= 	Fluctuation of the outer ring width
+True-running accuracy
+K ia 	= 	True running of the inner ring of the assembled bearing (radial deviation)
+S ia 	= 	Axial run-out of the inner ring side surfaces to the inner ring slideway of
+the installed bearing (axial wobble)
+S d 	= 	Axial run-out of the inner ring side surfaces to the bore (side wobble)
+K ea 	= 	True running of the outer ring of the assembled bearing
+S ea 	= 	Axial run-out of the outer ring side surfaces to the outer ring slideway
+of the installed bearing
+S D 	= 	Fluctuation of the inclination of the surface line to the reference lateral
+surface
+26
+
+-- 26 of 48 --
+
+27
+Tolerances inner ring (bore = 18.0 mm as per ISO standard) - values in μm
+Ball bearing tolerances ISO
+P 	MAX. 	MIN. 	MAX. 	MIN. 	MAX. 	MAX. 	MAX. 	OT 	UT 	MAX.
+0 	0 	-8 	– 	– 	10 	– 	– 	0 	-40 *1 	12 *1
+-120 	15 *2
+20
+6 	0 	-7 	– 	– 	5 *1 	– 	– 	0 	-40 *1 	12 *1
+6 *2 	-120 	15 *2
+7 	20
+5 	0 	-5 	– 	– 	4 	7 	7 	0 	-40 *2 	5
+-80
+4 	0 	-4 	0 	-4 	2.5 	3 	3 	0 	-40 *2 	2.5
+-80
+2 	0 	-2.5 	0 	-2.5 	1.5 	1.5 	1.5 	0 	-40 *2 	1.5
+-80
+Δdmp 	Δds 	Kia 	Sd 	Sia 	ΔBS 	VBS
+tolerance
+class
+P 	MAX. 	MIN. 	MAX. 	MIN. 	MAX. 	MAX. 	MAX. 	OT 	UT 	MAX.
+0 	0 	-8 *1 	– 	– 	15 	– 	– 	0 	*2 	* 2
+-9
+6 	0 	-7 *1 	– 	– 	8 *1 	– 	– 	0 	*2 	* 2
+-8 	9
+5 	0 	-5 *1 	– 	– 	5 *1 	8 	8 	0 	*2 	5
+-6 	6
+4 	0 	-4 *1 	0 	-4 *1 	3 *1 	4 	5 	0 	*2 	2.5
+-5 	-5 	4
+2 	0 	-2.5 *1 	0 	-2.5 *1 	1.5 *1 	1.5 	1.5 *1 	0 	*2 	1.5
+-4 	-4 	2.5 	2.5
+ΔDmp 	ΔDs 	Kea 	SD 	Sea 	ΔCS 	VCS
+tolerance
+class
+Tolerances outer ring (Ø = 30.0 mm as per ISO standard) - values in μm
+*1 = Outer ø ≤ 18.0 mm
+*2= Values see table above
+Outer ring tolerance for width is identical with the inner ring tolerances.
+*1 = Bore ø ≤ 2,5 mm 	– 	*2 = Bore ø ≤ 10,0 mm
+
+-- 27 of 48 --
+
+Ball bearing tolerances AFBMA
+28
+Tolerances inner ring (bore ≤ 18,0 mm as per AFBMA standard) - values in μm
+ABEC 	MAX. 	MIN. 	MAX. 	MIN. 	MAX. 	MAX. 	MAX. 	OT 	UT 	MAX.
+1P 	0 	-8 	– 	– 	10 	– 	– 	0 	-40 *1 	12*1
+-120 	15 *2
+20
+3P 	0 	-5.1 	+2.5 	-7.6 	5.1 	– 	– 	0 	-127 	–
+7.6
+5P 	0 	-5.1 	0 	-5.1 	3.8 	7.6 	7.6 	0 	-25.4 	5.1
+7P 	0 	-5.1 	0 	-5.1 	2.5 	2.5 	2.5 	0 	-25.4 	2.5
+9P 	0 	-2.5 	0 	-2.5 	1.3 	1.3 	1.3 	0 	-25.4 	1.3
+Δdmp 	Δds 	Ki 	Sdi 	Si 	ΔBS 	VBS
+tolerance
+class
+offenes Lager 	geschl. Lager
+ABEC 	MAX. 	MIN. 	MAX. 	MIN. 	MAX. 	MIN. 	MAX. 	MAX. 	MAX. 	OT 	UT 	MAX.
+1P 	0 	-8 *1 	– 	– 	15 	– 	– 	– 	– 	0 	*2 	*2
+0 	-9
+3P 	0 	-7.6 	+2.5 	-10. 2 	+5.1 	-12.7 	10.2 	– 	– 	0 	-127 	–
+5P 	0 	-5.1*1 	0 	-5. 1 	+1 	-6.1 	5.1 	7.6 	7.6 	0 	-25.4 	5.1
+7P 	0 	-5.1 	0 	-5. 1 	+1 	-6.1 	3.8 	3.8 	5.1 	0 	-25.4 	5.1
+9P 	0 	-2.5 *1 	0 	-2. 5 *1 	– 	– 	1.3 *1 	1.3 	1.3 *1 	0 	-25.4 	1.3
+0 	-3.8 	-3. 8 	2.5 	2.5
+ΔDmp 	ΔDs 	Ke 	SD 	Se 	ΔCS 	VCS
+tolerance
+class
+Tolerances outer ring (Ø = 30.0 mm as per ISO standard) - values in μm
+*1 = Outer ø ≤ 18.0 mm
+*2= Values see table above
+Outer ring tolerance for width is identical with the inner ring tolerances.
+*1 = Bore ø ≤ 2,5 mm 	– 	*2 = Bore ø ≤ 10,0 mm
+
+-- 28 of 48 --
+
+29
+The exact shape of the corner profile for the bearings is not laid down. It is
+restricted solely by the minimum and maximum corner radii and the arc rsmin
+(see ISO 582).
+Corner radii
+Values in mm
+0. 05 	– 	– 	0. 1 	0. 2 	0. 05
+0. 08 	– 	– 	0. 16 	0. 3 	0. 08
+0. 1 	– 	– 	0. 2 	0. 4 	0. 1
+0. 15 	– 	– 	0. 3 	0. 6 	0. 15
+0. 2 	– 	– 	0. 5 	0. 8 	0. 2
+0. 3 	– 	40 	0. 6 	1. 0 	0. 3
+0. 6 	– 	40 	1. 0 	2. 0 	0. 6
+rsmin 	d 	rsmax 	ramax
+Bore
+Housing
+> 	≤ 	Radial direction 	Axial direction 	Shaft ø
+The exact shape of the corner profile is not laid down, but seen in radial section should lie wit-
+hin the arc shown in the following diagram.
+rsmax
+rsmin
+rsmin
+Axial Direction
+Radial Direction
+rsmin
+Face
+Inner/outer ring
+Bore/outer Ø
+ball bearing 	housing / shaft
+Bore/housing
+shaft Ø
+ramax
+Face housing
+Shaft shoulder
+ramax
+ramax ≤ rsmin
+rsmax
+
+-- 29 of 48 --
+
+Bearing clearance
+Bearing clearance is an extremely important characteristic. The right choice has a critical effect on
+the service life, the running noise, vibration and temperature behaviour of a ball bearing. For this
+reason, it is necessary to select the right bearing clearance class beforehand, in accordance with
+the installation and application circumstances.
+Bearing clearance may be affected either by pressure applied on the outer or inner ring, accor-
+ding to the type of installation selected. Bearing clearance in the uninstalled bearing is therefo-
+re separated into various bearing clearance classes. Standard values for ball bearing radial clea-
+rances are laid down in ISO 5753. However, by comparison with ISO, NMB Minebea uses a more
+exacting classification with substantially reduced tolerances.
+NMB Minebea manufactures the ball bearings for two different product sectors. Pure M+I
+(Miniature and Instrument) ball bearings with relatively small production volumes, primarily for
+instrument manufacture, and Pelmec ball bearings with ISO designation for larger sizes. Each of
+these product sectors use different designation systems for ball bearing clearance classes.
+30
+As further characteristics, axial play and tilt angle can also be of interest. Axial play is not stan-
+dardised, but can play an important role when for example establishing the overall axial play of
+a motor driving shaft. The maximum tilt angle is a product of the inner bearing geometry and
+the bearing clearance in installed position. The maximum tilt angle influences maximum permis-
+sible alignment errors in the bearing system.
+measured stress 	measured stress
+RP Radial play
+AP Axial play 	Tilt angle
+RP
+AP
+2
+Radial play 	M1 	M2 	M3 	M4 	M5 	M6
+(standard) 	(standard)
+Value in μm 	0-5 	3-8 	5-10 	8-13 	13-20 	20-28
+Radial play 	P13 	P24 	P25 	P35 	P58
+(standard) 	(standard)
+Value in μm 	2,5-7,5 	5-10 	5-12,5 	7,5-12,5 	12,5-20
+Radial designation for M+I ball bearings in μm
+Radial designation for Pelmec ball bearings in μm
+
+-- 30 of 48 --
+
+31
+Imperative for the service life of ball bearings is the selection of the correct lubricant. Choice of
+the correct lubricant will also be a decisive influence on operating noise, friction, speed of rota-
+tion and protection against corrosion.
+Generally speaking, all NMB ball bearings are protected by a corrosion-resistant oil.
+Sealed / shielded NMB ball bearings are greased during their production and therefore lubrica-
+ted for life. Normally it isn’t possible to regrease miniature ball bearings. Open ball bearings are
+normally oiled.
+The major advantages of grease lubrication are the good sealing effect against penetration of
+dirt from the outside, low level of maintenance required (lifetime lubrication) and the damping
+effect on operating noise. Oil lubrication is ideal for gearing which is already oil-lubricated, or in
+applications where a very low friction torque is required. Selection of the most suitable lubricant
+depends on the application parameters. These are primarily the operating temperature, such
+environmental influences as moisture and dust, and noise requirements. In the following lubri-
+cation chart a selection of the standard oils and greases available from NMB are listed. Other
+lubricants are also available at the customer’s request.
+Lubrication
+Lubricant quantities
+As a rule, in the case of greased bearings, 30 % of the unfilled space is filled with lubricant. By
+request, however, varying amounts of lubricant may also be used. The following suffixes are used
+to indicate the amount of lubricant in ball bearings:
+L = 10 –15 % 	T = 15 – 20 % 	No Code 25 – 35% 	H = 40 – 50 % 	J= 50 – 60%
+LO1
+LY121
+LY342
+LY532
+LY551
+LY677
+LY683
+LY684
+LY706
+LY718
+NMB
+Code
+Product
+name
+Grundöl/
+Verdicker
+Basic oil/
+thickener
+Tempe-
+rature
+range
+Application
+purpose
+Typical
+application
+L-245X
+Multemp
+SRL
+Asonic
+GLY 32
+Asonic HQ
+72-102
+Multemp
+K37
+Fomblin
+NMB PF1
+Klüberquiet
+BQ72-72
+Klübersynth
+HB 72-52
+Klüberquiet
+BQH72-102
+Klüberquiet
+BQ 42-32
+diester oil
+diester oil /
+Lithium
+diester oil / Lithium
+synthetic HC
+diester oil /
+Polyurea
+PAO /
+Polyurea
+PFPE/PTFE
+Ester oil /
+Polyurea
+Ester oil /
+Polyurea
+Ester oil /
+Polyurea
+Ester oil /
+Lithium
+3,5 / 11,8
+5,1 / 26
+5 / 25
+12 / 100
+7,9 / 47,6
+45 / 159
+9 / 70
+9 / 53
+11 / 100
+5 / 25
+-50/120
+-40/120
+-50/140
+-40/180
+-40/160
+-60/240
+-45/180
+-35/180
+-40/180
+-50/150
+Instr. oil Rust prot.
+Low noise, multi-
+purpose, lubricant
+Low friction,
+low noise
+Medium / higher
+temperature appl.
+High temperature
+Low friction
+Highest
+temperature
+High temperature /
+Medium load
+EPDM
+Compatibility
+High temperature /
+Higher load
+Low temperature /
+Smooth running
+Rust protection (open bearing)
+Wide range of
+applications
+Fan application
+electrical motor
+Automotive
+applications
+Vacuum cleaner fans /
+electric tools
+Automotive
+EGR, ABS
+Automotive
+Electrical motors
+Automotive
+Oil pump motors
+Automotive
+Electrical motors
+Medical tool/
+Miniature power tool
+
+-- 31 of 48 --
+
+Service life
+The standardised calculation process as per DIN ISO 281 for dynamically-stressed ball bearings is
+based on material fatigue as the reason for failure. Here, the value Lh10 expresses the nominal
+service life which at least 90 % of a large number of similar bearings must attain or exceed.
+The nominal service life is calculated as follows:
+The formula Lh10
+Lh10 	= 	nominal service life [h]
+C 	= 	dynamic carrying figure [N]
+P 	= 	dynamic equivalent loading
+p 	= 	service life exponent (p = 3 for ball bearings)
+n 	= 	rotation number [min-1]
+The dynamic equivalent loading P for ball bearings is a mathematical value which converts exi-
+sting radial and axial loading on the ball bearing into a constantly operative radial loading. The
+dynamic carrying figure C is taken from the corresponding table in the ball bearing catalogue.
+P = X * Fr + Y * Fa
+where
+P 	= 	dynamic equivalent loading
+Fr 	= 	radial loading
+Fa 	= 	axial loading
+X 	= 	radial factor
+Y 	= 	axial factor
+Values for the factors X, Y are taken from the calculating procedure according to DIN ISO 281.
+Static loadability
+Under high static stresses, there develop on roller bearings and the roller bearing rollerways per-
+manent deformations. Experience shows that a permanent total deformation of 0.00001 times
+the diameter of the bearing at the central point of the most heavily-loaded contact point bet-
+ween bearing and rollerway may be permitted in most applications without impairment of the
+operating efficiency of the bearing. The static bearing figure is thus set so high that this defor-
+mation occurs approximately when the equivalent static loading is equivalent to the static bea-
+ring figure.
+The static equivalent loading PO for ball bearings is a mathematical value which converts the exi-
+sting radial and axial loadings on the ball bearing to a constantly-operative radial loading. The
+static carrying figure CO is taken from the corresponding table in the ball bearing catalogue.
+Po 	= 	Xo * Fr + Yo * Fa
+Po 	= 	static equivalent loading
+Fr 	= 	radial loading
+Fa 	= 	axial loading
+Xo 	= 	radial factor 	= 0.6 for ball bearings
+Yo 	= 	axial factor 	= 0.5 for ball bearings
+Values for the factors X, Y are taken from the calculating procedure according to DIN ISO 76.
+Service life – static loadability
+32
+
+-- 32 of 48 --
+
+33
+In order to achieve operation as near noiseless as possible, in most applications, two ball bearings
+are installed in contact with one another (pre-stressed). Pre-stressing is actually accomplished by
+spring elements. The elastic nature of the pre-stressing equalises out temperature variations
+during operation. In addition, vibration and stationery shocks are lessened.
+Optimum pre-stressing must be calculated for each and every application. If pre-stressing is high,
+there will be increased friction torque and an increase in temperature which will lead to a
+decreased service life. On the other hand, if the pre-stressing is too low, this will lead to problems
+with friction corrosion, fretting corrosion, vibration and thus to noisier operation. NMB Minebea
+recommends that the pre-stressing is introduced over the non-rotating ring of the ball bearing
+(inner or outer ring). This will prevent frictional corrosion occurring because of relative movement
+between the rotating parts. The rotating ring should be fixed by a press-fit. For the majority of
+applications, this means that with the shaft rotating the inner ring of the ball bearing will be
+fixed with a press-fit. The pre-stressing should then be introduced over the outer ring with a
+spring element, e.g. a three-pointed corrugated washer (see sketch).
+Pre-stressed / bearing adjustment
+
+-- 33 of 48 --
+
+34
+Preload
+Optimum Preload
+In most applications where ball bearings are used, an axial load is deliberately built in. This is
+done for two reasons:
+If there is any internal bearing clearance, vibration and noise will occur, and also axial and radial
+yield rates will be very soft. This force applied in the axial direction is known as preload. An opti-
+mum preload can be specified for each size of ball bearing. If too much preload is applied, the
+bearing fatigue life will be short and bearing starting and running torque will also be high. If the
+preload applied is insufficient, fretting corrosion can occur. This happens as a result of vibration
+causing the balls to resonate on the track. Therefore, obtaining the correct Preload is very impor-
+tant. Optimum preload is normally recommended after calculating the optimum operating sur-
+face stress at the contact ellipse.
+The contact ellipse is the area of contact between ball and raceway that occurs as a result of pla-
+stic deformation of both parts under load. Operating surface stress is given by Q/S, where Q = ball
+load or load on the raceway (perpendicular to the point oft contact), and S = surface area of the
+contact ellipse. Please see figure A.
+Depending on the life requirement for each application, the following guidelines can be applied.
+If the life requirement is over 10,000 hours (e.g. Hard Disk Drives, etc.), the preload can be calcu-
+lated based on an optimum surface contact stress that does not exceed 80 Kgf/mm^2.
+For applications with a life requirement of between 5,000 and 10,000 hours, the optimum prelo-
+ad can be calculated using a contact ellipse stress that does not exceed 100 Kgf/mm^2 (general
+applications).
+For applications requiring an operating life of less than 5,000 hours a surface stress of less than
+150 Kgf/mm^2 should be used. (Mainly used in applications where high rigidity is required).
+If a surface stress of 270 Kgf/mm^2 is applied in a high carbon chrome bearing, permanent race-
+way and ball deformation will occur. It is possible that stresses below 270 Kgf/mm^2 will result in
+no permanent raceway or ball deformation, but we would recommend a maximum safe working
+stress of 160 Kgf/mm^2. Please contact NMB Minebea Engineering Department for further infor-
+mation on this subject.
+A
+
+-- 34 of 48 --
+
+Preload and Stiffness
+There are two basic methods of preloading: solid preload and spring preload.
+Solid preload can be obtained by mechanically locking all of the rings in position whilst under an
+axial load. The advantages of this type of design are that the components remain simple and the
+stiffness is high. The disadvantage is high variation in preload under temperature variation. Also
+the preload can reduce with wear.
+Constant pressure preload (or spring preload) can be applied using a coil spring washer. An
+advantage of constant pressure preload is that it sustains consistent preload with temperature
+variation. A disadvantage is that the designs are more complex and normally have lower stiffn-
+ess. The preload can be applied in two directions, DB and DF (DB = Duplex back to back, DF =
+Duplex face to face). When considering stiffness, DB is more commonly used because it is stiffer
+under moment loads.
+35
+
+-- 35 of 48 --
+
+A ball bearing is normally interference fitted or glued onto a shaft or into a housing. The inter-
+ference fit or glue has an effect on the bearing performance, which is caused by reduction in radi-
+al clearance. Radial clearance reduction is caused as a result of hoop stress on the inner/outer ring
+which respectively causes expansion/contraction of the respective ring. In an interference fit, the
+shaft/housing geometry will influence the shape of inner/outer ring. Glue can also induce the
+same effects. This is caused as a result of accelerated localised expansion of the glue during
+curing. These factors effect: bearing life, torque, rotational stability, non-repetitive radial run out
+(NRRO) and noise.
+Inner ring expansion can be calculated as follows:
+Interference fitting a ball bearing on a shaft
+The expansion of an inner ring caused by an interference fit of a ball bearing on a shaft, Δ,
+is equivalent to the reduction of radial clearance in the ball bearing.
+∂ = expansion of inner ring caused by interference fit
+d = inner ring bore
+d1 = bore diameter of shaft (if solid value is 0)
+I = Fit
+Eb = Young’s Modulus of elasticity (inner ring)
+Es = Young’s Modulus of elasticity (shaft)
+mb = Poisson’s ratio (inner ring)
+ms = Poisson’s ratio (shaft)
+The reduction of an outer ring caused by an interference fit of a ball bearing into a housing, Δ,
+is equivalent to the reduction of radial clearance in the ball bearing.
+Δ = compression of outer ring caused by interference fit
+D 1 = outer ring raceway diameter
+D = outer ring outside diameter
+D2 = housing outside diameter
+I = fit
+Eh = Young’s Modulus of elasticity (housing)
+mh = Poisson’s ratio (housing)
+36
+Fitting
+Interference fitting a bearing into a housing
+
+-- 36 of 48 --
+
+Bearing Deflection, Yield Rates
+and Natural Bearing Frequencies
+An externally applied load on a ball bearing will cause a deformation at the raceway and
+ball (known as yield), resulting in bearing deflection. The amount of deflection that has
+occurred is very important in calculating yield rates and natural bearing frequencies.
+Radial deflection
+The figure below illustrates a force F applying
+a maximum load Q to a single bearing ball.
+Values of Q between two balls is calculated as follows:
+The amount of deflection caused at the contact point
+is calculated as follows:
+Deflection occurs on both the inner ring and outer ring and can be
+calculated as follows:
+37
+δ =
+δt = δi = δe 	δt = total, δi = inner ring, δe = outer ring
+
+-- 37 of 48 --
+
+38
+Bearing Deflection, Yield Rates
+and Natural Bearing Frequencies
+Axial deflection
+When an axial load is applied to a ball bea-
+ring, the axial deflection can be calculated as
+follows:
+Loaded contact angle
+Relationship between free contact
+angle and loaded contact angle
+According to the above calculations, axial
+deflection can be calculated as follows:
+Cr = Radial clearance
+c = Modulus of elasticity
+
+-- 38 of 48 --
+
+Bearing Deflection, Yield Rates
+and Natural Bearing Frequencies
+Yield rate
+When an external load is applied to a ball bearing, the ball can be considered as behaving like a
+spring. The yield rate can be illustrated as follows and in accordance with calculations on page …
+Plotting a graph of bearing deflection against load, a tangent can be drawn at a specified load
+interval to derive the given yield rate.
+39
+Bearing noise
+Often a ball bearing application requires low noise characteristics, for example VCR’s, office
+equipment, fans and motors, etc.
+It is extremely difficult to establish the noise characteristics of a ball bearing by simply taking
+dimensional measurements. It is therefore essential to conduct a dynamic or functional noise
+test.
+Natural frequency
+The natural frequency effects of ball bearings are becoming more and more important as motor
+designs become smaller and smaller. The effects of vibration resulting in resonance of the ball
+bearings’ natural frequencies mean that noise considerations have become critical at the stage of
+ball bearing selection.
+Natural frequency in axial direction
+Variables that affect natural frequencies in ball bearings are:
+W = Outer ring weight
+G = Accelleration
+k = Yield rate
+
+-- 39 of 48 --
+
+The function of a ball bearing is to rotate quietly and smoothly with as little vibration as possi-
+ble. However, when rotational and/or external vibrating frequencies are coincident with the
+natural frequencies of component parts in assemblies, resonance is generated leading to excessi-
+ve noise and vibration.
+The natural vibration frequencies of a ball bearing alter with a change in the rotational speed.
+Vibration has three directions, which are: axial, radial and rotational. The direction of vibration
+can be critical, depending on the application, e.g. the performance characteristics of a VCR Drum
+Motor are adversely affected by rotational and axial vibration. Also a laser scanner is adversely
+affected by rotational vibration and hard disk drives are affected by radial vibration. The three
+vibration directions can produce additional energy within the bearing components, inducing
+resonance. NMB have established an excellent reputation for high accuracy and good quality
+resulting in bearings with low vibration characteristics.
+Calculating vibration frequencies
+Inner ring rotation application @fr [Hz]
+fa = Orbiting ball frequency (Rotation about the bearings axis of rotation)
+fb = Retainer frequency (Same as fa, retainer and balls rotate at the same speed)
+fb = fa
+fc = Ball rotation frequency (Rotation about its own axis)
+fd = Vibration caused by ball-pass a point frequency
+fdt = (ball-pass-outer-raceway frequency/outer raceway defect)
+fdr = (ball-pass-inner-raceway frequency/inner raceway defect)
+Outer ring rotating applications @Fr [Hz]
+Fa = Orbiting ball frequency (Rotation about the bearings axis of rotation)
+Fb = Retainer frequency (Same as Fa, retainer and balls rotate at the same speed)
+Fc = Ball rotation frequency (Rotation about its own axis)
+Fd = Vibration caused by ball-pass a point frequency
+Fdt = (ball-pass-outer-raceway frequency/outer raceway defect)
+Fdr = (ball-pass-inner-raceway frequency/inner raceway defect)
+Summary of variables:
+DW = Ball diameter; Dpw = Pitch circle diameter; α0 = Nominal contact angle;
+Z = Ball quantity; n = Integer;
+fr = Inner ring rotational speed (Hz); Fr = Outer ring rotational speed (Hz);
+cos α0 = ~1 (can be used for the purposes of this calculation)
+40
+Vibration from rotation
+
+-- 40 of 48 --
+
+41
+Ball bearings are fixed, according to the external forces, in radial and axial direction on the shaft
+and in the housing. The fixing may be achieved either by means of press-fit, bonding, or by
+shape-fit (safety washers or safety discs).
+Operationally-dependent heat expansion of various types of shafts and motor components will
+lead to inner stresses on the bearing system if neither of the ball bearings is allowed to move,
+(loose bearing).
+As a general rule, the rotating ring of the ball bearing will be provided with a fixed seating. ISO
+5425 gives instructions regarding the bearing fixing and degree of accuracy of the adjustment. In
+the case of thin-walled ball-bearings, the ISO details should not simply be followed. We will be
+happy to advise you on the ideal choice of installation tolerances and fixing the bearings.
+Installation tolerances
+Ball bearings are precision components and a great deal of care and technology goes into ensu-
+ring that their manufacture and packaging meet high standards of cleanliness. Moisture, particles
+of dirt, metal filings and other foreign bodies, once they penetrate the bearing, can substantial-
+ly affect the running qualities, silent running behaviour and the service life of a bearing. For this
+reason, ball bearings must be treated correspondingly carefully in their use.
+It is essential that the following points are observed:
+– 	Leave the bearing in its original packaging
+until it is time to use it - it is not a waste-basket!
+– 	After removing of the required quantity of ball bearings, reseal the original packaging
+– 	Keep the installation location clean - no chips, filings, dust etc.
+– 	Bearing seatings must be clean and free of swarf, etc.
+– 	Check assembly tools regularly
+– 	Only use force on the ring to be installed
+– 	Do not lay the bearings on highly-absorptive surfaces
+– 	Do not blow the bearing clean with compressed air
+– 	Use no chemicals in the vicinity (gases, vapours, liquids)
+When using adhesives, problems with endurance of the lubricant may sometimes occur. This rela-
+tes particularly to products which contain cyano-acrylates.
+Handling ball bearings
+
+-- 41 of 48 --
+
+42
+As the world’s largest manufacturer of miniature ball bearings, it is appropriate that we should
+also manufacture ball bearing components with the highest precision. NMB Minebea manufact-
+ures such components on state-of-the-art manufacturing equipment. Planning, manufacturing
+and testing procedures are all carried out in house by ourselves. For example, all tools, turned and
+moulded parts are manufactured in house. Assembly of the mechanical components is all under-
+taken in clean rooms which meet the most exacting standards of cleanliness.
+Mechanical components
+
+-- 42 of 48 --
+
+43
+Mechanical components (assemblies)
+Since mechanical components are always developed and manufactured for one specific customer,
+close contact with the customer is an absolute essential for carrying out the project successfully.
+That there is intensive co-operation between the application engineers and sales engineers of
+NMB Minebea and the customer really goes without saying.
+Primarily, small and very precise components are manufactured for all applications. Thus you will
+find shaft encoders, roller conveyors, injection-moulded impellers and components for the PC and
+automation industry in the NMB Minebea product range.
+NMB Minebea’s production capacity makes it possible for us to take on the manufacture of both
+small orders and large series with major production quantities.
+
+-- 43 of 48 --
+
+44
+Engineering support
+It is NMB Minebea’s aim to give its customers optimal support right through the project phase
+and series production. To this end, our sales and applications engineers offer you the service at
+your premises. You will continue to receive individual answers to all organisational and commer-
+cial questions from your local NMB Minebea office. Alongside the usual services such as provision
+of quotations, sampling, service life calculations and preparation of drawings, we also support
+our customers in the new developments sector with ball bearing analysis available during or after
+the field trials.
+Assessment and report preparation is carried out in our German Headquarters in Langen. This is
+the location of our central ball bearing laboratory for Europe, which is equipped with the most
+important analysis equipment and measuring devices. This guarantees very quick and flexible
+turnaround of the analysis. For detailed material and lubricant analysis, we have available the
+development centres of NMB Minebea around the world, in Japan, Thailand, Singapore and USA.
+By arrangement with our customers, we can carry out preliminary tests or endurance tests on our
+own test benches. For this purpose, our Germany location is equipped with modern test benches
+which also means individual field trails can be carried out.
+Naturally enough, we also support our customers in investigating failures, or manufacturing pro-
+blems. In close co-operation with our engineers, manufacturing analysis is often a decisive factor
+in early recognition of problems and avoiding later failures.
+Training measures covering the whole subject of ball bearings - either at one of our facilities or
+directly at the customer’s premises - round off the range of services which we offer.
+
+-- 44 of 48 --
+
+45
+Sample copy for request form · Fax to: +49 (0) 6103 913 328
+Company 	Date
+Street/No. 	Factory
+Town/Postcode 	Telefon
+Name/Department 	Fax
+Your parts No./project name
+Application/details
+Annual needs 	Stk./Jahr 	Start of series production
+Service life product 	No. of bearings/application
+NMB part numbers
+If NMB part unknown, please complete the following fields and/or enclose data sheet/drawing
+Material 	Chrome steel 	Stainless steel 	Hybrid bearing
+Bore ø 	mm 	Cover disc 	Flange bearing 	Flange ø 	mm
+Outer ø 	mm 	Sealing disc 	Flange width 	mm
+Width 	mm 	Open 	Radiale clearance 	from 	to 	μm
+Tolerance class 	Lubricant
+Rotation speed 	Usual service life 	h. 	Inner ring rotation 	Outer ring rotation
+Rotation type 	Continuous 	Reversing 	Oscillating 	Oscillating angle
+Temperature range 	Working temp.
+From 	°C 	To 	°C 	°C 	Dust 	Humidity 	%
+FR 	N 	F1A 	N
+FA 	N 	F1R 	N
+Fi 	N 	F2A 	N
+a 	mm 	F2R 	N
+b 	mm 	Continual
+c 	mm 	Shock
+Pre-stressing 	N
+Acts on 	Inner ring
+Outer ring
+Shaft material 	Roughness 	Rz/Ra 	μm 	tolerance
+Housing material 	Roughnes 	Rz/Ra 	μm 	tolerance
+Shaf /bearing fit 	House/bearing fit
+Force fit 	Force fit 	Sketch: please sketch shaft, housing and
+Sliding fit 	Sliding fit 	securing elements or springs etc., drawings if appropriate.
+
+-- 45 of 48 --
+
+46
+Notes
+
+-- 46 of 48 --
+
+47
+Notes
+
+-- 47 of 48 --
+
+NMB Minebea GmbH
+Siemensstr. 30· D-63225 Langen · Germany
+Tel. +49 (0) 6103 913 0 · Fax +49 (0) 6103 913 328
+email: info_de@nmb-minebea.com
+www.nmb-minebea.de
+Our products:
+Ventilators and blowers
+Controllers
+Articulated
+and spherical bearings
+Geared motors
+Stepper motors
+Brushless DC motors
+Loudspeakers
+Loudspeaker boxes
+PC keyboards
+Issue 2 January 2008
+NMB Minebea U.K. Ltd.
+Bearing & Airmover Sales
+Suite 2.2, Doncastle House, Doncastle Road,
+Bracknell, Berkshire RG12 8PE, U.K.
+Tel. +44 (0) 1344-426 611 Fax +44 (0) 1344-485 522
+NMB Minebea SARL
+5, Avenue Des Bosquets, Les Ponts De Baillet
+95560 Baillet en France, France
+Tel. +33 (0) 1-34 083 939, Fax +33 (0) 1-34 083 930
+NMB Minebea Italia S.R.L.
+Via A. Grandi, 39/41, 20017 Mazzo di Rho (MI), Italy
+tel. +39 02-9397 11 Fax +39 02-9390 11 54
+www.nmb-europe.com
+
+-- 48 of 48 --
+

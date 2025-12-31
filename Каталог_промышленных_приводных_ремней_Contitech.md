@@ -1,0 +1,13277 @@
+# Каталог промышленных приводных ремней Contitech.
+
+**Language:** русский,английский о производителе ...
+
+**Size:** 6,6Mb
+
+**Source:** [PDF](https://aprom.by/catalog/catalog-contitech.pdf)
+
+---
+
+## Content
+
+01.05.2011
+Power Transmission Group
+2011
+Price List Industry
+Lista de precios industria
+Прайс-лист для
+промышленности
+Listino prezzi industria
+
+-- 1 of 132 --
+
+2
+Contents 	Índice del catálogo | Содержание | Indice
+ContiTech drive components .........…….............................…............
+ContiTech Elementos de transmisión
+Компоненты привода ContiTech
+Elementi di trasmissione ContiTech
+6
+Wrapped V-belts
+Correas trapeciales recubiertas
+Клиновые ремни обернутые
+Cinghie trapezoidali rivestite
+CONTI-V® .....................................…......................
+DIN 2215
+Profi le | Perfi l | Профиль | Sezione
+10/Z 	13/A 	17/B
+20/- 	22/C 	25/-
+32/D 	40/E
+8
+CONTI-V® ...............................…..............…..........
+DIN 7753
+Profi le | Perfi l | Профиль | Sezione
+SPZ/3V/9N 	SPA 	SPB/5V/15N
+19 	SPC 	8V/25N
+16
+CONTI-V® ADVANCE ...............................…..........
+DIN 2215 / DIN 7753
+Profi le | Perfi l | Профиль | Sezione
+10/Z 	13/A 	17/B
+20/- 	22/C 	25/-
+32/D 	40/E
+SPZ/3V/9N 	SPA 	SPB/5V/15N
+19 	SPC 	8V/25N
+20
+CONTI-V® POWER ...................................…..........
+DIN 2215 / DIN 7753
+Profi le | Perfi l | Профиль | Sezione
+10/Z 	13/A 	17/B
+20/- 	22/C 	25/-
+32/D 	40/E
+SPZ/3V/9N 	SPA 	SPB/5V/15N
+19 	SPC 	8V/25N
+22
+CONTI-V® NONFRIC POWER ..................…..........
+DIN 2215
+Profile | Perfil | Профиль | Sezione
+17/B
+26
+CONTI-V® ROFLEX GARDEN ...................….........
+Profile | Perfil | Профиль | Sezione
+3L 	4L 	5L
+28
+CONTI-V® DUAL ......................................…..........
+Profile | Perfil | Профиль | Sezione
+HAA/AA 	HBB/BB 	HCC/CC
+30
+CONTI-V® PIONEER ...................….........…..........
+DIN 2215 / DIN 7753
+Profi le | Perfi l | Профиль | Sezione
+13/A
+SPZ/3V/9N 	SPA
+25
+
+-- 2 of 132 --
+
+3
+Raw-edge V-belts
+Correas trapeciales de flancos abiertos
+Клиновые ремни с открытыми боковыми
+гранями
+Cinghie trapezoidali a fianchi aperti
+CONTI-V® FO ADVANCE .............….........…..........
+DIN 7753
+Profi le | Perfi l | Профиль | Sezione
+XPZ / 3VX 	XPA
+XPB / 5VX 	XPC
+36
+CONTI-V® FO ...........................................…..........
+DIN 2215
+Profi le | Perfi l | Профиль | Sezione
+5/- 	6/Y 	8/-
+ZX 	AX 	BX
+CX
+32
+CONTI-V® FO LAM ADVANCE ..................….........
+Profi le | Perfi l | Профиль | Sezione
+10/Z 	13/A 	17/B
+SPZ 	SPA 	SPB
+SPC
+40
+CONTI-V® FO LAM POWER .....................….........
+Profi le | Perfi l | Профиль | Sezione
+10/Z 	13/A 	17/B
+SPZ 	SPA 	SPB
+SPC
+41
+CONTI-V® FO MULTILAM ADVANCE .......….........
+Profi le | Perfi l | Профиль | Sezione
+10/Z 	13/A 	17/B
+42
+CONTI-V® FO MULTILAM POWER ..........…..........
+Profi le | Perfi l | Профиль | Sezione
+10/Z 	13/A 	17/B
+43
+Banded V-belts
+Correas trapeciales múltiples
+Многоручьевые клиновые ремни
+Cinghie trapezoidali stratificate
+CONTI-V® MULTIBELT ................….........…..........
+Profile | Perfil | Профиль | Sezione
+3V (9J) 	5V (15J) 	8V (25J)
+A/HA 	B/HB 	C/HC
+SPZ 	SPA 	SPB
+SPC
+44
+CONTI-V® MULTIBELT ADVANCE ......................
+Profile | Perfil | Профиль | Sezione
+3V (9J) 	5V (15J) 	8V (25J)
+A/HA 	B/HB 	C/HC
+SPZ 	SPA 	SPB
+SPC
+48
+CONTI-V® MULTIBELT POWER ...............…..........
+Profile | Perfil | Профиль | Sezione
+3V (9J) 	5V (15J) 	8V (25J)
+A/HA 	B/HB 	C/HC
+SPZ 	SPA 	SPB
+SPC
+49
+CONTI-V® MULTIBELT FO ADVANCE ................
+Profile | Perfil | Профиль | Sezione
+3VX (9JX) 	5VX (15JX)
+XPZ 	XPA 	XPB
+XPC
+50
+
+-- 3 of 132 --
+
+4
+CONTI® SYNCHROFORCE EXTREME .....….........
+Profile | Perfil | Профиль | Sezione
+HTD 8M 	HTD 14M
+STD S8M
+CTD C8M 	CTD C14M
+84
+CONTI® SYNCHROFORCE CXP .............…..........
+Profile | Perfil | Профиль | Sezione
+HTD 3M 	HTD 5M 	HTD 8M
+HTD 14M
+STD S8M
+74
+CONTI® SYNCHROFORCE CXA ...........................
+Profile | Perfil | Профиль | Sezione
+HTD 8M 	HTD 14M
+STD S8M
+CTD C8M
+80
+CONTI® SYNCHROBELT .........................…..........
+Profile | Perfil | Профиль | Sezione
+MXL 	XL 	L
+H 	XH 	XXH
+HTD 3M 	HTD 5M 	HTD 8M
+HTD 14M
+STD S8M
+64
+CONTI® SYNCHROCOLOR ..........….......…..........
+Profile | Perfil | Профиль | Sezione
+HTD 8M 	HTD 14M
+88
+Timing belts
+Correas síncronas
+Зубчатые ремни
+Cinghie dentate
+CONTI-V® MULTIRIB POWER .....….........…..........
+DIN 7867
+Profi le | Perfi l | Профиль | Sezione
+PL ZAR 	PM ZAR
+60
+CONTI-V® MULTIRIB ELAST ........….........…..........
+DIN 7867
+Profi le | Perfi l | Профиль | Sezione
+PJ 	PK
+62
+CONTI-V® VARISPEED ADVANCE ...........…..........
+Profi le | Perfi l | Профиль | Sezione
+13/6 	17/6 (W 16) 	21/6 (W 20)
+22/8 	24/8 	26/8 (W 25)
+28/8 	30/10 	32/10 (W 31,5)
+37/10 	42/12 (W 40) 	47/12
+52/16 (W 50) 	55/16 	65/20 (W 63)
+70/18 	83/23 (W 80)
+52
+Variable speed belts
+Correas variador de velocidad
+Вариаторные ремни
+Cinghie per variatori
+CONTI-V® MULTIRIB ...................….........…..........
+DIN 7867
+Profi le | Perfi l | Профиль | Sezione
+PJ 	PK
+PL 	PM
+56
+Multiple V-ribbed belts
+Correas acanaladas
+Поликлиновые ремни
+Cinghie trapezoidali scanalate
+CONTI-V® VARISPEED POWER ...............…..........
+Profi le | Perfi l | Профиль | Sezione
+13/6 	17/6 (W 16) 	21/6 (W 20)
+22/8 	24/8 	26/8 (W 25)
+28/8 	30/10 	32/10 (W 31,5)
+37/10 	42/12 (W 40) 	47/12
+52/16 (W 50) 	55/16 	65/20 (W 63)
+70/18 	83/23 (W 80)
+55
+CONTI® SYNCHROCOLOR CXP ..…....................
+Profile | Perfil | Профиль | Sezione
+HTD 8M 	HTD 14M
+90
+
+-- 4 of 132 --
+
+5
+CONTI® SYNCHROTWIN ........................…..........
+Profi le | Perfi l | Профиль | Sezione
+DH
+DHTD D5M 	DHTD D8M 	DHTD D14M
+DSTD DS8M
+94
+CONTI® SYNCHROCHAIN ........…….......…..........
+Profi le | Perfi l | Профиль | Sezione
+CTD C8M 	CTD C14M
+114
+CONTI® SYNCHROLINE .........................…..........
+Profi le | Perfi l | Профиль | Sezione
+HTD 5M 	HTD 8M
+STD S8M
+118
+CONTI® SYNCHROTWIN CXP .................…..........
+Profi le | Perfi l | Профиль | Sezione
+DHTD D5M 	DHTD D8M 	DHTD D14M
+DSTD DS8M
+98
+CONTI® SYNCHRODRIVE .......................….........
+Profile | Perfil | Профиль | Sezione
+XL 	L 	H
+HTD 3M 	HTD 5M 	HTD 8M
+HTD 14M
+STD S3M 	STD S5M 	STD S8M
+T5 	T10 	T20
+AT5 	AT10 	AT20
+120
+CONTI® SYNCHRODRIVE N10 .....….......…..........
+Profile | Perfil | Профиль | Sezione
+N10 HF 	N10 HF PAN
+124
+CONTI® POLYFLAT .................................…..........
+Profile | Perfil | Профиль | Sezione
+F HP 	F HF 	F HS
+F XHP 	F XHS
+126
+Flat belts
+Correas planas
+Плоские ремни
+Cinghie piatte
+Service program ...................….............................……….………......
+Programa de servicio
+Сервис
+Programmi di assistenza
+128
+CONTI ® SYNCHROCOLOR CXA ..............….........
+Profi le | Perfi l | Профиль | Sezione
+HTD 8M 	HTD 14M
+92
+CONTI® SYNCHROFLEX ........................…..........
+Profi le | Perfi l | Профиль | Sezione
+AT 3 	AT 5 	AT 10 	AT 20
+T 2 	T 2,5 	T 2,5-DL 	T 5
+T 5-DL 	T 10 	T 10-DL 	T 20
+T 20-DL
+M (MXL) 	K 1 	K 1,5
+102
+CONTI® SYNCHROFLEX GEN III ..........................
+Profi le | Perfi l | Профиль | Sezione
+AT 3 GEN III 	AT 5 GEN III
+AT 10 GEN III 	AT 20 GEN III
+112
+
+-- 5 of 132 --
+
+6
+ContiTech drive components
+ContiTech drive components are state-of-the-art in terms of design and
+material specification. Ultra-modern manufacturing and a continuous
+quality assurance system covering all employees guarantee consistently
+high quality.
+Matching V-belts
+L = L
+guarantee that multi-groove drives exhibit
+• uniform load distribution
+• smooth running
+• high performance
+• good value for money
+CONTI-V®
+CONTI-V® PIONEER
+CONTI-V® FO ADVANCE
+are of the same length in L = L from 1000 mm on up. They build sets
+without extra controls needed.
+The most modern production facilities make L = L V-belts that are
+true-to-size.
+L = L V-belts boast uniform elongation behavior and thus even load
+distribution on the individual belts and less elongation overall.
+The failure of an individual belt requires a complete belt set change.
+Special V-belt lengths and surcharges
+ContiTech V-belts are available in the following special types at a
+surcharge:
+LR special running precision 	+ 25 %
+Narrower tolerances 	+ 20 %
+EL certificate (certifi cate of compliance to EN 10204-4.1) 	+ 20 %
+Made-to-order product
+* = not stocked item(s), minimum quantities required for manufacture.
+Other sizes and types are available on request.
+Terms and conditions of business
+All deliveries are always governed by our terms and conditions of
+business. The list prices are purchase prices for technical retail outlets and
+do not include VAT. Once the new price list goes into effect, all previous
+price lists are no longer valid.
+ContiTech Elementos de transmisión
+Los elementos de transmisión ContiTech se encuentran a la vanguardia,
+tanto en diseño como en la especificación de los materiales. La alta
+calidad está garantizada por una fabricación muy moderna y por un
+sistema de control de calidad continuo en el que participan todos los
+trabajadores.
+Juegos de correas trapeciales
+L = L
+garantizan en transmisiones con múltiples canales
+• una distribución uniforme de la carga
+• un funcionamiento silencioso
+• un alto rendimiento
+• economía
+CONTI-V®
+CONTI-V® PIONEER
+CONTI-V ® FO ADVANCE
+tienen la misma longitud L = L a partir de 1000 mm y pueden utilizarse en
+juegos sin necesidad de un control dimensional previo adicional.
+Las correas trapeciales L=L se fabrican a la medida exacta en modernas
+instalaciones.
+Las correas trapeciales L=L se caracterizan por una menor y homogénea
+elongación, así como también por una distribución uniforme de la carga
+en cada.
+En caso de dañarse una correa trapecial se ha de sustituir el juego
+completo de correas.
+Versiones especiales de correas trapeciales y recargos
+Las correas trapeciales ContiTech se suministran en las siguientes
+versiones con recargo:
+LR precisión especial de funcionamiento 	+ 25 %
+Tolerancia controlada 	+ 20 %
+Certificado EL (certificado de fábrica según EN 10204-4.1) 	+ 20 %
+Producción
+* = no de almacén, producción con cantidades mínimas.
+Otras dimensiones y versiones disponibles bajo consulta.
+Condiciones comerciales
+Todos los suministros están basados exclusivamente en nuestras
+condiciones comerciales. Los precios de lista son precios de compra sin
+IVA para el comercio técnico. Con la entrada en vigor de esta nueva lista
+de precios pierden su validez todas las listas anteriores.
+
+-- 6 of 132 --
+
+7
+Компоненты привода ContiTech
+Компоненты привода ContiTech по конструкции, используемым
+материалам и техническим характеристикам отвечают самым
+высоким современным требованиям. Ультрасовременное
+производство и высококвалифицированные сотрудники,
+отслеживающие качество на каждом этапе изготовления,
+гарантируют постоянно высокое качество продукции.
+Клиновые ремни с подобранной длиной
+L = L
+гарантируют в многоручьевых приводах:
+•равномерное распределение нагрузки
+• плавность хода
+• высокую производительность
+• финансовую выгоду
+CONTI-V®
+CONTI-V® PIONEER
+CONTI-V® FO ADVANCE
+ремни с обозначением L = L от 1000 мм имеют одинаковую длину и
+могут без дополнительного контроля применяться в комплектах.
+Клиновые ремни с обозначением L = L производятся с точным
+соблюдением размеров на самом современном производственном
+оборудовании.
+Клиновые ремни с обозначением L = L под нагрузкой имеют
+одинаковый характер удлинения, благодаря этому нагрузка
+распределяется более равномерно и растяжение отдельно взятого
+ремня и комплекта ремней в целом меньше.
+При выходе из строя отдельного клинового ремня необходимо
+заменить весь комплект ремней.
+Клиновые ремни со специальными требованиями по точности и
+надбавки к цене.
+Клиновые ремни ContiTech доступны в следующих специальных
+исполнениях с надбавкой к цене:
+LR с особой точностью хода 	+ 25 %
+сужение допуска 	+ 20 %
+сертификат EL (сертификат производителя согласно
+стандарту EN 10204-4.1) 	+ 20 %
+Товары на заказ
+* = не входит в складскую программу, производится с требованием
+к минимальному количеству.
+Другие типоразмеры и исполнения по запросу.
+Условия заключения договоров
+Все поставки осуществляются исключительно в соответствии с
+нашими условиями заключения договоров. Прейскурантные цены
+представляют собой цены продаж без НДС для предприятий
+торгующих техническими изделиями. С вступлением в силу этого
+нового прейскуранта предыдущие прейскуранты утрачивают силу.
+Elementi di trasmissione ContiTech
+Gli elementi di trasmissione ContiTech sono componenti all’avanguardia
+per tecnica, struttura e specifica dei materiali. La modernissima
+produzione ed un sistema di controllo della qualità continuo e che involve
+tutti i collaboratori assicurano la costanza della loro alta qualità.
+Cinghie trapezoidali a tolleranza costante
+L = L
+garantiscono per trasmissioni a più gole
+• una ripartizione uniforme del carico
+• un funzionamento stabile
+• un’alta efficienza
+• un’alta economicità
+CONTI-V®
+CONTI-V® PIONEER
+CONTI-V® FO ADVANCE
+sono di lunghezza uguale in L = L già a partire da 1000 mm e possono
+essere raggruppate in set senza ulteriore controllo.
+Le cinghie trapezoidali L = L vengono fabbricate su misura in
+modernissimi impianti di produzione.
+Le cinghie trapezoidali L = L sono caratterizzate da un comportamento
+alla dilatazione uniforme e quindi anche da sollecitazioni uniformi delle
+singole cinghie con variazione della lunghezza complessivamente bassa.
+In caso di guasto di singole cinghie trapezoidali, la trasmissione deve
+essere riequipaggiata con un nuovo set completo.
+Cinghie trapezoidali di esecuzione speciale e sovrapprezzi
+Le cinghie trapezoidali ContiTech sono disponibili nelle esecuzioni speciali
+e con i sovrapprezzi seguenti:
+LR 	Particolare regolarità di marcia 	+ 25 %
+Riduzione della tolleranza 	+ 20 %
+Certificato EL (certificato di fabbrica secondo EN 10204-4.1) 	+ 20 %
+Articoli su richiesta
+* = Non da magazzino; la produzione avviene in quantità minime.
+Altre dimensioni ed esecuzioni sono fornibili su richiesta.
+Condizioni commerciali
+Ogni fornitura avviene come sempre esclusivamente sulla base delle
+nostre condizioni commerciali. I prezzi di listino sono prezzi di acquisto
+per rivenditori tecnici IVA esclusa. Con l’ entrata in vigore di questo nuovo
+listino prezzi, i listini prezzi precedenti non sono più validi.
+
+-- 7 of 132 --
+
+8
+CONTI-V®
+CONTI-V®
+CONTI-V® wrapped V-belts for demanding drives in all
+sectors of machine engineering, DIN 2215
+Correas trapeciales recubiertas CONTI-V® para
+aplicaciones exigentes en todos los sectores de
+construcción de maquinaria, DIN 2215
+CONTI-V® Клиновые ремни обернутые для приводов
+во всех отраслях машиностроения, DIN2215
+Cinghie trapezoidali rivestite CONTI-V® per trasmissioni
+esigenti nell’intero settore delle costruzioni meccaniche,
+DIN 2215
+Properties
+- conditionally resistant to oil
+- resistant to temperatures from -55°C to +70°C
+- electrically conductive to ISO 1813
+- dust-proof
+- suitable for tropical climates
+Características
+- resistencia moderada a los aceites
+- resistentes a temperaturas desde -55°C hasta +70°C
+- conductibilidad eléctrica según ISO 1813
+- insensibles al polvo
+- resistentes a climas tropicales
+Свойства
+- относительная устойчивость к маслам
+- устойчивость к воздействию температур от -55°C до +70°C
+- электропроводность согласно стандарту ISO 1813
+- устойчивость к пыли
+- пригодны для эксплуатации в тропических условиях
+Proprietà
+- Relativamente resistenti all’olio
+- Resistenti a temperature comprese tra -55°C e +70°C
+- Elettricamente conduttrici secondo ISO 1813
+- Resistenti alla polvere
+- Resistenti al clima tropicale
+10/Z 	13/A 	17/B 	20/- 	22/C 	25/- 	32/D 	40/E
+Upper rib width | Anchura superior de correa | Ширина
+верхней части ремня | Larghezza superiore della cinghia 	b o 	mm 	10 	13 	16,5 	20 	22 	25 	31,5 	38
+Belt height | Altura de correa
+Высота ремня | Altezza della cinghia 	h 	mm 	6 	8 	11 	12,5 	14 	16 	19 	24
+Pitch width | Anchura primitiva
+Ширина по расчетной линии | Larghezza primitiva 	b d 	mm 	8,5 	11 	14 	17 	19 	21 	27 	32
+Lower belt width | Anchura inferior de correa
+Ширина внутренней грани ремня | Larghezza inferiore della
+cinghia
+b i 	mm 	6,1 	7,8 	9,4 	11,9 	12,9 	14,6 	19,2 	22,4
+Pitch height | Altura primitiva
+Высота расчетной линии | Distanza tra le linee attive 	h d 	mm 	2,3 	3,1 	3,9 	4,6 	4,6 	6,2 	6,9 	9,2
+Outer length | Longitud exterior
+Внешняя длина | Lunghezza esterna 	L a 	mm Ld +15 	L d+20 	L d +24 	L d+29 	L d+29 	Ld+39 	L d+43 	Ld+58
+Li+38 	L i+50 	L i+69 	L i+79 	L i+88 	L i+101 	L i+119 	Li +151
+Reference length | Longitud básica
+Расчетная длина | Lunghezza indicativa 	Ld 	mm Li+23 	L i+30 	L i+45 	L i+50 	L i+59 	Li +62 	L i+76 	Li +93
+La-15 	L a-20 	L a-24 	L a-29 	L a-29 	L a-39 	L a-43 	La -58
+Inside length | Longitud interior
+Внутренняя длина | Lunghezza interna 	Li 	mm 	Nominal length | Longitud nominal
+Номинальная длина | Lunghezza nominale
+Weight | Peso
+Вес | Peso 	kg/m 	0,06 	0,105 	0,17 	0,24 	0,3 	0,43 	0,63 	0,97
+Profi le | Perfil | Профиль | Sezione 	10/Z 	13/A 	17/B 	20/- 	22/C 	25/- 	32/D
+Li to | Li hasta | Li до | L i fino a 	2500 mm 	5000 mm 	5000 mm 	5600 mm 	5000 mm 	2800 mm 	2360 mm
+Pieces | Cantidad | Штуки | Quantità 	5 	5 	5 	5 	5 	5 	5
+Number in bundle | Cantidades lote | Число ремней в связке | Quantità per mazzo
+L = L
+Intermediate lengths and minimum quantities available on request. | Longitudes intermedias y cantidades mínimas bajo consulta.
+Промежуточные длины и минимальное количество по запросу. | Lunghezze intermedie e quantità minime su richiesta.
+from as small as 1000 mm on up | ya desde 1000 mm | от 1000 мм | già a partire da 1000 mm
+(see page 6 | v. pág. 6 | см. стр. 7 | v. pag. 7)	L = L
+
+-- 8 of 132 --
+
+9
+CONTI-V®
+L i 	Inside length | Longitud interior | Внутренняя длина | Lunghezza interna
+MOQ 	Minimum quantity | Cantidad mínima | Минимальное количество | Quantità minima
+EUR / pc. 	Price per piece | Precio por unidad | Цена за штуку | Prezzo per articolo
+* 	On request (see page 6) | Bajo consulta (v. pág. 6) | По запросу (см. стр. 7) | Su richiesta (v. pag. 7)
+10/Z
+L i (mm) 	RMA 	MOQ 	EUR / pc.
+425 * 	Z 16,75 	35 	8,42
+450 	Z 17,75 	8,42
+470 * 	Z 18,5 	35 	8,42
+475 	Z 18,75 	8,42
+483 * 	Z 19 	35 	8,42
+500 	Z 19,75 	8,42
+508 * 	Z 20 	35 	8,42
+520 	Z 20,5 	8,42
+530 	Z 21 	8,42
+551 * 	Z 21,75 	35 	8,42
+560 	Z 22 	10,05
+575 	Z 22,5 	10,05
+584 * 	Z 23 	35 	10,05
+600 	Z 23,5 	10,05
+610 * 	Z 24 	35 	10,05
+630 	Z 25 	10,05
+650 * 	Z 25,5 	35 	10,05
+670 	Z 26,5 	10,05
+686 * 	Z 27 	35 	10,05
+700 	Z 27,5 	10,05
+710 	Z 28 	10,05
+725 	Z 28,5 	10,05
+730 	Z 28,75 	10,05
+750 	Z 29,5 	10,05
+765 	Z 30 	10,05
+775 	Z 30,5 	10,05
+800 	Z 31,5 	10,05
+813 * 	Z 32 	125 	10,05
+820 	Z 32,25 	10,05
+825 * 	Z 32,5 	125 	10,05
+850 	Z 33,5 	10,05
+856 * 	Z 33,75 	125 	10,05
+865 	Z 34 	10,05
+875 	Z 34,5 	10,05
+889 * 	Z 35 	125 	10,05
+900 	Z 35,5 	10,05
+914 * 	Z 36 	125 	10,05
+925 	Z 36,5 	10,05
+940 * 	Z 37 	125 	10,05
+953 * 	Z 37,5 	125 	10,05
+965 * 	Z 38 	125 	10,05
+990 * 	Z 39 	125 	10,05
+1000 	Z 39,5 	10,71
+1008 * 	Z 39,75 	125 	10,71
+1016 	Z 40 	10,71
+1030 	Z 40,5 	10,71
+1041 	Z 41 	10,71
+1050 * 	Z 41,5 	125 	10,71
+1060 	Z 42 	10,71
+1080 	Z 42,5 	10,71
+1090 * 	Z 43 	125 	10,71
+1105 	Z 43,5 	10,71
+1120 	Z 44 	10,71
+1150 	Z 45 	10,71
+1170 	Z 46 	10,71
+1180 	Z 46,5 	10,71
+1194 	Z 47 	11,66
+1207 * 	Z 47,5 	125 	11,66
+10/Z
+L i (mm) 	RMA 	MOQ 	EUR / pc.
+1215 	Z 48 	11,66
+1230 	Z 48,5 	11,66
+1250 	Z 49 	11,66
+1270 	Z 50 	11,66
+1295 * 	Z 51 	125 	11,66
+1320 	Z 52 	11,66
+1346 	Z 53 	11,66
+1371 	Z 54 	11,66
+1400 	Z 55 	11,66
+1415 * 	Z 55,75 	125 	11,66
+1440 * 	Z 56,75 	125 	11,66
+1450 	Z 57 	13,95
+1475 	Z 58 	13,95
+1500 	Z 59 	13,95
+1525 	Z 60 	14,57
+1550 	Z 61 	14,57
+1575 * 	Z 62 	125 	14,57
+1600 	Z 63 	14,57
+1626 	Z 64 	15,24
+1651 	Z 65 	15,24
+1680 	Z 66 	15,72
+1700 	Z 67 	15,72
+1730 	Z 68 	16,83
+1750 	Z 69 	16,83
+1775 * 	Z 70 	125 	16,83
+1800 	Z 71 	16,83
+1830 	Z 72 	18,47
+1850 	Z 73 	18,47
+1900 	Z 75 	18,47
+1975 	Z 78 	18,96
+2000 	Z 79 	18,96
+2080 	Z 82 	18,96
+2120 	Z 83,5 	18,96
+2160 * 	Z 85 	125 	18,96
+2210 * 	Z 87 	125 	18,96
+2240 	Z 88 	20,90
+2286 * 	Z 90 	125 	20,90
+2311 * 	Z 91 	125 	20,90
+2360 	Z 93 	20,90
+2413 * 	Z 95 	125 	20,90
+2500 	Z 98,5 	20,90
+13/A
+L i (mm) 	RMA 	MOQ 	EUR / pc.
+457 * 	A 18 	30 	10,53
+483 	A 19 	10,53
+508 	A 20 	10,53
+535 * 	A 21 	30 	10,53
+560 * 	A 22 	30 	10,53
+580 	A 23 	10,53
+600 	A 24 	10,53
+630 	A 25 	10,53
+655 	A 26 	10,53
+670 	A 26,5 	10,53
+690 	A 27 	10,53
+710 	A 28 	10,53
+L i (mm) 	RMA 	MOQ 	EUR / pc.
+730 	A 29 	10,53
+750 	A 29,5 	10,53
+767 	A 30 	10,53
+780 	A 30,5 	10,53
+787 	A 31 	10,53
+800 	A 31,5 	10,53
+813 	A 32 	10,71
+825 	A 32,5 	10,71
+838 	A 33 	10,71
+850 	A 33,5 	10,71
+855 	A 34 	10,71
+875 	A 34,5 	10,71
+889 	A 35 	10,71
+900 	A 35,5 	10,71
+914 	A 36 	11,83
+925 	A 36,5 	11,83
+939 	A 37 	11,83
+950 	A 37,5 	11,83
+965 	A 38 	11,83
+975 	A 38,5 	11,83
+991 	A 39 	11,83
+1000 	A 39,5 	11,83
+1016 	A 40 	11,83
+1030 	A 40,5 	11,83
+1041 	A 41 	11,83
+1060 	A 42 	11,83
+1075 	A 42,5 	13,30
+1090 	A 43 	13,30
+1105 	A 43,5 	13,30
+1120 	A 44 	13,30
+1130 * 	A 44,5 	100 	13,30
+1143 	A 45 	13,30
+1168 	A 46 	13,30
+1180 	A 46,5 	13,30
+1200 	A 47 	14,09
+1220 	A 48 	14,09
+1240 	A 48,5 	14,09
+1250 	A 49 	14,09
+1270 	A 50 	15,38
+1300 	A 51 	15,38
+1320 	A 52 	15,38
+1335 	A 52,5 	15,38
+1346 	A 53 	15,38
+1359 * 	A 53,5 	100 	15,38
+1372 	A 54 	15,38
+1400 * 	A 55 	123 	15,38
+1422 	A 56 	16,83
+1448 * 	A 57 	123 	16,83
+1475 	A 58 	16,83
+1500 	A 59 	16,83
+1525 	A 60 	16,83
+1550 	A 61 	16,83
+1575 	A 62 	16,83
+1600 	A 63 	16,83
+1625 	A 64 	18,47
+1651 	A 65 	18,47
+1676 	A 66 	18,47
+1700 	A 67 	18,47
+13/A
+
+-- 9 of 132 --
+
+10
+CONTI-V®
+Li (mm) 	RMA 	MOQ 	EUR / pc.
+1725 	A 68 	18,47
+1750 	A 69 	18,47
+1780 	A 70 	18,47
+1800 	A 71 	18,47
+1825 	A 72 	18,47
+1854 	A 73 	20,41
+1880 	A 74 	20,41
+1900 	A 75 	20,41
+1930 	A 76 	20,41
+1956 	A 77 	20,41
+1980 	A 78 	20,41
+2000 	A 79 	20,41
+2010 	A 79,5 	20,41
+2030 	A 80 	20,90
+2040 	A 80,5 	20,90
+2057 	A 81 	20,90
+2083 	A 82 	20,90
+2100 	A 83 	20,90
+2120 	A 83,5 	20,90
+2134 	A 84 	20,90
+2150 	A 85 	22,68
+2184 	A 86 	22,68
+2200 	A 87 	22,68
+2240 	A 88 	22,68
+2261 	A 89 	22,68
+2285 	A 90 	22,68
+2311 	A 91 	23,82
+2337 	A 92 	23,82
+2360 	A 93 	23,82
+2388 	A 94 	23,82
+2413 	A 95 	24,95
+2435 	A 96 	24,95
+2475 	A 97 	24,95
+2500 	A 98 	24,95
+2515 	A 99 	24,95
+2540 	A 100 	28,02
+2565 	A 101 	28,02
+2591 	A 102 	28,02
+2616 	A 103 	28,02
+2650 	A 104 	28,02
+2667 	A 105 	28,02
+2692 	A 106 	28,22
+2730 	A 107 	28,22
+2743 	A 108 	28,22
+2769 * 	A 109 	73 	28,22
+2800 	A 110 	28,22
+2819 * 	A 111 	73 	28,81
+2840 	A 112 	29,48
+2870 	A 113 	29,48
+2900 * 	A 114 	73 	30,68
+2926 * 	A 115 	73 	31,60
+2946 	A 116 	31,60
+3000 	A 118 	31,60
+3023 * 	A 119 	63 	31,60
+3050 	A 120 	31,60
+3150 	A 124 	31,60
+3226 * 	A 127 	63 	35,02
+3250 	A 128 	35,02
+3302 	A 130 	35,02
+3350 	A 132 	35,02
+3404 	A 134 	35,02
+3454 	A 136 	36,64
+3505 * 	A 138 	63 	37,46
+3550 	A 140 	38,23
+13/A
+L i (mm) 	RMA 	MOQ 	EUR / pc.
+3607 * 	A 142 	63 	39,06
+3632 * 	A 143 	63 	39,43
+3650 	A 144 	39,69
+3683 * 	A 145 	63 	39,69
+3750 	A 148 	39,69
+3810 * 	A 150 	63 	39,69
+3886 	A 153 	39,69
+3912 	A 154 	42,62
+3988 * 	A 157 	63 	42,62
+4000 	A 158 	42,62
+4064 * 	A 160 	63 	43,19
+4115 * 	A 162 	63 	43,52
+4250 	A 167 	44,87
+4394 * 	A 173 	63 	46,27
+4445 * 	A 175 	63 	46,77
+4470 	A 176 	47,01
+4572 * 	A 180 	36 	48,00
+4720 	A 186 	49,42
+4750 	A 187 	49,74
+4978 * 	A 196 	36 	51,21
+5000 	A 197 	51,35
+5334 * 	A 210 	36 	54,78
+5512 * 	A 217 	36 	56,61
+6305 	A 248 	64,75
+17/B
+L i (mm) 	RMA 	MOQ 	EUR / pc.
+584 * 	B 23 	75 	13,10
+615 	B 24 	13,10
+635 	B 25 	13,10
+650 	B 25,5 	13,10
+670 	B 26,5 	13,10
+686 	B 27 	13,10
+710 	B 28 	13,10
+725 	B 28,5 	13,10
+737 * 	B 29 	75 	13,10
+750 	B 29,5 	13,10
+762 	B 30 	13,10
+775 	B 30,5 	13,10
+788 	B 31 	13,10
+800 	B 31,5 	13,10
+813 	B 32 	14,36
+826 * 	B 32,5 	75 	14,57
+838 	B 33 	14,57
+850 	B 33,5 	14,57
+864 	B 34 	14,57
+875 	B 34,5 	14,57
+889 	B 35 	14,57
+900 	B 35,5 	14,57
+915 	B 36 	15,54
+925 	B 36,5 	15,54
+940 * 	B 37 	75 	15,72
+950 	B 37,5 	15,72
+965 	B 38 	15,72
+975 	B 38,5 	15,72
+991 	B 39 	15,72
+1000 	B 39,5 	15,72
+1017 	B 40 	16,83
+1030 	B 40,5 	16,83
+1040 	B 41 	16,83
+1050 	B 41,5 	16,83
+1060 	B 42 	16,83
+1075 	B 42,5 	16,83
+13/A
+L i (mm) 	RMA 	MOQ 	EUR / pc.
+1090 	B 43 	16,83
+1100 	B 43,5 	16,83
+1120 	B 44 	16,83
+1150 	B 45 	18,96
+1163 * 	B 45,75 	75 	18,96
+1175 	B 46 	18,96
+1180 	B 46,5 	18,96
+1200 	B 47 	20,10
+1215 	B 48 	20,10
+1225 	B 48,5 	20,10
+1250 	B 49 	20,10
+1270 	B 50 	20,90
+1300 	B 51 	20,90
+1320 	B 52 	20,90
+1335 	B 52,5 	22,02
+1350 	B 53 	22,02
+1360 	B 53,5 	22,02
+1372 	B 54 	22,02
+1400 	B 55 	22,02
+1422 	B 56 	24,47
+1450 	B 57 	24,47
+1470 	B 58 	24,47
+1500 	B 59 	24,47
+1525 	B 60 	24,95
+1550 	B 61 	24,95
+1575 	B 62 	24,95
+1600 	B 63 	24,95
+1625 	B 64 	27,87
+1650 * 	B 65 	71 	27,87
+1676 	B 66 	27,87
+1689 * 	B 66,5 	71 	27,87
+1700 	B 67 	27,87
+1725 	B 68 	27,87
+1750 	B 69 	28,22
+1761 	B 69,5 	28,22
+1775 	B 70 	28,22
+1800 	B 71 	28,22
+1829 	B 72 	29,80
+1850 	B 73 	29,80
+1880 	B 74 	29,80
+1900 	B 75 	29,80
+1930 	B 76 	29,80
+1950 	B 77 	29,80
+1981 	B 78 	29,80
+2000 	B 79 	29,80
+2030 	B 80 	30,81
+2060 * 	B 81 	71 	31,90
+2083 	B 82 	31,90
+2108 	B 83 	31,90
+2120 	B 83,5 	31,90
+2134 	B 84 	31,90
+2160 	B 85 	35,02
+2184 	B 86 	35,02
+2200 	B 86,5 	35,02
+2240 	B 88 	35,02
+2261 	B 89 	35,02
+2286 	B 90 	36,15
+2300 	B 91 	36,15
+2337 	B 92 	36,15
+2360 	B 93 	36,15
+2388 	B 94 	36,15
+2400 	B 94,5 	38,57
+2413 	B 95 	38,57
+2438 	B 96 	38,57
+17/B
+
+-- 10 of 132 --
+
+11
+CONTI-V®
+L i (mm) 	RMA 	MOQ 	EUR / pc.
+2450 	B 96,5 	38,57
+2465 	B 97 	38,57
+2477 	B 97,5 	38,57
+2500 	B 98 	38,57
+2515 	B 99 	38,57
+2540 	B 100 	38,57
+2565 	B 101 	39,69
+2600 	B 102 	39,69
+2616 	B 103 	39,69
+2650 	B 104 	40,67
+2667 	B 105 	40,67
+2700 	B 106 	40,67
+2718 	B 107 	41,32
+2750 	B 108 	41,81
+2769 	B 109 	41,81
+2800 	B 110 	41,81
+2820 	B 111 	41,81
+2840 	B 112 	41,81
+2870 	B 113 	45,22
+2900 	B 114 	45,70
+2921 	B 115 	45,70
+2950 	B 116 	45,70
+2972 	B 117 	45,70
+3000 	B 118 	45,70
+3050 	B 120 	49,74
+3100 	B 122 	49,74
+3150 	B 124 	49,74
+3175 	B 125 	50,56
+3200 * 	B 126 	50 	50,56
+3226 	B 127 	50,98
+3250 	B 128 	51,35
+3302 	B 130 	51,35
+3350 	B 132 	51,35
+3378 	B 133 	51,35
+3404 	B 134 	53,79
+3429 	B 135 	54,44
+3450 * 	B 136 	50 	54,76
+3505 	B 138 	54,76
+3550 	B 140 	54,76
+3581 	B 141 	54,76
+3600 	B 142 	57,52
+3658 	B 144 	57,52
+3700 	B 146 	57,52
+3734 	B 147 	57,52
+3750 	B 148 	57,52
+3810 	B 150 	60,13
+3835 * 	B 151 	50 	60,13
+3850 	B 151,5 	60,13
+3861 	B 152 	60,13
+3886 * 	B 153 	50 	61,00
+3912 	B 154 	61,91
+3937 	B 155 	61,91
+3950 	B 156 	61,91
+3988 * 	B 157 	50 	62,86
+4000 	B 158 	63,03
+4064 	B 160 	63,03
+4115 	B 162 	63,03
+4140 * 	B 163 	50 	65,84
+4166 	B 164 	66,24
+4200 	B 165 	66,24
+4250 	B 167 	66,24
+4267 	B 168 	66,24
+4300 	B 169 	66,24
+4318 	B 170 	66,24
+L i (mm) 	RMA 	MOQ 	EUR / pc.
+4358 	B 171,5 	68,12
+4369 	B 172 	68,31
+4394 	B 173 	68,70
+4450 	B 175 	68,70
+4500 	B 177 	68,70
+4523 	B 178 	68,70
+4572 	B 180 	68,70
+4699 	B 185 	68,70
+4750 	B 187 	68,70
+4775 	B 188 	72,50
+4801 * 	B 189 	27 	72,89
+4826 * 	B 190 	21 	73,26
+4851 * 	B 191 	27 	73,65
+4877 	B 192 	74,05
+4900 * 	B 193 	27 	75,56
+4953 	B 195 	79,06
+5000 	B 197 	79,06
+5100 	B 200 	79,06
+5182 * 	B 204 	27 	82,14
+5207 	B 205 	83,08
+5283 * 	B 208 	27 	84,29
+5300 	B 209 	84,56
+5334 	B 210 	84,56
+5463 	B 215 	88,68
+5500 	B 217 	89,28
+5600 	B 220 	89,28
+5613 * 	B 221 	27 	89,28
+5664 * 	B 223 	21 	89,28
+5690 * 	B 224 	27 	89,28
+5717 	B 225 	89,28
+5740 	B 226 	89,28
+5791 * 	B 228 	21 	91,22
+5817 	B 229 	92,20
+5971 	B 235 	94,31
+5994 * 	B 236 	27 	95,12
+6045 	B 238 	95,12
+6096 	B 240 	95,12
+6225 	B 245 	95,12
+6274 * 	B 247 	27 	95,12
+6300 	B 248 	95,12
+6325 * 	B 249 	27 	95,12
+6353 	B 250 	95,12
+6426 * 	B 253 	21 	95,12
+6452 * 	B 254 	27 	95,12
+6480 	B 255 	95,12
+6500 	B 256 	95,12
+6579 * 	B 259 	27 	105,64
+6607 	B 260 	106,10
+6700 	B 264 	107,58
+6734 	B 265 	108,34
+6782 * 	B 267 	27 	109,00
+6861 	B 270 	110,37
+6988 	B 275 	112,43
+7000 	B 276 	112,60
+7100 	B 280 	114,71
+7239 	B 285 	115,28
+7369 	B 290 	115,50
+7496 	B 295 	116,91
+7620 * 	B 300 	27 	118,28
+7750 	B 305 	120,30
+7877 	B 310 	122,28
+8000 	B 315 	124,17
+8131 	B 320 	131,23
+8258 	B 325 	133,28
+L i (mm) 	RMA 	MOQ 	EUR / pc.
+8382 	B 330 	135,29
+8639 	B 340 	136,80
+8763 	B 345 	137,53
+8894 	B 350 	138,07
+9017 	B 355 	141,52
+9144 	B 360 	143,53
+9271 	B 365 	145,52
+9398 	B 370 	147,51
+9525 	B 375 	149,50
+20/-
+L i (mm) 	RMA 	MOQ 	EUR / pc.
+900 	18,80
+1000 	18,80
+1060 	20,90
+1120 	21,73
+1180 	24,95
+1215 	24,95
+1250 	24,95
+1275 	26,40
+1320 	26,40
+1400 	27,87
+1450 	29,48
+1500 	29,48
+1600 	31,90
+1660 	33,05
+1700 	33,05
+1800 * 	47 	34,91
+1900 	36,77
+1950 	39,21
+2000 	41,97
+2060 	43,58
+2120 	43,58
+2240 	44,87
+2300 * 	47 	46,01
+2360 	47,15
+2500 	47,64
+2650 	50,71
+2800 	53,64
+3000 	56,69
+3150 	61,25
+3350 	63,03
+3550 	66,24
+3660 	69,12
+3750 	70,82
+4000 	74,54
+4030 * 	29 	75,26
+4250 	80,53
+4500 	85,70
+5000 	94,30
+5300 	101,27
+5500 	104,04
+5600 	105,48
+6000 	112,92
+7100 	134,33
+8000 	150,38
+17/B 	17/B 	17/B
+
+-- 11 of 132 --
+
+12
+CONTI-V®
+22/C
+Li (mm) 	RMA 	MOQ 	EUR / pc.
+1041 * 	C 41 	45 	25,45
+1067 * 	C 42 	19 	25,45
+1090 	C 43 	25,45
+1120 * 	C 44 	19 	25,45
+1143 * 	C 45 	16 	25,45
+1168 * 	C 46 	45 	25,45
+1180 	C 46,5 	25,45
+1200 	C 47 	25,45
+1220 	C 48 	25,45
+1250 	C 49 	25,45
+1270 	C 50 	25,45
+1295 	C 51 	28,22
+1320 	C 52 	28,22
+1350 	C 53 	29,48
+1375 	C 54 	29,48
+1400 	C 55 	29,48
+1425 	C 56 	30,15
+1450 	C 57 	30,62
+1475 	C 58 	31,90
+1486 * 	C 58,5 	19 	31,90
+1500 	C 59 	31,90
+1524 	C 60 	34,54
+1550 	C 61 	34,54
+1575 	C 62 	34,54
+1600 	C 63 	34,54
+1626 	C 64 	34,54
+1650 	C 65 	34,54
+1676 	C 66 	35,97
+1700 	C 67 	36,77
+1727 	C 68 	38,39
+1750 	C 69 	38,39
+1778 	C 70 	38,39
+1800 	C 71 	38,39
+1829 	C 72 	38,39
+1854 	C 73 	39,37
+1880 	C 74 	42,62
+1900 	C 75 	42,62
+1930 	C 76 	42,62
+1950 	C 76,5 	42,97
+1956 	C 77 	43,09
+1981 	C 78 	43,09
+2000 	C 79 	43,09
+2032 	C 80 	44,87
+2057 	C 81 	44,87
+2083 	C 82 	45,53
+2108 	C 83 	46,34
+2120 	C 83,5 	46,34
+2135 	C 84 	46,34
+2159 	C 85 	46,34
+2184 	C 86 	47,15
+2210 	C 87 	47,15
+2240 	C 88 	47,15
+2261 	C 89 	50,71
+2286 	C 90 	50,71
+2311 * 	C 91 	16 	50,71
+2324 	C 91,5 	50,71
+2337 	C 92 	50,71
+2360 	C 93 	50,71
+2388 	C 94 	50,71
+2400 	C 94,5 	50,71
+2413 	C 95 	50,71
+2438 	C 96 	53,64
+2450 	C 96,5 	53,64
+2464 	C 97 	53,64
+L i (mm) 	RMA 	MOQ 	EUR / pc.
+2500 	C 98 	53,64
+2525 	C 99 	55,26
+2540 	C 100 	55,26
+2560 	C 101 	57,04
+2591 	C 102 	57,04
+2616 	C 103 	57,04
+2642 	C 104 	57,04
+2670 	C 105 	57,04
+2685 	C 106 	57,04
+2718 * 	C 107 	45 	57,04
+2750 * 	C 108 	45 	57,04
+2769 * 	C 109 	19 	57,04
+2800 	C 110 	57,04
+2819 	C 111 	63,03
+2845 * 	C 112 	19 	63,03
+2865 	C 113 	63,03
+2900 	C 114 	63,03
+2921 	C 115 	63,03
+2950 	C 116 	63,03
+2965 	C 117 	63,03
+3000 	C 118 	63,03
+3030 	C 119 	64,97
+3050 	C 120 	66,24
+3073 	C 121 	66,34
+3099 	C 122 	66,44
+3120 * 	C 123 	19 	66,64
+3150 	C 124 	66,93
+3175 	C 125 	67,85
+3200 	C 126 	68,37
+3226 * 	C 127 	35 	69,65
+3250 	C 128 	70,82
+3302 	C 130 	70,97
+3327 * 	C 131 	16 	71,05
+3350 	C 132 	71,13
+3378 	C 133 	73,32
+3404 	C 134 	75,34
+3454 	C 136 	75,34
+3480 	C 137 	75,34
+3505 	C 138 	75,34
+3531 * 	C 139 	19 	75,34
+3550 	C 140 	75,34
+3581 	C 141 	78,99
+3607 	C 142 	79,55
+3632 	C 143 	79,55
+3658 	C 144 	79,55
+3683 	C 145 	79,55
+3700 	C 146 	79,55
+3734 	C 147 	79,55
+3750 	C 148 	79,55
+3785 	C 149 	79,55
+3810 	C 150 	79,55
+3835 * 	C 151 	35 	79,55
+3850 	C 152 	79,55
+3912 	C 154 	86,01
+3937 	C 155 	86,01
+3962 * 	C 156 	16 	86,01
+3988 * 	C 157 	16 	86,01
+4000 	C 158 	86,01
+4039 * 	C 159 	35 	86,01
+4064 	C 160 	88,64
+4089 * 	C 161 	21 	88,64
+4115 	C 162 	88,64
+4140 	C 163 	91,32
+4166 	C 164 	91,91
+L i (mm) 	RMA 	MOQ 	EUR / pc.
+4216 	C 166 	93,01
+4250 	C 167 	93,01
+4267 * 	C 168 	35 	93,01
+4293 	C 169 	93,01
+4318 	C 170 	93,01
+4390 	C 173 	93,01
+4445 	C 175 	96,81
+4500 	C 177 	98,00
+4521 	C 178 	98,00
+4540 	C 179 	98,00
+4572 	C 180 	100,93
+4600 	C 181 	100,93
+4623 	C 182 	100,93
+4648 	C 183 	100,93
+4674 * 	C 184 	21 	100,93
+4699 	C 185 	100,93
+4724 	C 186 	100,93
+4750 	C 187 	100,93
+4775 	C 188 	106,62
+4800 	C 189 	106,62
+4826 	C 190 	106,62
+4877 	C 192 	106,62
+4900 * 	C 193 	21 	106,62
+4928 * 	C 194 	21 	106,62
+4953 	C 195 	106,62
+5000 	C 197 	107,76
+5029 	C 198 	109,90
+5080 	C 200 	111,01
+5100 	C 201 	111,45
+5131 	C 202 	112,13
+5156 	C 203 	112,13
+5182 	C 204 	112,13
+5232 * 	C 206 	21 	115,33
+5283 	C 208 	118,60
+5300 	C 209 	118,75
+5334 	C 210 	120,22
+5372 	C 211 	121,07
+5385 	C 212 	129,60
+5410 * 	C 213 	21 	130,21
+5461 	C 215 	131,43
+5486 	C 216 	132,03
+5500 	C 217 	132,37
+5600 	C 220 	132,37
+5639 	C 222 	134,33
+5670 	C 223 	136,81
+5700 	C 224 	137,53
+5715 	C 225 	138,53
+5740 	C 226 	138,70
+5791 	C 228 	139,16
+5817 * 	C 229 	21 	142,44
+5842 	C 230 	145,59
+6000 	C 236 	149,54
+6045 	C 238 	149,87
+6096 	C 240 	150,38
+6200 	C 244 	152,46
+6223 * 	C 245 	21 	152,46
+6300 	C 248 	152,46
+6350 	C 250 	154,88
+6375 	C 251 	163,42
+6401 * 	C 252 	21 	164,09
+6426 	C 253 	164,72
+6477 	C 255 	166,03
+6502 * 	C 256 	21 	166,67
+6604 * 	C 260 	16 	169,29
+22/C 	22/C
+
+-- 12 of 132 --
+
+13
+CONTI-V®
+L i (mm) 	RMA 	MOQ 	EUR / pc.
+6629 * 	C 261 	21 	169,94
+6700 	C 264 	171,76
+6730 	C 265 	172,21
+6807 	C 268 	173,37
+6858 	C 270 	174,97
+6908 	C 272 	178,81
+7010 	C 276 	181,45
+7100 	C 280 	186,35
+7163 * 	C 282 	15 	188,90
+7239 * 	C 285 	15 	191,98
+7315 * 	C 288 	15 	195,05
+7500 	C 295 	202,53
+7569 	C 298 	202,53
+7600 	C 299 	204,44
+7620 	C 300 	204,97
+7650 	C 301 	205,78
+7696 * 	C 303 	15 	207,28
+8000 	C 315 	217,11
+8026 * 	C 316 	15 	217,53
+8200 	C 323 	220,32
+8230 * 	C 324 	15 	221,13
+8382 	C 330 	225,23
+8509 * 	C 335 	15 	227,38
+8534 * 	C 336 	15 	227,81
+8765 	C 345 	231,71
+8788 * 	C 346 	15 	232,19
+8814 * 	C 347 	15 	232,75
+9093 * 	C 358 	15 	238,70
+9144 	C 360 	239,80
+9855 * 	C 388 	15 	258,44
+9906 * 	C 390 	15 	259,31
+10008 * 	C 394 	15 	261,05
+10668 * 	C 420 	29 	272,32
+10770 * 	C 424 	29 	274,50
+11481 * 	C 452 	29 	289,67
+12192 * 	C 480 	29 	304,84
+13208 * 	C 520 	15 	326,52
+25/-
+L i (mm) 	RMA 	MOQ 	EUR / pc.
+1300 	35,81
+1400 	35,81
+1500 	39,53
+1600 	41,57
+1700 	43,58
+1800 	45,70
+1900 	48,13
+1925 * 	39 	48,61
+1950 	49,09
+2000 	50,07
+2050 	51,35
+2120 	52,66
+2200 	55,26
+2240 	55,26
+2360 * 	39 	58,88
+2415 	60,54
+2450 	61,41
+2500 	61,41
+2540 	61,41
+2650 	66,12
+2700 	66,65
+2800 	67,71
+22/C
+L i (mm) 	RMA 	MOQ 	EUR / pc.
+2950 	72,95
+3000 	74,20
+3105 * 	23 	77,04
+3125 * 	23 	77,58
+3150 	78,26
+3180 * 	23 	79,19
+3250 	81,35
+3350 	84,07
+3430 * 	23 	85,38
+3550 	87,33
+3650 * 	23 	90,17
+3750 	93,01
+3880 * 	23 	95,61
+4000 	98,00
+4250 	104,33
+4500 	110,98
+4750 	117,96
+4900 * 	23 	122,82
+5000 	126,06
+5300 	137,73
+5500 	148,31
+5600 	151,00
+5700 * 	23 	154,97
+5970 	165,67
+6000 	166,87
+6300 	176,62
+6700 	197,66
+7100 	212,25
+7500 	225,23
+8000 	244,68
+8500 	262,48
+9000 	286,79
+32/D
+L i (mm) 	RMA 	MOQ 	EUR / pc.
+2000 	D 79 	85,05
+2184 * 	D 86 	11 	90,53
+2360 	D 93 	95,76
+2388 * 	D 94 	11 	96,58
+2500 	D 98 	99,82
+2565 * 	D 101 	11 	102,84
+2650 	D 104 	106,79
+2670 	D 105 	107,58
+2743 * 	D 108 	15 	110,40
+2800 	D 110 	112,60
+2845 * 	D 112 	15 	114,17
+2921 * 	D 115 	15 	116,82
+2946 * 	D 116 	15 	117,70
+3000 	D 118 	119,58
+3048 	D 120 	121,36
+3073 * 	D 121 	15 	122,25
+3175 * 	D 125 	11 	125,93
+3200 * 	D 126 	15 	126,83
+3250 	D 128 	128,64
+3302 * 	D 130 	15 	130,49
+3350 	D 132 	132,20
+3378 * 	D 133 	15 	132,75
+3404 * 	D 134 	15 	133,26
+3425 	D 135 	133,67
+3450 	D 136 	134,65
+3480 * 	D 137 	15 	135,61
+3550 	D 140 	137,87
+3632 * 	D 143 	15 	139,73
+25/-
+L i (mm) 	RMA 	MOQ 	EUR / pc.
+3658 	D 144 	140,32
+3683 * 	D 145 	15 	141,02
+3750 	D 148 	142,89
+3810 	D 150 	152,62
+3861 * 	D 152 	15 	154,44
+3910 	D 154 	156,20
+3940 	D 155 	156,20
+3988 * 	D 157 	15 	156,20
+4000 	D 158 	156,20
+4039 * 	D 159 	15 	156,86
+4075 	D 160 	157,48
+4115 	D 162 	159,94
+4140 * 	D 163 	15 	160,93
+4250 	D 167 	165,29
+4293 * 	D 169 	15 	166,25
+4394 	D 173 	168,51
+4445 * 	D 175 	15 	171,62
+4500 	D 177 	174,97
+4572 	D 180 	178,24
+4620 	D 182 	179,84
+4674 * 	D 184 	15 	182,55
+4750 	D 187 	186,35
+4826 	D 190 	187,94
+4953 	D 195 	192,80
+5000 	D 197 	196,04
+5182 * 	D 204 	20 	200,92
+5207 * 	D 205 	15 	201,99
+5258 	D 207 	204,17
+5300 	D 208,75 	205,78
+5330 * 	D 210 	20 	205,78
+5500 	D 216 	222,10
+5537 * 	D 218 	15 	225,66
+5600 	D 220 	231,71
+5690 	D 224 	233,89
+5715 * 	D 225 	20 	234,92
+5791 * 	D 228 	20 	238,18
+5918 * 	D 233 	15 	243,11
+6000 	D 236 	246,29
+6045 * 	D 238 	20 	246,29
+6096 * 	D 240 	20 	249,53
+6300 	D 248 	254,36
+6350 * 	D 250 	11 	257,81
+6477 * 	D 255 	15 	266,56
+6604 * 	D 260 	11 	275,31
+6700 	D 264 	281,92
+6807 	D 268 	283,55
+6858 	D 270 	285,16
+7100 	D 280 	299,74
+7417 	D 292 	324,05
+7500 	D 295 	330,54
+7569 	D 298 	332,15
+7620 	D 300 	335,39
+7976 * 	D 314 	15 	355,15
+8000 	D 315 	355,88
+8026 * 	D 316 	15 	356,68
+8042 	D 317 	357,17
+8128 * 	D 320 	15 	359,79
+8280 * 	D 326 	15 	366,51
+8331 * 	D 328 	15 	368,77
+8382 	D 330 	371,04
+8760 	D 345 	400,21
+8992 * 	D 354 	15 	417,44
+9000 	D 354 	418,03
+9093 	D 358 	421,26
+32/D
+
+-- 13 of 132 --
+
+14
+CONTI-V®
+Li (mm) 	RMA 	MOQ 	EUR / pc.
+9144 * 	D 360 	15 	423,09
+9500 	D 374 	435,85
+9754 	D 384 	447,20
+9855 * 	D 388 	15 	451,49
+9906 	D 390 	453,67
+10000 	D 394 	458,54
+10617 	D 418 	479,60
+10700 	D 421 	484,46
+11200 	D 441 	513,61
+11278 * 	D 444 	20 	516,43
+12141 	D 478 	547,65
+12192 	D 480 	550,87
+12243 * 	D 482 	20 	554,10
+12500 	D 492 	570,34
+13208 	D 520 	615,18
+40/E
+Li (mm) 	RMA 	MOQ 	EUR / pc.
+4000 * 	E 158 	7 	256,64
+4064 * 	E 160 	13 	260,75
+4656 * 	E 183 	13 	298,72
+5000 * 	E 197 	17 	320,79
+5600 	E 220 	382,37
+6000 * 	E 236 	13 	428,55
+6096 * 	E 240 	13 	435,41
+6180 * 	E 243 	13 	441,41
+6300 * 	E 248 	17 	447,79
+7100 	E 280 	507,14
+7500 * 	E 295 	13 	538,11
+8000 	E 315 	576,83
+8467 * 	E 333 	13 	619,94
+9000 	E 354 	669,14
+10000 	E 394 	738,85
+11200 	E 441 	837,67
+12500 * 	E 492 	17 	934,90
+13208 * 	E 520 	7 	987,85
+32/D
+
+-- 14 of 132 --
+
+15
+CONTI-V®
+
+-- 15 of 132 --
+
+16
+CONTI-V®
+CONTI-V®
+Properties
+- conditionally resistant to oil
+- resistant to temperatures from -55°C to +70°C
+- electrically conductive to ISO 1813
+- dust-proof
+- suitable for tropical climates
+Características
+- resistencia moderada a los aceites
+- resistentes a temperaturas desde -55°C hasta +70°C
+- conductibilidad eléctrica según ISO 1813
+- insensibles al polvo
+- resistentes a climas tropicales
+Свойства
+- относительная устойчивость к маслам
+- устойчивость к воздействию температур от -55°C до +70°C
+- электропроводность согласно стандарту ISO 1813
+- устойчивость к пыли
+- пригодны для эксплуатации в тропических условиях
+Proprietà
+- Relativamente resistenti all’olio
+- Resistenti a temperature comprese tra -55°C e +70°C
+- Elettricamente conduttrici secondo ISO 1813
+- Resistenti alla polvere
+- Resistenti al clima tropicale
+SPZ / 3V / 9N 	SPA 	SPB / 5V / 15N 	19 	SPC 	8V / 25N
+Upper rib width | Anchura superior de correa | Ширина
+верхней части ремня | Larghezza superiore della cinghia 	bo 	mm 	9,7 	12,7 	16,3 	18,6 	22 	25,4
+Belt height | Altura de correa
+Высота ремня | Altezza della cinghia 	h 	mm 	8 	10 	13 	15,7 	18 	23,1
+Pitch width | Anchura primitiva
+Ширина по расчетной линии | Larghezza primitiva 	b d 	mm 	8,5 	11 	14 	15 	19 	25,4
+Lower belt width | Anchura inferior de correa | Ширина
+внутренней грани ремня | Larghezza inferiore della cinghia 	bi 	mm 	4,5 	6,2 	7,9 	8,4 	10,3 	10,5
+Pitch height | Altura primitiva
+Высота расчетной линии | Distanza tra le linee attive 	hd 	mm 	1,9 	2,6 	3,5 	5,5 	4,6 	11,3
+Outer length | Longitud exterior
+Внешняя длина | Lunghezza esterna 	La 	mm L d+12 	L d+17 	L d+22 	Ld +35 	L d+29 	L d+16
+Li+50 	L i+63 	L i+82 	L i+99 	L i+113 	L i+145
+Reference length | Longitud básica
+Расчетная длина | Lunghezza indicativa 	Ld 	mm 	Nominal length | Longitud nominal
+Номинальная длина | Lunghezza nominale
+Inside length | Longitud interior
+Внутренняя длина | Lunghezza interna 	Li 	mm L d-38 	L d-46 	L d-60 	Ld -64 	L d-84 	L d-129
+La-50 	L a-63 	L a-82 	L a-99 	L a-113 	L a-145
+Weight | Peso
+Вес | Peso 	kg/m 	0,073 	0,1 	0,178 	0,271 	0,38 	0,552
+Intermediate lengths and minimum quantities available on request. | Longitudes intermedias y cantidades mínimas bajo consulta.
+Промежуточные длины и минимальное количество по запросу. | Lunghezze intermedie e quantità minime su richiesta.
+Profi le | Perfil | Профиль | Sezione 	SPZ 	SPA 	SPB 	19 	SPC
+Ld to | Ld hasta | Ld до | L d fino a 	3550 mm 	6000 mm 	5000 mm 	5000 mm 	5000 mm
+Pieces | Cantidad | Штуки | Quantità 	5 	5 	5 	5 	5
+Number in bundle | Cantidades lote | Число ремней в связке | Quantità per mazzo
+from as small as 1000 mm on up | ya desde 1000 mm | от 1000 мм | già a partire da 1000 mm
+(see page 6 | v. pág. 6 | см. стр. 7 | v. pag. 7)	L = L	L = L
+CONTI-V® wrapped V-belts for demanding drives in all
+sectors of machine engineering, DIN 7753
+Correas trapeciales recubiertas CONTI-V® para
+aplicaciones exigentes en todos los sectores de
+construcción de maquinaria, DIN 7753
+CONTI-V® Клиновые ремни обернутые для приводов
+во всех отраслях машиностроения, DIN 7753
+Cinghie trapezoidali rivestite CONTI-V® per trasmissioni
+esigenti nell’intero settore delle costruzioni meccaniche,
+DIN 7753
+L = L
+
+-- 16 of 132 --
+
+17
+CONTI-V®
+L d 	Reference length | Longitud básica | Расчетная длина | Lunghezza indicativa
+L a 	Outer length | Longitud exterior | Внешняя длина | Lunghezza esterna
+MOQ 	Minimum quantity | Cantidad mínima | Минимальное количество | Quantità minima
+EUR / pc. 	Price per piece | Precio por unidad | Цена за штуку | Prezzo per articolo
+* 	On request (see page 6) | Bajo consulta (v. pág. 6) | По запросу (см. стр. 7) | Su richiesta (v. pag. 7)
+The reference length Ld corresponds to L r as per DIN / ISO | La longitud básica Ld corresponde a L r según DIN / ISO
+Расчетная длина Ld соответствует L r согласно DIN / ISO | La lunghezza indicativa Ld corrisponde a L r secondo DIN / ISO
+SPZ / 3V / 9N
+L d (mm) 	RMA 	MOQ 	EUR / pc.
+512 	8,42
+562 	8,42
+587 	8,42
+612 	8,42
+630 	3V 250 	8,90
+637 	8,90
+662 	8,90
+670 	3V 265 	8,90
+677 	8,90
+687 	8,90
+697 	8,90
+710 	3V 280 	8,90
+722 	8,90
+737 	8,90
+750 	8,90
+762 	3V 300 	8,90
+772 	8,90
+787 	8,90
+800 	3V 315 	8,90
+812 	9,56
+825 	9,56
+837 	9,56
+850 	3V 335 	9,56
+862 	9,56
+875 	9,56
+887 	9,56
+900 	3V 355 	9,56
+912 	10,05
+925 	10,05
+937 	10,05
+950 	3V 375 	10,05
+962 	10,05
+970 	10,05
+987 	10,05
+1000 	10,05
+1012 	3V 400 	11,50
+1024 	11,50
+1037 	11,50
+1047 	11,50
+1060 	11,50
+1077 	3V 425 	11,50
+1087 	11,50
+1112 	11,50
+1120 	11,50
+1127 	12,48
+1137 	3V 450 	12,48
+1150 	12,48
+1162 	12,48
+1171 	12,48
+1180 	12,48
+1187 	12,96
+1202 	3V 475 	12,96
+1212 	12,96
+1237 	12,96
+1250 	12,96
+1262 	3V 500 	14,09
+L d (mm) 	RMA 	MOQ 	EUR / pc.
+1270 	14,09
+1287 	14,09
+1312 	14,09
+1320 	14,09
+1337 	3V 530 	15,24
+1347 	15,24
+1362 	15,24
+1387 	15,24
+1400 	15,24
+1412 	3V 560 	15,72
+1420 	15,72
+1437 	15,72
+1457 	15,72
+1462 	15,72
+1487 	15,72
+1500 	15,72
+1512 	17,18
+1520 	17,18
+1537 	17,18
+1550 	17,18
+1562 	17,18
+1587 	17,18
+1600 	3V 630 	18,31
+1612 	18,31
+1637 	18,31
+1650 	18,31
+1662 	18,31
+1687 	18,31
+1700 	3V 670 	18,31
+1712 	18,64
+1737 	18,64
+1750 	18,64
+1762 	18,64
+1787 	18,64
+1800 	3V 710 	18,64
+1812 	19,60
+1837 	19,60
+1850 	19,60
+1862 	19,60
+1887 	19,60
+1900 	3V 750 	19,60
+1937 	20,58
+1950 	20,58
+1987 	20,58
+2000 	20,58
+2030 	20,62
+2037 	21,88
+2062 	21,88
+2087 	21,88
+2120 	21,88
+2137 	21,88
+2150 	21,88
+2160 	21,88
+2187 	21,88
+2240 	23,48
+2262 	24,62
+SPZ / 3V / 9N
+L d (mm) 	RMA 	MOQ 	EUR / pc.
+2280 	24,62
+2287 	3V 900 	24,62
+2360 	24,62
+2410 	24,62
+2430 	24,62
+2437 	24,62
+2450 	24,62
+2487 	24,62
+2500 	26,24
+2540 	3V 1000 	26,24
+2637 	27,70
+2650 	27,70
+2690 	3V 1060 	28,22
+2800 	29,48
+2840 	3V 1120 	29,67
+3000 	3V 1180 	30,45
+3150 	32,24
+3170 	32,73
+3350 	3V 1320 	35,49
+3550 	3V 1400 	35,97
+SPA
+L d (mm) 	RMA 	MOQ 	EUR / pc.
+732 	11,50
+757 	11,50
+782 	11,50
+800 	11,50
+807 	12,96
+832 	12,96
+850 	12,96
+857 	12,96
+882 	12,96
+900 	12,96
+907 	14,26
+925 	14,26
+932 	14,26
+950 	14,26
+957 	14,26
+967 	14,26
+975 	14,26
+982 	14,26
+1000 	14,26
+1007 	16,83
+1032 	16,83
+1042 	16,83
+1060 	16,83
+1082 	16,83
+1090 	16,83
+1100 	16,83
+1107 	16,83
+1120 	16,83
+1132 	18,16
+1150 	18,16
+1175 	18,16
+1180 	18,16
+SPZ / 3V / 9N
+
+-- 17 of 132 --
+
+18
+CONTI-V®
+Ld (mm) 	RMA 	MOQ 	EUR / pc.
+1207 	18,16
+1225 	18,16
+1232 	18,16
+1250 	18,16
+1257 	19,14
+1272 	19,14
+1282 	19,14
+1307 	19,14
+1320 	19,14
+1357 	20,41
+1367 	20,41
+1375 	20,41
+1382 	20,41
+1400 	20,41
+1407 	22,02
+1425 	22,02
+1432 	22,02
+1457 	22,02
+1482 	22,02
+1500 	22,02
+1507 	22,53
+1525 	22,53
+1532 	22,53
+1557 	22,53
+1582 	22,53
+1600 	22,53
+1607 	24,95
+1632 	24,95
+1657 	24,95
+1675 	24,95
+1682 	24,95
+1700 	24,95
+1707 	25,59
+1732 	25,59
+1750 	25,59
+1757 	25,59
+1782 	25,59
+1800 	25,59
+1807 	27,70
+1832 	27,70
+1850 	27,70
+1857 	27,70
+1882 	27,70
+1900 	27,70
+1907 	28,83
+1925 	28,83
+1932 	28,83
+1950 	28,83
+1957 	28,83
+1982 	28,83
+2000 	28,83
+2007 	28,83
+2032 	29,97
+2057 	29,97
+2082 	29,97
+2120 	29,97
+2132 	31,27
+2182 	31,27
+2207 	31,27
+2227 	31,27
+2232 	31,27
+2240 	31,27
+2257 	32,89
+2282 	32,89
+L d (mm) 	RMA 	MOQ 	EUR / pc.
+2300 	32,89
+2307 	32,89
+2332 	32,89
+2360 	32,89
+2375 	32,89
+2382 	33,21
+2432 	34,83
+2475 	34,83
+2482 	34,83
+2500 	34,83
+2532 	37,44
+2582 	37,44
+2607 	37,44
+2632 	37,44
+2650 	37,44
+2682 	39,37
+2732 	39,37
+2782 	39,37
+2800 	39,37
+2832 	42,10
+2847 	42,10
+2882 	42,10
+2900 	42,10
+2932 	42,10
+2982 	42,10
+3000 	42,10
+3032 	44,08
+3082 	44,08
+3150 	44,08
+3182 	46,83
+3250 	46,83
+3282 	46,83
+3350 	46,83
+3382 	47,45
+3450 	48,77
+3500 	50,71
+3550 	50,71
+3650 	53,79
+3750 	53,79
+4000 	56,69
+4250 	58,18
+4500 	62,53
+5000 	69,49
+SPB / 5V / 15N
+L d (mm) 	RMA 	MOQ 	EUR / pc.
+1250 	26,08
+1320 	26,74
+1340 	27,08
+1360 	27,08
+1400 	27,70
+1450 	30,93
+1472 	30,93
+1500 	5V 600 	30,93
+1530 	32,01
+1540 	32,01
+1550 	32,01
+1600 	5V 630 	33,05
+1650 	34,06
+1700 	5V 670 	35,02
+1750 	37,12
+1800 	5V 710 	37,12
+SPA 	SPA
+L d (mm) 	RMA 	MOQ 	EUR / pc.
+1850 	38,33
+1860 	38,57
+1900 	5V 750 	39,37
+1930 	41,81
+1950 	41,81
+2000 	42,10
+2020 	42,10
+2060 	43,90
+2098 	43,90
+2120 	44,08
+2150 	5V 850 	44,54
+2180 	45,41
+2200 	45,41
+2240 	47,15
+2264 	47,15
+2280 	5V 900 	47,15
+2300 	48,45
+2310 	49,09
+2350 	49,09
+2360 	49,09
+2391 	50,38
+2400 	5V 950 	50,38
+2410 	50,38
+2430 	50,38
+2450 	52,48
+2500 	52,48
+2518 	52,48
+2530 	52,48
+2540 	54,76
+2580 	54,76
+2600 	54,76
+2630 	54,76
+2650 	54,76
+2680 	54,76
+2720 	55,84
+2730 	55,84
+2760 	58,00
+2800 	58,00
+2840 	5V 1120 	58,31
+2850 	58,31
+2880 	58,31
+2900 	58,31
+2950 	61,43
+2975 	61,43
+2990 	62,05
+3000 	5V 1180 	62,53
+3070 	62,53
+3080 	64,16
+3150 	64,16
+3170 	64,16
+3250 	68,22
+3320 	68,22
+3350 	5V 1320 	68,22
+3400 	73,23
+3425 	73,23
+3450 	73,23
+3500 	73,23
+3550 	5V 1400 	73,23
+3620 	75,28
+3650 	75,28
+3675 	77,29
+3750 	77,29
+3800 	5V 1500 	78,26
+3825 	78,26
+SPB / 5V / 15N
+
+-- 18 of 132 --
+
+19
+CONTI-V®
+L d (mm) 	RMA 	MOQ 	EUR / pc.
+3850 	78,26
+3870 	78,26
+4000 	81,97
+4040 	82,80
+4050 	5V 1600 	82,80
+4060 	5V 1600 	82,80
+4120 	86,85
+4250 	86,85
+4310 	87,50
+4370 	92,36
+4400 	92,36
+4500 	92,36
+4550 	92,36
+4560 	92,36
+4620 	92,36
+4750 	98,50
+4820 	99,47
+4840 	102,72
+4870 	102,72
+5000 	102,72
+5060 	103,07
+5070 	103,07
+5080 	103,07
+5150 	106,43
+5300 	109,53
+5350 	110,53
+5380 	111,15
+5600 	116,18
+5680 	5V 2240 	116,67
+5900 	121,56
+6000 	5V 2360 	123,62
+6340 	129,48
+6500 	133,83
+6700 	5V 2650 	138,20
+7000 	149,25
+7100 	5V 2800 	149,25
+7500 	153,11
+8000 	5V 3150 	163,67
+19
+L d (mm) 	RMA 	MOQ 	EUR / pc.
+1400 	38,73
+1475 	41,81
+1600 	41,81
+1675 * 	44 	43,41
+1875 	48,32
+1900 	48,94
+2120 	54,76
+2475 	64,82
+2500 	64,82
+2675 	69,51
+2800 	73,23
+2975 * 	14 	77,95
+3350 	88,05
+3610 	94,89
+3660 	96,20
+3850 	101,20
+3900 	102,50
+4025 	105,77
+4475 	117,56
+SPB / 5V / 15N 	SPC
+L d (mm) 	RMA 	MOQ 	EUR / pc.
+2185 	72,05
+2240 	74,05
+2360 	78,76
+2500 	81,97
+2550 	83,81
+2650 	87,50
+2800 	92,36
+3000 	98,98
+3100 * 	34 	99,31
+3150 	99,47
+3200 	100,69
+3250 	101,91
+3350 	104,33
+3450 	107,42
+3500 	108,96
+3550 	110,50
+3620 	112,78
+3750 	117,00
+4000 	126,57
+4100 	129,02
+4250 	132,68
+4380 	135,72
+4400 	136,18
+4500 	138,53
+4650 	150,51
+4700 	150,51
+4750 	150,51
+4900 * 	16 	155,10
+5000 	158,15
+5300 	168,51
+5440 	177,58
+5450 	178,22
+5465 	179,20
+5600 	187,94
+5800 	192,00
+6000 	196,04
+6050 	198,75
+6300 	212,25
+6500 	217,12
+6700 	221,99
+7000 	239,79
+7100 	244,68
+7500 	252,75
+7750 	261,68
+7800 	263,45
+8000 	270,59
+8350 	280,79
+8500 	285,16
+9000 	304,62
+9500 	320,79
+10000 	335,39
+10600 	354,00
+11200 	372,60
+11800 	390,36
+12000 	396,97
+12250 	405,05
+12500 	421,26
+13500 	454,97
+13800 	465,09
+14000 * 	15 	471,83
+14200 	478,57
+15000 	505,54
+16500 	556,11
+8V / 25N
+L a (mm) 	RMA 	MOQ 	EUR / pc.
+4318 * 	8V1700 	11 	202,82
+4572 	8V1800 	216,68
+4826 * 	8V1900 	11 	233,06
+5080 * 	8V2000 	11 	245,66
+5385 * 	8V2120 	11 	259,52
+5690 * 	8V2240 	11 	287,22
+5994 	8V2360 	298,56
+6350 * 	8V2500 	14 	318,70
+8001 	8V3150 	404,38
+9525 	8V3750 	474,93
+10160 	8V4000 	501,37
+12700 	8V5000 	626,09
+
+-- 19 of 132 --
+
+20
+CONTI-V® ADVANCE
+CONTI-V® ADVANCE
+Wrapped heavy-duty V-belts with reinforced PE tensile
+member and advanced compound for safely transmitting
+high power, DIN 2215 / DIN 7753
+Correas trapeciales recubiertas de alto rendimiento con
+elemento tensor de poliéster reforzado y mezcla
+perfeccionada para transmisiones seguras de elevada
+potencia, DIN 2215 / DIN 7753
+Мощные обернутые клиновые ремни из
+усовершенствованных компаундов с усиленным
+кордшнуршнуром для надежной передачи большей
+мощности, DIN 2215 / DIN 7753
+Cinghie trapezoidali rivestite ad alta efficienza con anima
+resistente rinforzata di poliestere e mescola perfezionata
+per la trasmissione sicura di grandi potenze,
+DIN 2215 / DIN 7753
+Properties
+- conditionally resistant to oil
+- resistant to temperatures from -30°C to +80°C
+- electrically conductive to ISO 1813
+- dust-proof
+- suitable for tropical climates
+- resistant to shock loads
+- higher bending resistance, well suited for outer tension pulleys
+Características
+- resistencia moderada a los aceites
+- resistentes a temperaturas desde -30°C hasta +80°C
+- conductibilidad eléctrica según ISO 1813
+- insensibles al polvo
+- resistentes a climas tropicales
+- resistentes a cargas dinámicas
+- alta resistencia a la fl exión, ideales para rodillos tensores exteriores
+Свойства
+- условная маслостойкость
+- устойчивость к воздействию температур от -30°C до +80°C
+- электропроводность согласно стандарту ISO 1813
+- устойчивость к пыли
+- пригодны для эксплуатации в тропических условиях
+- устойчивость к ударным нагрузкам
+- повышенная гибкость, хорошо подходит для работы с внешними
+натяжными шкивами и шкивами малого диаметра
+Proprietà
+- Relativamente resistenti all’olio
+- Resistenti a temperature comprese tra -30 °C e +80 °C
+- Elettricamente conduttrici secondo ISO 1813
+- Resistenti alla polvere
+- Resistenti al clima tropicale
+- Resistenti a carichi impulsivi
+- Resistenza alla flessione aumentata, idonee con pulegge tendicinghia
+Refer to pages 8 and 16 for belt geometries and profi les.
+Geometrías y perfiles véanse páginas 8 y 16.
+Геометрии ремней и профили см. страницы 8 и 16.
+Geometrie e profi li della cinghia: vedere pagine 8 e 16.
+All sizes and prices are available on request. | Dimensiones y precios bajo consulta.
+Все размеры и цены по запросу. | Dimensioni e prezzi su richiesta.
+
+-- 20 of 132 --
+
+21
+CONTI-V® ADVANCE
+All sizes and prices are available on request.
+Dimensiones y precios bajo consulta.
+Все размеры и цены по запросу.
+Dimensioni e prezzi su richiesta.
+
+-- 21 of 132 --
+
+22
+CONTI-V® POWER
+CONTI-V® POWER
+Wrapped heavy-duty V-belts with low-stretch aramid
+tensile member and advanced compound for transmitting
+high power with high impact loads, DIN 2215 / DIN 7753
+Correa trapecial recubierta de alto rendimiento con
+elemento tensor de aramida de baja elongación y mezcla
+perfeccionada para una potente transmisión de potencia
+con altas cargas dinámicas, DIN 2215 / DIN 7753
+Мощные обернутые клиновые ремни. Изготавливаются
+из усовершенствованных компаундов с
+малорастяжимым кевларовым кордшнуршнуром,
+предназначены для передачи большой мощности при
+высоких ударных нагрузках, DIN 2215 / DIN 7753
+Cinghie trapezoidali rivestite ad alta efficienza con anima
+resistente di aramide a bassa dilatazione e mescola
+perfezionata per la vigorosa trasmissione della potenza con
+grandi carichi impulsivi, DIN 2215 / DIN 7753
+Properties
+- conditionally resistant to oil
+- resistant to temperatures from -30°C to +80°C
+- electrically conductive to ISO 1813
+- dust-proof
+- suitable for tropical climates
+- resistant to high shock loads
+- higher bending resistance, well suited for outer tension pulleys
+Características
+- resistencia moderada a los aceites
+- resistentes a temperaturas desde -30°C hasta +80°C
+- conductibilidad eléctrica según ISO 1813
+- insensibles al polvo
+- resistentes a climas tropicales
+- resistentes a cargas dinámicas
+- alta resistencia a la flexión, ideales para rodillos tensores exteriores
+Свойства
+- условная маслостойкость
+- устойчивость к воздействию температур от -30°C до +80°C
+- электропроводность согласно стандарту ISO 1813
+- устойчивость к пыли
+- пригодны для эксплуатации в тропических условиях
+- устойчивость к ударным нагрузкам
+- повышенная гибкость, хорошо подходит для работы с внешними
+натяжными шкивами и шкивами малого диаметра
+Proprietà
+- Relativamente resistenti all’olio
+- Resistenti a temperature comprese tra -30 °C e +80 °C
+- Elettricamente conduttrici secondo ISO 1813
+- Resistenti alla polvere
+- Resistenti al clima tropicale
+- Resistenti ad alti carichi impulsivi
+- Resistenza alla flessione aumentata, idonee con pulegge tendicinghia
+Refer to pages 8 and 16 for belt geometries and profi les.
+Geometrías y perfiles véanse páginas 8 y 16.
+Геометрии ремней и профили см. страницы 8 и 16.
+Geometrie e profi li della cinghia: vedere pagine 8 e 16.
+
+-- 22 of 132 --
+
+23
+CONTI-V® POWER
+L d 	Reference length | Longitud básica | Расчетная длина | Lunghezza indicativa
+MOQ 	Minimum quantity | Cantidad mínima | Минимальное количество | Quantità minima
+EUR / pc. 	Price per piece | Precio por unidad | Цена за штуку | Prezzo per articolo
+* 	On request (see page 6) | Bajo consulta (v. pág. 6) | По запросу (см. стр. 7) | Su richiesta (v. pag. 7)
+SPB ZAR
+L d (mm) 	MOQ 	EUR / pc.
+1600 * 	70 	49,59
+1800 * 	70 	55,68
+1900 * 	70 	59,05
+2000 * 	70 	63,16
+2120 * 	70 	66,12
+2240 * 	70 	70,73
+2360 * 	70 	73,64
+2500 * 	70 	78,72
+2650 * 	70 	82,14
+2800 * 	70 	87,00
+3000 * 	70 	93,80
+3150 * 	43 	96,24
+3350 * 	43 	102,33
+3550 * 	43 	109,85
+3750 * 	43 	115,93
+4000 * 	43 	122,95
+4250 * 	43 	130,28
+4500 * 	43 	138,54
+4750 * 	43 	147,75
+5000 * 	43 	154,09
+5300 * 	43 	164,29
+5600 * 	43 	174,27
+6000 * 	43 	185,44
+6300 * 	43 	193,72
+6700 * 	43 	207,31
+7100 * 	43 	223,87
+7500 * 	43 	229,67
+SPC ZAR
+L d (mm) 	MOQ 	EUR / pc.
+2650 * 	30 	131,25
+2800 * 	30 	138,54
+3000 * 	30 	148,47
+3150 * 	30 	149,22
+3350 * 	30 	156,50
+3550 * 	30 	165,75
+3750 * 	30 	175,50
+4250 * 	30 	199,03
+4500 * 	30 	207,79
+4750 * 	30 	225,77
+5000 * 	30 	237,23
+5300 * 	30 	252,76
+5600 * 	30 	281,92
+6000 * 	30 	294,06
+6300 * 	30 	318,38
+6700 * 	30 	332,99
+7100 * 	30 	367,01
+7500 * 	30 	379,14
+8000 * 	30 	405,89
+8500 * 	30 	427,74
+9000 * 	30 	456,93
+9500 * 	30 	481,19
+10000 * 	30 	503,09
+10600 * 	30 	532,26
+12410 * 	30 	623,13
+12500 * 	30 	631,89
+
+-- 23 of 132 --
+
+24
+CONTI-V® PIONEER
+CONTI-V® PIONEER
+Wrapped V-belts manufactured on basis of renewable
+resources – powerful as conventional wrapped V-belts,
+DIN 2215 / DIN 7753
+Correas trapeciales recubiertas fabricadas de materias
+primas renovables - potentes como las correas trapeciales
+convencionales recubiertas, DIN 2215 / DIN 7753
+Клиновые ремни обернутые, изготовлены на основе
+возобновляемого сырья - по эффективности не
+уступают традиционным обернутым клиновым ремням,
+DIN 2215 / DIN 7753
+Cinghie trapezoidali rivestite fabbricate con materie prime
+rigenerabili - potente come le cinghie trapezoidali rivestite
+convenzionali, DIN 2215 / DIN 7753
+Properties
+- conditionally resistant to oil
+- resistant to temperatures from -55°C to +70°C
+- electrically conductive to ISO 1813
+- dust-proof
+- suitable for tropical climates
+- free of carbon black
+Características
+- resistencia moderada a los aceites
+- resistentes a temperaturas desde -55°C hasta +70°C
+- conductibilidad eléctrica según ISO 1813
+- insensibles al polvo
+- resistentes a climas tropicales
+- sin negro de humos
+Свойства
+- относительная маслостойкость
+- устойчивость к воздействию температур от -55°C до +70°C
+- электропроводность согласно стандарту ISO 1813
+- устойчивость к пыли
+- пригодны для эксплуатации в тропических условиях
+- не содержат сажу
+Proprietà
+- Relativamente resistenti all’olio
+- Resistenti a temperature comprese tra -55°C e +70°C
+- Elettricamente conduttrici secondo ISO 1813
+- Resistenti alla polvere
+- Resistenti al clima tropicale
+- Non contengono nerofumo
+13/A 	SPZ / 3V / 9N 	SPA
+Upper rib width | Anchura superior de correa | Ширина
+верхней части ремня | Larghezza superiore della cinghia 	bo 	mm 	13 	9,7 	12,7
+Belt height | Altura de correa
+Высота ремня | Altezza della cinghia 	h 	mm 	8 	8 	10
+Pitch width | Anchura primitiva
+Ширина по расчетной линии | Larghezza primitiva 	bd 	mm 	11 	8,5 	11
+Lower belt width | Anchura inferior de correa | Ширина
+внутренней грани ремня | Larghezza inferiore della cinghia 	bi 	mm 	7,8 	4,5 	6,2
+Pitch height | Altura primitiva
+Высота расчетной линии | Distanza tra le linee attive 	hd 	mm 	3,1 	1,9 	2,6
+Outer length | Longitud exterior
+Внешняя длина | Lunghezza esterna 	La 	mm L d+20 	L d+12 	L d+17
+Li+50 	L i+50 	L i+63
+Reference length | Longitud básica
+Расчетная длина | Lunghezza indicativa 	Ld 	mm L i+30 	Nominal length | Longitud nominal
+Номинальная длина | Lunghezza nominale	La-20
+Inside length | Longitud interior
+Внутренняя длина | Lunghezza interna 	Li 	mm
+Nominal length | Longitud nominal
+Номинальная длина | Lunghezza
+nominale
+L d-38 	L d-46
+La-50 	L a-63
+Weight | Peso
+Вес | Peso 	kg/m 	0,105 	0,073 	0,1
+L = L
+from as small as 1000 mm on up | ya desde 1000 mm | от 1000 мм | già a partire da 1000 mm
+(see page 6 | v. pág. 6 | см. стр. 7 | v. pag. 7)	L = L
+
+-- 24 of 132 --
+
+25
+CONTI-V® PIONEER
+L i 	Inside length | Longitud interior | Внутренняя длина | Lunghezza interna
+Ld 	Reference length | Longitud básica | Расчетная длина | Lunghezza indicativa
+EUR / pc. 	Price per piece | Precio por unidad | Цена за штуку | Prezzo per articolo
+* 	On request (see page 6) | Bajo consulta (v. pág. 6) | По запросу (см. стр. 7) | Su richiesta (v. pag. 7)
+13/A
+L i (mm) 	RMA 	EUR / pc.
+620 	A 24,5 	10,95
+670 	A 26,5 	10,95
+710 	A 28 	10,95
+720 	A 28,5 	10,95
+750 	A 29,5 	10,95
+765 	A 30 	10,95
+780 	A 30,5 	10,95
+813 	A 32 	11,14
+850 	A 33,5 	11,14
+889 	A 35 	11,14
+900 	A 35,5 	11,14
+914 	A 36 	12,30
+950 	A 37,5 	12,30
+965 	A 38 	12,30
+1060 	A 42 	12,30
+1075 	A 42,5 	13,84
+1220 	A 48 	14,65
+1372 	A 54 	16,00
+1400 	A 55 	16,00
+1422 	A 56 	17,50
+1448 	A 57 	17,50
+1475 	A 58 	17,50
+1500 	A 59 	17,50
+1525 	A 60 	17,50
+1575 	A 62 	17,50
+1600 	A 63 	17,50
+1700 	A 67 	19,21
+1725 	A 68 	19,21
+1750 	A 69 	19,21
+1825 	A 72 	19,21
+1854 	A 73 	21,22
+2040 	A 80,5 	21,74
+2240 	A 88 	23,59
+SPZ / 3V / 9N
+Ld (mm) 	RMA 	EUR / pc.
+562 	8,76
+630 	3V 250 	9,26
+697 	9,26
+800 	3V 315 	9,26
+900 	3V 355 	9,95
+1000 	10,45
+1400 	15,84
+1437 	16,34
+1462 	16,34
+1487 	16,34
+1500 	16,34
+1512 	17,87
+1537 	17,87
+1562 	17,87
+1587 	17,87
+1600 	3V 630 	19,04
+1637 	19,04
+1650 	19,04
+1700 	3V 670 	19,04
+1737 	19,38
+1800 	3V 710 	19,38
+1850 	20,39
+1900 	3V 750 	20,39
+1937 	21,40
+1987 	21,40
+2000 	21,40
+2120 	22,76
+SPA
+Ld (mm) 	RMA 	EUR / pc.
+782 	11,95
+882 	13,48
+900 	13,48
+932 	14,84
+950 	14,84
+1382 	21,22
+1400 	21,22
+1432 	22,90
+1457 	22,90
+1500 	22,90
+1532 	23,43
+1557 	23,43
+1582 	23,43
+1600 	23,43
+1632 	25,96
+1657 	25,96
+1682 	25,96
+1700 	25,96
+1732 	26,62
+1757 	26,62
+1800 	26,62
+1857 	28,81
+1900 	28,81
+2000 	29,98
+2120 	31,17
+2182 	32,52
+2240 	32,52
+2360 	34,20
+2432 	36,22
+2500 36,22
+
+-- 25 of 132 --
+
+26
+CONTI-V® NONFRIC POWER
+CONTI-V® NONFRIC POWER
+Wrapped V-belts for controlled slip and noiseless clutch
+engagement – suitable for use with back-tensioners,
+DIN 2215
+Correas trapeciales recubiertas para un deslizamiento
+controlado y un acoplamiento silencioso - ideales para el
+uso con rodillos tensores, DIN 2215
+Клиновые ремни обернутые для контролируемого
+проскальзывания и бесшумного включения сцепления,
+пригодны для эксплуатации с обратными натяжными
+роликами, DIN 2215
+Cinghie trapezoidali rivestite per scorrimento controllato ed
+innesto silenzioso nel giunto - idonee per il funzionamento
+con puleggia tendicinghia posteriore, DIN 2215
+Properties
+- resistant to temperatures from -30°C to +80°C
+- suitable for tropical climates
+- dust-proof
+- maintenance-free
+Características
+- resistentes a temperaturas desde -30°C hasta +80°C
+- resistentes a climas tropicales
+- insensibles al polvo
+- libres de mantenimiento
+Свойства
+- устойчивость к воздействию температур от -30°C до +80°C
+- пригодны для эксплуатации в тропических условиях
+- устойчивость к пыли
+- не требуют обслуживания
+Proprietà
+- Resistenti a temperature comprese tra -30 °C e +80 °C
+- Resistenti al clima tropicale
+- Resistenti alla polvere
+- Esenti da manutenzione
+All sizes and prices are available on request.
+Dimensiones y precios bajo consulta.
+Все размеры и цены по запросу.
+Dimensioni e prezzi su richiesta.
+17/B
+Upper rib width | Anchura superior de correa |
+Ширина верхней части ремня | Larghezza superiore della cinghia 	bo 	mm 	16,5
+Belt height | Altura de correa
+Высота ремня | Altezza della cinghia 	h 	mm 	11
+Pitch width | Anchura primitiva
+Ширина по расчетной линии | Larghezza primitiva 	b d 	mm 	14
+Lower belt width | Anchura inferior de correa | Ширина внутренней
+грани ремня | Larghezza inferiore della cinghia 	bi 	mm 	9,4
+Pitch height | Altura primitiva
+Высота расчетной линии | Distanza tra le linee attive 	hd 	mm 	3,9
+Outer length | Longitud exterior
+Внешняя длина | Lunghezza esterna 	L a 	mm Ld+24
+L i+69
+Reference length | Longitud básica
+Расчетная длина | Lunghezza indicativa 	L d 	mm Li+45
+L a-24
+Inside length | Longitud interior
+Внутренняя длина | Lunghezza interna 	Li 	mm 	Nominal length | Longitud nominal
+Номинальная длина | Lunghezza nominale
+Weight | Peso
+Вес | Peso 	kg/m 	0,17
+
+-- 26 of 132 --
+
+27
+CONTI-V® NONFRIC POWER
+All sizes and prices are available on request.
+Dimensiones y precios bajo consulta.
+Все размеры и цены по запросу.
+Dimensioni e prezzi su richiesta.
+
+-- 27 of 132 --
+
+28
+CONTI-V® ROFLEX GARDEN
+CONTI-V® ROFLEX GARDEN
+Heavy-duty V-belts with low-stretch aramid tensile member
+for good slip control and noiseless clutch engagement.
+Specially developed for machines used in garden and park
+upkeep.
+Correas trapeciales de alto rendimiento con elemento
+tensor de aramida de baja elongación para un deslizamien-
+to controlado y un acoplamiento silencioso. Desarrolladas
+especialmente para máquinas destinadas a parques y
+jardines.
+Мощные клиновые ремни для контролируемого
+проскальзывания и бесшумного включения сцепления.
+Специально разработаны для машин, применяемых в
+садово-парковом хозяйстве.
+Cinghie trapezoidali ad alta efficienza con anima resistente
+di aramide a bassa dilatazione per lo scorrimento
+controllato e l’innesto silenzioso nel giunto. Sviluppata
+appositamente per macchine da giardino e parco.
+Properties
+- resistant to temperatures from -30°C to +80°C
+- high heat resistance / increased capacity
+- resistant to high shock loads
+- higher chemical resistance
+- higher bending resistance, well suited for outer tension pulleys
+- improved power transmission
+Características
+- resistentes a temperaturas desde -30°C hasta +80°C
+- alta resistencia al calor / gran capacidad
+- resistentes a elevadas cargas dinámicas
+- alta resistencia a productos químicos
+- alta resistencia a la flexión, ideales para rodillos tensores exteriores
+- transmisión mejorada de potencia
+Свойства
+- устойчивость к воздействию температур от -30°C до +80°C
+- высокая термостойкость / увеличенная передача мощности
+- устойчивость к высоким ударным нагрузкам
+- повышенная устойчивость к воздействию химических реагентов
+- повышенная гибкость, хорошо подходит для работы с внешними
+натяжными шкивами и шкивами малого диаметра
+- передача большей мощности
+Proprietà
+- Resistenti a temperature comprese tra -30 °C e +80 °C
+- Alta resistenza al calore / capacità aumentata
+- Resistenti ad alti carichi impulsivi
+- Resistenza alle sostanze chimiche aumentata
+- Resistenza alla flessione aumentata, idonee per pulegge tendicinghia
+- Trasmissione della potenza migliorata
+3L 	4L 	5L
+Upper rib width | Anchura superior de correa | Ширина
+верхней части ремня | Larghezza superiore della cinghia 	bo 	mm 	10 	12,5 	16,5
+Belt height | Altura de correa
+Высота ремня | Altezza della cinghia 	h 	mm 	5,5 	8 	8,5
+Lower belt width | Anchura inferior de correa | Ширина
+внутренней грани ремня | Larghezza inferiore della cinghia 	bi 	mm 	6 	6,7 	9,6
+Reference length (Z - A - B) | Longitud básica (Z - A - B)
+Расчетная длина (Z - A - B) | Lunghezza indicativa (Z - A - B) 	Lr 	mm 	L e-11 	L e-14 	L e-38
+Outer length | Longitud exterior
+Внешняя длина | Lunghezza esterna 	La 	mm 	L e+8 	L e+1 	L e+5
+Effective length | Longitud efectiva
+Эффективная длина | Lunghezza effettiva 	Le 	1/10 inch 	Nominal length | Longitud nominal
+Номинальная длина | Lunghezza nominale
+Inside length | Longitud interior
+Внутренняя длина | Lunghezza interna 	Li 	mm 	L e-35 	L e-50 	L e-60
+Weight | Peso
+Вес | Peso 	kg/inch 	0,00156 	0,00276 	0,00404
+
+-- 28 of 132 --
+
+29
+CONTI-V® ROFLEX GARDEN
+EUR / pc. 	Price per piece | Precio por unidad | Цена за штуку | Prezzo per articolo
+* 	On request (see page 6) | Bajo consulta (v. pág. 6) | По запросу (см. стр. 7) | Su richiesta (v. pag. 7)
+3L
+RMA (1/10 inch) 	EUR / pc.
+3L 170 	17,23
+3L 180 	17,23
+3L 190 	17,23
+3L 200 	17,23
+3L 210 	17,23
+3L 220 	17,23
+3L 230 	17,23
+3L 240 	17,23
+3L 250 	17,32
+3L 260 	17,53
+3L 270 	17,62
+3L 280 	18,03
+3L 290 	18,13
+3L 300 	18,46
+3L 310 	19,34
+3L 320 	20,15
+3L 330 	20,31
+3L 340 	20,31
+3L 350 	20,31
+3L 360 	20,72
+3L 370 	20,72
+3L 380 	20,72
+3L 390 	21,51
+3L 400 	21,51
+3L 410 	22,01
+3L 420 	22,47
+3L 430 	22,56
+3L 440 	22,67
+3L 450 	22,80
+3L 460 	23,24
+3L 470 	23,24
+3L 480 	24,04
+3L 490 	24,13
+3L 500 	24,61
+3L 510 	24,83
+3L 520 	25,07
+3L 530 	25,30
+3L 540 	25,53
+3L 550 	25,76
+3L 560 	26,00
+3L 570 	26,22
+3L 580 	26,46
+3L 590 	26,69
+3L 600 	26,92
+3L 610 	27,15
+3L 620 	27,38
+3L 630 	27,61
+3L 690 	28,99
+3L 710 	29,46
+3L 740 	30,16
+3L 750 	30,39
+4L
+RMA (1/10 inch) 	EUR / pc.
+4L 180 	17,62
+4L 190 	18,13
+4L 200 	18,57
+4L 210 	18,99
+4L 220 	19,46
+4L 230 	20,02
+4L 240 	20,15
+4L 250 	20,72
+4L 260 	21,09
+4L 270 	22,01
+4L 280 	22,01
+4L 290 	22,29
+4L 300 	22,29
+4L 310 	22,29
+4L 320 	22,47
+4L 330 	22,47
+4L 340 	22,47
+4L 350 	22,47
+4L 360 	22,47
+4L 370 	22,56
+4L 380 	22,80
+4L 390 	23,24
+4L 400 	24,04
+4L 410 	24,13
+4L 420 	24,61
+4L 430 	24,70
+4L 440 	24,97
+4L 450 	25,53
+4L 460 	25,74
+4L 470 	26,27
+4L 480 	26,55
+4L 490 	26,87
+4L 500 	27,63
+4L 510 	27,75
+4L 520 	28,18
+4L 530 	28,45
+4L 540 	29,28
+4L 550 	29,52
+4L 560 	29,63
+4L 570 	30,85
+4L 580 	32,85
+4L 590 	33,51
+4L 600 	33,51
+4L 610 	34,82
+4L 620 	34,99
+4L 630 	35,51
+4L 640 	36,21
+4L 650 	36,71
+4L 660 	36,98
+4L 670 	37,10
+4L 690 	38,20
+4L 700 	38,47
+4L 710 	38,74
+4L 720 	39,36
+4L 730 	51,69
+4L 740 	51,79
+4L 750 	52,17
+4L 760 	52,60
+4L 770 	53,16
+4L 780 	56,07
+RMA (1/10 inch) 	EUR / pc.
+4L 790 	56,60
+4L 800 	57,13
+4L 810 	57,95
+4L 820 	58,36
+4L 830 	58,46
+4L 840 	58,79
+4L 850 	59,43
+4L 860 	59,53
+4L 870 	60,46
+4L 880 	60,46
+4L 890 	60,46
+4L 900 	61,30
+4L 910 	61,30
+4L 920 	62,59
+4L 930 	63,56
+4L 940 	63,56
+4L 950 	63,83
+4L 960 	65,05
+4L 970 	65,05
+4L 980 	65,17
+4L 990 	65,17
+5L
+RMA (1/10 inch) 	EUR / pc.
+5L 290 	30,85
+5L 300 	31,88
+5L 310 	32,03
+5L 320 	32,18
+5L 330 	32,56
+5L 340 	33,11
+5L 350 	33,25
+5L 360 	33,51
+5L 370 	34,06
+5L 380 	34,06
+5L 390 	34,99
+5L 400 	36,46
+5L 410 	36,98
+5L 420 	36,98
+5L 430 	37,41
+5L 440 	38,20
+5L 450 	38,55
+5L 460 	39,15
+5L 470 	39,92
+5L 480 	40,58
+5L 490 	41,66
+5L 500 	41,82
+5L 510 	42,47
+5L 520 	42,84
+5L 530 	44,18
+5L 540 	44,76
+5L 550 	45,30
+5L 560 	45,67
+5L 570 	46,17
+5L 580 	47,01
+5L 590 	47,28
+5L 600 	48,51
+5L 610 	49,28
+5L 620 	49,96
+5L 630 	50,33
+5L 640 	50,49
+5L 650 	51,25
+5L 660 	52,17
+5L 670 	53,16
+5L 680 	54,20
+5L 690 	54,20
+5L 700 	54,45
+5L 710 	55,01
+5L 720 	55,15
+5L 730 	71,18
+5L 740 	72,11
+5L 750 	72,37
+5L 760 	72,37
+5L 770 	72,64
+5L 780 	72,77
+5L 790 	73,58
+5L 800 	74,78
+5L 810 	75,40
+5L 820 	75,98
+5L 830 	76,36
+5L 840 	76,78
+5L 850 	76,88
+5L 860 	78,24
+5L 870 	78,70
+5L 880 	78,89
+4L
+RMA (1/10 inch) 	EUR / pc.
+5L 890 	79,35
+5L 900 	79,71
+5L 910 	81,85
+5L 920 	81,96
+5L 930 	82,29
+5L 940 	82,53
+5L 950 	83,47
+5L 960 	84,13
+5L 970 	84,40
+5L 980 	84,67
+5L 990 	84,94
+5L
+
+-- 29 of 132 --
+
+30
+CONTI-V® DUAL
+CONTI-V® DUAL
+Wrapped double-V-belts for demanding drives in all
+sectors of machine engineering. Suited for operation of
+reverse drives.
+Correas trapeciales dobles recubiertas para aplicaciones
+exigentes en todos los sectores de la construcción de
+maquinaria. Ideal para transmisiones en ambos sentidos.
+Двухсторонние обернутые клиновые ремни
+для применения в приводах во всех отраслях
+машиностроения. Для эксплуатации в приводах с
+изменением направления вращения.
+Cinghie trapezoidali doppie rivestite per trasmissioni
+esigenti nell’intero settore delle costruzioni meccaniche.
+Per trasmissioni a S
+Properties
+- conditionally resistant to oil
+- resistant to temperatures from -55°C to +70°C
+- electrically conductive to ISO 1813
+- dust-proof
+- suitable for tropical climates
+Características
+- resistencia moderada a los aceites
+- resistentes a temperaturas desde -55°C hasta +70°C
+- conductibilidad eléctrica según ISO 1813
+- insensibles al polvo
+- resistentes a climas tropicales
+Свойства
+- относительная маслостойкость
+- устойчивость к воздействию температур от -55°C до +70°С
+- электропроводность согласно стандарту ISO 1813
+- устойчивость к пыли
+- пригодны для эксплуатации в тропических условиях
+Proprietà
+- Relativamente resistenti all’olio
+- Resistenti a temperature comprese tra -55°C e +70°C
+- Elettricamente conduttrici secondo ISO 1813
+- Resistenti alla polvere
+- Resistenti al clima tropicale
+HAA/AA 	HBB/BB 	HCC/CC
+Upper rib width | Anchura superior de correa |
+Ширина верхней части ремня | Larghezza superiore della cinghia 	bo 	mm 	13 	17 	22
+Belt height | Altura de correa
+Высота ремня | Altezza della cinghia 	h 	mm 	10 	13 	17
+Pitch width | Anchura primitiva
+Ширина по расчетной линии | Larghezza primitiva 	mm 	11 	14 	19
+Effective length | Longitud efectiva
+Эффективная длина | Lunghezza effettiva 	Le 	mm 	L i+51 	L i+69 	L i+101
+Outer length | Longitud exterior
+Внешняя длина | Lunghezza esterna 	La 	mm 	L i+83 	L i+110 	L i+154
+Reference length | Longitud básica
+Расчетная длина | Lunghezza indicativa 	Ld 	mm 	L i+30 	L i+43 	L i+65
+Inside length | Longitud interior
+Внутренняя длина | Lunghezza interna 	Li 	mm 	Nominal length | Longitud nominal
+Номинальная длина | Lunghezza nominale
+Weight | Peso
+Вес | Peso 	kg/m 	0,14 	0,244 	0,409
+Heavy-duty ADVANCE and POWER types are available on request.
+Consultar versiones de alto rendimiento ADVANCE y POWER.
+Усиленные версии ADVANCE и POWER доступны по запросу.
+Su richiesta disponibili anche esecuzioni ad alta efficienza ADVANCE e POWER.
+
+-- 30 of 132 --
+
+31
+CONTI-V® DUAL
+L e 	Effective length | Longitud efectiva | Эффективная длина | Lunghezza effettiva
+EUR / pc. 	Price per piece | Precio por unidad | Цена за штуку | Prezzo per articolo
+* 	On request (see page 6) | Bajo consulta (v. pág. 6) | По запросу (см. стр. 7) | Su richiesta (v. pag. 7)
+HAA/AA
+L e (mm) 	RMA 	EUR / pc.
+1956 	AA 75 	76,21
+2007 	AA 77 	76,21
+2032 	AA 78 	76,21
+2083 	AA 80 	76,21
+2210 	AA 85 	76,21
+2235 	AA 86 	76,21
+2286 	AA 88 	76,21
+2337 	AA 90 	76,21
+2362 	AA 91 	76,21
+2388 	AA 92 	76,21
+2489 	AA 96 	76,21
+2642 	AA 102 	76,21
+2667 	AA 103 	76,21
+2718 	AA 105 	82,81
+2794 	AA 108 	82,81
+2896 	AA 112 	82,81
+3099 	AA 120 	82,81
+3302 	AA 128 	89,61
+3810 	AA 148 	98,67
+3912 	AA 152 	103,21
+HBB/BB
+Le (mm) 	RMA 	EUR / pc.
+1974 	BB 75 	73,18
+2126 	BB 81 	73,18
+2177 	BB 83 	73,18
+2228 	BB 85 	73,18
+2304 	BB 88 	73,18
+2355 	BB 90 	73,18
+2406 	BB 92 	74,13
+2431 	BB 93 	74,13
+2457 	BB 94 	74,13
+2482 	BB 95 	76,36
+2507 	BB 96 	76,36
+2533 	BB 97 	76,36
+2609 	BB 100 	81,79
+2634 	BB 101 	82,88
+2736 	BB 105 	87,21
+2787 	BB 107 	88,42
+2812 	BB 108 	88,42
+2863 	BB 110 	90,28
+2914 	BB 112 	90,28
+2990 	BB 115 	90,96
+3015 	BB 116 	91,19
+3066 	BB 118 	95,23
+3117 	BB 120 	95,23
+3142 	BB 121 	95,83
+3168 	BB 122 	96,42
+3193 	BB 123 	100,58
+3219 	BB 124 	102,28
+3244 	BB 125 	102,64
+3269 	BB 126 	103,00
+3295 	BB 127 	103,36
+3320 	BB 128 	104,41
+3346 	BB 129 	106,17
+3371 	BB 130 	107,24
+3396 	BB 131 	107,46
+3447 	BB 133 	107,90
+3498 	BB 135 	108,33
+3523 	BB 136 	108,55
+3549 	BB 137 	109,30
+3625 	BB 140 	111,54
+3727 	BB 144 	114,55
+3752 	BB 145 	115,07
+4006 	BB 155 	120,29
+4031 	BB 156 	120,96
+4082 	BB 158 	122,30
+4184 	BB 162 	125,54
+4362 	BB 169 	131,22
+4463 	BB 173 	134,46
+4489 	BB 174 	135,32
+4641 	BB 180 	140,50
+4743 	BB 184 	144,08
+4895 	BB 190 	148,56
+4997 	BB 194 	151,78
+5022 	BB 195 	152,58
+5403 	BB 210 	171,73
+5682 	BB 221 	180,74
+5911 	BB 230 	188,11
+6165 	BB 240 	196,30
+6927 	BB 270 	213,40
+7105 	BB 277 	217,39
+HCC/CC
+Le (mm) 	RMA 	EUR / pc.
+3200 	CC 122 	157,73
+3301 	CC 126 	160,48
+3352 	CC 128 	161,85
+3555 	CC 136 	170,20
+3759 	CC 144 	179,20
+3987 	CC 153 	187,95
+4114 	CC 158 	192,82
+4216 	CC 162 	198,18
+4292 	CC 165 	202,28
+4495 	CC 173 	213,40
+4673 	CC 180 	217,18
+5003 	CC 193 	233,31
+5054 	CC 195 	235,80
+5283 	CC 204 	247,25
+5333 	CC 206 	249,79
+5435 	CC 210 	254,88
+5791 	CC 224 	262,92
+6197 	CC 240 	272,11
+6451 	CC 250 	287,57
+6959 	CC 270 	318,48
+
+-- 31 of 132 --
+
+32
+CONTI-V® FO
+CONTI-V® FO
+Raw-edge V-belts for demanding drives, DIN 2215
+Correas trapeciales de flancos abiertos para aplicaciones
+exigentes, DIN 2215
+Клиновые ремни с открытыми боковыми гранями для
+использования в приводах, к которым предъявляются
+высокие требования, DIN 2215
+Cinghie trapezoidali a fianchi aperti per trasmissioni
+diffi cili, DIN 2215
+Properties
+- conditionally resistant to oil
+- 5/-, 6/Y, 8/- : resistant to temperatures from -30°C to +80°C,
+electrically conductive to ISO 1813
+- ZX-CX < 3500mm: resistant to temperatures from -55°C to +70°C,
+electrically conductive to ISO 1813
+- ZX-CX > 3500mm: resistant to temperatures from -30°C to +80°C,
+electrically conductive on request
+- dust-proof
+- suitable for tropical climates
+Características
+- resistencia moderada a los aceites
+- 5/-, 6/Y, 8/- : resistentes a la temperaturas desde -30°C hasta +80°C,
+conductibilidad eléctrica según ISO 1813
+- ZX-CX < 3500mm: resistentes a la temperaturas desde -55°C hasta
++70°C, conductibilidad eléctrica según ISO 1813
+- ZX-CX > 3500mm: resistentes a la temperaturas desde -30°C hasta
++80°C, conductibilidad eléctrica bajo consulta.
+- insensibles al polvo
+- resistentes a climas tropicales
+Свойства
+- относительная маслостойкость
+- 5/-, 6/Y, 8/-:устойчивость к воздействию температур от -30°C до
++80°C, - электропроводность согласно стандарту ISO 1813
+- ZX-CX<3500мм: устойчивость к воздействию температур от -55°C
+до +70°C, электропроводность согласно стандарту ISO 1813
+- ZX-CX>3500мм: устойчивость к воздействию температур от -30°C
+до +80°C, электропроводность по запросу
+- устойчивость к пыли
+- пригодны для эксплуатации в тропических условиях
+Proprietà
+- Relativamente resistenti all’olio
+- 5/-, 6/Y, 8/- : resistenti a temperature comprese tra -30 °C e +80 °C,
+elettricamente conduttrici secondo ISO 1813
+- ZX-CX < 3500 mm: resistenti a temperature comprese tra -55°C e
++70°C, elettricamente conduttrici secondo ISO 1813
+- ZX-CX > 3500 mm: resistenti a temperature comprese tra -30 °C e
++80 °C, elettricamente conduttrici su richiesta
+- Resistenti alla polvere
+- Resistenti al clima tropicale
+5/- 	6/Y 	8/- 	ZX 	AX 	BX 	CX
+Upper rib width | Anchura superior de correa |
+Ширина верхней части ремня | Larghezza superiore della
+cinghia
+bo 	mm 	5 	6 	8 	10 	13 	16,5 	22
+Belt height | Altura de correa
+Высота ремня | Altezza della cinghia 	h 	mm 	3 	4 	5 	6 	8 	11 	14
+Pitch width | Anchura primitiva
+Ширина по расчетной линии | Larghezza primitiva 	b d 	mm 	4,2 	5,3 	6,7 	8,5 	11 	14 	19
+Lower belt width | Anchura inferior de correa | Ширина
+внутренней грани ремня | Larghezza inferiore della cinghia 	bi 	mm 	3 	3,7 	4,8 	6,1 	7,8 	9,4 	12,9
+Pitch height | Altura primitiva
+Высота расчетной линии | Distanza tra le linee attive 	h d 	mm 	1,1 	1,5 	2 	2,3 	3,1 	3,9 	4,6
+Outer length | Longitud exterior
+Внешняя длина | Lunghezza esterna 	L a 	mm L d +8 	L d+10 	L d+12 	L d +15 	L d+20 	L d +24 	L d+29
+Li+19 	L i+25 	L i+31 	L i+38 	Li+50 	L i+69 	L i+88
+Reference length | Longitud básica
+Расчетная длина | Lunghezza indicativa 	Ld 	mm Li+11 	Li+15 	L i+19 	L i+23 	Li+30 	L i+45 	L i+59
+La-8 	L a-10 	L a-12 	L a-15 	L a-20 	L a-24 	L a -29
+Inside length | Longitud interior
+Внутренняя длина | Lunghezza interna 	Li 	mm 	Nominal length | Longitud nominal
+Номинальная длина | Lunghezza nominale
+Weight | Peso
+Вес | Peso 	kg/m 	0,018 	0,024 	0,041 	0,06 	0,105 	0,17 	0,324
+Profi le | Perfil | Профиль | Sezione 	5/- 	6/Y 	8/- 	ZX 	AX 	BX 	CX
+Li to | Li hasta | Li до | Li fino a 	600 mm 	900 mm 	800 mm 	3500 mm 	3500 mm 	3500 mm 	3500 mm
+Pieces | Cantidad | Штуки | Quantità 	25 	25 	25 	5 	5 	5 	5
+Number in bundle | Cantidades lote | Число ремней в связке | Quantità per mazzo
+Intermediate lengths on request. | Longitudes intermedias bajo consulta.
+Промежуточные длины по запросу. | Lunghezze intermedie su richiesta.
+
+-- 32 of 132 --
+
+33
+CONTI-V® FO
+L i 	Inside length | Longitud interior | Внутренняя длина | Lunghezza interna
+Ld 	Reference length | Longitud básica | Расчетная длина | Lunghezza indicativa
+N 	Non-cogged | Sin dentado | Без формованного зуба | Senza dentatura
+MOQ 	Minimum quantity | Cantidad mínima | Минимальное количество | Quantità minima
+EUR / pc. 	Price per piece | Precio por unidad | Цена за штуку | Prezzo per articolo
+* 	On request (see page 6) | Bajo consulta (v. pág. 6) | По запросу (см. стр. 7) | Su richiesta (v. pag. 7)
+The reference length Ld corresponds to L r as per DIN / ISO | La longitud básica Ld corresponde a L r según DIN / ISO
+Расчетная длина Ld соответствует L r согласно DIN / ISO | La lunghezza indicativa Ld corrisponde a L r secondo DIN / ISO
+5/-
+L i (mm) 	RMA 	MOQ 	EUR / pc.
+160 * 	490 	8,10
+N 185 * 	490 	8,10
+N 190 * 	490 	8,10
+N 229 * 	490 	8,10
+N 236 	8,10
+N 260 * 	490 	8,10
+260 * 	490 	8,10
+N 265 * 	490 	8,10
+N 270 * 	490 	8,10
+270 * 	490 	8,10
+N 280 * 	490 	8,10
+280 * 	490 	8,10
+N 287 * 	490 	8,10
+N 300 * 	490 	8,10
+300 * 	490 	8,10
+N 303 * 	490 	8,10
+N 315 	8,10
+315 * 	490 	8,10
+N 322 * 	490 	8,10
+322 * 	490 	8,10
+N 330 	8,10
+330 * 	490 	8,10
+N 335 	8,10
+335 	8,10
+N 340 	8,10
+340 * 	490 	8,10
+N 345 * 	490 	8,10
+345 * 	490 	8,10
+N 350 * 	490 	8,10
+N 352 * 	490 	8,10
+352 	8,10
+N 355 * 	490 	8,10
+N 358 	8,10
+N 375 * 	490 	8,10
+375 * 	490 	8,10
+400 * 	490 	8,10
+N 406 	8,10
+N 420 * 	490 	8,10
+N 425 * 	490 	8,10
+425 * 	490 	8,10
+N 435 * 	490 	8,10
+435 	8,10
+N 441 * 	490 	8,10
+450 * 	490 	8,10
+N 465 * 	490 	8,10
+N 471 * 	490 	8,10
+N 475 * 	490 	8,10
+475 * 	490 	8,10
+N 495 * 	490 	8,10
+N 500 * 	490 	8,10
+N 514 * 	490 	8,10
+N 530 * 	490 	8,10
+530 * 	490 	8,10
+N 554 	8,10
+L i (mm) 	RMA 	MOQ 	EUR / pc.
+560 * 	490 	8,10
+N 600 	8,10
+600 * 	490 	8,10
+N 850 	8,10
+6/Y
+L i (mm) 	RMA 	MOQ 	EUR / pc.
+N 240 * 	420 	8,27
+N 250 * 	420 	8,27
+N 260 * 	420 	8,27
+N 265 * 	420 	8,27
+N 270 * 	420 	8,27
+270 * 	420 	8,27
+N 280 	8,27
+280 * 	420 	8,27
+290 * 	420 	8,27
+N 300 	8,27
+300 * 	420 	8,27
+315 * 	420 	8,27
+N 320 * 	420 	8,27
+N 330 * 	420 	8,27
+N 335 * 	420 	8,27
+335 	8,27
+N 339 * 	420 	8,27
+339 * 	420 	8,27
+N 350 * 	420 	8,27
+N 352 * 	420 	8,27
+352 	8,27
+N 360 * 	420 	8,27
+N 372 * 	420 	8,27
+N 375 * 	420 	8,27
+375 	8,27
+N 380 	8,27
+N 400 	8,27
+400 	8,27
+N 425 	8,27
+425 	8,27
+N 450 	8,27
+450 	8,27
+460 	8,27
+N 475 * 	420 	8,27
+495 * 	420 	8,27
+N 500 	8,27
+530 * 	420 	8,27
+N 540 	8,27
+N 550 * 	420 	8,27
+560 * 	420 	8,27
+N 580 * 	420 	8,27
+N 600 	8,27
+600 * 	420 	8,27
+N 620 * 	420 	8,27
+N 640 	8,27
+640 * 	420 	8,27
+5/-
+L i (mm) 	RMA 	MOQ 	EUR / pc.
+N 675 * 	420 	8,27
+N 695 * 	420 	8,27
+N 700 * 	420 	8,27
+N 714 * 	420 	8,27
+N 800 * 	420 	8,27
+N 850 * 	420 	8,27
+850 * 	420 	8,27
+N 900 * 	420 	8,27
+8/-
+L i (mm) 	RMA 	MOQ 	EUR / pc.
+160 	9,75
+N 280 	9,75
+300 	9,75
+N 315 	9,75
+322 	9,75
+N 335 	9,75
+340 	9,75
+N 355 	9,75
+N 375 	9,75
+N 400 	9,75
+N 425 	9,75
+N 430 	9,75
+N 450 	9,75
+N 475 	9,75
+495 	9,75
+N 500 	9,75
+N 530 	9,75
+N 560 	9,75
+N 580 	9,75
+N 600 	9,75
+N 630 	9,75
+N 655 	9,75
+N 670 	9,75
+N 680 	9,75
+N 700 	9,75
+N 710 	9,75
+N 717 	9,75
+N 750 	9,75
+N 800 	9,75
+N 830 	9,75
+N 850 	9,75
+N 900 	9,75
+N 1115 	9,75
+ZX
+L d (mm) 	RMA 	MOQ 	EUR / pc.
+505 	ZX 19 	8,52
+517 	ZX 19,5 	8,52
+530 	ZX 20 	8,52
+543 	ZX 20,5 	8,52
+6/Y
+
+-- 33 of 132 --
+
+34
+CONTI-V® FO
+Ld (mm) 	RMA 	MOQ 	EUR / pc.
+555 	ZX 21 	8,52
+573 	ZX 21,7 	8,52
+606 	ZX 23 	8,52
+632 	ZX 24 	8,52
+682 	ZX 26 	8,52
+708 	ZX 27 	8,52
+733 	ZX 28 	8,52
+746 	ZX 28,5 	8,52
+771 	ZX 29,5 	8,52
+784 	ZX 30 	8,52
+797 	ZX 30,5 	8,52
+802 	ZX 30,7 	9,07
+822 	ZX 31,5 	9,07
+835 	ZX 32 	9,07
+860 	ZX 33 	9,07
+878 	ZX 33,7 	9,07
+911 	ZX 35 	9,91
+936 	ZX 36 	9,91
+962 	ZX 37 	9,91
+1013 	ZX 39 	9,91
+1038 	ZX 40 	10,90
+1063 	ZX 41 	10,90
+1089 	ZX 42 	10,90
+1114 	ZX 43 	10,90
+1140 	ZX 44 	12,05
+1165 	ZX 45 	12,05
+1178 	ZX 45,5 	12,05
+1203 	ZX 46,5 	12,47
+1229 	ZX 47,5 	12,47
+1343 	ZX 52 	14,86
+1381 	ZX 53,5 	14,86
+1419 	ZX 55 	15,17
+1521 	ZX 59 	15,17
+1648 	ZX 64 	17,43
+2105 	ZX 82 	22,51
+AX
+Ld (mm) 	RMA 	MOQ 	EUR / pc.
+513 	AX 19 	10,11
+538 	AX 20 	10,11
+563 	AX 21 	10,11
+589 	AX 22 	10,11
+614 	AX 23 	10,37
+690 	AX 26 	11,08
+830 	AX 31,5 	12,18
+843 	AX 32 	12,18
+868 	AX 33 	12,18
+894 	AX 34 	12,18
+944 	AX 36 	13,57
+970 	AX 37 	13,57
+983 	AX 37,5 	13,57
+1021 	AX 39 	15,76
+1046 	AX 40 	15,76
+1071 	AX 41 	15,76
+1097 	AX 42 	15,76
+1110 	AX 42,5 	15,76
+1160 	AX 44,5 	17,17
+1173 	AX 45 	17,17
+1185 	AX 45,5 	17,17
+1249 	AX 48 	17,17
+1275 	AX 49 	18,56
+1300 	AX 50 	18,56
+ZX
+L d (mm) 	RMA 	MOQ 	EUR / pc.
+1351 	AX 52 	19,38
+1376 	AX 53 	19,38
+1427 	AX 55 	21,46
+1452 	AX 56 	21,46
+1478 	AX 57 	21,46
+1503 	AX 58 	21,46
+1529 	AX 59 	21,74
+1554 	AX 60 	21,74
+1579 	AX 61 	21,74
+1605 	AX 62 	23,82
+1630 	AX 63 	23,82
+1656 	AX 64 	23,82
+1681 	AX 65 	23,82
+1706 	AX 66 	24,63
+1757 	AX 68 	24,63
+1783 	AX 69 	24,63
+1808 	AX 70 	24,97
+1833 	AX 71 	24,97
+1859 	AX 72 	25,21
+1935 	AX 75 	27,43
+1986 	AX 77 	28,81
+2037 	AX 79 	29,39
+2164 	AX 84 	30,94
+2265 	AX 88 	31,42
+2316 	AX 90 	32,23
+2341 	AX 91 	32,56
+2392 	AX 93 	33,63
+2519 	AX 98 	35,15
+2570 	AX 100 	36,51
+2697 	AX 105 	38,52
+BX
+L d (mm) 	RMA 	MOQ 	EUR / pc.
+703 	BX 26 	16,40
+729 	BX 27 	16,40
+754 	BX 28 	16,40
+780 	BX 29 	16,40
+805 	BX 30 	16,40
+830 	BX 31 	17,27
+856 	BX 32 	17,27
+881 	BX 33 	17,27
+907 	BX 34 	17,27
+932 	BX 35 	18,94
+975 	BX 36,7 	18,94
+983 	BX 37 	18,94
+1008 	BX 38 	18,94
+1034 	BX 39 	20,42
+1161 	BX 44 	21,70
+1211 	BX 46 	22,69
+1237 	BX 47 	22,69
+1262 	BX 48 	23,31
+1364 	BX 52 	24,56
+1415 	BX 54 	25,09
+1516 	BX 58 	28,47
+1592 	BX 61 	29,37
+1618 	BX 62 	30,32
+1669 	BX 64 	31,25
+1719 	BX 66 	32,19
+1745 	BX 67 	33,18
+1796 	BX 69 	33,78
+1821 	BX 70 	34,19
+1846 	BX 71 	35,26
+1872 	BX 72 	35,26
+AX
+L d (mm) 	RMA 	MOQ 	EUR / pc.
+1897 	BX 73 	36,33
+1923 	BX 74 	36,33
+1948 	BX 75 	38,32
+1973 	BX 76 	38,83
+1999 	BX 77 	38,83
+2024 	BX 78 	40,34
+2050 	BX 79 	41,54
+2075 	BX 80 	42,25
+2100 	BX 81 	42,37
+2151 	BX 83 	43,47
+2202 	BX 85 	44,62
+2227 	BX 86 	45,13
+2278 	BX 88 	45,68
+2304 	BX 89 	46,08
+2329 	BX 90 	46,62
+2354 	BX 91 	47,80
+2380 	BX 92 	47,80
+2405 	BX 93 	48,86
+2431 	BX 94 	49,50
+2456 	BX 95 	50,26
+2481 	BX 96 	51,51
+2507 	BX 97 	51,83
+2583 	BX 100 	52,79
+2634 	BX 102 	53,68
+2659 	BX 103 	53,68
+2685 	BX 104 	53,68
+2710 	BX 105 	54,18
+2748 	BX 107 	55,09
+2837 	BX 110 	57,12
+2939 	BX 114 	59,25
+3015 	BX 117 	60,77
+3040 	BX 118 	61,28
+3091 	BX 120 	61,80
+CX
+L d (mm) 	RMA 	MOQ 	EUR / pc.
+1132 	CX 42 	37,36
+1157 	CX 43 	38,07
+1183 	CX 44 	38,74
+1233 	CX 46 	40,11
+1310 	CX 49 	43,48
+1360 	CX 51 	45,00
+1386 	CX 52 	45,74
+1411 	CX 53 	46,47
+1437 	CX 54 	47,17
+1462 	CX 55 	47,89
+1487 	CX 56 	48,61
+1513 	CX 57 	49,36
+1538 	CX 58 	50,06
+1564 	CX 59 	51,51
+1589 	CX 60 	52,20
+1614 	CX 61 	52,90
+1640 	CX 62 	53,63
+1665 	CX 63 	54,37
+1691 	CX 64 	55,91
+1716 	CX 65 	56,66
+1741 	CX 66 	57,42
+1767 	CX 67 	58,20
+1792 	CX 68 	58,96
+1818 	CX 69 	59,69
+1843 	CX 70 	60,46
+1868 	CX 71 	61,23
+BX
+
+-- 34 of 132 --
+
+35
+CONTI-V® FO
+L d (mm) 	RMA 	MOQ 	EUR / pc.
+1894 	CX 72 	61,99
+1919 	CX 73 	62,85
+1945 	CX 74 	63,53
+1970 	CX 75 	64,29
+2072 	CX 79 	66,91
+2097 	CX 80 	67,65
+2122 	CX 81 	68,77
+2148 	CX 82 	69,46
+2173 	CX 83 	70,12
+2199 	CX 84 	70,89
+2224 	CX 85 	71,56
+2249 	CX 86 	72,09
+2275 	CX 87 	73,16
+2300 	CX 88 	74,28
+2351 	CX 90 	76,24
+2427 	CX 93 	77,90
+2503 	CX 96 	79,56
+2529 	CX 97 	80,54
+2554 	CX 98 	81,15
+2732 	CX 105 	87,41
+2757 	CX 106 	88,22
+2834 	CX 109 	90,60
+2859 	CX 110 	91,45
+3062 	CX 118 	97,35
+CX
+
+-- 35 of 132 --
+
+36
+CONTI-V® FO ADVANCE
+CONTI-V® FO ADVANCE
+Transversely stiff raw-edge heavy-duty V-belts for
+powerful, sustained power transmission with enhanced
+running smoothness, DIN 7753
+Correas trapeciales de flancos abiertos de alto rendimiento
+con elevada rigidez transversal. Ideal para transmisiones
+exigentes que requieren un funcionamiento silencioso,
+DIN 7753
+Клиновые ремни с открытыми боковыми гранями,
+жесткие в поперечном направлении для непрерывной
+передачи большой мощности с улучшенной
+плавностью хода, DIN 7753
+Cinghie trapezoidali ad alta efficienza a fi anchi aperti e
+trasversalmente rigide per una vigorosa trasmissione
+continua della potenza con alta stabilità e silenziosità di
+funzionamento, DIN 7753
+Properties
+- conditionally resistant to oil
+- resistant to temperatures from -30°C to +80°C
+- electrically conductive to ISO 1813, conductivity as of 3500 mm on
+request
+- dust-proof
+- suitable for tropical climates
+Características
+- resistencia moderada a los aceites
+- resistentes a temperaturas desde -30°C hasta +80°C
+- conductibilidad eléctrica según ISO 1813, a partir de 3500 mm
+conductibilidad bajo consulta
+- insensibles al polvo
+- resistentes a climas tropicales
+XPZ / 3VX 	XPA 	XPB / 5VX 	XPC
+Upper rib width | Anchura superior de correa | Ширина верхней
+части ремня | Larghezza superiore della cinghia 	bo 	mm 	9,7 	12,7 	16,3 	22
+Belt height | Altura de correa
+Высота ремня | Altezza della cinghia 	h 	mm 	8 	9 	13 	16
+Pitch width | Anchura primitiva
+Ширина по расчетной линии | Larghezza primitiva 	b d 	mm 	8,5 	11 	14 	19
+Lower belt width | Anchura inferior de correa | Ширина
+внутренней грани ремня | Larghezza inferiore della cinghia 	b i 	mm 	4,5 	6,9 	7,9 	11,6
+Pitch height | Altura primitiva
+Высота расчетной линии | Distanza tra le linee attive 	h d 	mm 	1,9 	2,6 	3,5 	4,6
+Outer length | Longitud exterior
+Внешняя длина | Lunghezza esterna 	L a 	mm L d +12 	L d+17 	L d+22 	L d +29
+Li+50 	L i+57 	L i+82 	L i+101
+Reference length | Longitud básica
+Расчетная длина | Lunghezza indicativa 	Ld 	mm 	Nominal length | Longitud nominal
+Номинальная длина | Lunghezza nominale
+Inside length | Longitud interior
+Внутренняя длина | Lunghezza interna 	L i 	mm L d -38 	L d-40 	L d-60 	L d -72
+Li-50 	L i-57 	L i-82 	L i-101
+Weight | Peso
+Вес | Peso 	kg/m 	0,072 	0,112 	0,192 	0,37
+Profi le | Perfil | Профиль | Sezione 	XPZ 	XPA 	XPB 	XPC
+L d to | Ld hasta | Ld до | L d fino a 	3500 mm 	3500 mm 	3550 mm 	3500 mm
+Pieces | Cantidad | Штуки | Quantità 	5 	5 	5 	5
+Number in bundle | Cantidades lote | Число ремней в связке | Quantità per mazzo
+Свойства
+- относительная маслостойкость
+- устойчивость к воздействию температур от -30°C до +80°C
+- электропроводность согласно стандарту ISO 1813, от 3500 мм
+электропроводность по запросу
+- устойчивость к пыли
+- пригодны для эксплуатации в тропических условиях
+Proprietà
+- Relativamente resistenti all’olio
+- Resistenti a temperature comprese tra -30 °C e +80 °C
+- Elettricamente conduttrice secondo ISO 1813, a partire da 3500 mm
+elettricamente conduttrici su richiesta
+- Resistenti alla polvere
+- Resistenti al clima tropicale
+Intermediate lengths and minimum quantities available on request. | Longitudes intermedias y cantidades mínimas bajo consulta.
+Промежуточные длины и минимальное количество по запросу. | Lunghezze intermedie e quantità minime su richiesta.
+from as small as 1000 mm on up | ya desde 1000 mm | от 1000 мм | già a partire da 1000 mm
+(see page 6 | v. pág. 6 | см. стр. 7 | v. pag. 7)	L = L	L = L
+L = L
+
+-- 36 of 132 --
+
+37
+CONTI-V® FO ADVANCE
+L d 	Reference length | Longitud básica | Расчетная длина | Lunghezza indicativa
+MOQ 	Minimum quantity | Cantidad mínima | Минимальное количество | Quantità minima
+EUR / pc. 	Price per piece | Precio por unidad | Цена за штуку | Prezzo per articolo
+* 	On request (see page 6) | Bajo consulta (v. pág. 6) | По запросу (см. стр. 7) | Su richiesta (v. pag. 7)
+The reference length Ld corresponds to L r as per DIN / ISO | La longitud básica Ld corresponde a L r según DIN / ISO
+Расчетная длина Ld соответствует L r согласно DIN / ISO | La lunghezza indicativa Ld corrisponde a L r secondo DIN / ISO
+XPZ / 3VX
+L d (mm) 	RMA 	MOQ 	EUR / pc.
+562 	9,39
+587 	9,39
+590 * 	300 	9,39
+612 	9,75
+630 	3VX 250 	9,75
+637 	9,75
+662 	3VX 260 	9,75
+670 	3VX 265 	9,75
+687 	9,75
+690 * 	300 	9,75
+710 	3VX 280 	9,75
+730 	9,75
+737 	9,75
+750 	9,75
+762 	3VX 300 	9,75
+772 	9,75
+780 	9,75
+787 	9,75
+800 	3VX 315 	9,75
+812 	10,38
+825 	10,38
+830 * 	300 	10,38
+837 	10,38
+850 	3VX 335 	10,38
+862 	10,38
+875 	10,38
+887 	3VX 350 	10,38
+900 	3VX 355 	10,38
+912 	11,36
+925 	11,36
+930 * 	300 	11,36
+937 	3VX 370 	11,36
+950 	3VX 375 	11,36
+962 	11,36
+975 * 	300 	11,36
+980 	11,36
+987 	11,36
+1000 	11,36
+1012 	3VX 400 	12,48
+1030 	12,48
+1037 	12,48
+1060 	12,48
+1077 	3VX 425 	12,48
+1080 * 	300 	12,48
+1087 	12,48
+1112 	12,48
+1120 	12,48
+1137 	3VX 450 	13,78
+1150 	13,78
+1162 	13,78
+1180 	13,78
+1187 	13,78
+1202 	3VX 475 	14,26
+1212 	14,26
+1230 * 	300 	14,26
+1237 	14,26
+L d (mm) 	RMA 	MOQ 	EUR / pc.
+1250 	14,26
+1262 	3VX 500 	14,26
+1280 * 	300 	15,24
+1287 	15,24
+1300 * 	300 	15,24
+1312 	15,24
+1320 	3VX 520 	15,24
+1337 	17,00
+1362 	17,00
+1380 	17,00
+1400 	17,00
+1412 	17,35
+1420 	3VX 560 	17,35
+1430 * 	300 	17,35
+1450 	17,35
+1462 	17,35
+1480 * 	300 	17,35
+1487 	17,35
+1500 	17,35
+1512 	17,35
+1530 * 	300 	18,64
+1537 	18,64
+1550 	18,64
+1562 	3VX 617 	18,64
+1587 	18,64
+1600 	3VX 630 	18,64
+1637 	19,94
+1650 	19,94
+1662 	19,94
+1687 	19,94
+1700 	3VX 670 	19,94
+1737 	20,58
+1750 	20,58
+1800 	3VX 710 	20,58
+1850 	21,73
+1900 	21,73
+1937 * 	300 	22,68
+1950 	22,68
+2000 	24,62
+2030 * 	273 	24,83
+2037 	3VX 800 	24,87
+2120 	25,45
+2137 * 	273 	25,74
+2160 * 	273 	26,15
+2240 	27,55
+2360 	28,52
+2410 	3VX 950 	29,55
+2500 	31,42
+2540 * 	3VX 1000 	273 	31,52
+2650 	31,77
+2690 * 	273 	32,51
+2800 	34,54
+2840 * 	3VX 1120 	273 	34,79
+3000 * 	3VX 1180 	273 	35,81
+3150 	37,91
+3350 	3VX 1320 	39,69
+XPZ / 3VX
+L d (mm) 	RMA 	MOQ 	EUR / pc.
+3550 	39,69
+XPA
+L d (mm) 	RMA 	MOQ 	EUR / pc.
+590 	11,83
+610 * 	228 	11,83
+630 	12,14
+670 * 	228 	12,96
+690 	12,96
+710 	12,96
+732 * 	228 	13,30
+750 * 	228 	13,30
+757 	13,30
+782 	13,30
+800 	13,30
+820 	14,26
+832 	14,26
+850 	14,26
+857 	14,26
+882 	14,26
+900 	14,26
+907 	15,88
+932 	15,88
+950 	15,88
+957 	15,88
+982 	15,88
+1000 	15,88
+1007 * 	228 	18,47
+1030 	18,47
+1060 	18,47
+1082 * 	228 	18,47
+1090 	18,47
+1120 	18,47
+1140 	20,10
+1150 	20,10
+1157 	20,10
+1180 	20,10
+1207 	20,10
+1210 	20,10
+1232 	20,10
+1250 	20,10
+1257 	20,10
+1282 	21,73
+1300 * 	228 	21,73
+1307 	21,73
+1320 	21,73
+1332 	22,68
+1340 	22,68
+1360 	22,68
+1382 * 	228 	22,68
+1400 	22,68
+1432 * 	228 	25,11
+1450 	25,11
+1457 * 	228 	25,11
+XPZ / 3VX
+
+-- 37 of 132 --
+
+38
+CONTI-V® FO ADVANCE
+Ld (mm) 	RMA 	MOQ 	EUR / pc.
+1482 	25,11
+1500 	25,11
+1507 	25,19
+1532 	25,45
+1550 * 	228 	25,45
+1557 	25,45
+1582 	25,45
+1600 	25,45
+1632 	27,87
+1650 	27,87
+1680 	27,87
+1700 	27,87
+1732 * 	225 	28,49
+1750 	28,83
+1782 	28,83
+1800 	28,83
+1850 	29,48
+1900 	30,45
+1950 	33,05
+2000 	34,03
+2082 	35,01
+2120 	35,63
+2132 	35,74
+2182 * 	219 	36,22
+2240 	36,77
+2310 	37,82
+2360 	38,57
+2432 * 	204 	39,90
+2500 	41,15
+2650 	44,08
+2800 	48,75
+3000 	48,94
+3150 	51,86
+3350 	54,76
+3550 	59,78
+3750 * 	174 	60,55
+4000 * 	174 	64,16
+XPB / 5VX
+L d (mm) 	RMA 	MOQ 	EUR / pc.
+950 	17,87
+1250 	27,55
+1320 	29,81
+1340 * 	165 	29,97
+1400 	30,45
+1450 	32,47
+1481 * 	165 	32,73
+1500 	5VX 590 	34,55
+1550 	35,63
+1600 	5VX 630 	36,77
+1650 	37,92
+1700 	5VX 670 	39,05
+1750 	40,26
+1800 	5VX 710 	41,48
+1850 	5VX 730 	42,77
+1900 	5VX 750 	44,08
+1950 	46,49
+1970 	47,46
+2000 	48,94
+2020 	48,94
+2100 	51,35
+2120 	5VX 840 	51,85
+XPA
+L d (mm) 	RMA 	MOQ 	EUR / pc.
+2150 	5VX 850 	52,74
+2200 * 	165 	54,23
+2240 	55,41
+2280 	55,41
+2300 	56,05
+2310 * 	165 	56,05
+2325 * 	165 	56,87
+2360 	58,00
+2410 	5VX 950 	59,28
+2470 * 	165 	61,67
+2500 	62,87
+2530 	5VX 1000 	63,33
+2650 	65,12
+2680 	5VX 1060 	65,74
+2700 * 	165 	66,16
+2800 	68,22
+2840 	5VX 1120 	69,31
+2900 	70,98
+3000 	5VX 1180 	73,72
+3150 	75,66
+3350 	5VX 1320 	80,86
+3550 	87,67
+3750 	94,47
+4000 	101,20
+4060 * 	5VX 1600 	132 	102,80
+4250 	107,90
+4310 * 	5VX 1700 	132 	109,51
+4370 * 	132 	111,11
+4500 	114,62
+4750 	121,31
+5000 	128,00
+5300 * 	28 	136,03
+5600 * 	28 	144,05
+6000 * 	28 	154,75
+6300 * 	28 	162,78
+6700 * 	28 	173,48
+XPC
+L d (mm) 	RMA 	MOQ 	EUR / pc.
+2000 	78,92
+2120 	83,44
+2240 	87,50
+2360 	92,50
+2500 	96,56
+2650 	103,07
+2800 	109,06
+3000 	116,81
+3150 	117,48
+3350 	123,47
+3550 	130,10
+3750 	141,69
+4000 	150,27
+4250 	158,86
+4310 * 	95 	160,94
+4500 	167,48
+4750 	170,92
+5000 	184,67
+5300 	195,00
+6000 * 	21 	219,08
+7100 	256,92
+XPB / 5VX
+
+-- 38 of 132 --
+
+39
+CONTI-V® FO ADVANCE
+
+-- 39 of 132 --
+
+40
+CONTI-V® FO LAM ADVANCE
+CONTI-V® FO LAM ADVANCE
+Heavy-duty V-belts with reinforced PE tensile member of
+different types for controlled slip and noiseless clutch
+engagement
+Correas trapeciales de alto rendimiento con elemento ten-
+sor de poliéster reforzado en diferentes versiones para un
+deslizamiento controlado y acoplamiento siliencioso
+Properties
+- resistant to temperatures from -30°C to +80°C
+- resistant to shock loads
+- higher chemical resistance
+- well suited for outer tension pulleys
+Características
+- resistentes a temperaturas desde -30°C hasta +80°C
+- resistentes a cargas dinámicas
+- alta resistencia a productos químicos
+- ideal para rodillos tensores exteriores
+Свойства
+- устойчивость к воздействию температур от -30°C до +80°C
+- устойчивость к ударным нагрузкам
+- повышенная стойкость к воздействию химических реагентов
+- повышенная гибкость, хорошо подходит для работы с внешними
+натяжными шкивами
+Proprietà
+- Resistenti a temperature comprese tra -30 °C e +80 °C
+- Resistenti a carichi impulsivi
+- Resistenza alle sostanze chimiche aumentata
+- Idonee per pulegge tendicinghia esterne
+Мощные клиновые ремни с усиленным полиэстеровым
+кордшнуром различного типа для контролируемого
+проскальзывания и бесшумного включения сцепления
+Cinghie trapezoidali di alta efficienza con anima resistente
+rinforzata di poliestere in diverse esecuzioni per
+scorrimento controllato ed innesto silenzioso nel giunto
+10/Z 	13/A 	17/B 	SPZ 	SPA 	SPB 	SPC
+Upper rib width | Anchura superior de correa |
+Ширина верхней части ремня | Larghezza superiore della
+cinghia
+bo 	mm 	10,9 	13,9 	17,4 	10,9 	13,9 	17,4 	23,3
+Belt height | Altura de correa
+Высота ремня | Altezza della cinghia 	h 	mm 	5,6 	7,2 	8,4 	7,2 	8,4 	10 	14
+Pitch width | Anchura primitiva
+Ширина по расчетной линии | Larghezza primitiva 	bd 	mm 	8,5 	11 	14 	8,5 	11 	14 	19
+Lower belt width | Anchura inferior de correa | Ширина
+внутренней грани ремня | Larghezza inferiore della cinghia 	bi 	mm 	7 	8,9 	11,6 	6 	8,1 	10,5 	13,7
+Pitch height | Altura primitiva
+Высота расчетной линии | Distanza tra le linee attive 	hd 	mm 	2 	2,7 	3 	2 	2,2 	3 	3,8
+Outer length | Longitud exterior
+Внешняя длина | Lunghezza esterna 	La 	mm 	L r +12 	L r +26 	L r+31 	L r+12 	Lr +26 	L r +31 	L r +39
+Reference length | Longitud básica
+Расчетная длина | Lunghezza indicativa 	Ld 	mm 	Nominal length | Longitud nominal
+Номинальная длина | Lunghezza nominale
+Inside length | Longitud interior
+Внутренняя длина | Lunghezza interna 	Li 	mm 	L r-23 	L r-19 	L r-22 	L r-33 	L r-27 	Lr-32 	L r-49
+Weight | Peso
+Вес | Peso 	kg/m 	0,071 	0,101 	0,162 	0,08 	0,118 	0,175 	0,337
+All sizes and prices are available on request.
+Dimensiones y precios bajo consulta.
+Все размеры и цены по запросу.
+Dimensioni e prezzi su richiesta.
+
+-- 40 of 132 --
+
+41
+CONTI-V® FO LAM POWER
+CONTI-V® FO LAM POWER
+Heavy-duty V-belts with low-stretch aramid tensile member
+of different types for controlled slip and noiseless clutch
+engagement
+Correas trapeciales de alto rendimiento con elemento
+tensor de aramida de baja elongación en diferentes versio-
+nes para un deslizamiento controlado y un acoplamiento
+silencioso
+Мощные клиновые ремни с кевларовым
+кордшнуром различного типа для контролируемого
+проскальзывания и бесшумного включения сцепления
+Cinghie trapezoidali di alta efficienza con anima resistente
+in aramide a bassa dilatazione in diverse esecuzioni per
+scorrimento controllato ed innesto silenzioso nel giunto
+10/Z 	13/A 	17/B 	SPZ 	SPA 	SPB 	SPC
+Upper rib width | Anchura superior de correa |
+Ширина верхней части ремня | Larghezza superiore della
+cinghia
+bo 	mm 	10,9 	13,9 	17,4 	10,9 	13,9 	17,4 	23,3
+Belt height | Altura de correa
+Высота ремня | Altezza della cinghia 	h 	mm 	5,6 	7,2 	8,4 	7,2 	8,4 	10 	14
+Pitch width | Anchura primitiva
+Ширина по расчетной линии | Larghezza primitiva 	bd 	mm 	8,5 	11 	14 	8,5 	11, 	14 	19
+Lower belt width | Anchura inferior de correa | Ширина
+внутренней грани ремня | Larghezza inferiore della cinghia 	bi 	mm 	7 	8,9 	11,6 	6 	8,1 	10,5 	13,7
+Pitch height | Altura primitiva
+Высота расчетной линии | Distanza tra le linee attive 	hd 	mm 	2 	2,7 	3 	2 	2,2 	3 	3,8
+Outer length | Longitud exterior
+Внешняя длина | Lunghezza esterna 	La 	mm 	L r +12 	Lr +26 	Lr +31 	Lr+12 	Lr +26 	Lr +31 	L r +39
+Reference length | Longitud básica
+Расчетная длина | Lunghezza indicativa 	Ld 	mm 	Nominal length | Longitud nominal
+Номинальная длина | Lunghezza nominale
+Inside length | Longitud interior
+Внутренняя длина | Lunghezza interna 	L i 	mm 	L r-23 	L r-19 	L r-22 	L r-33 	L r-27 	Lr-32 	L r-49
+Weight | Peso
+Вес | Peso 	kg/m 	0,071 	0,101 	0,162 	0,08 	0,118 	0,175 	0,337
+Properties
+- resistant to temperatures from -30°C to +80°C
+- resistant to high shock loads
+- higher chemical resistance
+- well suited for outer tension pulleys
+Características
+- resistentes a temperaturas desde -30°C hasta +80°C
+- resistentes a cargas dinámicas
+- alta resistencia a productos químicos
+- ideal para rodillos tensores exteriores
+Свойства
+- устойчивость к воздействию температур от -30°C до +80°C
+- устойчивость к ударным нагрузкам
+- повышенная стойкость к воздействию химических реагентов
+- повышенная гибкость, хорошо подходит для работы с внешними
+натяжными шкивами
+Proprietà
+- Resistenti a temperature comprese tra -30 °C e +80 °C
+- Resistenti ad alti carichi impulsivi
+- Resistenza alle sostanze chimiche aumentata
+- Idonee per pulegge tendicinghia esterne
+All sizes and prices are available on request.
+Dimensiones y precios bajo consulta.
+Все размеры и цены по запросу.
+Dimensioni e prezzi su richiesta.
+
+-- 41 of 132 --
+
+42
+CONTI-V® FO MULTILAM ADVANCE
+CONTI-V® FO MULTILAM ADVANCE
+Heavy-duty V-belts with reinforced PE tensile member of
+different types for controlled slip and noiseless clutch
+engagement
+Correas trapeciales de alto rendimiento con elemento
+tensor de poliéster reforzado en diferentes versiones para
+un deslizamiento controlado y un acoplamiento silencioso
+Мощные клиновые ремни с усиленным полиэстеровым
+кордшнуром различного типа для контролируемого
+проскальзывания и бесшумного включения сцепления
+Cinghie trapezoidali di alta efficienza con anima resistente
+rinforzata di poliestere in diverse esecuzioni per
+scorrimento controllato ed innesto silenzioso nel giunto
+All sizes and prices are available on request.
+Dimensiones y precios bajo consulta.
+Все размеры и цены по запросу.
+Dimensioni e prezzi su richiesta.
+10/Z 	13/A 	17/B
+Upper rib width | Anchura superior de correa |
+Ширина верхней части ремня | Larghezza superiore della
+cinghia
+bo 	mm 	9,9 	12,9 	16,4
+Belt height | Altura de correa
+Высота ремня | Altezza della cinghia 	h 	mm 	5,6 	6,6 	8
+Pitch width | Anchura primitiva
+Ширина по расчетной линии | Larghezza primitiva 	b d 	mm 	8,5 	11 	14
+Lower belt width | Anchura inferior de correa | Ширина
+внутренней грани ремня | Larghezza inferiore della cinghia 	b i 	mm 	6 	8,4 	10,9
+Pitch height | Altura primitiva
+Высота расчетной линии | Distanza tra le linee attive 	h d 	mm 	0,5 	1,3 	2
+Outer length | Longitud exterior
+Внешняя длина | Lunghezza esterna 	L a 	mm 	L r +8 	L r +17 	L r +22
+Reference length | Longitud básica
+Расчетная длина | Lunghezza indicativa 	Ld 	mm 	Nominal length | Longitud nominal
+Номинальная длина | Lunghezza nominale
+Inside length | Longitud interior
+Внутренняя длина | Lunghezza interna 	L i 	mm 	L r-27 	L r-25 	L r-28
+Weight | Peso
+Вес | Peso 	kg/m 	0,071 	0,101 	0,162
+Properties
+- resistant to temperatures from -30°C to +80°C
+- resistant to shock loads
+- higher chemical resistance
+Características
+- resistentes a temperaturas desde -30°C hasta +80°C
+- resistentes a cargas dinámicas
+- alta resistencia a productos químicos
+Свойства
+- устойчивость к воздействию температур от -30°C до +80°C
+- устойчивость к ударным нагрузкам
+- повышенная стойкость к воздействию химических реагентов
+Proprietà
+- Resistenti a temperature comprese tra -30 °C e +80 °C
+- Resistenti a carichi impulsivi
+- Resistenza alle sostanze chimiche aumentata
+
+-- 42 of 132 --
+
+43
+CONTI-V® FO MULTILAM POWER
+CONTI-V® FO MULTILAM POWER
+All sizes and prices are available on request.
+Dimensiones y precios bajo consulta.
+Все размеры и цены по запросу.
+Dimensioni e prezzi su richiesta.
+10/Z 	13/A 	17/B
+Upper rib width | Anchura superior de correa |
+Ширина верхней части ремня | Larghezza superiore della
+cinghia
+b o 	mm 	9,9 	12,9 	16,4
+Belt height | Altura de correa
+Высота ремня | Altezza della cinghia 	h 	mm 	5,6 	6,6 	8
+Pitch width | Anchura primitiva
+Ширина по расчетной линии | Larghezza primitiva 	b d 	mm 	8,5 	11 	14
+Lower belt width | Anchura inferior de correa | Ширина
+внутренней грани ремня | Larghezza inferiore della cinghia 	b i 	mm 	6 	8,4 	10,9
+Pitch height | Altura primitiva
+Высота расчетной линии | Distanza tra le linee attive 	h d 	mm 	0,5 	1,3 	2
+Outer length | Longitud exterior
+Внешняя длина | Lunghezza esterna 	L a 	mm 	Lr +8 	L r +17 	Lr +22
+Reference length | Longitud básica
+Расчетная длина | Lunghezza indicativa 	Ld 	mm 	Nominal length | Longitud nominal
+Номинальная длина | Lunghezza nominale
+Inside length | Longitud interior
+Внутренняя длина | Lunghezza interna 	Li 	mm 	Lr-27 	L r-25 	L r-28
+Weight | Peso
+Вес | Peso 	kg/m 	0,071 	0,101 	0,162
+Heavy-duty V-belts with low-stretch aramid tensile member
+of different types for controlled slip and noiseless clutch
+engagement
+Correas trapeciales de alto rendimiento con elemento
+tensor de aramida de baja elongación en diferentes versio-
+nes para un deslizamiento controlado y un acoplamiento
+silencioso
+Мощные клиновые ремни с усиленным кевларовым
+кордшнуром различного типа для контролируемого
+проскальзывания и бесшумного включения сцепления
+Cinghie trapezoidali di alta efficienza con anima resistente
+di aramide a bassa dilatazione in diverse esecuzioni per
+scorrimento controllato ed innesto silenzioso nel giunto
+Properties
+- resistant to temperatures from -30°C to +80°C
+- resistant to high shock loads
+- higher chemical resistance
+Características
+- resistentes a temperaturas desde -30°C hasta +80°C
+- resistentes a cargas dinámicas
+- alta resistencia a productos químicos
+Свойства
+- устойчивость к воздействию температур от -30°C до +80°C
+- устойчивость к ударным нагрузкам
+- повышенная стойкость к воздействию химических реагентов
+Proprietà
+- Resistenti a temperature comprese tra -30 °C e +80 °C
+- Resistenti ad alti carichi impulsivi
+- Resistenza alle sostanze chimiche aumentata
+
+-- 43 of 132 --
+
+44
+CONTI-V® MULTIBELT
+CONTI-V® MULTIBELT
+Banded V-belts for drives with major load changes
+Correas trapeciales múltiples para aplicaciones con
+elevados cambios de cargas
+Многоручьевые клиновые ремни для приводов с
+неравномерными нагрузками
+Cinghie trapezoidali accoppiate per azionamenti con carichi
+fortemente irregolari
+Properties
+- conditionally resistant to oil
+- electrically conductive to ISO 1813
+- suitable for tropical climates
+- resistant to temperatures from -40°C to +80°C
+Características
+- resistencia moderada a los aceites
+- conductibilidad eléctrica según ISO 1813
+- resistentes a climas tropicales
+- resistentes a temperaturas desde -40°C hasta +80°C
+Свойства
+- относительная маслостойкость
+- электропроводность согласно стандарту ISO 1813
+- пригодны для эксплуатации в тропических условиях
+- устойчивость к воздействию температур от -40°C до +80°C
+Proprietà
+- Relativamente resistenti all’olio
+- Elettricamente conduttrici secondo ISO 1813
+- Resistenti al clima tropicale
+- Resistenti a temperature comprese tra -40 °C e +80 °C
+3V
+(9J)
+5V
+(15J)
+8V
+(25J)
+A/HA 	B/HB 	C/HC 	SPZ 	SPA 	SPB 	SPC
+Upper rib width | Anchura superior de correa |
+Ширина верхней части ремня | Larghezza supe-
+riore della cinghia
+bo 	mm 	9 	15 	25 	13 	17 	22 	9,7 	12,7 	16,3 	22,3
+Belt height | Altura de correa
+Высота ремня | Altezza della cinghia 	H 	mm 	10 	16 	25,5 	11 	14,3 	18 	11 	13 	16,5 	22
+Profile height | Altura del perfil
+Высота профиля | Altezza delle sezione 	h 	mm 	8 	13 	23 	8 	11 	14 	9 	11 	13 	18
+Pitch width | Anchura primitiva
+Ширина по расчетной линии | Larghezza primitiva bd 	mm 	8,5 	11 	14 	19
+Pitch | División
+Шаг | Passo 	P 	mm 	10,3 	17,5 	28,6 	15,88 	19,05 	25,4 	12 	15 	19 	25,5
+Effective length | Longitud efectiva
+Эффективная длина | Lunghezza effettiva 	Le 	mm 	Nominal length | Longitud nominal
+Номинальная длина | Lunghezza nominale 	- 	- 	- 	-
+Outer length | Longitud exterior
+Внешняя длина | Lunghezza esterna 	La 	mm 	L e+28 	L e+29 	L e+32 	L e+33 	L e+28 	L e+38 	Ld +31 	L d+37 	L d +44 	L d+55
+Reference length | Longitud básica
+Расчетная длина | Lunghezza indicativa 	Ld 	mm 	- 	- 	- 	- 	- 	- 	Nominal length | Longitud nominal
+Номинальная длина | Lunghezza nominale
+Inside length | Longitud interior
+Внутренняя длина | Lunghezza interna 	Li 	mm 	L e-38 	L e-71 	L e-125 L e-36 	L e-62 	L e-75 	Ld -38 	L d-45 	L d -60 	L d-83
+Pulleys to.. | Poleas según..
+Шкивы.. | Pulegge secondo.. 	.. ISO 5290/5291 ASAE 211.5 - RMA IP 20/22
+.. ISO4183 - DIN 2211/2217
+Custom-made | Fabricación especial
+Изготовление на заказ | Modello speciale
+Max. pulley groove width values | Valores máx.
+canal b de poleas | Максимальное значение
+ширины желоба шкива | Valori max. della scana-
+latura b
+2 	2,75 	3,5 	4,85
+Weight | Peso
+Вес | Peso 	kg/m 	0,113 	0,262 	0,685 	0,162 	0,26 	0,431 	0,119 	0,195 	0,268 	0,495
+Size designation (example) Ejemplo de dimensión | Обозначение размера (пример) | Sigla della dimensione (esempio)
+3/SPA x 1400 Lp
+3 	Number of ribs | Número de canales | Число ребер | Numero di cinghie
+SPA 	Profi le | Perfi l | Профиль | Sezione
+1400 L p 1600 mm Pitch length | Longitud primitiva | Расчетная длина | Lunghezza attiva
+Weitere Abmessungen und Profi le auf Anfrage. | Otras dimensiones y perfiles bajo consulta.
+Другие размеры и профили по запросу. | Altre dimensioni e sezioni su richiesta.
+Raw-edge version on request. | Versión de flancos abiertos bajo consulta.
+Версия с открытыми боковыми гранями по запросу. | Versione a fianchi aperti su richiesta.
+
+-- 44 of 132 --
+
+45
+CONTI-V® MULTIBELT
+L a 	Outer length | Longitud exterior | Внешняя длина | Lunghezza esterna
+L d 	Reference length | Longitud básica | Расчетная длина | Lunghezza indicativa
+L i 	Inside length | Longitud interior | Внутренняя длина | Lunghezza interna
+EUR / rib 	Price per rib | Precio por ranura | Цена за ребро | Prezzo per cinghi
+Ribs / sl. 	Ribs per sleeve | Canales por mangón | Число ручьев в рукаве | Cinghie per manicotto
+EUR / sl. 	Price per sleeve | Precio por mangón | Цена за рукав | Prezzo per avvolgimento
+* 	On request (see page 6) | Bajo consulta (v. pág. 6) | По запросу (см. стр. 7) | Su richiesta (v. pag. 7)
+3V (9J)
+L a (inch) 	L a (mm) 	EUR / rib 	Ribs / sl. 	EUR / sl.
+3V465 	9J1181 	27,81 	40 	1112,29
+3V530 	9J1346 	31,67 	40 	1266,74
+3V560 	9J1422 	32,38 	40 	1295,29
+3V600 	9J1524 	33,13 	40 	1325,15
+3V630 	9J1600 	33,99 	40 	1359,76
+3V670 	9J1702 	34,40 	40 	1376,20
+3V710 	9J1803 	36,16 	40 	1446,28
+3V750 	9J1905 	38,18 	40 	1527,18
+3V800 	9J2032 	41,65 	40 	1666,06
+3V850 	9J2159 	44,68 	40 	1787,19
+3V900 	9J2286 	50,49 	40 	2019,52
+3V950 	9J2413 	52,07 	50 	2603,35
+3V1000 	9J2540 	54,65 	50 	2732,60
+3V1060 	9J2692 	56,39 	50 	2819,67
+3V1120 	9J2845 	59,58 	50 	2979,20
+3V1180 	9J2997 	63,34 	50 	3166,85
+3V1250 	9J3175 	65,79 	50 	3289,61
+3V1320 	9J3353 	70,86 	50 	3543,24
+3V1400 	9J3556 	75,18 	50 	3759,01
+5V (15J)
+L a (inch) 	L a (mm) 	EUR / rib 	Ribs / sl. 	EUR / sl.
+5V670 	15J1702 	76,77 	24 	1842,48
+5V750 	15J1905 	85,91 	24 	2061,83
+5V800 	15J2032 	91,66 	24 	2199,92
+5V835 	15J2121 	95,61 	24 	2294,67
+5V900 	15J2286 	103,12 	24 	2474,82
+5V950 	15J2413 	105,56 	30 	3166,85
+5V1000 	15J2540 	108,03 	30 	3240,83
+5V1060 	15J2692 	113,82 	30 	3414,75
+5V1120 	15J2845 	118,58 	30 	3557,52
+5V1180 	15J2997 	124,49 	30 	3734,68
+5V1250 	15J3175 	128,13 	30 	3844,03
+5V1320 	15J3353 	137,68 	30 	4130,53
+5V1400 	15J3556 	142,45 	30 	4273,63
+5V1500 	15J3810 	152,85 	30 	4585,45
+5V1600 	15J4064 	165,72 	30 	4971,57
+5V1700 	15J4318 	171,95 	30 	5158,46
+5V1800 	15J4572 	189,01 	30 	5670,16
+5V1900 	15J4826 	197,83 	30 	5934,93
+5V2000 	15J5080 	206,36 	30 	6190,94
+5V2120 	15J5385 	220,97 	30 	6628,97
+5V2240 	15J5690 	232,69 	30 	6980,70
+5V2360 	15J5994 	246,85 	30 	7405,44
+5V2500 	15J6350 	259,71 	30 	7791,23
+5V2650 	15J6731 	277,36 	30 	8320,77
+5V2800 	15J7112 	291,81 	30 	8754,27
+5V3000 * 	15J7620 	- 	30 	9487,90
+5V3150 * 	15J8001 	- 	30 	9748,13
+5V3350 * 	15J8509 	- 	30 	10437,96
+5V3550 * 	15J9017 	- 	30 	11088,85
+8V (25J)
+La (inch) 	L a (mm) 	EUR / rib 	Ribs / sl. 	EUR / sl.
+8V1000 	25J2540 	198,12 	20 	3962,40
+8V1060 	25J2692 	206,79 	20 	4135,80
+8V1120 	25J2845 	219,81 	20 	4396,20
+8V1180 	25J2997 	231,37 	20 	4627,40
+8V1250 	25J3175 	244,39 	20 	4887,80
+8V1320 	25J3353 	255,95 	20 	5119,00
+8V1400 	25J3556 	273,31 	20 	5466,20
+8V1500 	25J3810 	287,77 	20 	5755,40
+8V1600 	25J4064 	305,12 	20 	6102,40
+8V1700 	25J4318 	328,26 	20 	6565,20
+8V1800 	25J4572 	348,52 	20 	6970,40
+8V1900 	25J4826 	371,65 	20 	7433,00
+8V2000 	25J5080 	386,11 	20 	7722,20
+8V2120 	25J5385 	415,03 	20 	8300,60
+8V2240 	25J5690 	438,16 	20 	8763,20
+8V2360 	25J5994 	458,39 	20 	9167,80
+8V2500 	25J6350 	484,45 	20 	9689,00
+8V2650 	25J6731 	511,92 	20 	10238,40
+8V2800 	25J7112 	546,62 	20 	10932,40
+8V3000 * 	25J7620 	- 	24 	13986,48
+8V3150 * 	25J8001 	- 	24 	14750,16
+8V3350 * 	25J8509 	- 	24 	15721,92
+8V3550 * 	25J9017 	- 	24 	16728,00
+8V3750 * 	25J9525 	- 	24 	17596,08
+8V4000 * 	25J10160 	- 	24 	18741,60
+8V4250 * 	25J10795 	- 	24 	19955,76
+8V4500 * 	25J11430 	- 	24 	21344,64
+8V4750 * 	25J12065 	- 	24 	22559,04
+8V5000 * 	25J12700 	- 	24 	27070,80
+8V5600 * 	25J14224 	- 	24 	30888,48
+A/HA
+Li (mm) 	L a (mm) 	EUR / rib 	Ribs / sl. 	EUR / sl.
+1450 	1486 	33,70 	26 	876,23
+1625 	1661 	37,60 	26 	977,58
+2240 	2276 	51,19 	26 	1331,06
+B/HB
+Li (mm) 	L a (mm) 	EUR / rib 	Ribs / sl. 	EUR / sl.
+1106 	1168 	32,26 	22 	709,70
+1335 	1397 	39,15 	22 	861,21
+1360 	1422 	39,86 	22 	876,84
+1513 	1575 	44,17 	22 	971,79
+1526 	1588 	44,54 	22 	979,83
+1600 	1662 	46,72 	22 	1027,88
+1608 	1670 	46,92 	22 	1032,25
+1723 	1785 	50,25 	22 	1105,59
+1788 	1850 	52,14 	22 	1146,97
+1803 	1865 	52,56 	22 	1156,40
+1858 	1920 	54,17 	22 	1191,80
+1888 	1950 	55,03 	22 	1210,65
+1918 	1980 	55,75 	22 	1226,52
+1938 	2000 	56,34 	22 	1239,39
+
+-- 45 of 132 --
+
+46
+CONTI-V® MULTIBELT
+Li (mm) 	L a (mm) 	EUR / rib 	Ribs / sl. 	EUR / sl.
+2053 	2115 	59,67 	22 	1312,73
+2058 	2120 	59,82 	22 	1315,95
+2100 	2162 	61,02 	22 	1342,39
+2129 	2191 	61,68 	22 	1356,87
+2188 	2250 	63,01 	22 	1386,30
+2208 	2270 	63,59 	22 	1398,94
+2213 	2275 	63,73 	22 	1402,16
+2218 	2280 	63,88 	22 	1405,38
+2318 	2380 	66,75 	26 	1735,62
+2358 	2420 	67,91 	26 	1765,78
+2388 	2450 	68,78 	26 	1788,33
+2393 	2455 	68,92 	26 	1791,86
+2400 	2462 	69,12 	26 	1797,02
+2538 	2600 	72,70 	26 	1890,22
+2588 	2650 	74,14 	26 	1927,71
+2688 	2750 	77,03 	26 	2002,70
+2700 	2762 	77,37 	26 	2011,67
+2718 	2780 	78,06 	26 	2029,60
+2738 	2800 	78,64 	26 	2044,54
+2750 	2812 	79,26 	26 	2060,84
+2953 	3015 	84,49 	26 	2196,69
+2968 	3030 	84,92 	26 	2207,83
+2983 	3045 	85,35 	26 	2218,97
+3000 	3062 	85,84 	26 	2231,74
+3003 	3065 	85,92 	26 	2233,92
+3033 	3095 	86,78 	26 	2256,20
+3048 	3110 	87,21 	26 	2267,34
+3068 	3130 	87,32 	26 	2270,33
+3088 	3150 	87,89 	26 	2285,27
+3158 	3220 	90,34 	26 	2348,85
+3218 	3280 	92,06 	26 	2393,68
+3288 	3350 	94,02 	26 	2444,48
+3328 	3390 	95,13 	26 	2473,29
+3350 	3412 	95,74 	26 	2489,32
+3450 	3512 	98,64 	26 	2564,58
+3458 	3520 	99,02 	26 	2574,63
+3488 	3550 	99,89 	26 	2597,18
+3480 	3542 	99,66 	26 	2591,20
+3550 	3612 	101,67 	26 	2643,37
+3688 	3750 	105,51 	26 	2743,35
+3738 	3800 	106,83 	26 	2777,59
+3750 	3812 	107,16 	26 	2786,28
+3878 	3940 	110,91 	26 	2883,55
+3998 	4060 	114,39 	26 	2974,03
+4038 	4100 	114,59 	26 	2979,46
+4413 	4475 	125,34 	26 	3258,77
+4500 	4562 	127,83 	26 	3323,71
+4588 	4650 	130,32 	26 	3388,37
+4808 	4870 	136,58 	26 	3551,12
+4938 	5000 	140,28 	26 	3647,30
+5030 	5092 	142,89 	26 	3715,23
+6518 	6580 	185,24 	26 	4816,15
+C/HC
+Li (mm) 	L a (mm) 	EUR / rib 	Ribs / sl. 	EUR / sl.
+2500 	2575 	131,15 	20 	2622,95
+3550 	3625 	190,23 	20 	3804,60
+12145 * 	12220 	- 	20 	12753,18
+B/HB 	SPZ
+L d (mm) 	EUR / rib 	Ribs / sl. 	EUR / sl.
+1250 	28,77 	34 	978,14
+1287 	31,52 	34 	1071,58
+1412 	33,13 	34 	1126,30
+1600 	33,99 	34 	1155,79
+1650 	34,29 	34 	1165,74
+1700 	34,57 	34 	1175,33
+1900 	38,32 	34 	1302,89
+1937 	41,80 	34 	1421,20
+2000 	42,90 	34 	1458,60
+3000 	60,31 	42 	2532,89
+SPA
+L d (mm) 	EUR / rib 	Ribs / sl. 	EUR / sl.
+1000 	35,86 	28 	1004,20
+1300 	41,80 	28 	1170,40
+1600 	46,85 	28 	1311,73
+1700 	49,74 	28 	1392,78
+1800 	52,48 	28 	1469,44
+1900 	55,96 	28 	1566,87
+2000 	58,99 	28 	1651,73
+2082 	61,74 	28 	1728,68
+2120 	61,74 	28 	1728,68
+2132 	64,52 	28 	1806,56
+2160 	64,52 	28 	1806,56
+2182 	64,52 	28 	1806,56
+2240 	64,52 	28 	1806,56
+2360 	69,86 	34 	2375,18
+2500 	71,73 	34 	2438,78
+2580 	77,52 	34 	2635,62
+2650 	80,11 	34 	2723,73
+2800 	80,11 	34 	2723,73
+3000 	89,35 	34 	3037,82
+3182 	95,87 	34 	3259,52
+3282 	95,87 	34 	3259,52
+4000 	116,26 	34 	3952,71
+SPB
+L d (mm) 	EUR / rib 	Ribs / sl. 	EUR / sl.
+1590 	73,91 	22 	1626,02
+1700 	79,03 	22 	1738,73
+1750 	81,35 	22 	1789,77
+1900 	88,33 	22 	1943,34
+2000 	92,97 	22 	2045,42
+2050 	96,22 	22 	2116,84
+2075 	97,86 	22 	2152,92
+2100 	99,48 	22 	2188,65
+2120 	100,42 	22 	2209,34
+2130 	100,91 	22 	2220,02
+2240 	103,25 	22 	2271,41
+2250 	103,41 	22 	2275,02
+2280 	103,88 	22 	2285,36
+2350 	104,89 	26 	2727,05
+2360 	105,12 	26 	2733,03
+2400 	105,98 	26 	2755,58
+2410 	106,21 	26 	2761,56
+2450 	107,08 	26 	2784,11
+2500 	108,16 	26 	2812,10
+2630 	112,93 	26 	2936,26
+2650 	113,66 	26 	2955,28
+2800 	118,71 	26 	3086,51
+3000 	124,67 	26 	3241,38
+3150 	127,98 	26 	3327,51
+
+-- 46 of 132 --
+
+47
+CONTI-V® MULTIBELT
+L d (mm) 	EUR / rib 	Ribs / sl. 	EUR / sl.
+3350 	137,96 	26 	3586,98
+3550 	142,59 	26 	3707,35
+3750 	152,85 	26 	3974,16
+3800 	155,38 	26 	4039,91
+4000 	165,60 	26 	4305,63
+4250 	171,51 	26 	4459,14
+4500 	185,69 	26 	4827,84
+4750 	196,08 	26 	5098,18
+5000 	203,47 	26 	5290,27
+5300 	218,66 	26 	5685,05
+5600 	230,23 	26 	5986,09
+6000 	246,57 	26 	6410,76
+6300 	259,15 	26 	6737,89
+6700 	276,94 	26 	7200,32
+7500 	310,90 	26 	8083,35
+SPC
+L d (mm) 	EUR / rib 	Ribs / sl. 	EUR / sl.
+2650 	160,32 	20 	3206,48
+3150 	190,17 	20 	3803,38
+3350 	195,96 	20 	3919,17
+3550 	206,08 	20 	4121,69
+3600 	209,08 	20 	4181,67
+3750 	217,80 	20 	4355,98
+4000 	235,02 	20 	4700,41
+4250 	247,84 	20 	4956,85
+4500 	259,59 	20 	5191,77
+4750 	282,56 	20 	5651,15
+5000 	294,55 	20 	5891,08
+5300 	318,87 	20 	6377,43
+5600 	354,00 	20 	7080,08
+6000 	375,54 	20 	7510,83
+6125 	382,66 	20 	7653,16
+6300 	392,62 	20 	7852,34
+6700 	415,18 	20 	8303,57
+7100 	447,41 	20 	8948,13
+7500 	480,83 	20 	9616,51
+8000 * 	- 	20 	10151,76
+8500 * 	- 	20 	10706,86
+9000 * 	- 	20 	11455,71
+9500 * 	- 	20 	12017,08
+10600 * 	- 	20 	13362,00
+11200 * 	- 	20 	14405,95
+SPB
+
+-- 47 of 132 --
+
+48
+CONTI-V® MULTIBELT ADVANCE
+CONTI-V® MULTIBELT ADVANCE
+Banded V-belts with reinforced PE tensile member for
+drives with major load changes
+Correas trapeciales múltiples con elemento tensor de
+poliéster reforzado para aplicaciones con elevados
+cambios de carga
+Многоручьевые клиновые ремни с усиленным
+полиэcтеровым кордшнуром для приводов с
+неравномерными нагрузками
+Cinghie trapezoidali multiple con anima resistente
+rinforzata di poliestere per azionamenti con carichi
+fortemente irregolari
+Properties
+- resistant to temperatures from -30°C to +80°C
+- higher performance
+- suitable for outer pulleys
+- shock-resistant
+- reduced vibration
+- simplifi ed coupling
+Características
+- resistentes a temperaturas desde -30°C hasta +80°C
+- alto rendimiento
+- ideal para rodillos exteriores
+- resistentes a las cargas dinámicas
+- vibración reducida
+- acoplamiento simplificado
+Свойства
+- устойчивость к воздействию температур от -30°C до +80°C
+- повышенная передача мощности
+- подходит для работы с внешними натяжными шкивами и роликами
+- устойчивость к ударным нагрузкам
+- снижение вибрации в приводе
+- улучшенное сцепление с шкивом
+Proprietà
+- Resistenti a temperature comprese tra -30 °C e +80 °C
+- Potenza aumentata
+- Idonee anche per pulegge tendicinghia esterne
+- Resistenti ai carichi impulsivi
+- Vibrazioni ridotte
+- Accoppiamento semplificato
+3V
+(9J)
+5V
+(15J)
+8V
+(25J)
+A/HA 	B/HB 	C/HC 	SPZ 	SPA 	SPB 	SPC
+Upper rib width | Anchura superior de correa |
+Ширина верхней части ремня | Larghezza
+superiore della cinghia
+bo 	mm 	9 	15 	25 	13 	17 	22 	9,7 	12,7 	16,3 	22,3
+Belt height | Altura de correa
+Высота ремня | Altezza della cinghia 	H 	mm 	10 	16 	25,5 	11 	14,3 	18 	11 	13 	16,5 	22
+Profile height | Altura del perfil
+Высота профиля | Altezza delle sezione 	h 	mm 	8 	13 	23 	8 	11 	14 	9 	11 	13 	18
+Pitch width | Anchura primitiva | Ширина по
+расчетной линии | Larghezza primitiva 	bd 	mm 	8,5 	11 	14 	19
+Pitch | División
+Шаг | Passo 	P 	mm 	10,3 	17,5 	28,6 	15,88 	19,05 	25,4 	12 	15 	19 	25,5
+Effective length | Longitud efectiva
+Эффективная длина | Lunghezza effettiva 	L e 	mm 	Nominal length | Longitud nominal
+Номинальная длина | Lunghezza nominale 	- 	- 	- 	-
+Outer length | Longitud exterior
+Внешняя длина | Lunghezza esterna 	La 	mm 	L e+28 	L e+29 	Le +32 	L e+33 	L e+28 	Le+38 	L d+31 	L d+37 	L d+44 	L d+55
+Reference length | Longitud básica
+Расчетная длина | Lunghezza indicativa 	Ld 	mm 	- 	- 	- 	- 	- 	- 	Nominal length | Longitud nominal
+Номинальная длина | Lunghezza nominale
+Inside length | Longitud interior
+Внутренняя длина | Lunghezza interna 	Li 	mm 	L e-38 	L e-71 	Le -125 	L e-36 	L e-62 	Le-75 	L d-38 	L d-45 	L d-60 	L d-83
+Pulleys to.. | Poleas según..
+Шкивы.. | Pulegge secondo.. 	.. ISO 5290/5291 ASAE 211.5 - RMA IP 20/22
+.. ISO4183 - DIN 2211/2217
+Custom-made | Fabricación especial
+Изготовление на заказ | Modello speciale
+Max. pulley groove width values | Valores máx.
+canal b de poleas | Максимальное значение
+ширины желоба шкива | Valori max. della
+scanalatura b
+2 	2,75 	3,5 	4,85
+Weight | Peso
+Вес | Peso 	kg/m 0,113 	0,262 	0,685 	0,162 	0,26 	0,431 	0,119 	0,195 	0,268 	0,495
+All sizes and prices are available on request.
+Dimensiones y precios bajo consulta.
+Все размеры и цены по запросу.
+Dimensioni e prezzi su richiesta.
+
+-- 48 of 132 --
+
+49
+CONTI-V® MULTIBELT POWER
+CONTI-V® MULTIBELT POWER
+Banded V-belts with low-stretch aramid tensile member
+and advanced compound for high power transmission
+accompanied by high impact loads
+Correas trapeciales múltiples con elemento tensor de
+aramida de baja elongación y mezcla perfeccionada para
+una elevada transmisión de potencia con elevadas cargas
+dinámicas
+Многоручьевые клиновые ремни из улучшенного
+компаунда с малорастяжимым кевларовым
+кордшнуршнуром для передачи большой мощности
+при высоких ударных нагрузках
+Cinghie trapezoidali multiple con anima resistente di
+aramide a bassa dilatazione e mescola perfezionata per
+la vigorosa trasmissione della potenza con grandi carichi
+impulsivi
+Properties
+- resistant to temperatures from -30°C to +80°C
+- suitable for outer pulleys
+- resistant to high shock loads
+Características
+- resistentes a temperaturas desde -30°C hasta +80°C
+- ideal para rodillos exteriores
+- resistentes a las cargas dinámicas
+Свойства
+- устойчивость к воздействию температур от -30°C до +80°C
+- повышенная передача мощности
+- подходит для работы с внешними натяжными шкивами и роликами
+Proprietà
+- Resistenti a temperature comprese tra -30 °C e +80 °C
+- Idonee anche per pulegge tendicinghia esterne
+- Resistenti a grandi carichi impulsivi
+3V
+(9J)
+5V
+(15J)
+8V
+(25J)
+A/HA 	B/HB 	C/HC 	SPZ 	SPA 	SPB 	SPC
+Upper rib width | Anchura superior de correa |
+Ширина верхней части ремня | Larghezza
+superiore della cinghia
+bo 	mm 	9 	15 	25 	13 	17 	22 	9,7 	12,7 	16,3 	22,3
+Belt height | Altura de correa
+Высота ремня | Altezza della cinghia 	H 	mm 	10 	16 	25,5 	11 	14,3 	18 	11 	13 	16,5 	22
+Profile height | Altura del perfil
+Высота профиля | Altezza delle sezione 	h 	mm 	8 	13 	23 	8 	11 	14 	9 	11 	13 	18
+Pitch width | Anchura primitiva | Ширина по
+расчетной линии | Larghezza primitiva 	bd 	mm 	8,5 	11 	14 	19
+Pitch | División
+Шаг | Passo 	P 	mm 	10,3 	17,5 	28,6 	15,88 	19,05 	25,4 	12 	15 	19 	25,5
+Effective length | Longitud efectiva
+Эффективная длина | Lunghezza effettiva 	L e 	mm 	Nominal length | Longitud nominal
+Номинальная длина | Lunghezza nominale 	- 	- 	- 	-
+Outer length | Longitud exterior
+Внешняя длина | Lunghezza esterna 	La 	mm 	L e+28 	L e+29 	Le+32 	L e+33 	L e+28 	Le+38 	L d+31 	L d+37 	L d+44 	L d+55
+Reference length | Longitud básica
+Расчетная длина | Lunghezza indicativa 	Ld 	mm 	- 	- 	- 	- 	- 	- 	Nominal length | Longitud nominal
+Номинальная длина | Lunghezza nominale
+Inside length | Longitud interior
+Внутренняя длина | Lunghezza interna 	Li 	mm 	L e-38 	L e-71 	Le-125 	L e-36 	L e-62 	Le-75 	L d-38 	L d-45 	L d-60 	L d-83
+Pulleys to.. | Poleas según..
+Шкивы.. | Pulegge secondo.. 	.. ISO 5290/5291 ASAE 211.5 - RMA IP 20/22
+.. ISO4183 - DIN 2211/2217
+Custom-made | Fabricación especial
+Изготовление на заказ | Modello speciale
+Max. pulley groove width values | Valores máx.
+canal b de poleas | Максимальное значение
+ширины желоба шкива | Valori max. della
+scanalatura b
+2 	2,75 	3,5 	4,85
+Weight | Peso
+Вес | Peso 	kg/m 0,113 	0,262 	0,685 	0,162 	0,26 	0,431 	0,119 	0,195 	0,268 	0,495
+All sizes and prices are available on request.
+Dimensiones y precios bajo consulta.
+Все размеры и цены по запросу.
+Dimensioni e prezzi su richiesta.
+
+-- 49 of 132 --
+
+50
+CONTI-V® MULTIBELT FO ADVANCE
+CONTI-V® MULTIBELT FO ADVANCE
+Transversely stiff raw-edge banded V-belts with reinforced
+PE tensile member for sustained high power transmission
+Correas trapeciales múltiples de flancos abiertos y alta rigi-
+dez transversal con elemento tensor de poliéster reforzado
+para una transmisión potente y permanente de potencia
+Многоручьевые клиновые ремни с открытыми
+боковыми гранями и с улучшенной поперечной
+жесткостью для непрерывной передачи большой
+мощности
+Cinghie trapezoidali multiple a fianchi aperti e trasversal-
+mente rigide con anima resistente rinforzata di poliestere
+per una vigorosa trasmissione continua della potenza
+Properties
+- conditionally resistant to oil
+- resistant to temperatures from -30°C to +80°C
+- dust-proof
+- suitable for tropical climates
+Características
+- resistencia moderada a los aceites
+- resistentes a temperaturas desde -30°C hasta +80°C
+- insensibles al polvo
+- resistentes a climas tropicales
+Свойства
+- относительная маслостойкость
+- устойчивость к воздействию температур от -30°C до +80°C
+- устойчивость к пыли
+- пригодны для эксплуатации в тропических условиях
+Proprietà
+- Relativamente resistenti all’olio
+- Resistenti a temperature comprese tra -30 °C e +80 °C
+- Resistenti alla polvere
+- Resistenti al clima tropicale
+3VX (9JX) 	5VX (15JX 	XPZ 	XPA 	XPB 	XPC
+Upper rib width | Anchura superior de correa |
+Ширина верхней части ремня | Larghezza
+superiore della cinghia
+bo 	mm 	9 	15 	9,7 	12,7 	16,3 	22,3
+Belt height | Altura de correa
+Высота ремня | Altezza della cinghia 	H 	mm 	10 	16 	11 	13 	16,5 	22
+Profile height | Altura del perfil
+Высота профиля | Altezza delle sezione 	h 	mm 	8 	13 	9 	11 	13 	18
+Pitch width | Anchura primitiva | Ширина по
+расчетной линии | Larghezza primitiva 	bd 	mm 	8,5 	11 	14 	19
+Pitch | División
+Шаг | Passo 	P 	mm 	10,3 	17,5 	12 	15 	19 	25,5
+Effective length | Longitud efectiva
+Эффективная длина | Lunghezza effettiva 	L e 	mm 	Nominal length | Longitud nominal
+Номинальная длина | Lunghezza nominale 	- 	- 	- 	-
+Outer length | Longitud exterior
+Внешняя длина | Lunghezza esterna 	La 	mm 	Le +28 	L e+29 	L d+31 	L d +37 	L d+44 	L d+55
+Reference length | Longitud básica
+Расчетная длина | Lunghezza indicativa 	Ld 	mm 	- 	- 	Nominal length | Longitud nominal
+Номинальная длина | Lunghezza nominale
+Inside length | Longitud interior
+Внутренняя длина | Lunghezza interna 	Li 	mm 	Le -38 	L e-71 	L d-38 	L d -45 	L d-60 	L d-83
+Pulleys to.. | Poleas según..
+Шкивы.. | Pulegge secondo.. 	.. ISO 5290/5291 ASAE 211.5 - RMA IP 20/22
+.. ISO4183 - DIN 2211/2217
+Custom-made | Fabricación especial
+Изготовление на заказ | Modello speciale
+Max. pulley groove width values | Valores máx.
+canal b de poleas | Максимальное значение
+ширины желоба шкива | Valori max. della
+scanalatura b
+2 	2,75 	3,5 	4,85
+Weight | Peso
+Вес | Peso 	kg/m 	0,099 	0,236 	0,119 	0,195 	0,268 	0,495
+All sizes and prices are available on request.
+Dimensiones y precios bajo consulta.
+Все размеры и цены по запросу.
+Dimensioni e prezzi su richiesta.
+CONTI-V® MULTIBELT FO POWER heavy-duty type on request.
+Versión de alto rendimiento CONTI-V® MULTIBELT FO POWER bajo consulta.
+Усиленная версия CONTI-V® MULTIBELT FO POWER по запросу.
+Esecuzione di alta efficienza CONTI-V ® MULTIBELT FO POWER su richiesta.
+
+-- 50 of 132 --
+
+51
+CONTI-V® MULTIBELT FO ADVANCE
+All sizes and prices are available on request.
+Dimensiones y precios bajo consulta.
+Все размеры и цены по запросу.
+Dimensioni e prezzi su richiesta.
+
+-- 51 of 132 --
+
+52
+CONTI-V® VARISPEED ADVANCE
+CONTI-V® VARISPEED ADVANCE
+Variable speed belts for Variomatic and Variator drives
+Correas para variadores de velocidad
+Вариаторные ремни с открытыми боковыми гранями
+Cinghie per variatori di velocità
+37/10 	42/12
+(W 40)
+47/12 	52/16
+(W 50)
+55/16 	65/20
+(W 63)
+70/18 	83/23
+(W 80)
+Upper rib width | Anchura superior de correa |
+Ширина верхней части ремня | Larghezza superiore
+della cinghia
+bo 	mm 	37 	42 	47 	52 	55 	65 	70 	83
+Belt height | Altura de correa
+Высота ремня | Altezza della cinghia 	h 	mm 	10 	12 	12 	16 	16 	20 	18 	23
+Pitch width | Anchura primitiva
+Ширина по расчетной линии | Larghezza primitiva 	bw 	mm 	35,8 	40,4 	45,4 	49,9 	53 	62,3 	67,6 	79,3
+Lower belt width | Anchura inferior de correa
+Ширина внутренней грани ремня | Larghezza inferiore
+della cinghia
+bi 	mm 	32 	36 	41 	43,4 	47 	54,3 	60,4 	69,8
+Pitch height | Altura primitiva
+Высота расчетной линии | Distanza tra le linee attive 	ho 	mm 	2,5 	3 	3 	4 	4 	5 	5,5 	6,25
+Flank angle | Ángulo de flancos
+Угол клина ремня | Angolo dei fianchi 	° 	28 	28 	28 	30 	28 	30 	30 	32
+Outer length | Longitud exterior
+Внешняя длина | Lunghezza esterna 	La 	mm Ld +16 	Ld +19 	Ld +19 	Ld +25 	Ld +25 	Ld +32 	Ld +26 	Ld +41
+Li +63 	Li +75 	Li +75 	Li +100 	Li +100 	Li +126 	Li +103 	Li +163
+Reference length | Longitud básica
+Расчетная длина | Lunghezza indicativa 	Ld 	mm 	Li +47 	Li +56 	Li +56 	Li +75 	Li +75 	Li +94 	Li +77 	Li +122
+Properties
+- conditionally resistant to oil
+- resistant to temperatures from -30°C to +80°C
+- electrically conductive to ISO 1813
+- dust-proof
+- suitable for tropical climates
+Características
+- resistencia moderada a los aceites
+- resistentes a temperaturas desde -30°C hasta +80°C
+- conductibilidad eléctrica según ISO 1813
+- insensibles al polvo
+- resistentes a climas tropicales
+Свойства
+- относительная маслостойкость
+- устойчивость к воздействию температур от -30°C до +80°C
+- электропроводность согласно стандарту ISO 1813
+- устойчивость к пыли
+- пригодны для эксплуатации в тропических условиях
+Proprietà
+- Relativamente resistenti all’olio
+- Resistenti a temperature comprese tra -30 °C e +80 °C
+- Elettricamente conduttrici secondo ISO 1813
+- Resistenti alla polvere
+- Resistenti al clima tropicale
+13/6 	17/6
+(W 16)
+21/6
+(W 20)
+22/8 	24/8 	26/8
+(W 25)
+28/8 	30/10 	32/10
+(W 31,5)
+Upper rib width | Anchura superior de correa |
+Ширина верхней части ремня | Larghezza superiore
+della cinghia
+bo 	mm 	13 	17 	21 	22 	24 	26 	28 	30 	32
+Belt height | Altura de correa
+Высота ремня | Altezza della cinghia 	h 	mm 	6 	6 	6 	8 	8 	8 	8 	10 	10
+Pitch width | Anchura primitiva
+Ширина по расчетной линии | Larghezza primitiva 	bw 	mm 	12,3 	16,3 	20,1 	21,3 	23,1 	25 	27,1 	28,8 	31,8
+Lower belt width | Anchura inferior de correa
+Ширина внутренней грани ремня | Larghezza inferiore
+della cinghia
+bi 	mm 	10,2 	14,2 	18 	18,3 	20,3 	22 	24,3 	25,4 	27
+Pitch height | Altura primitiva
+Высота расчетной линии | Distanza tra le linee attive 	h o 	mm 	1,5 	1,5 	1,5 	2 	2 	2 	2 	2,5 	2,5
+Flank angle | Ángulo de flancos
+Угол клина ремня | Angolo dei fianchi 	° 	26 	26 	28 	26 	26 	28 	26 	28 	28
+Outer length | Longitud exterior
+Внешняя длина | Lunghezza esterna 	L a 	mm L d +10 	L d+10 	L d+10 	L d +12 	L d+12 	L d +12 	Ld +12 	L d+16 	L d +16
+Li+38 	L i+38 	Li+38 	Li+50 	L i+50 	L i+50 	Li+50 	L i+63 	Li+63
+Reference length | Longitud básica
+Расчетная длина | Lunghezza indicativa 	Ld 	mm 	L i+28 	L i+28 	Li+28 	Li+38 	L i+38 	L i+38 	Li+38 	Li+47 	Li+47
+
+-- 52 of 132 --
+
+53
+CONTI-V® VARISPEED ADVANCE
+L i 	Inside length | Longitud interior | Внутренняя длина | Lunghezza interna
+MOQ 	Minimum quantity | Cantidad mínima | Минимальное количество | Quantità minima
+EUR / pc. 	Price per piece | Precio por unidad | Цена за штуку | Prezzo per articolo
+* 	On request (see page 6) | Bajo consulta (v. pág. 6) | По запросу (см. стр. 7) | Su richiesta (v. pag. 7)
+The reference length Ld corresponds to L r as per DIN / ISO | La longitud básica Ld corresponde a L r según DIN / ISO
+Расчетная длина Ld соответствует L r согласно DIN / ISO | La lunghezza indicativa Ld corrisponde a L r secondo DIN / ISO
+Please always indicate the tooth flank angle. | En todos los casos se debe indicar el ángulo de los fl ancos.
+При заказе нужно указывать требуемый угол ремня. | L’angolo dei fi anchi deve essere indicato in ogni caso.
+The number of belts per sleeve (900 mm) depends on the width of the belt.
+El número de correas por mangón resulta de dividir el ancho del mangón (900mm) por el ancho de la correa.
+Количество ремней в рукаве получается делением ширины рукава (900 мм) на требуемую ширину ремня.
+Il numero di cinghie per manicotto risulta dal rapporto tra la larghezza di manicotto (900 mm) e la larghezza della cinghia.
+13/6
+L i (mm) 	ISO 	MOQ 	EUR / pc.
+467 	27,00
+477 	27,00
+552 	28,38
+600 	28,38
+652 * 	71 	29,94
+700 	29,94
+727 * 	71 	30,75
+752 	31,50
+800 	31,50
+852 	33,04
+900 	33,04
+950 	34,79
+952 	34,79
+1002 	34,79
+1062 	35,99
+1122 	37,56
+1252 	41,98
+1252 41,98
+17/6 (W 16)
+L i (mm) 	ISO 	MOQ 	EUR / pc.
+452 	W 16 480 	35,11
+502 	W 16 530 	35,11
+552 	W 16 580 	37,20
+570 	W 16 600 	37,20
+602 	W 16 630 	37,75
+702 	W 16 730 	39,44
+802 	W 16 830 	41,71
+902 	W 16 930 	43,95
+1002 	W 16 1030 	46,04
+1202 	W 16 1230 	55,24
+21/6 (W 20)
+L i (mm) 	ISO 	MOQ 	EUR / pc.
+532 	W 20 560 	43,95
+602 	W 20 630 	43,95
+682 	W 20 710 	46,73
+772 	W 20 800 	49,84
+872 	W 20 900 	52,79
+972 	W 20 1000 	55,90
+22/8
+L i (mm) 	ISO 	MOQ 	EUR / pc.
+500 * 	41 	46,18
+525 * 	41 	49,68
+550 * 	41 	49,68
+575 * 	41 	49,68
+L i (mm) 	ISO 	MOQ 	EUR / pc.
+580 * 	41 	49,68
+600 	49,68
+610 	52,95
+625 * 	41 	52,95
+650 * 	41 	52,95
+675 * 	41 	52,95
+700 	52,95
+725 	56,39
+750 	56,39
+775 * 	41 	56,39
+800 	56,39
+850 	59,88
+900 	59,88
+950 	63,33
+1000 	63,33
+1060 	66,25
+1120 	69,74
+1180 	69,74
+1225 * 	41 	73,53
+1250 	73,53
+1320 	76,86
+1400 	76,86
+1500 	80,28
+1800 * 	41 	90,50
+24/8
+L i (mm) 	ISO 	MOQ 	EUR / pc.
+600 * 	38 	49,68
+655 * 	38 	52,95
+1725 * 	38 	90,50
+2160 * 	38 	113,32
+26/8 (W 25)
+L i (mm) 	ISO 	MOQ 	EUR / pc.
+522 * 	W 25 560 	35 	55,19
+630 * 	35 	58,99
+655 * 	W 25 690 	35 	58,99
+672 	W 25 710 	58,99
+710 * 	W 25 745 	35 	62,79
+750 * 	W 25 785 	35 	62,79
+762 	W 25 800 	62,79
+800 * 	W 25 835 	35 	62,79
+850 * 	W 25 850 	35 	66,61
+862 	W 25 900 	66,61
+950 * 	W 25 935 	35 	70,42
+962 * 	W 25 1000 	35 	70,42
+1000 * 	W 25 1035 	35 	70,42
+1010 * 	35 	70,97
+22/8
+L i (mm) 	ISO 	MOQ 	EUR / pc.
+1060 * 	35 	73,68
+1082 * 	W 25 1120 	35 	73,88
+1120 * 	W 25 1155 	35 	77,87
+1180 * 	35 	77,87
+1250 * 	35 	82,02
+1400 * 	35 	85,84
+1600 * 	35 	93,43
+28/8
+L i (mm) 	ISO 	MOQ 	EUR / pc.
+505 * 	32 	52,57
+530 * 	32 	55,19
+555 * 	32 	55,19
+630 * 	32 	57,46
+650 * 	32 	58,99
+700 	58,99
+750 	62,79
+805 	62,79
+850 	66,61
+900 	66,61
+950 	70,42
+1000 	70,42
+1060 	73,88
+1120 	77,87
+1180 	77,87
+1200 	82,02
+1255 	82,29
+1305 	84,96
+1320 	85,84
+1400 	85,84
+1450 	87,74
+1500 	89,63
+1605 	93,63
+1705 	100,42
+1805 	104,73
+1905 * 	32 	109,10
+2005 	114,46
+30/10
+L i (mm) 	ISO 	MOQ 	EUR / pc.
+617 * 	30 	63,22
+650 * 	30 	66,61
+750 	70,76
+800 * 	30 	70,76
+875 	74,91
+900 * 	30 	74,91
+26/8 (W 25)
+
+-- 53 of 132 --
+
+54
+CONTI-V® VARISPEED ADVANCE
+30/10
+Li (mm) 	ISO 	MOQ 	EUR / pc.
+950 * 	30 	79,08
+1000 * 	30 	79,08
+1120 	87,22
+1178 * 	30 	87,22
+1200 * 	30 	91,71
+1340 	95,86
+1433 * 	30 	98,27
+1500 	100,02
+1600 	104,34
+1700 * 	30 	108,51
+1800 * 	30 	112,82
+32/10 (W 31,5)
+L i (mm) 	ISO 	MOQ 	EUR / pc.
+709 * 	28 	72,72
+750 * 	W 31,5 800 	28 	75,79
+790 	W 31,5 840 	75,79
+850 	W 31,5 900 	80,62
+900 	W 31,5 950 	80,62
+950 	W 31,5 1000 	85,67
+1000 	W 31,5 1050 	85,67
+1073 * 	W 31,5 1120 	28 	89,98
+1120 	W 31,5 1170 	95,16
+1180 * 	W 31,5 1230 	28 	95,16
+1200 * 	W 31,5 1250 	28 	100,54
+1250 * 	W 31,5 1300 	28 	100,54
+1320 * 	28 	105,57
+1353 * 	28 	105,57
+1400 * 	W 31,5 1450 	28 	105,57
+1500 * 	28 	110,59
+1520 * 	28 	111,55
+1553 * 	W 31,5 1600 	28 	113,15
+1600 * 	W 31,5 1650 	28 	115,43
+1652 * 	28 	120,44
+37/10
+L i (mm) 	ISO 	MOQ 	EUR / pc.
+647 	78,56
+697 * 	24 	78,56
+747 * 	24 	84,28
+800 	84,28
+830 	87,49
+850 	89,63
+900 	89,63
+950 	95,16
+1000 	95,16
+1060 	100,02
+1120 	106,07
+1180 	106,07
+1250 	111,96
+1320 	117,33
+1400 	117,33
+1500 	122,86
+1600 	128,39
+1700 	134,09
+1900 	150,54
+2000 	150,54
+2062 	160,75
+2117 * 	24 	165,56
+2497 * 	24 	197,01
+42/12 (W 40)
+L i (mm) 	ISO 	MOQ 	EUR / pc.
+1000 	W 40 1060 	116,80
+1064 	W 40 1120 	123,54
+1120 * 	W 40 1180 	20 	129,44
+1194 	W 40 1250 	133,48
+1250 * 	W 40 1310 	20 	136,53
+1344 	W 40 1400 	143,10
+1400 * 	W 40 1455 	20 	143,10
+1440 * 	W 40 1465 	20 	145,86
+1500 	W 40 1560 	150,01
+1544 * 	W 40 1600 	20 	156,60
+1700 * 	W 40 1755 	20 	163,19
+1800 * 	W 40 1855 	20 	169,06
+2000 * 	W 40 2055 	20 	199,01
+47/12
+L i (mm) 	ISO 	MOQ 	EUR / pc.
+905 	119,66
+1000 	125,61
+1065 	132,67
+1125 	139,81
+1185 	139,81
+1255 * 	19 	147,79
+1275 * 	19 	149,12
+1325 	155,05
+1405 * 	19 	155,41
+1440 * 	19 	158,01
+1505 	163,35
+1605 * 	19 	169,52
+1705 	178,90
+1745 * 	19 	183,44
+1805 	184,09
+1905 	197,07
+2005 	200,07
+2125 * 	19 	212,84
+2215 * 	19 	219,61
+2245 	225,21
+2305 	236,42
+2505 	261,18
+2805 	298,32
+52/16 (W 50)
+L i (mm) 	ISO 	MOQ 	EUR / pc.
+1180 	W 50 1250 	166,47
+1250 * 	W 50 1320 	17 	176,51
+1325 	W 50 1400 	185,14
+1400 	W 50 1480 	185,14
+1525 	W 50 1600 	204,19
+1600 	W 50 1675 	204,19
+1725 * 	W 50 1800 	17 	224,96
+1925 * 	W 50 2000 	17 	243,99
+2164 * 	W 50 2240 	17 	259,58
+2240 	W 50 2320 	269,95
+2424 * 	W 50 2500 	17 	323,57
+3074 	W 50 3150 	353,00
+55/16
+L i (mm) 	ISO 	MOQ 	EUR / pc.
+1180 	166,47
+1250 	176,51
+1320 	185,14
+1400 	185,14
+1600 	204,19
+1700 * 	16 	214,56
+1800 	224,96
+2000 	243,99
+2240 * 	16 	269,95
+2500 	323,57
+2800 * 	16 	338,94
+65/20 (W 63)
+L i (mm) 	ISO 	MOQ 	EUR / pc.
+1506 	W 63 1600 	326,27
+1706 * 	W 63 1800 	13 	351,25
+1906 * 	W 63 2000 	13 	397,98
+2146 	W 63 2240 	427,42
+2406 	W 63 2500 	527,76
+2706 	W 63 2830 	527,76
+3056 	W 63 3150 	576,21
+70/18
+L i (mm) 	ISO 	MOQ 	EUR / pc.
+1500 * 	12 	343,47
+1600 	359,91
+1700 * 	12 	375,48
+1800 	392,79
+1900 	408,37
+2000 	423,95
+2240 	474,13
+2500 	562,38
+2800 * 	12 	562,38
+3147 	632,07
+83/23 (W 80)
+L i (mm) 	ISO 	MOQ 	EUR / pc.
+1691 	W 80 1800 	527,61
+1755 * 	W 80 1870 	7 	547,58
+1891 	W 80 2000 	586,58
+2110 	W 80 2230 	630,12
+2131 	W 80 2240 	641,34
+2691 * 	W 80 2800 	7 	797,14
+3041 	W 80 3150 	874,29
+
+-- 54 of 132 --
+
+55
+CONTI-V® VARISPEED POWER
+CONTI-V® VARISPEED POWER
+Variable speed belts with low-stretch aramid tension
+member for Variomatic and Variator drives
+Correas para variador de velocidad con elemento tensor de
+aramida de baja elongación
+Вариаторные ремни с открытыми боковыми гранями и
+с малорастяжимым кевларовым кордшнуром
+Cinghie per variatori de velocità con corde in aramide
+Properties
+- conditionally resistant to oil
+- resistant to temperatures from -30°C to +80°C
+- electrically conductive to ISO 1813
+- dust-proof
+- suitable for tropical climates
+Características
+- resistencia moderada a los aceites
+- resistentes a temperaturas desde -30°C hasta +80°C
+- conductibilidad eléctrica según ISO 1813
+- insensibles al polvo
+- resistentes a climas tropicales
+Свойства
+- относительная маслостойкость
+- устойчивость к воздействию температур от -30°C до +80°C
+- электропроводность согласно стандарту ISO 1813
+- устойчивость к пыли
+- пригодны для эксплуатации в тропических условиях
+Proprietà
+- Relativamente resistenti all’olio
+- Resistenti a temperature comprese tra -30 °C e +80 °C
+- Elettricamente conduttrici secondo ISO 1813
+- Resistenti alla polvere
+- Resistenti al clima tropicale
+All sizes and prices are available on request. | Dimensiones y precios bajo consulta.
+Все размеры и цены по запросу. | Dimensioni e prezzi su richiesta.
+37/10 	42/12
+(W 40)
+47/12 	52/16
+(W 50)
+55/16 	65/20 	70/18 	83/23
+(W 80)
+Upper rib width | Anchura superior de correa | Ширина
+верхней части ремня | Larghezza superiore della cinghia 	b o 	mm 	37 	42 	47 	52 	55 	65 	70 	83
+Belt height | Altura de correa
+Высота ремня | Altezza della cinghia 	h 	mm 	10 	12 	12 	16 	16 	20 	18 	23
+Pitch width | Anchura primitiva
+Ширина по расчетной линии | Larghezza primitiva 	bw 	mm 	35,8 	40,4 	45,4 	49,9 	53 	62,3 	67,6 	79,3
+Lower belt width | Anchura inferior de correa | Ширина
+внутренней грани ремня | Larghezza inferiore della cinghia 	bi 	mm 	32 	36 	41 	43,4 	47 	54,3 	60,4 	69,8
+Pitch height | Altura primitiva
+Высота расчетной линии | Distanza tra le linee attive 	ho 	mm 	2,5 	3 	3 	4 	4 	5 	5,5 	6,25
+Flank angle | Ángulo de flancos
+Угол клина ремня | Angolo dei fianchi 	° 	28 	28 	28 	30 	28 	30 	30 	32
+Outer length | Longitud exterior
+Внешняя длина | Lunghezza esterna 	La 	mm L d+16 	L d+19 	L d+19 	L d+25 	L d+25 	L d +32 	L d +26 	L d +41
+Li+63 	L i+75 	L i+75 	L i+100 	L i+100 	L i+126 	L i+103 	Li+163
+Reference length | Longitud básica
+Расчетная длина | Lunghezza indicativa 	Ld 	mm 	L i+47 	L i+56 	L i+56 	L i+75 	L i+75 	L i+94 	L i+77 	L i+122
+13/6 	17/6 	21/6
+(W 20)
+22/8 	24/8 	26/8
+(W 25)
+28/8 	30/10 	32/10
+(W 31,5)
+Upper rib width | Anchura superior de correa | Ширина
+верхней части ремня | Larghezza superiore della cinghia 	b o 	mm 	13 	17 	21 	22 	24 	26 	28 	30 	32
+Belt height | Altura de correa
+Высота ремня | Altezza della cinghia 	h 	mm 	6 	6 	6 	8 	8 	8 	8 	10 	10
+Pitch width | Anchura primitiva
+Ширина по расчетной линии | Larghezza primitiva 	bw 	mm 	12,3 	16,3 	20,1 	21,3 	23,1 	25 	27,1 	28,8 	31,8
+Lower belt width | Anchura inferior de correa | Ширина
+внутренней грани ремня | Larghezza inferiore della cinghia 	bi 	mm 	10,2 	14,2 	18 	18,3 	20,3 	22 	24,3 	25,4 	27
+Pitch height | Altura primitiva
+Высота расчетной линии | Distanza tra le linee attive 	ho 	mm 	1,5 	1,5 	1,5 	2 	2 	2 	2 	2,5 	2,5
+Flank angle | Ángulo de flancos
+Угол клина ремня | Angolo dei fianchi 	° 	26 	26 	28 	26 	26 	28 	26 	28 	28
+Outer length | Longitud exterior
+Внешняя длина | Lunghezza esterna 	La 	mm L d+10 	Ld +10 	L d +10 	L d+12 	L d+12 	L d +12 	L d+12 	L d+16 	L d+16
+Li+38 	Li+38 	L i+38 	L i+50 	L i+50 	L i+50 	L i+50 	L i+63 	Li +63
+Reference length | Longitud básica
+Расчетная длина | Lunghezza indicativa 	Ld 	mm 	L i+28 	L i+28 	L i+28 	L i+38 	Li +38 	L i+38 	L i+38 	Li+47 	Li+47
+
+-- 55 of 132 --
+
+56
+CONTI-V® MULTIRIB
+CONTI-V® MULTIRIB
+Multiple V-ribbed belts for high gear ratios, high belt
+speeds, small pulley diameters and back-tension rollers,
+DIN 7867
+Correas acanaladas para elevadas relaciones de transmi-
+sión, altas velocidades de correa, diámetros pequeños de
+polea y rodillos tensores, DIN 7867
+Поликлиновые ремни для приводов с большими
+передаточными отношениями, высокими скоростями,
+малыми диаметрами шкивов и наружными натяжными
+роликами, DIN7867
+Cinghie trapezoidali scanalate per grandi rapporti di tras-
+missione, alte velocità della cinghia, pulegge di piccolo
+diametro e pulegge tendicinghia posteriori, DIN 7867
+Properties
+- conditionally resistant to oil
+- resistant to temperatures from -30°C to +80°C
+- electrically conductive to ISO 1813
+- suitable for tropical climates
+Características
+- resistencia moderada a los aceites
+- resistentes a temperaturas desde -30°C hasta +80°C
+- conductibilidad eléctrica según ISO 1813
+- resistentes a climas tropicales
+Свойства
+- относительная маслостойкость
+- устойчивость к воздействию температур от -30°C до +80°C
+- электропроводность согласно стандарту ISO 1813
+- пригодны для эксплуатации в тропических условиях
+Proprietà
+- Relativamente resistenti all’olio
+- Resistenti a temperature comprese tra -30 °C e +80 °C
+- Elettricamente conduttrici secondo ISO 1813
+- Resistenti al clima tropicale
+PJ 	PK 	PL 	PM
+Rib pitch | Separación de canales
+Шаг ручья | Distanza tra le nervature 	s 	mm 	2,34 	3,56 	4,7 	9,4
+Belt height | Altura de correa
+Высота ремня | Altezza della cinghia 	h 	mm 	3,8 	5 	9 	14,5
+Reference line difference | Diferencia de líneas de referencia
+Расстояние между эффективными линиями шкива и
+ремня | Differenza tra le linee di riferimento
+h b 	mm 	1,2 	1,5 	3 	4
+Reference length | Longitud efectiva
+Эффективная длина | Lunghezza di riferimento 	L b 	mm 	Nominal length | Longitud nominal
+Номинальная длина | Lunghezza nominale
+Pitch length | Longitud primitiva
+Расчетная длина | Lunghezza primitiva 	Lp 	mm 	L b+ 8 	L b+ 10 	L b+ 19 	L b+ 25
+Weight per rib | Peso por ranura
+Вес на одно ребро | Peso per nervatura 	kg/m 	0,009 	0,021 	0,04 	0,12
+Size designation (example) Ejemplo de dimensión | Обозначение размера (пример) | Sigla della dimensione (esempio)
+6 PJ 1600 (UK: 630 J 6)
+6 	Number of ribs | Número de canales | Число ребер | Numero di nervature
+PJ / J 	Profi le | Perfi l | Профиль | Sezione
+1600 	1600 mm Reference length | Longitud efectiva | Эффективная длина | Lunghezza di riferimento
+630 	Reference length in 1/10 inch | Longitud efectiva en 1/10 inch | Эффективная длина (1/10 дюйма) | Lunghezza di riferimento in 1/10“
+Intermediate lengths and minimum quantities as well as PH profi le on request.
+Consultar longitudes intermedias y cantidades mínimas así como perfil PH.
+Ремни с промежуточными значениями длин и минимальные партии, а также профиль PH по запросу.
+Lunghezze intermedie, quantità minime e sezione PH su richiesta.
+
+-- 56 of 132 --
+
+57
+CONTI-V® MULTIRIB
+L b 	Reference length | Longitud efectiva | Эффективная длина | Lunghezza di riferimento
+EUR / rib 	Price per rib | Precio por ranura | Цена за ребро | Prezzo per nervatura
+Ribs / sl. 	Ribs per sleeve | Canales por mangón | Число ручьев в рукаве | Nervature per manicotto
+EUR / sl. 	Price per sleeve | Precio por mangón | Цена за рукав | Prezzo per manicotto
+* 	On request (see page 6) | Bajo consulta (v. pág. 6) | По запросу (см. стр. 7) | Su richiesta (v. pag. 7)
+PJ
+L b (mm) 	L b (1/10 inch) 	EUR / rib 	Ribs / sl. 	EUR / sl.
+356 	140 	1,79 	148 ± 2 ribs 	216,64
+381 	150 	1,79 	148 ± 2 ribs 	216,64
+406 	160 	1,79 	148 ± 2 ribs 	216,64
+432 	170 	1,79 	148 ± 2 ribs 	216,64
+457 	180 	1,79 	238 ± 2 ribs 	347,41
+483 	190 	1,85 	238 ± 2 ribs 	363,90
+508 	200 	1,91 	238 ± 2 ribs 	378,46
+559 	220 	2,02 	238 ± 2 ribs 	398,71
+584 	230 	2,04 	238 ± 2 ribs 	402,64
+610 	240 	2,04 	238 ± 2 ribs 	404,12
+660 	260 	2,06 	238 ± 2 ribs 	407,66
+686 	270 	2,09 	238 ± 2 ribs 	414,19
+711 	280 	2,12 	238 ± 2 ribs 	418,05
+737 	290 	2,17 	238 ± 2 ribs 	433,57
+762 	300 	2,20 	238 ± 2 ribs 	435,55
+787 	310 	2,25 	238 ± 2 ribs 	438,44
+813 	320 	2,25 	238 ± 2 ribs 	441,32
+838 	330 	2,27 	238 ± 2 ribs 	445,21
+864 	340 	2,27 	238 ± 2 ribs 	458,30
+889 	350 	2,29 	238 ± 2 ribs 	459,84
+914 	360 	2,29 	238 ± 2 ribs 	461,37
+965 	380 	2,34 	238 ± 2 ribs 	464,51
+991 	390 	2,36 	118 ± 2 ribs 	234,16
+1016 	400 	2,36 	238 ± 2 ribs 	472,28
+1054 	415 	2,45 	118 ± 2 ribs 	239,92
+1092 	430 	2,47 	238 ± 2 ribs 	487,72
+1143 	450 	2,48 	238 ± 2 ribs 	492,93
+1168 	460 	2,50 	238 ± 2 ribs 	499,83
+1194 	470 	2,57 	238 ± 2 ribs 	510,98
+1200 	472 	2,57 	78 ± 2 ribs 	168,62
+1208 	476 	2,57 	238 ± 2 ribs 	516,82
+1219 	480 	2,61 	158 ± 2 ribs 	346,95
+1245 	490 	2,72 	238 ± 2 ribs 	532,27
+1270 	500 	2,77 	238 ± 2 ribs 	542,71
+1295 	510 	2,85 	238 ± 2 ribs 	557,84
+1321 	520 	2,86 	238 ± 2 ribs 	569,03
+1333 	525 	2,88 	230 ± 2 ribs 	554,94
+1372 	540 	2,95 	158 ± 2 ribs 	385,47
+1397 	550 	2,99 	238 ± 2 ribs 	592,30
+1461 	575 	3,03 	238 ± 2 ribs 	605,32
+1473 	580 	3,04 	238 ± 2 ribs 	607,76
+1549 	610 	3,17 	158 ± 2 ribs 	416,33
+1600 	630 	3,22 	230 ± 2 ribs 	628,01
+1626 	640 	3,29 	78 ± 2 ribs 	213,13
+1651 	650 	3,30 	158 ± 2 ribs 	434,30
+1702 	670 	3,42 	78 ± 2 ribs 	222,01
+1753 	690 	3,45 	158 ± 2 ribs 	454,87
+1778 	700 	3,50 	78 ± 2 ribs 	228,36
+1854 	730 	3,65 	238 ± 2 ribs 	719,63
+1915 	754 	3,71 	230 ± 2 ribs 	708,72
+1930 	760 	3,73 	158 ± 2 ribs 	490,86
+1956 	770 	3,77 	238 ± 2 ribs 	747,14
+1981 	780 	3,80 	238 ± 2 ribs 	755,08
+2019 	795 	3,92 	78 ± 2 ribs 	253,73
+2083 	820 	4,03 	78 ± 2 ribs 	262,61
+2210 	870 	4,21 	78 ± 2 ribs 	274,04
+2286 	900 	4,34 	78 ± 2 ribs 	281,64
+2337 	920 	4,81 	238 ± 2 ribs 	923,18
+Lb (mm) 	L b (1/10 inch) 	EUR / rib 	Ribs / sl. 	EUR / sl.
+2489 	980 	4,95 	230 ± 2 ribs 	983,24
+PK
+Lb (mm) 	L b (1/10 inch) 	EUR / rib 	Ribs / sl. 	EUR / sl.
+635 	250 	3,29 	148 ± 2 ribs 	384,76
+648 	255 	3,29 	150 ± 2 ribs 	397,95
+698 	275 	3,57 	148 ± 2 ribs 	435,83
+730 	287 	3,81 	148 ± 2 ribs 	455,81
+813 	320 	4,13 	148 ± 2 ribs 	497,32
+830 	326 	4,28 	148 ± 2 ribs 	511,86
+885 	348 	4,54 	148 ± 2 ribs 	545,77
+925 	364 	4,71 	148 ± 2 ribs 	566,31
+960 	378 	4,90 	148 ± 2 ribs 	595,68
+1010 	397 	5,07 	148 ± 2 ribs 	611,73
+1035 	407 	5,15 	148 ± 2 ribs 	626,87
+1132 	445 	5,31 	148 ± 2 ribs 	656,49
+1207 	475 	5,44 	148 ± 2 ribs 	670,41
+1246 	490 	5,74 	148 ± 2 ribs 	692,07
+1298 	511 	5,83 	148 ± 2 ribs 	720,96
+1357 	534 	5,97 	148 ± 2 ribs 	743,58
+1420 	559 	6,34 	148 ± 2 ribs 	778,11
+1459 	574 	6,41 	148 ± 2 ribs 	789,10
+1481 	583 	6,42 	148 ± 2 ribs 	793,56
+1521 	598 	6,54 	148 ± 2 ribs 	801,68
+1607 	632 	6,91 	148 ± 2 ribs 	835,53
+1630 	641 	7,03 	148 ± 2 ribs 	839,96
+1675 	659 	7,06 	148 ± 2 ribs 	863,13
+1725 	679 	7,24 	148 ± 2 ribs 	902,36
+1815 	714 	7,90 	148 ± 2 ribs 	939,66
+1885 	741 	8,03 	148 ± 2 ribs 	975,90
+1982 	780 	8,46 	148 ± 2 ribs 	1018,99
+2031 	799 	8,61 	148 ± 2 ribs 	1040,03
+2080 	818 	8,79 	148 ± 2 ribs 	1049,79
+2171 	854 	8,99 	148 ± 2 ribs 	1087,17
+2225 	875 	9,15 	148 ± 2 ribs 	1097,70
+2471 	972 	10,49 	148 ± 2 ribs 	1219,06
+2550 	1004 	10,93 	148 ± 2 ribs 	1258,51
+PL
+Lb (mm) 	L b (1/10 inch) 	EUR / rib 	Ribs / sl. 	EUR / sl.
+991 	390 	7,89 	38 ± 2 ribs 	249,09
+1041 	410 	8,03 	38 ± 2 ribs 	254,66
+1149 	452 	8,46 	38 ± 2 ribs 	267,62
+1168 	460 	8,46 	118 ± 2 ribs 	854,25
+1194 	470 	8,87 	118 ± 2 ribs 	873,26
+1219 	480 	8,87 	118 ± 2 ribs 	873,26
+1270 	500 	8,87 	118 ± 2 ribs 	878,42
+1295 	510 	8,97 	118 ± 2 ribs 	880,95
+1321 	520 	8,97 	38 ± 2 ribs 	283,70
+1333 	525 	8,97 	78 ± 2 ribs 	582,32
+1346 	530 	9,08 	118 ± 2 ribs 	894,37
+1372 	540 	9,25 	118 ± 2 ribs 	907,84
+1397 	550 	9,33 	118 ± 2 ribs 	917,41
+1422 	560 	9,56 	118 ± 2 ribs 	930,20
+PJ
+
+-- 57 of 132 --
+
+58
+CONTI-V® MULTIRIB
+Lb (mm) 	L b (1/10 inch) 	EUR / rib 	Ribs / sl. 	EUR / sl.
+1435 	565 	9,68 	38 ± 2 ribs 	307,18
+1473 	580 	9,83 	38 ± 2 ribs 	311,50
+1499 	590 	9,92 	118 ± 2 ribs 	969,62
+1562 	615 	10,19 	118 ± 2 ribs 	1001,87
+1613 	635 	10,46 	78 ± 2 ribs 	680,01
+1651 	650 	10,53 	38 ± 2 ribs 	333,14
+1664 	655 	10,53 	78 ± 2 ribs 	683,82
+1715 	675 	10,79 	118 ± 2 ribs 	1061,38
+1765 	695 	11,01 	118 ± 2 ribs 	1082,47
+1803 	710 	11,43 	80 ± 2 ribs 	736,62
+1841 	725 	11,53 	78 ± 2 ribs 	751,06
+1943 	765 	12,23 	78 ± 2 ribs 	795,44
+1956 	770 	12,41 	80 ± 2 ribs 	808,49
+1981 	780 	12,67 	80 ± 2 ribs 	821,55
+2019 	795 	12,90 	118 ± 2 ribs 	1306,12
+2070 	815 	13,47 	80 ± 2 ribs 	858,46
+2095 	825 	13,60 	118 ± 2 ribs 	1355,35
+2134 	840 	13,99 	80 ± 2 ribs 	909,62
+2195 	865 	14,11 	80 ± 2 ribs 	926,93
+2235 	880 	14,38 	80 ± 2 ribs 	934,98
+2324 	915 	15,29 	78 ± 2 ribs 	993,32
+2362 	930 	15,70 	80 ± 2 ribs 	1018,76
+2477 	975 	16,74 	80 ± 2 ribs 	1087,25
+2515 	990 	16,98 	80 ± 2 ribs 	1103,74
+2705 	1065 	17,94 	80 ± 2 ribs 	1167,18
+2743 	1080 	18,16 	80 ± 2 ribs 	1178,59
+2845 	1120 	18,85 	80 ± 2 ribs 	1224,28
+2895 	1140 	19,00 	80 ± 2 ribs 	1235,70
+2921 	1150 	19,21 	80 ± 2 ribs 	1248,38
+2997 	1180 	19,92 	80 ± 2 ribs 	1294,05
+3085 	1215 	20,49 	80 ± 2 ribs 	1332,11
+3124 	1230 	20,69 	80 ± 2 ribs 	1344,81
+3289 	1295 	21,68 	80 ± 2 ribs 	1408,21
+3327 	1310 	22,04 	80 ± 2 ribs 	1433,59
+3492 	1375 	23,01 	80 ± 2 ribs 	1497,03
+3696 	1455 	24,41 	80 ± 2 ribs 	1585,84
+4051 	1595 	26,74 	80 ± 2 ribs 	1738,08
+4191 	1650 	27,73 	80 ± 2 ribs 	1801,53
+4318 	1700 	28,49 	80 ± 2 ribs 	1809,72
+4470 	1760 	29,47 	80 ± 2 ribs 	1915,68
+4622 	1820 	30,25 	80 ± 2 ribs 	1966,44
+5029 	1980 	32,77 	80 ± 2 ribs 	2131,37
+5385 	2120 	35,32 	80 ± 2 ribs 	2296,30
+6096 	2400 	40,02 	80 ± 2 ribs 	2600,78
+7055 	2777 	46,28 	80 ± 2 ribs 	3011,46
+PM
+Lb (mm) 	L b (1/10 inch) 	EUR / rib 	Ribs / sl. 	EUR / sl.
+2134 	840 	43,37 	40 ± 2 ribs 	1445,48
+2286 	900 	46,46 	40 ± 2 ribs 	1548,43
+2388 	940 	48,22 	40 ± 2 ribs 	1606,99
+2515 	990 	50,16 	40 ± 2 ribs 	1672,05
+2693 	1060 	53,48 	40 ± 2 ribs 	1782,64
+2832 	1115 	56,21 	40 ± 2 ribs 	1873,72
+2921 	1150 	57,78 	40 ± 2 ribs 	1925,79
+3010 	1185 	59,14 	40 ± 2 ribs 	1971,32
+3124 	1230 	61,69 	40 ± 2 ribs 	2055,90
+3327 	1310 	65,20 	40 ± 2 ribs 	2173,00
+3531 	1390 	69,30 	40 ± 2 ribs 	2309,64
+3734 	1470 	73,40 	40 ± 2 ribs 	2446,26
+3937 	1550 	77,19 	40 ± 2 ribs 	2568,31
+4089 	1610 	80,04 	40 ± 2 ribs 	2667,47
+PL
+L b (mm) 	L b (1/10 inch) 	EUR / rib 	Ribs / sl. 	EUR / sl.
+4191 	1650 	81,97 	40 ± 2 ribs 	2732,53
+4470 	1760 	87,24 	40 ± 2 ribs 	2908,20
+4648 	1830 	90,35 	40 ± 2 ribs 	3012,28
+4850 	1900 	94,39 	40 ± 2 ribs 	3146,81
+5029 	1980 	97,97 	40 ± 2 ribs 	3266,02
+5410 	2130 	104,43 	40 ± 2 ribs 	3480,73
+5600 	2200 	108,07 	40 ± 2 ribs 	3602,43
+6121 	2410 	118,09 	40 ± 2 ribs 	3936,13
+6883 	2710 	131,73 	40 ± 2 ribs 	4391,55
+7646 	3010 	- 	40 ± 2 ribs 	4892,52
+8408 	3310 	- 	40 ± 2 ribs 	5347,95
+9169 	3610 	- 	40 ± 2 ribs 	5946,49
+9931 	3910 	- 	40 ± 2 ribs 	6323,85
+10693 	4210 	- 	40 ± 2 ribs 	6779,26
+12217 	4810 	- 	40 ± 2 ribs 	7716,13
+13741 	5410 	- 	40 ± 2 ribs 	8659,49
+15266 	6010 	- 	40 ± 2 ribs 	9609,38
+16764 	6600 	- 	40 ± 2 ribs 	10865,03
+PM
+
+-- 58 of 132 --
+
+59
+CONTI-V® MULTIRIB
+
+-- 59 of 132 --
+
+60
+CONTI-V® MULTIRIB POWER
+CONTI-V® MULTIRIB POWER
+PL ZAR 	PM ZAR
+Rib pitch | Separación de canales
+Шаг ручья | Distanza tra le nervature 	s 	mm 	4,7 	9,4
+Belt height | Altura de correa
+Высота ремня | Altezza della cinghia 	h 	mm 	9 	14,5
+Reference line difference | Diferencia de líneas de referencia
+Расстояние между эффективными линиями шкива и ремня | Diffe-
+renza tra le linee di riferimento
+hb 	mm 	3 	4
+Reference length | Longitud efectiva
+Эффективная длина | Lunghezza di riferimento 	Lb 	mm 	Nominal length | Longitud nominal
+Номинальная длина | Lunghezza nominale
+Pitch length | Longitud primitiva
+Расчетная длина | Lunghezza primitiva 	Lp 	mm 	L b+ 19 	L b+ 25
+Weight per rib | Peso por ranura
+Вес на одно ребро | Peso per nervatura 	kg/m 	0,04 	0,12
+Multiple V-ribbed belts with low-stretch aramid tensile
+member for heavy-duty power transmission accompanied
+by shock loads, DIN 7867
+Correas acanaladas con elemento tensor de aramida de
+baja elongación para una potente transmisión de potencia
+con elevadas cargas dinámicas, DIN 7867
+Поликлиновые ремни с кевларовым кордшнуром для
+передачи большой мощности при высоких ударных
+нагрузках, DIN 7867
+Cinghia trapezoidale scanalata con anima resistente di
+aramide a bassa dilatazione per vigorosa trasmissione della
+potenza con grandi carichi impulsivi, DIN 7867
+Size designation (example) Ejemplo de dimensión | Обозначение размера (пример) | Sigla della dimensione (esempio)
+6 PL 2019 (UK: 795 L 6)
+6 	Number of ribs | Número de canales | Число ребер | Numero di nervature
+PL / L 	Profi le | Perfi l | Профиль | Sezione
+2019 	2019 mm Reference length | Longitud efectiva | Эффективная длина | Lunghezza di riferimento
+795 	Reference length in 1/10 inch | Longitud efectiva en 1/10 inch | Эффективная длина (1/10 дюйма) | Lunghezza di riferimento in 1/10“
+Properties
+- conditionally resistant to oil
+- resistant to temperatures from -30°C to +80°C
+- electrically conductive to ISO 1813
+- suitable for tropical climates
+Características
+- resistencia moderada a los aceites
+- resistentes a temperaturas desde -30°C hasta +80°C
+- conductibilidad eléctrica según ISO 1813
+- resistentes a climas tropicales
+Свойства
+- относительная маслостойкость
+- устойчивость к воздействию температур от -30°C до +80°C
+- электропроводность согласно стандарту ISO 1813
+- пригодны для эксплуатации в тропических условиях
+Proprietà
+- Relativamente resistenti all’olio
+- Resistenti a temperature comprese tra -30 °C e +80 °C
+- Elettricamente conduttrici secondo ISO 1813
+- Resistenti al clima tropicale
+
+-- 60 of 132 --
+
+61
+CONTI-V® MULTIRIB POWER
+L b 	Reference length | Longitud efectiva | Эффективная длина | Lunghezza di riferimento
+MOQ 	Minimum quantity | Cantidad mínima | Минимальное количество | Quantità minima
+EUR / rib 	Price per rib | Precio por ranura | Цена за ребро | Prezzo per nervatura
+Ribs / sl. 	Ribs per sleeve | Canales por mangón | Число ручьев в рукаве | Nervature per manicotto
+EUR / sl. 	Price per sleeve | Precio por mangón | Цена за рукав | Prezzo per manicotto
+* 	On request (see page 6) | Bajo consulta (v. pág. 6) | По запросу (см. стр. 7) | Su richiesta (v. pag. 7)
+PL ZAR
+L b (mm) 	L b (1/10 inch) 	EUR / rib 	Ribs / sl. 	MOQ 	EUR / sl.
+1956 * 	770 	20,48 80 ± 2 ribs 	1 sleeve 	1334,00
+1981 * 	780 	20,90 80 ± 2 ribs 	1 sleeve 	1355,55
+2019 * 	795 	21,28 80 ± 2 ribs 	1 sleeve 	1379,57
+2095 * 	825 	22,43 80 ± 2 ribs 	1 sleeve 	1449,44
+2134 * 	840 	23,09 80 ± 2 ribs 	1 sleeve 	1500,87
+2195 * 	865 	23,28 80 ± 2 ribs 	1 sleeve 	1529,43
+2235 * 	880 	23,73 80 ± 2 ribs 	1 sleeve 	1542,72
+2324 * 	915 	25,23 80 ± 2 ribs 	1 sleeve 	1638,99
+2362 * 	930 	25,90 80 ± 2 ribs 	1 sleeve 	1680,95
+2477 * 	975 	27,62 80 ± 2 ribs 	1 sleeve 	1793,96
+2515 * 	990 	28,02 80 ± 2 ribs 	1 sleeve 	1821,17
+2705 * 	1065 	29,61 80 ± 2 ribs 	1 sleeve 	1925,85
+2743 * 	1080 	29,97 80 ± 2 ribs 	1 sleeve 	1944,68
+2845 * 	1120 	31,11 80 ± 2 ribs 	1 sleeve 	2020,06
+2895 * 	1140 	31,35 80 ± 2 ribs 	1 sleeve 	2038,91
+2921 * 	1150 	31,69 80 ± 2 ribs 	1 sleeve 	2059,82
+2997 * 	1180 	32,86 80 ± 2 ribs 	1 sleeve 	2135,19
+3085 * 	1215 	33,81 80 ± 2 ribs 	1 sleeve 	2197,99
+3124 * 	1230 	34,14 80 ± 2 ribs 	1 sleeve 	2218,94
+3289 * 	1295 	35,78 80 ± 2 ribs 	1 sleeve 	2323,55
+3327 * 	1310 	36,36 80 ± 2 ribs 	1 sleeve 	2365,43
+3492 * 	1375 	37,97 80 ± 2 ribs 	1 sleeve 	2470,09
+3696 * 	1455 	40,28 80 ± 2 ribs 	1 sleeve 	2616,64
+4051 * 	1595 	44,12 80 ± 2 ribs 	1 sleeve 	2867,82
+4191 * 	1650 	45,76 80 ± 2 ribs 	1 sleeve 	2972,52
+4470 * 	1760 	48,62 80 ± 2 ribs 	1 sleeve 	3160,88
+4622 * 	1820 	49,92 80 ± 2 ribs 	1 sleeve 	3244,62
+5029 * 	1980 	54,07 80 ± 2 ribs 	1 sleeve 	3516,76
+5385 * 	2120 	58,28 80 ± 2 ribs 	1 sleeve 	3788,90
+6096 * 	2400 	66,04 80 ± 2 ribs 	1 sleeve 	4291,28
+PM ZAR
+Lb (mm) 	L b (1/10 inch) 	EUR / rib 	Ribs / sl. 	MOQ 	EUR / sl.
+2286 * 	900 	76,66 40 ± 2 ribs 	1 sleeve 	2554,91
+2388 * 	940 	79,56 40 ± 2 ribs 	1 sleeve 	2651,53
+2515 * 	990 	82,76 40 ± 2 ribs 	1 sleeve 	2758,89
+2693 * 	1060 	88,25 40 ± 2 ribs 	1 sleeve 	2941,36
+2832 * 	1115 	92,75 40 ± 2 ribs 	1 sleeve 	3091,63
+2921 * 	1150 	95,33 40 ± 2 ribs 	1 sleeve 	3177,55
+3010 * 	1185 	97,58 40 ± 2 ribs 	1 sleeve 	3252,68
+3124 * 	1230 	101,78 40 ± 2 ribs 	1 sleeve 	3392,24
+3327 * 	1310 	107,58 40 ± 2 ribs 	1 sleeve 	3585,46
+3505 * 	1380 	113,49 40 ± 2 ribs 	1 sleeve 	3782,18
+3531 * 	1390 	114,35 40 ± 2 ribs 	1 sleeve 	3810,90
+3734 * 	1470 	121,11 40 ± 2 ribs 	1 sleeve 	4036,33
+4089 * 	1610 	132,06 40 ± 2 ribs 	1 sleeve 	4401,32
+4191 * 	1650 	135,25 40 ± 2 ribs 	1 sleeve 	4508,67
+4470 * 	1760 	143,94 40 ± 2 ribs 	1 sleeve 	4798,54
+4648 * 	1830 	149,08 40 ± 2 ribs 	1 sleeve 	4970,25
+5029 * 	1980 	161,65 40 ± 2 ribs 	1 sleeve 	5388,94
+5410 * 	2130 	172,30 40 ± 2 ribs 	1 sleeve 	5743,20
+5680 * 	2236 	180,86 40 ± 2 ribs 	1 sleeve 	6028,55
+6121 * 	2410 	194,84 40 ± 2 ribs 	1 sleeve 	6494,61
+6883 * 	2710 	217,36 40 ± 2 ribs 	1 sleeve 	7246,06
+7646 * 	3010 	- 40 ± 2 ribs 	1 sleeve 	8072,66
+8408 * 	3310 	- 40 ± 2 ribs 	1 sleeve 	8824,13
+9169 * 	3610 	- 40 ± 2 ribs 	1 sleeve 	9811,71
+9296 * 	3660 	- 40 ± 2 ribs 	1 sleeve 	9915,48
+9931 * 	3910 	- 40 ± 2 ribs 	1 sleeve 	10434,35
+10693 * 	4210 	- 40 ± 2 ribs 	1 sleeve 	11185,78
+12217 * 	4810 	- 40 ± 2 ribs 	1 sleeve 	12731,62
+13741 * 	5410 	- 40 ± 2 ribs 	1 sleeve 	14288,15
+-
+
+-- 61 of 132 --
+
+62
+CONTI-V® MULTIRIB ELAST
+CONTI-V® MULTIRIB ELAST
+PJ 	PK
+Rib pitch | Separación de canales
+Шаг ручья | Distanza tra le nervature 	s 	mm 	2,34 	3,56
+Belt height | Altura de correa
+Высота ремня | Altezza della cinghia 	h 	mm 	3,8 	5
+Reference line difference | Diferencia de líneas de referencia
+Расстояние между эффективными линиями шкива и ремня |
+Differenza tra le linee di riferimento
+hb 	mm 	1,2 	1,5
+Reference length | Longitud efectiva
+Эффективная длина | Lunghezza di riferimento 	L b 	mm 	Installation length | Longitud de montaje
+Монтажная длина | Lunghezza di montaggio
+Pitch length | Longitud primitiva
+Расчетная длина | Lunghezza primitiva 	L p 	mm 	Lb+ 8 	L b+ 10
+Weight per rib | Peso por ranura
+Вес на одно ребро | Peso per nervatura 	kg/m 	0,009 	0,021
+Multiple V-ribbed belts for drives with fixed center distances
+without separate tensioner, DIN 7867
+Correas acanaladas para transmisiones con distancias fijas
+de ejes sin rodillos tensores, DIN 7867
+Для приводов с фиксированным межосевым
+расстоянием и без дополнительных натяжителей,
+DIN 7867
+Cinghie trapezoidali scanalate per trasmissioni con interassi
+fi ssi senza elementi tendicinghia a parte, DIN 7867
+Size designation (example) Ejemplo de dimensión | Обозначение размера (пример) | Sigla della dimensione (esempio)
+6 EPJ 1600 (UK: 630 EJ 6)
+6 	Number of ribs | Número de canales | Число ребер | Numero di nervature
+EPJ / EJ Profi le | Perfi l | Профиль | Sezione
+1600 	1600 mm Installation length | Longitud de montaje | Монтажная длина | Lunghezza di montaggio
+630 	Installation length (tenths of an inch) | Longitud de montaje en 1/10 inch | Монтажная длина (1/10 дюйма) | Lunghezza di montaggio in 1/10“
+Properties
+- conditionally resistant to oil
+- resistant to temperatures from -30°C to +80°C
+- electrically conductive to ISO 1813
+- suitable for tropical climates
+Características
+- resistencia moderada a los aceites
+- resistentes a temperaturas desde -30°C hasta +80°C
+- conductibilidad eléctrica según ISO 1813
+- resistentes a climas tropicales
+Свойства
+- относительная маслостойкость
+- устойчивость к воздействию температур от -30°C до +80°C
+- электропроводность согласно стандарту ISO 1813
+- пригодны для эксплуатации в тропических условиях
+Proprietà
+- Relativamente resistenti all’olio
+- Resistenti a temperature comprese tra -30 °C e +80 °C
+- Elettricamente conduttrici secondo ISO 1813
+- Resistenti al clima tropicale
+All sizes and prices are available on request.
+Dimensiones y precios bajo consulta.
+Все размеры и цены по запросу.
+Dimensioni e prezzi su richiesta.
+
+-- 62 of 132 --
+
+63
+CONTI-V® MULTIRIB ELAST
+All sizes and prices are available on request.
+Dimensiones y precios bajo consulta.
+Все размеры и цены по запросу.
+Dimensioni e prezzi su richiesta.
+
+-- 63 of 132 --
+
+64
+CONTI® SYNCHROBELT
+CONTI® SYNCHROBELT
+Timing belts for the lower and medium power range
+Correas síncronas para gama baja y media de
+rendimiento
+Зубчатые приводные ремни для передачи малой и
+средней мощности
+Cinghie dentate per potenze piccole e medie
+Properties
+- conditionally resistant to oil
+- temperature resistant from -20°C to +100°C
+- suitable for tropical climates
+- resistant to aging and ozone
+Características
+- resistencia moderada a los aceites
+- resistentes a temperaturas , según aplicación, desde -20°C
+hasta +100°C
+- resistentes a climas tropicales
+- resistentes al envejecimiento y al ozono
+Свойства
+- относительная маслостойкость
+- устойчивость к воздействию температур от -20°C до +100°C
+- пригодны для эксплуатации в тропических условиях
+- атмосферостойкость
+Proprietà
+- Relativamente resistenti all’olio
+- Resistenti a temperature comprese tra -20 °C e +100 °C in funzione
+dell’applicazione
+- Resistenti al clima tropicale
+- Resistenti all’invecchiamento ed all’ozono
+HTD
+MXL 	XL 	L 	H 	XH 	XXH 	HTD 3M HTD 5M HTD 8M HTD
+14M
+STD
+S8M
+Tooth pitch | Perfil de dientes
+Шаг зубьев | Passo dei denti
+t 	mm 	2,032 	5,08 	9,525 12,7 	22,225 31,75 	3 	5 	8 	14 	8
+t 	inch 0,08 	1/5 	3/8 	1/2 	7/8 	1 1/4 	- 	- 	- 	- 	-
+Belt thickness | Grosor de correa
+Толщина ремня | Spessore della cinghia 	hs 	mm 	1,14 	2,3 	3,6 	4,3 	11,2 	15,8 	2,4 	3,6 	5,6 	10 	5,3
+Tooth height | Altura de diente
+Высота зуба | Altezza dei denti 	h t 	mm 	0,51 	1,27 	1,91 	2,29 	6,35 	9,6 	1,2 	2,1 	3,4 	6,1 	2,95
+Pitch height | Altura primitiva
+Высота расчетной линии | Distanza tra le
+linee attive
+u 	mm 	0,254 	0,254 	0,381 0,686 	1,397 	1,524 	0,38 	0,57 	0,686 	1,395 	0,686
+Nominal length | Longitud nominal
+Номинальная длина | Lunghezza nominale 	Lp / L w 	mm
+Pitch length (tenths of an inch) | Longitud primitiva en
+1/10 inch | Расчетная длина (1/10 дюйма) |
+Lunghezza primitiva in 1/10“
+Pitch length (mm) | Longitud primitiva en mm
+Расчетная длина (мм) | Lunghezza primitiva in mm
+Pitch length | Longitud primitiva
+Расчетная длина | Lunghezza primitiva 	Lp / L w 	mm
+Nominal length x 2,54 | Longitud nominal x 2,54
+Номинальная длина x 2,54 | Lunghezza
+nominale x 2,54
+-
+Size designation (example) Ejemplo de dimensión | Обозначение размера (пример) | Sigla della dimensione (esempio)
+300 L 075 (MXL - XXH)
+300 	30 inch = 762,0 mm Pitch length | Longitud primitiva | Расчетная длина | Lunghezza primitiva
+L 	3/8 inch = 9,525 mm Tooth pitch | Perfi l de dientes | Шаг зубьев | Passo dei denti
+075 	0,75 inch = 19,05 mm Timing belt width | Anchura correa síncrona | Ширина зубчатого ремня | Larghezza della cinghia dentata
+HTD 960 - 8M - 50 (HTD, STD)
+HTD 	Profi le | Perfi l | Профиль | Sezione
+960 	960 mm Pitch length | Longitud primitiva | Расчетная длина | Lunghezza primitiva
+8M 	8 mm Tooth pitch | Perfi l de dientes | Шаг зубьев | Passo dei denti
+50 	50 mm Timing belt width | Anchura correa síncrona | Ширина зубчатого ремня | Larghezza della cinghia dentata
+STD	MXL - XXH
+
+-- 64 of 132 --
+
+65
+CONTI® SYNCHROBELT
+L p / Lw 	Pitch length | Longitud primitiva | Расчетная длина | Lunghezza primitiva
+SW 	Sleeve width | Anchura de mangón | Ширина рукава | Larghezza del manicotto
+MOQ (sl.) 	Minimum quantity (sleeves) | Cantidad mínima (mangón) | Минимальное количество (рукава) | Quantità minima (manicotti)
+z 	Number of teeth | N° de dientes | Число зубьев | Numero di denti
+b 	Belt width | Anchura correa síncrona | Ширина зубчатого ремня | Larghezza della cinghia dentata
+EUR / pc. 	Price per piece | Precio por unidad | Цена за штуку | Prezzo per articolo
+EUR / sl. 	Price per sleeve | Precio por mangón | Цена за рукав | Prezzo per manicotto
+* 	On request (see page 6) | Bajo consulta (v. pág. 6) | По запросу (см. стр. 7) | Su richiesta (v. pag. 7)
+MXL
+L p / L w
+(1/10 inch)
+Lp / L w
+(mm)
+z 	b = 012 = 3,05 mm
+EUR / pc.
+b = 019 = 4,83 mm
+EUR / pc.
+b = 025 = 6,35 mm
+EUR / pc.
+SW
+(mm)
+MOQ
+(sl.)
+EUR / sl.
+43,2 * 	109,73 	54 	1,61 	2,28 	2,43 	480 ± 10mm 	6 	124,13
+44,0 	111,76 	55 	1,61 	2,28 	2,43 	480 ± 10mm 	124,13
+44,8 	113,79 	56 	1,61 	2,28 	2,43 	480 ± 10mm 	124,13
+46,4 	117,86 	58 	1,61 	2,28 	2,43 	480 ± 10mm 	124,13
+48,0 	121,92 	60 	1,61 	2,28 	2,43 	480 ± 10mm 	126,73
+48,8 	123,95 	61 	1,61 	2,28 	2,43 	480 ± 10mm 	126,73
+50,4 * 	128,02 	63 	1,80 	2,28 	2,58 	480 ± 10mm 	6 	126,73
+54,4 	138,18 	68 	1,80 	2,28 	2,58 	480 ± 10mm 	126,73
+56,0 	142,24 	70 	1,80 	2,28 	2,58 	480 ± 10mm 	126,73
+56,8 	144,27 	71 	1,80 	2,28 	2,58 	480 ± 10mm 	129,49
+57,6 	146,30 	72 	1,80 	2,28 	2,58 	480 ± 10mm 	129,49
+60,0 	152,40 	75 	1,80 	2,28 	2,58 	480 ± 10mm 	129,49
+61,6 	156,46 	77 	1,80 	2,28 	2,58 	480 ± 10mm 	129,49
+64,0 	162,56 	80 	2,11 	2,43 	2,58 	480 ± 10mm 	129,49
+65,6 	166,62 	82 	2,11 	2,43 	2,58 	480 ± 10mm 	129,49
+67,2 	170,69 	84 	2,11 	2,43 	2,58 	480 ± 10mm 	129,49
+68,0 * 	172,72 	85 	2,11 	2,43 	2,58 	480 ± 10mm 	6 	132,08
+69,6 	176,78 	87 	2,11 	2,43 	2,58 	760 ± 10mm 	198,21
+70,4 	178,82 	88 	2,11 	2,43 	2,58 	480 ± 10mm 	132,08
+72,0 	182,88 	90 	2,11 	2,43 	2,58 	480 ± 10mm 	132,08
+75,2 	191,01 	94 	2,11 	2,43 	2,58 	480 ± 10mm 	132,08
+76,0 	193,04 	95 	2,11 	2,43 	2,58 	480 ± 10mm 	132,08
+77,6 	197,10 	97 	2,11 	2,43 	2,58 	480 ± 10mm 	137,12
+80,0 	203,20 	100 	2,11 	2,43 	2,78 	480 ± 10mm 	137,12
+80,8 	205,23 	101 	2,11 	2,43 	2,78 	480 ± 10mm 	137,12
+82,4 	209,30 	103 	2,11 	2,43 	2,78 	480 ± 10mm 	137,12
+84,0 * 	213,36 	105 	2,11 	2,43 	2,78 	480 ± 10mm 	6 	137,12
+84,8 	215,39 	106 	2,11 	2,43 	2,78 	480 ± 10mm 	137,12
+88,0 	223,52 	110 	2,11 	2,43 	2,78 	480 ± 10mm 	139,90
+89,6 	227,58 	112 	2,11 	2,43 	2,78 	480 ± 10mm 	139,90
+90,4 	229,62 	113 	2,11 	2,43 	2,78 	480 ± 10mm 	142,32
+91,2 	231,65 	114 	2,28 	2,43 	2,78 	480 ± 10mm 	142,32
+94,4 	239,78 	118 	2,28 	2,43 	2,78 	480 ± 10mm 	142,32
+96,0 	243,84 	120 	2,28 	2,43 	2,78 	480 ± 10mm 	142,32
+97,6 	247,90 	122 	2,28 	2,43 	2,78 	480 ± 10mm 	145,43
+98,4 	249,94 	123 	2,28 	2,43 	2,78 	480 ± 10mm 	145,43
+100,0 	254,00 	125 	2,43 	2,58 	2,78 	480 ± 10mm 	147,70
+100,8 	256,03 	126 	2,43 	2,58 	2,78 	480 ± 10mm 	147,70
+105,6 * 	268,22 	132 	2,43 	2,58 	2,92 	480 ± 10mm 	6 	150,61
+112,0 	284,48 	140 	2,43 	2,78 	2,92 	480 ± 10mm 	153,04
+120,0 	304,80 	150 	2,43 	2,78 	3,08 	480 ± 10mm 	155,81
+124,0 	314,96 	155 	2,43 	2,78 	3,08 	480 ± 10mm 	158,24
+131,2 	333,25 	164 	2,43 	2,78 	3,25 	480 ± 10mm 	163,61
+132,0 * 	335,28 	165 	2,43 	2,78 	3,25 	480 ± 10mm 	3 	163,61
+132,8 	337,31 	166 	2,43 	2,78 	3,25 	480 ± 10mm 	163,61
+136,0 	345,44 	170 	2,43 	2,78 	3,25 	480 ± 10mm 	163,61
+140,0 	355,60 	175 	2,43 	2,78 	3,25 	480 ± 10mm 	163,61
+144,0 	365,76 	180 	2,43 	2,78 	3,25 	480 ± 10mm 	171,72
+147,2 	373,89 	184 	2,58 	2,78 	3,25 	480 ± 10mm 	174,17
+180,0 	457,20 	225 	2,78 	3,08 	3,41 	480 ± 10mm 	189,92
+188,8 	479,55 	236 	2,92 	3,25 	3,53 	480 ± 10mm 	192,69
+200,8 	510,03 	251 	3,08 	3,25 	3,53 	480 ± 10mm 	197,88
+238,4 	605,54 	298 	3,25 	3,41 	4,03 	480 ± 10mm 	219,00
+277,6 	705,10 	347 	3,41 	3,74 	4,55 	480 ± 10mm 	237,05
+
+-- 65 of 132 --
+
+66
+CONTI® SYNCHROBELT
+MXL
+L p / Lw
+(1/10 inch)
+Lp / L w
+(mm)
+z 	b = 012 = 3,05 mm
+EUR / pc.
+b = 019 = 4,83 mm
+EUR / pc.
+b = 025 = 6,35 mm
+EUR / pc.
+SW
+(mm)
+MOQ
+(sl.)
+EUR / sl.
+292,0 	741,68 	365 	3,53 	3,90 	4,55 	480 ± 10mm 	248,88
+296,8 	753,87 	371 	3,53 	3,90 	4,55 	480 ± 10mm 	251,34
+297,6 	755,90 	372 	3,53 	3,90 	4,71 	480 ± 10mm 	251,34
+320,0 	812,80 	400 	3,74 	4,03 	4,86 	480 ± 10mm 	263,18
+329,6 	837,18 	412 	3,74 	4,03 	4,86 	480 ± 10mm 	265,47
+347,2 	881,89 	434 	3,90 	4,55 	5,03 	480 ± 10mm 	275,05
+362,4 	920,50 	453 	4,03 	4,55 	5,21 	480 ± 10mm 	282,04
+370,4 	940,82 	463 	4,03 	4,71 	5,21 	480 ± 10mm 	284,50
+398,4 	1011,94 	498 	4,22 	5,03 	5,53 	480 ± 10mm 	301,22
+404,0 	1026,16 	505 	4,55 	5,03 	5,70 	480 ± 10mm 	303,48
+XL
+L p / Lw
+(1/10 inch)
+Lp / L w
+(mm)
+z 	b = 025 = 6,35 mm
+EUR / pc.
+b = 031 = 7,87 mm
+EUR / pc.
+b = 037 = 9,40 mm
+EUR / pc.
+SW
+(mm)
+MOQ
+(sl.)
+EUR / sl.
+60 	152,40 	30 	2,43 	2,92 	3,25 	480 ± 10mm 	93,76
+70 	177,80 	35 	2,43 	3,08 	3,41 	480 ± 10mm 	100,35
+76 	193,04 	38 	2,43 	3,08 	3,41 	480 ± 10mm 	102,24
+80 	203,20 	40 	2,78 	3,08 	3,41 	480 ± 10mm 	102,24
+86 * 	218,44 	43 	2,92 	3,25 	3,53 	480 ± 10mm 	6 	102,24
+90 	228,60 	45 	2,92 	3,25 	3,53 	480 ± 10mm 	104,50
+92 * 	233,68 	46 	2,92 	3,25 	3,53 	480 ± 10mm 	6 	104,50
+94 * 	238,76 	47 	2,92 	3,25 	3,53 	480 ± 10mm 	6 	106,59
+96 	243,84 	48 	2,92 	3,25 	3,53 	480 ± 10mm 	106,59
+100 	254,00 	50 	2,92 	3,25 	3,74 	480 ± 10mm 	110,92
+102 	259,08 	51 	2,92 	3,25 	3,74 	480 ± 10mm 	110,92
+106 	269,24 	53 	2,92 	3,41 	3,74 	480 ± 10mm 	113,00
+108 * 	274,32 	54 	2,92 	3,41 	3,74 	480 ± 10mm 	6 	113,00
+110 	279,40 	55 	2,92 	3,41 	3,74 	480 ± 10mm 	113,00
+112 * 	284,48 	56 	2,92 	3,41 	3,74 	480 ± 10mm 	6 	113,00
+114 	289,56 	57 	3,08 	3,41 	3,90 	720 ± 10mm 	179,03
+116 * 	294,64 	58 	3,08 	3,41 	3,90 	480 ± 10mm 	6 	115,21
+118 * 	299,72 	59 	3,08 	3,41 	3,90 	480 ± 10mm 	6 	121,65
+120 	304,80 	60 	3,08 	3,41 	3,90 	480 ± 10mm 	121,65
+124 * 	314,96 	62 	3,25 	3,41 	3,90 	480 ± 10mm 	3 	121,65
+126 * 	320,04 	63 	3,25 	3,41 	4,03 	480 ± 10mm 	3 	123,74
+130 	330,20 	65 	3,25 	3,53 	4,03 	480 ± 10mm 	123,74
+134 * 	340,36 	67 	3,25 	3,53 	4,03 	480 ± 10mm 	3 	125,81
+136 * 	345,44 	68 	3,25 	3,53 	4,03 	480 ± 10mm 	3 	125,81
+138 * 	350,52 	69 	3,25 	3,53 	4,39 	480 ± 10mm 	3 	127,90
+140 	355,60 	70 	3,25 	3,53 	4,39 	480 ± 10mm 	132,05
+148 * 	375,92 	74 	3,41 	3,74 	4,39 	480 ± 10mm 	3 	136,37
+150 	381,00 	75 	3,41 	3,74 	4,39 	480 ± 10mm 	136,37
+156 * 	396,24 	78 	3,41 	3,74 	4,55 	480 ± 10mm 	3 	138,63
+160 	406,40 	80 	3,41 	3,74 	4,86 	480 ± 10mm 	138,63
+162 * 	411,48 	81 	3,41 	3,74 	4,86 	480 ± 10mm 	3 	138,63
+166 * 	421,64 	83 	3,41 	3,74 	4,86 	480 ± 10mm 	3 	142,79
+168 * 	426,72 	84 	3,41 	3,74 	4,86 	480 ± 10mm 	3 	142,79
+170 	431,80 	85 	3,41 	3,90 	4,86 	480 ± 10mm 	142,79
+174 * 	441,96 	87 	3,41 	3,90 	4,86 	480 ± 10mm 	3 	144,88
+176 * 	447,04 	88 	3,53 	3,90 	4,86 	480 ± 10mm 	3 	144,88
+178 * 	452,12 	89 	3,53 	3,90 	4,86 	480 ± 10mm 	3 	144,88
+180 	457,20 	90 	3,53 	4,03 	4,86 	480 ± 10mm 	144,88
+182 * 	462,28 	91 	3,53 	4,03 	4,86 	480 ± 10mm 	3 	147,30
+184 * 	467,36 	92 	3,53 	4,03 	5,03 	480 ± 10mm 	3 	147,30
+188 * 	477,52 	94 	3,53 	4,03 	5,03 	720 ± 10mm 	3 	220,77
+190 	482,60 	95 	3,53 	4,03 	5,03 	480 ± 10mm 	149,22
+196 * 	497,84 	98 	3,74 	4,03 	5,03 	480 ± 10mm 	3 	149,22
+198 * 	502,92 	99 	3,74 	4,03 	5,03 	480 ± 10mm 	3 	153,36
+200 	508,00 	100 	3,74 	4,03 	5,03 	480 ± 10mm 	153,36
+210 	533,40 	105 	3,74 	4,39 	5,21 	480 ± 10mm 	155,64
+220 	558,80 	110 	3,74 	4,39 	5,35 	720 ± 10mm 	236,71
+230 	584,20 	115 	3,90 	4,55 	5,35 	480 ± 10mm 	166,19
+
+-- 66 of 132 --
+
+67
+CONTI® SYNCHROBELT
+XL
+L p / L w
+(1/10 inch)
+Lp / L w
+(mm)
+z 	b = 025 = 6,35 mm
+EUR / pc.
+b = 031 = 7,87 mm
+EUR / pc.
+b = 037 = 9,40 mm
+EUR / pc.
+SW
+(mm)
+MOQ
+(sl.)
+EUR / sl.
+232 * 	589,28 	116 	3,90 	4,55 	5,35 	480 ± 10mm 	3 	168,43
+240 	609,60 	120 	4,03 	4,86 	5,53 	480 ± 10mm 	174,87
+244 	619,76 	122 	4,03 	4,86 	5,53 	480 ± 10mm 	174,87
+248 * 	629,92 	124 	4,03 	4,86 	5,53 	480 ± 10mm 	3 	176,94
+250 	635,00 	125 	4,03 	4,86 	5,53 	480 ± 10mm 	176,94
+260 	660,40 	130 	4,39 	4,86 	5,53 	480 ± 10mm 	179,03
+270 	685,80 	135 	4,39 	5,03 	5,70 	480 ± 10mm 	187,49
+272 	690,88 	136 	4,39 	5,03 	5,70 	480 ± 10mm 	187,49
+274 * 	695,96 	137 	4,39 	5,03 	5,70 	480 ± 10mm 	3 	187,49
+280 * 	711,20 	140 	4,39 	5,03 	5,70 	480 ± 10mm 	3 	189,76
+286 * 	726,44 	143 	4,55 	5,03 	5,86 	480 ± 10mm 	3 	191,49
+290 * 	736,60 	145 	4,55 	5,03 	5,86 	480 ± 10mm 	3 	195,29
+296 * 	751,84 	148 	4,86 	5,03 	5,86 	480 ± 10mm 	3 	199,12
+300 	762,00 	150 	4,86 	5,21 	5,86 	480 ± 10mm 	201,04
+306 * 	777,24 	153 	4,86 	5,35 	6,20 	480 ± 10mm 	3 	202,94
+316 	802,64 	158 	4,86 	5,35 	6,20 	480 ± 10mm 	204,84
+322 	817,88 	161 	5,03 	5,35 	6,20 	480 ± 10mm 	206,75
+330 	838,20 	165 	5,03 	5,53 	6,32 	480 ± 10mm 	208,64
+340 * 	863,60 	170 	5,03 	5,53 	6,51 	480 ± 10mm 	3 	214,37
+344 	873,76 	172 	5,03 	5,53 	6,51 	480 ± 10mm 	214,37
+350 * 	889,00 	175 	5,21 	5,53 	6,51 	480 ± 10mm 	3 	216,28
+380 	965,20 	190 	5,53 	5,86 	6,83 	480 ± 10mm 	224,08
+382 * 	970,28 	191 	5,53 	5,86 	6,83 	480 ± 10mm 	3 	225,98
+388 * 	985,52 	194 	5,53 	6,20 	7,00 	480 ± 10mm 	3 	229,80
+392 * 	995,68 	196 	5,53 	6,20 	7,16 	480 ± 10mm 	3 	235,52
+412 * 	1046,48 	206 	5,70 	6,51 	7,32 	480 ± 10mm 	3 	245,04
+414 * 	1051,56 	207 	5,70 	6,51 	7,32 	480 ± 10mm 	3 	245,04
+438 * 	1112,52 	219 	6,20 	6,68 	7,81 	480 ± 10mm 	3 	262,39
+460 * 	1168,40 	230 	6,51 	7,16 	8,29 	480 ± 10mm 	3 	271,91
+498 * 	1264,92 	249 	6,83 	7,48 	8,77 	480 ± 10mm 	3 	298,59
+506 * 	1285,24 	253 	6,83 	7,48 	8,93 	480 ± 10mm 	3 	302,57
+514 * 	1305,56 	257 	7,00 	7,81 	9,26 	480 ± 10mm 	3 	304,46
+580 * 	1473,20 	290 	7,48 	8,77 	10,40 	480 ± 10mm 	3 	340,86
+630 	1600,20 	315 	8,45 	9,57 	11,38 	480 ± 10mm 	363,74
+L
+L p / L w
+(1/10 inch)
+L p / L w
+(mm)
+z 	b = 050 = 12,70 mm
+EUR / pc.
+b = 075 = 19,05 mm
+EUR / pc.
+b = 100 = 25,40 mm
+EUR / pc.
+SW
+(mm)
+MOQ
+(sl.)
+EUR / sl.
+124 	314,96 	33 	7,48 	9,92 	12,50 	480 ± 10mm 	159,85
+150 	381,00 	40 	7,95 	10,72 	13,47 	480 ± 10mm 	172,06
+187 	474,98 	50 	9,12 	11,70 	15,10 	480 ± 10mm 	195,60
+210 	533,40 	56 	9,26 	12,83 	16,08 	480 ± 10mm 	206,83
+225 	571,50 	60 	9,75 	12,99 	16,58 	480 ± 10mm 	212,34
+236 * 	599,44 	63 	10,06 	13,47 	17,08 	480 ± 10mm 	3 	217,87
+240 	609,60 	64 	10,06 	13,81 	17,38 	480 ± 10mm 	219,82
+244 * 	619,76 	65 	10,06 	13,81 	17,38 	480 ± 10mm 	3 	221,61
+255 	647,70 	68 	10,06 	14,29 	17,58 	480 ± 10mm 	229,06
+270 	685,80 	72 	10,54 	14,92 	19,00 	480 ± 10mm 	234,76
+285 	723,90 	76 	10,72 	16,25 	19,19 	480 ± 10mm 	247,78
+300 	762,00 	80 	11,38 	16,71 	19,99 	480 ± 10mm 	255,23
+322 	817,88 	86 	11,70 	17,08 	20,81 	480 ± 10mm 	262,71
+345 	876,30 	92 	12,50 	17,58 	21,61 	480 ± 10mm 	283,18
+367 	932,18 	98 	12,68 	17,87 	22,92 	480 ± 10mm 	290,66
+390 	990,60 	104 	13,47 	19,00 	23,40 	480 ± 10mm 	299,92
+420 	1066,80 	112 	13,81 	19,82 	25,33 	480 ± 10mm 	311,13
+450 	1143,00 	120 	14,44 	20,47 	26,48 	480 ± 10mm 	331,59
+454 * 	1153,16 	121 	14,44 	20,47 	26,64 	480 ± 10mm 	3 	333,39
+480 	1219,20 	128 	15,10 	21,30 	28,27 	480 ± 10mm 	348,32
+510 	1295,40 	136 	15,59 	22,08 	28,94 	480 ± 10mm 	363,27
+540 	1371,60 	144 	16,58 	23,40 	30,38 	480 ± 10mm 	383,73
+600 	1524,00 	160 	18,54 	25,84 	33,46 	480 ± 10mm 	415,43
+
+-- 67 of 132 --
+
+68
+CONTI® SYNCHROBELT
+H
+Lp / L w
+(1/10 inch)
+Lp / L w
+(mm)
+z 	b = 075 =
+19,05 mm
+EUR / pc.
+b = 100 =
+25,40 mm
+EUR / pc.
+b = 150 =
+38,10 mm
+EUR / pc.
+b = 200 =
+50,80 mm
+EUR / pc.
+b = 300 =
+76,20 mm
+EUR / pc.
+SW
+(mm)
+MOQ
+(sl.)
+EUR / sl.
+240 	609,60 	48 	15,10 	19,19 	27,76 	36,38 	53,28 	480 ± 10mm 	241,75
+255 	647,70 	51 	15,89 	20,47 	28,94 	37,37 	55,07 	480 ± 10mm 	256,06
+270 	685,80 	54 	16,40 	21,11 	30,22 	39,48 	57,00 	480 ± 10mm 	270,20
+300 	762,00 	60 	17,58 	22,44 	32,35 	42,09 	61,40 	480 ± 10mm 	280,40
+330 	838,20 	66 	18,68 	24,52 	34,93 	45,16 	65,95 	480 ± 10mm 	300,73
+335 * 	850,90 	67 	18,84 	25,01 	35,09 	45,48 	66,62 	480 ± 10mm 	3 	310,95
+360 	914,40 	72 	19,50 	25,67 	36,55 	48,57 	68,38 	480 ± 10mm 	321,03
+370 * 	939,80 	74 	20,15 	25,98 	37,20 	49,21 	70,51 	480 ± 10mm 	3 	325,10
+390 	990,60 	78 	21,11 	27,31 	39,16 	50,34 	73,92 	480 ± 10mm 	335,33
+420 	1066,80 	84 	22,08 	28,62 	42,09 	54,10 	79,62 	480 ± 10mm 	357,58
+450 	1143,00 	90 	22,92 	29,91 	43,87 	56,88 	84,00 	480 ± 10mm 	369,77
+510 	1295,40 	102 	25,01 	32,49 	47,11 	62,54 	91,77 	480 ± 10mm 	408,44
+540 	1371,60 	108 	26,15 	34,59 	49,71 	66,62 	97,31 	480 ± 10mm 	434,92
+570 	1447,80 	114 	27,61 	35,90 	51,35 	68,25 	100,57 	480 ± 10mm 	451,18
+600 	1524,00 	120 	28,94 	37,20 	54,26 	71,96 	105,43 	480 ± 10mm 	471,47
+630 	1600,20 	126 	29,91 	38,02 	55,07 	72,95 	108,85 	480 ± 10mm 	487,72
+660 	1676,40 	132 	31,66 	39,80 	58,33 	78,79 	114,54 	480 ± 10mm 	497,79
+700 	1778,00 	140 	32,35 	42,09 	61,09 	80,41 	120,72 	480 ± 10mm 	526,22
+730 * 	1854,20 	146 	33,96 	43,87 	62,40 	84,00 	125,74 	480 ± 10mm 	3 	540,53
+750 	1905,00 	150 	35,40 	44,69 	63,87 	86,11 	128,99 	480 ± 10mm 	552,70
+800 	2032,00 	160 	36,38 	46,30 	67,91 	90,51 	136,31 	480 ± 10mm 	577,08
+850 	2159,00 	170 	37,84 	49,54 	72,95 	96,68 	143,62 	480 ± 10mm 	615,75
+900 	2286,00 	180 	40,28 	51,66 	75,56 	100,74 	151,60 	480 ± 10mm 	656,36
+1000 	2540,00 	200 	43,05 	59,47 	82,52 	110,17 	166,37 	480 ± 10mm 	733,54
+1100 	2794,00 	220 	46,30 	60,77 	90,82 	118,59 	185,53 	480 ± 10mm 	776,26
+1250 	3175,00 	250 	51,35 	68,38 	100,39 	133,86 	201,61 	480 ± 10mm 	875,86
+1400 	3556,00 	280 	60,59 	76,36 	122,99 	160,20 	225,50 	480 ± 10mm 	975,30
+1700 	4318,00 	340 	68,89 	82,03 	137,93 	192,83 	282,37 	480 ± 10mm 	1162,28
+XH
+L p / L w
+(1/10 inch)
+L p / L w
+(mm)
+z 	b = 200 =
+50,80 mm
+EUR / pc.
+b = 300 =
+76,20 mm
+EUR / pc.
+b = 400 =
+101,60 mm
+EUR / pc.
+b = 500 =
+127,00 mm
+EUR / pc.
+SW
+(mm)
+MOQ
+(sl.)
+EUR / sl.
+507 	1287,78 	58 	130,94 	192,83 	253,62 	315,02 	470 ± 10mm 	894,33
+534 * 	1356,36 	61 	136,96 	202,09 	265,47 	322,99 	470 ± 10mm 	3 	947,25
+560 	1422,40 	64 	142,66 	210,08 	271,49 	334,84 	470 ± 10mm 	975,40
+630 	1600,20 	72 	151,60 	221,93 	283,34 	358,55 	470 ± 10mm 	1039,61
+700 	1778,00 	80 	164,11 	243,71 	316,97 	396,23 	470 ± 10mm 	1124,56
+770 	1955,80 	88 	173,52 	259,47 	334,84 	421,92 	470 ± 10mm 	1188,62
+840 	2133,60 	96 	186,34 	277,32 	360,51 	449,71 	470 ± 10mm 	1273,56
+980 	2489,20 	112 	212,01 	313,08 	412,00 	521,05 	470 ± 10mm 	1456,63
+1120 	2844,80 	128 	233,81 	358,55 	449,71 	562,63 	470 ± 10mm 	1594,33
+1260 	3200,40 	144 	259,47 	394,31 	521,05 	645,81 	470 ± 10mm 	1775,52
+1400 	3556,00 	160 	287,26 	439,78 	592,36 	740,99 	470 ± 10mm 	1973,56
+1540 	3911,60 	176 	313,08 	473,43 	631,97 	792,52 	470 ± 10mm 	2081,12
+1750 	4445,00 	200 	358,55 	530,93 	697,29 	867,72 	470 ± 10mm 	2347,23
+XXH
+L p / L w
+(1/10 inch)
+Lp / L w
+(mm)
+z 	b = 200 =
+50,80 mm
+EUR / pc.
+b = 300 =
+76,20 mm
+EUR / pc.
+b = 400 =
+101,60 mm
+EUR / pc.
+b = 500 =
+127,00 mm
+EUR / pc.
+SW
+(mm)
+MOQ
+(sl.)
+EUR / sl.
+700 * 	1778,00 	56 	333,88 	520,07 	697,56 	919,74 	400 ± 10mm 	3 	2483,29
+800 * 	2032,00 	64 	377,34 	580,88 	779,48 	1024,01 	400 ± 10mm 	3 	2764,82
+900 * 	2286,00 	72 	414,57 	645,43 	860,17 	1124,55 	400 ± 10mm 	3 	3036,27
+1000 * 	2540,00 	80 	455,52 	703,77 	945,82 	1233,76 	400 ± 10mm 	3 	3331,15
+1200 * 	3048,00 	96 	544,89 	834,10 	1117,09 	1406,30 	400 ± 10mm 	3 	3797,01
+1400 * 	3556,00 	112 	615,63 	940,86 	1251,16 	1563,93 	400 ± 10mm 	3 	4222,60
+1600 * 	4064,00 	128 	709,98 	1091,03 	1418,71 	1798,53 	400 ± 10mm 	3 	4856,03
+1800 * 	4572,00 	144 	794,39 	1218,87 	1562,69 	1968,57 	400 ± 10mm 	3 	5315,14
+
+-- 68 of 132 --
+
+69
+CONTI® SYNCHROBELT
+HTD 3M
+Lp / Lw (mm) 	z 	b = 6 mm
+EUR / pc.
+b = 9 mm
+EUR / pc.
+b = 15 mm
+EUR / pc.
+SW
+(mm)
+MOQ
+(sl.)
+EUR / sl.
+111 	37 	3,74 	4,86 	7,32 	480 ± 10 mm 	183,44
+117 * 	39 	3,74 	5,03 	7,65 	480 ± 10 mm 	6 	191,57
+129 	43 	3,74 	5,03 	7,65 	480 ± 10 mm 	191,57
+141 	47 	3,90 	5,03 	7,81 	480 ± 10 mm 	196,10
+144 	48 	3,90 	5,03 	7,81 	480 ± 10 mm 	196,10
+150 	50 	3,90 	5,03 	7,81 	480 ± 10 mm 	196,10
+156 * 	52 	3,90 	5,03 	7,95 	720 ± 10 mm 	6 	297,81
+159 	53 	3,90 	5,03 	7,95 	480 ± 10 mm 	199,67
+168 	56 	3,90 	5,21 	7,95 	480 ± 10 mm 	199,67
+174 	58 	3,90 	5,21 	7,95 	480 ± 10 mm 	199,67
+177 	59 	3,90 	5,21 	7,95 	480 ± 10 mm 	199,67
+180 * 	60 	4,22 	5,21 	8,13 	480 ± 10 mm 	6 	202,75
+186 * 	62 	4,22 	5,21 	8,13 	480 ± 10 mm 	6 	204,05
+192 * 	64 	4,22 	5,21 	8,13 	720 ± 10 mm 	6 	306,09
+201 	67 	4,22 	5,21 	8,13 	720 ± 10 mm 	307,06
+204 	68 	4,22 	5,21 	8,13 	480 ± 10 mm 	204,05
+210 	70 	4,22 	5,53 	8,13 	480 ± 10 mm 	207,63
+213 	71 	4,22 	5,53 	8,13 	480 ± 10 mm 	208,78
+216 	72 	4,22 	5,53 	8,13 	480 ± 10 mm 	208,78
+225 	75 	4,22 	5,53 	8,29 	480 ± 10 mm 	211,70
+240 	80 	4,22 	5,53 	8,29 	480 ± 10 mm 	211,70
+246 	82 	4,55 	5,53 	8,29 	480 ± 10 mm 	211,70
+252 	84 	4,55 	5,53 	8,29 	480 ± 10 mm 	211,70
+255 	85 	4,55 	5,53 	8,29 	720 ± 10 mm 	318,34
+261 * 	87 	4,55 	5,53 	8,45 	720 ± 10 mm 	6 	213,73
+267 	89 	4,55 	5,53 	8,45 	480 ± 10 mm 	215,09
+270 * 	90 	4,55 	5,53 	8,45 	720 ± 10 mm 	6 	215,52
+285 * 	95 	4,55 	5,53 	8,45 	720 ± 10 mm 	6 	322,65
+294 	98 	4,55 	5,70 	8,62 	720 ± 10 mm 	328,50
+300 	100 	4,55 	5,86 	8,62 	480 ± 10 mm 	219,82
+312 	104 	4,55 	5,86 	8,93 	720 ± 10 mm 	337,60
+318 	106 	4,55 	5,86 	9,12 	480 ± 10 mm 	227,96
+321 * 	107 	4,55 	5,86 	9,12 	720 ± 10 mm 	6 	227,96
+330 	110 	4,55 	5,86 	9,12 	480 ± 10 mm 	227,96
+336 	112 	4,55 	5,86 	9,12 	480 ± 10 mm 	227,96
+339 	113 	4,71 	5,86 	9,12 	480 ± 10 mm 	227,96
+357 	119 	4,71 	6,23 	9,26 	480 ± 10 mm 	231,24
+363 	121 	4,71 	6,32 	9,26 	480 ± 10 mm 	232,33
+384 	128 	4,71 	6,32 	9,44 	480 ± 10 mm 	237,37
+390 	130 	4,71 	6,32 	9,44 	480 ± 10 mm 	237,37
+393 * 	131 	4,72 	6,35 	9,44 	720 ± 10 mm 	6 	356,64
+396 * 	132 	4,86 	6,51 	9,44 	720 ± 10 mm 	6 	238,16
+420 	140 	4,86 	6,51 	9,44 	480 ± 10 mm 	241,27
+432 	144 	5,03 	6,51 	9,92 	720 ± 10 mm 	359,65
+435 	145 	5,03 	6,51 	9,92 	480 ± 10 mm 	248,03
+447 	149 	5,03 	6,51 	9,92 	480 ± 10 mm 	253,44
+474 	158 	5,03 	6,68 	9,92 	480 ± 10 mm 	253,44
+477 * 	159 	5,03 	6,68 	9,92 	720 ± 10 mm 	6 	386,51
+480 	160 	5,03 	6,68 	9,92 	480 ± 10 mm 	257,67
+486 	162 	5,03 	6,68 	10,06 	720 ± 10 mm 	386,51
+489 	163 	5,03 	6,68 	10,06 	480 ± 10 mm 	257,67
+495 * 	165 	5,03 	6,83 	10,06 	480 ± 10 mm 	3 	257,67
+501 	167 	5,03 	6,83 	10,06 	480 ± 10 mm 	257,67
+513 	171 	5,21 	6,83 	10,40 	480 ± 10 mm 	261,42
+522 	174 	5,21 	6,83 	10,40 	480 ± 10 mm 	261,42
+525 	175 	5,21 	6,83 	10,40 	480 ± 10 mm 	261,42
+537 	179 	5,21 	7,00 	10,40 	480 ± 10 mm 	264,50
+564 	188 	5,53 	7,16 	10,72 	480 ± 10 mm 	268,89
+570 	190 	5,53 	7,16 	10,72 	480 ± 10 mm 	270,51
+597 	199 	5,53 	7,32 	11,05 	720 ± 10 mm 	408,44
+600 	200 	5,53 	7,32 	11,05 	720 ± 10 mm 	408,75
+606 	202 	5,53 	7,32 	11,05 	480 ± 10 mm 	272,80
+612 * 	204 	5,53 	7,32 	11,05 	480 ± 10 mm 	3 	272,80
+
+-- 69 of 132 --
+
+70
+CONTI® SYNCHROBELT
+L p / Lw (mm) 	z 	b = 6 mm
+EUR / pc.
+b = 9 mm
+EUR / pc.
+b = 15 mm
+EUR / pc.
+SW
+(mm)
+MOQ
+(sl.)
+EUR / sl.
+615 	205 	5,53 	7,32 	11,09 	480 ± 10 mm 	273,45
+633 	211 	5,53 	7,32 	11,20 	480 ± 10 mm 	277,32
+669 	223 	5,86 	7,65 	11,54 	480 ± 10 mm 	289,19
+708 	236 	6,32 	7,95 	11,86 	480 ± 10 mm 	301,37
+711 	237 	6,32 	7,95 	11,86 	480 ± 10 mm 	301,37
+738 	246 	6,32 	7,95 	11,86 	480 ± 10 mm 	303,98
+753 * 	251 	6,32 	8,13 	12,02 	480 ± 10 mm 	3 	305,42
+822 	274 	6,68 	8,29 	12,83 	480 ± 10 mm 	322,65
+843 	281 	6,68 	8,29 	12,83 	480 ± 10 mm 	322,65
+882 	294 	6,83 	8,62 	12,83 	480 ± 10 mm 	325,76
+945 	315 	6,83 	8,93 	12,99 	480 ± 10 mm 	330,95
+960 * 	320 	6,83 	8,93 	12,99 	480 ± 10 mm 	3 	330,95
+1002 	334 	7,03 	9,26 	13,43 	480 ± 10 mm 	341,14
+1041 	347 	7,32 	9,26 	13,95 	480 ± 10 mm 	350,60
+1068 	356 	7,32 	9,26 	13,95 	480 ± 10 mm 	350,60
+1071 	357 	7,32 	9,26 	13,95 	480 ± 10 mm 	350,60
+1125 	375 	7,32 	9,44 	14,15 	480 ± 10 mm 	355,32
+1170 * 	390 	7,81 	9,92 	15,10 	480 ± 10 mm 	3 	380,67
+1176 * 	392 	7,81 	9,92 	15,10 	480 ± 10 mm 	3 	384,06
+1245 	415 	7,81 	9,92 	15,10 	480 ± 10 mm 	384,06
+1500 * 	500 	8,25 	10,88 	16,32 	480 ± 10 mm 	3 	417,82
+1569 * 	523 	8,62 	11,38 	17,08 	480 ± 10 mm 	3 	426,96
+HTD 5M
+L p / L w (mm) 	z 	b = 9 mm
+EUR / pc.
+b = 15 mm
+EUR / pc.
+b = 25 mm
+EUR / pc.
+SW
+(mm)
+MOQ
+(sl.)
+EUR / sl.
+225 * 	45 	5,21 	7,95 	11,70 	480 ± 10 mm 	6 	194,48
+265 	53 	5,53 	8,13 	12,34 	480 ± 10 mm 	205,53
+275 	55 	5,53 	8,29 	12,68 	480 ± 10 mm 	207,14
+295 	59 	5,86 	8,45 	12,83 	480 ± 10 mm 	211,86
+300 	60 	5,86 	8,62 	12,83 	480 ± 10 mm 	213,66
+330 	66 	6,02 	9,12 	13,81 	480 ± 10 mm 	223,08
+350 	70 	6,20 	9,26 	13,95 	480 ± 10 mm 	226,00
+375 	75 	6,32 	9,44 	14,29 	480 ± 10 mm 	233,13
+385 	77 	6,43 	9,70 	14,38 	480 ± 10 mm 	235,61
+390 * 	78 	6,51 	9,82 	14,56 	720 ± 10 mm 	6 	236,84
+400 	80 	6,68 	10,06 	14,92 	480 ± 10 mm 	239,32
+405 	81 	6,76 	10,22 	15,10 	720 ± 10 mm 	363,26
+425 	85 	7,65 	11,20 	16,71 	480 ± 10 mm 	247,27
+450 	90 	7,65 	11,38 	17,08 	480 ± 10 mm 	252,48
+460 	92 	7,81 	11,54 	17,22 	480 ± 10 mm 	257,67
+475 	95 	7,95 	11,54 	17,38 	480 ± 10 mm 	258,17
+500 	100 	7,95 	11,70 	17,70 	480 ± 10 mm 	264,66
+525 	105 	8,13 	12,02 	18,20 	720 ± 10 mm 	405,69
+535 	107 	8,13 	12,20 	18,34 	480 ± 10 mm 	272,80
+550 	110 	8,29 	12,50 	18,84 	720 ± 10 mm 	417,22
+565 	113 	8,45 	12,83 	19,19 	480 ± 10 mm 	283,51
+600 	120 	8,62 	12,99 	19,50 	480 ± 10 mm 	290,17
+615 	123 	8,93 	12,99 	19,82 	480 ± 10 mm 	294,70
+620 	124 	8,93 	12,99 	19,82 	480 ± 10 mm 	294,70
+630 	126 	9,12 	13,47 	19,99 	480 ± 10 mm 	298,30
+635 	127 	9,12 	13,47 	19,99 	480 ± 10 mm 	298,30
+665 	133 	9,26 	13,95 	20,47 	480 ± 10 mm 	304,45
+700 	140 	9,44 	14,15 	21,11 	480 ± 10 mm 	314,70
+710 	142 	9,57 	14,29 	21,30 	480 ± 10 mm 	316,48
+740 	148 	9,75 	14,44 	21,95 	480 ± 10 mm 	323,80
+755 	151 	9,92 	14,63 	22,26 	480 ± 10 mm 	328,83
+800 	160 	10,40 	14,92 	22,74 	480 ± 10 mm 	339,08
+835 	167 	10,72 	15,59 	23,55 	480 ± 10 mm 	348,17
+840 	168 	10,78 	15,61 	23,65 	480 ± 10 mm 	349,48
+860 	172 	10,94 	15,66 	23,92 	480 ± 10 mm 	354,66
+890 	178 	11,20 	16,40 	24,37 	480 ± 10 mm 	362,47
+HTD 3M
+
+-- 70 of 132 --
+
+71
+CONTI® SYNCHROBELT
+Lp / Lw (mm) 	z 	b = 9 mm
+EUR / pc.
+b = 15 mm
+EUR / pc.
+b = 25 mm
+EUR / pc.
+SW
+(mm)
+MOQ
+(sl.)
+EUR / sl.
+900 	180 	11,20 	16,40 	24,52 	480 ± 10 mm 	365,07
+925 	185 	11,38 	16,71 	25,19 	480 ± 10 mm 	374,63
+950 	190 	11,54 	17,08 	25,51 	480 ± 10 mm 	382,18
+1000 	200 	11,54 	17,22 	25,84 	480 ± 10 mm 	395,28
+1050 	210 	12,20 	17,87 	27,31 	480 ± 10 mm 	405,36
+1125 	225 	12,83 	19,00 	28,62 	480 ± 10 mm 	422,41
+1200 	240 	13,27 	19,53 	29,28 	480 ± 10 mm 	441,90
+1270 	254 	13,81 	19,99 	29,91 	480 ± 10 mm 	446,94
+1420 	284 	15,10 	22,44 	33,63 	480 ± 10 mm 	481,21
+1500 	300 	15,59 	23,40 	34,59 	480 ± 10 mm 	502,03
+1595 	319 	16,59 	24,88 	36,79 	480 ± 10 mm 	525,20
+1690 	338 	17,59 	26,37 	38,99 	480 ± 10 mm 	548,34
+1800 	360 	18,72 	28,08 	41,52 	400 ± 10 mm 	465,32
+2000 	400 	20,81 	31,20 	46,13 	480 ± 10 mm 	623,93
+HTD 8M
+Lp / L w (mm) 	z 	b = 20 mm
+EUR / pc.
+b = 30 mm
+EUR / pc.
+b = 50 mm
+EUR / pc.
+b = 85 mm
+EUR / pc.
+SW
+(mm)
+MOQ
+(sl.)
+EUR / sl.
+288 * 	36 	9,03 	13,88 	23,23 	41,32 	480 ± 10 mm 	3 	175,94
+304 	38 	9,70 	14,87 	24,80 	43,43 	480 ± 10 mm 	185,72
+352 	44 	11,23 	17,22 	28,73 	50,29 	480 ± 10 mm 	215,04
+376 	47 	12,20 	18,68 	31,04 	53,46 	480 ± 10 mm 	225,18
+400 * 	50 	12,28 	18,87 	31,39 	53,73 	480 ± 10 mm 	3 	225,67
+416 	52 	12,76 	19,00 	31,63 	53,91 	480 ± 10 mm 	226,00
+424 	53 	13,47 	20,15 	33,46 	57,00 	480 ± 10 mm 	238,82
+472 	59 	14,29 	21,44 	35,90 	60,91 	480 ± 10 mm 	247,27
+480 	60 	14,29 	21,44 	35,90 	60,91 	480 ± 10 mm 	247,27
+560 	70 	16,25 	24,05 	40,62 	68,56 	480 ± 10 mm 	276,03
+600 	75 	16,71 	24,85 	41,60 	71,48 	480 ± 10 mm 	291,33
+624 	78 	17,22 	25,84 	42,75 	72,95 	480 ± 10 mm 	296,33
+640 	80 	17,58 	26,33 	44,20 	74,76 	480 ± 10 mm 	301,37
+656 	82 	18,20 	27,13 	45,02 	76,85 	480 ± 10 mm 	304,78
+688 	86 	18,33 	27,48 	45,48 	77,47 	480 ± 10 mm 	313,24
+720 	90 	19,19 	28,76 	47,61 	81,07 	480 ± 10 mm 	321,68
+776 	97 	19,82 	29,91 	49,85 	85,30 	480 ± 10 mm 	336,94
+784 	98 	20,15 	30,22 	50,34 	85,62 	480 ± 10 mm 	338,75
+800 	100 	20,31 	30,55 	51,03 	86,92 	480 ± 10 mm 	342,01
+880 	110 	21,61 	32,15 	53,60 	91,64 	480 ± 10 mm 	369,11
+912 	114 	22,59 	33,13 	55,56 	93,90 	480 ± 10 mm 	377,58
+920 	115 	22,74 	33,46 	56,05 	95,20 	480 ± 10 mm 	379,37
+960 	120 	23,23 	34,59 	57,50 	97,97 	480 ± 10 mm 	392,84
+1040 	130 	24,52 	37,05 	60,91 	104,79 	480 ± 10 mm 	425,00
+1120 	140 	26,33 	39,16 	64,99 	111,45 	480 ± 10 mm 	447,10
+1160 	145 	26,39 	39,88 	66,27 	113,06 	480 ± 10 mm 	458,08
+1200 	150 	27,31 	41,28 	68,56 	116,96 	480 ± 10 mm 	469,04
+1280 	160 	29,42 	43,05 	72,27 	123,13 	480 ± 10 mm 	494,40
+1304 	163 	29,91 	44,20 	73,60 	124,77 	480 ± 10 mm 	499,58
+1328 	166 	30,22 	44,69 	74,76 	126,55 	480 ± 10 mm 	504,61
+1360 	170 	30,55 	45,16 	75,89 	128,65 	480 ± 10 mm 	513,07
+1424 	178 	31,04 	46,64 	77,99 	132,75 	480 ± 10 mm 	535,00
+1440 	180 	31,19 	46,94 	78,79 	134,04 	480 ± 10 mm 	538,40
+1520 	190 	32,87 	48,61 	81,50 	138,14 	480 ± 10 mm 	571,47
+1600 	200 	34,59 	51,17 	85,79 	145,43 	480 ± 10 mm 	604,53
+1760 	220 	37,05 	55,56 	92,44 	157,11 	480 ± 10 mm 	650,18
+1800 	225 	37,69 	56,52 	94,54 	160,68 	480 ± 10 mm 	673,91
+2000 	250 	41,60 	62,40 	103,49 	176,11 	480 ± 10 mm 	740,04
+2248 	281 	45,33 	67,91 	112,58 	200,47 	480 ± 10 mm 	817,85
+2400 	300 	49,07 	72,95 	121,86 	208,29 	480 ± 10 mm 	870,33
+2600 	325 	52,73 	77,89 	130,65 	221,85 	480 ± 10 mm 	930,44
+2800 	350 	56,37 	82,87 	139,39 	235,42 	480 ± 10 mm 	990,56
+3008 	376 	59,76 	87,44 	147,36 	248,55 	480 ± 10 mm 	1046,36
+3048 	381 	61,48 	88,39 	149,04 	251,30 	400 ± 10 mm 	926,45
+HTD 5M
+
+-- 71 of 132 --
+
+72
+CONTI® SYNCHROBELT
+Lp / L w (mm) 	z 	b = 20 mm
+EUR / pc.
+b = 30 mm
+EUR / pc.
+b = 50 mm
+EUR / pc.
+b = 85 mm
+EUR / pc.
+SW
+(mm)
+MOQ
+(sl.)
+EUR / sl.
+3408 * 	426 	76,97 	96,92 	164,18 	275,96 	480 ± 10 mm 	3 	968,20
+3600 	450 	80,35 	101,43 	172,18 	288,35 	400 ± 10 mm 	978,72
+3808 	476 	84,01 	106,32 	180,85 	301,76 	480 ± 10 mm 	1270,34
+4400 	550 	98,22 	123,98 	210,44 	352,41 	400 ± 10 mm 	1170,51
+HTD 14M
+L p / L w (mm) 	z 	b = 40 mm
+EUR / pc.
+b = 55 mm
+EUR / pc.
+b = 85 mm
+EUR / pc.
+b = 115 mm
+EUR / pc.
+b = 170 mm
+EUR / pc.
+SW
+(mm)
+MOQ
+(sl.)
+EUR / sl.
+966 	69 	111,94 	154,83 	238,82 	325,08 	475,87 	470 ± 10 mm 	999,89
+1050 * 	75 	115,06 	159,22 	247,05 	333,98 	489,83 	470 ± 10 mm 	3 	1031,09
+1190 	85 	120,25 	166,54 	260,76 	348,81 	513,08 	470 ± 10 mm 	1083,09
+1400 	100 	131,75 	182,95 	277,67 	379,38 	563,90 	470 ± 10 mm 	1174,40
+1610 	115 	141,82 	196,45 	303,16 	409,74 	604,52 	470 ± 10 mm 	1264,13
+1778 	127 	152,40 	211,70 	328,51 	443,68 	650,18 	470 ± 10 mm 	1360,38
+1890 	135 	157,92 	218,52 	336,94 	453,77 	675,69 	470 ± 10 mm 	1405,17
+2100 	150 	163,10 	233,62 	360,68 	485,91 	719,72 	470 ± 10 mm 	1504,94
+2310 	165 	179,52 	247,27 	380,98 	518,10 	767,01 	470 ± 10 mm 	1606,30
+2450 	175 	187,97 	260,76 	404,71 	541,81 	802,57 	470 ± 10 mm 	1710,85
+2590 	185 	193,02 	269,21 	413,15 	560,50 	824,69 	470 ± 10 mm 	1772,35
+2800 	200 	208,29 	286,11 	457,18 	597,71 	878,76 	470 ± 10 mm 	1877,06
+3150 	225 	218,52 	308,20 	469,05 	634,91 	934,65 	470 ± 10 mm 	1996,59
+3360 	240 	229,27 	318,64 	492,56 	663,18 	981,79 	470 ± 10 mm 	2105,22
+3500 * 	250 	238,82 	331,92 	513,08 	690,81 	1022,69 	470 ± 10 mm 	3 	2177,63
+3668 	262 	246,89 	343,64 	534,00 	717,92 	1056,85 	470 ± 10 mm 	2261,32
+3850 	275 	259,15 	360,68 	560,50 	753,53 	1109,16 	470 ± 10 mm 	2351,98
+4326 	309 	291,29 	397,88 	611,36 	831,33 	1256,51 	470 ± 10 mm 	2601,27
+4578 	327 	303,16 	416,55 	641,72 	870,33 	1283,48 	470 ± 10 mm 	2719,18
+STD S8M
+L p / L w (mm) 	z 	b = 20 mm
+EUR / pc.
+b = 30 mm
+EUR / pc.
+b = 50 mm
+EUR / pc.
+b = 85 mm
+EUR / pc.
+SW
+(mm)
+MOQ
+(sl.)
+EUR / sl.
+440 	55 	14,26 	21,39 	35,81 	60,91 	480 ± 10 mm 	239,76
+464 * 	58 	14,72 	22,13 	36,91 	61,62 	720 ± 10 mm 	3 	364,74
+480 	60 	14,89 	22,51 	37,09 	63,49 	480 ± 10 mm 	246,56
+528 	66 	16,20 	24,15 	40,02 	68,22 	480 ± 10 mm 	263,40
+560 	70 	17,03 	25,10 	41,80 	71,45 	480 ± 10 mm 	275,25
+600 	75 	17,33 	26,08 	43,57 	74,36 	480 ± 10 mm 	290,48
+632 	79 	18,15 	26,89 	44,86 	77,14 	480 ± 10 mm 	297,10
+640 	80 	18,49 	27,38 	45,54 	78,09 	480 ± 10 mm 	300,51
+656 	82 	18,96 	28,18 	46,83 	80,05 	480 ± 10 mm 	303,91
+672 	84 	19,11 	28,67 	47,39 	80,85 	480 ± 10 mm 	307,31
+688 	86 	19,26 	29,01 	47,94 	81,50 	480 ± 10 mm 	310,71
+696 	87 	19,60 	29,32 	48,45 	82,76 	480 ± 10 mm 	314,14
+712 	89 	19,75 	29,66 	49,24 	83,24 	480 ± 10 mm 	317,36
+720 	90 	19,94 	29,80 	49,57 	84,24 	480 ± 10 mm 	320,75
+728 	91 	20,08 	30,14 	50,07 	85,05 	480 ± 10 mm 	324,17
+736 	92 	20,08 	30,31 	50,39 	85,69 	480 ± 10 mm 	325,95
+760 	95 	20,42 	30,81 	51,36 	87,33 	480 ± 10 mm 	332,59
+768 	96 	20,74 	30,94 	51,69 	87,81 	480 ± 10 mm 	334,37
+784 	98 	20,91 	31,44 	52,33 	88,94 	480 ± 10 mm 	337,78
+792 	99 	20,91 	31,58 	52,63 	89,59 	480 ± 10 mm 	339,40
+800 	100 	21,06 	31,79 	52,97 	90,26 	480 ± 10 mm 	341,04
+824 	103 	21,39 	32,42 	53,61 	91,69 	480 ± 10 mm 	349,45
+840 * 	105 	21,63 	32,56 	54,34 	92,73 	480 ± 10 mm 	3 	354,64
+848 	106 	21,86 	32,73 	54,75 	92,98 	480 ± 10 mm 	358,02
+864 	108 	22,20 	33,05 	55,56 	94,46 	480 ± 10 mm 	364,67
+880 	110 	22,69 	33,38 	56,05 	95,26 	480 ± 10 mm 	368,06
+912 	114 	23,32 	34,68 	57,51 	98,50 	480 ± 10 mm 	376,48
+920 	115 	23,50 	34,83 	57,84 	98,84 	480 ± 10 mm 	378,28
+944 	118 	23,82 	35,30 	59,12 	100,41 	480 ± 10 mm 	384,93
+960 	120 	23,96 	35,94 	59,95 	101,73 	480 ± 10 mm 	391,73
+HTD 8M
+
+-- 72 of 132 --
+
+73
+CONTI® SYNCHROBELT
+STD S8M
+Lp / Lw (mm) 	z 	b = 20 mm
+EUR / pc.
+b = 30 mm
+EUR / pc.
+b = 50 mm
+EUR / pc.
+b = 85 mm
+EUR / pc.
+SW
+(mm)
+MOQ
+(sl.)
+EUR / sl.
+992 	124 	24,62 	36,78 	61,40 	104,99 	480 ± 10 mm 	406,94
+1000 	125 	24,78 	36,92 	61,73 	105,30 	480 ± 10 mm 	410,35
+1024 	128 	25,55 	37,91 	63,25 	107,78 	480 ± 10 mm 	422,09
+1032 * 	129 	25,91 	38,14 	64,06 	109,04 	480 ± 10 mm 	3 	425,38
+1056 	132 	26,06 	38,87 	64,48 	110,31 	480 ± 10 mm 	427,21
+1064 	133 	26,25 	39,05 	64,82 	110,96 	480 ± 10 mm 	428,83
+1072 	134 	26,71 	39,20 	65,11 	111,45 	480 ± 10 mm 	434,01
+1080 * 	135 	26,81 	39,61 	65,55 	112,54 	480 ± 10 mm 	3 	437,25
+1096 	137 	26,88 	40,02 	66,66 	113,64 	480 ± 10 mm 	439,93
+1120 	140 	27,07 	40,84 	69,51 	115,85 	480 ± 10 mm 	445,83
+1136 	142 	27,38 	41,32 	69,51 	116,98 	480 ± 10 mm 	449,06
+1152 * 	144 	27,55 	41,65 	69,58 	117,92 	480 ± 10 mm 	3 	454,49
+1160 	145 	27,69 	41,80 	69,67 	118,91 	480 ± 10 mm 	457,66
+1168 	146 	27,69 	42,31 	70,32 	119,22 	480 ± 10 mm 	459,27
+1176 	147 	27,86 	42,44 	70,64 	120,03 	480 ± 10 mm 	460,89
+1184 	148 	28,18 	42,62 	70,80 	120,20 	480 ± 10 mm 	464,28
+1192 	149 	28,35 	42,77 	71,12 	120,85 	480 ± 10 mm 	466,00
+1200 	150 	28,52 	42,92 	71,45 	121,49 	480 ± 10 mm 	467,69
+1208 * 	151 	28,75 	43,24 	71,85 	122,06 	480 ± 10 mm 	3 	470,20
+1216 	152 	29,01 	43,57 	72,24 	122,62 	480 ± 10 mm 	472,71
+1240 	155 	29,48 	44,07 	73,54 	124,89 	480 ± 10 mm 	481,15
+1256 	157 	29,80 	44,37 	74,36 	126,51 	480 ± 10 mm 	484,57
+1264 	158 	30,14 	44,54 	74,52 	126,69 	480 ± 10 mm 	486,32
+1280 	160 	30,47 	44,86 	75,15 	128,14 	480 ± 10 mm 	492,98
+1296 	162 	30,60 	45,20 	75,80 	129,11 	480 ± 10 mm 	496,38
+1304 	163 	30,81 	45,54 	76,46 	130,23 	480 ± 10 mm 	498,15
+1312 	164 	30,81 	45,54 	76,81 	130,58 	480 ± 10 mm 	501,41
+1344 	168 	31,10 	46,66 	78,41 	132,34 	480 ± 10 mm 	508,21
+1368 	171 	31,79 	47,15 	79,55 	134,14 	480 ± 10 mm 	515,00
+1400 	175 	32,24 	47,94 	80,36 	136,24 	480 ± 10 mm 	526,84
+1408 	176 	32,24 	47,94 	80,54 	136,90 	480 ± 10 mm 	530,23
+1440 	180 	32,73 	48,60 	81,64 	139,31 	480 ± 10 mm 	536,87
+1480 	185 	33,38 	49,74 	83,60 	142,41 	480 ± 10 mm 	555,51
+1512 	189 	34,68 	51,53 	86,51 	144,65 	480 ± 10 mm 	568,94
+1520 * 	190 	34,83 	51,69 	86,75 	145,24 	480 ± 10 mm 	3 	571,96
+1552 	194 	35,48 	52,33 	87,81 	147,59 	480 ± 10 mm 	584,18
+1600 	200 	35,94 	53,12 	89,26 	151,15 	480 ± 10 mm 	602,81
+1624 	203 	36,29 	54,10 	91,18 	153,58 	480 ± 10 mm 	609,62
+1760 	220 	38,54 	57,36 	96,07 	163,28 	480 ± 10 mm 	648,33
+1776 	222 	38,87 	57,84 	97,04 	164,74 	480 ± 10 mm 	655,12
+1800 	225 	39,20 	58,81 	98,20 	167,03 	480 ± 10 mm 	671,98
+1816 	227 	39,84 	59,30 	98,84 	168,32 	480 ± 10 mm 	677,00
+1912 	239 	41,60 	61,40 	104,01 	176,54 	480 ± 10 mm 	712,80
+2000 * 	250 	43,36 	63,20 	106,87 	183,74 	480 ± 10 mm 	3 	736,62
+2240 	280 	47,47 	70,64 	117,13 	199,24 	480 ± 10 mm 	813,89
+2272 * 	284 	48,12 	71,30 	118,69 	201,86 	480 ± 10 mm 	3 	825,50
+2392 	299 	51,05 	76,15 	127,00 	214,48 	480 ± 10 mm 	866,23
+2800 	350 	58,65 	86,01 	144,99 	244,78 	480 ± 10 mm 	987,72
+2848 	356 	59,95 	87,15 	147,59 	248,99 	480 ± 10 mm 	1004,57
+
+-- 73 of 132 --
+
+74
+CONTI® SYNCHROFORCE CXP
+CONTI® SYNCHROFORCE CXP
+Heavy-duty timing belts for high power transmission at
+high speeds
+Correas síncronas de alto rendimiento para alta transmisión
+de potencia a elevadas velocidades
+Мощные зубчатые приводные ремни для передачи
+большой мощности на высоких скоростях
+Cinghie dentate ad alta efficienza per grandi potenze ed
+alte velocità
+Properties
+- conditionally resistant to oil
+- temperature-resistant, depending on application, from -20°C to +100°C
+- electrically conductive to ISO 9563
+- suitable for tropical climates
+- resistant to aging and ozone
+Características
+- resistencia moderada a los aceites
+- resistentes a temperaturas , según aplicación, desde -20°C
+hasta +100°C
+- conductibilidad eléctrica según ISO 9563
+- resistentes a climas tropicales
+- resistentes al envejecimiento y al ozono
+Свойства
+- относительная маслостойкость
+- устойчивость к воздействию температур от -20°C до +100°C
+- пригодны для эксплуатации в тропических условиях
+- электропроводность согласно ISO 9563
+- атмосферостойкость
+Proprietà
+- Relativamente resistenti all’olio
+- Resistenti a temperature comprese tra -20 °C e +100 °C in funzione
+dell’applicazione
+- Elettricamente conduttrici secondo ISO 9563
+- Resistenti al clima tropicale
+- Resistenti all’invecchiamento ed all’ozono
+HTD 3M 	HTD 5M 	HTD 8M 	HTD 14M 	STD S8M
+Tooth pitch | Perfil de dientes
+Шаг зубьев | Passo dei denti 	t 	mm 	3 	5 	8 	14 	8
+Belt thickness | Grosor de correa
+Толщина ремня | Spessore della cinghia 	hs 	mm 	2,4 	3,6 	5,6 	10 	5,3
+Tooth height | Altura de diente
+Высота зуба | Altezza dei denti 	h t 	mm 	1,2 	2,1 	3,4 	6,1 	2,95
+Pitch height | Altura primitiva | Высота расчетной
+линии | Distanza tra le linee primitive 	u 	mm 	0,38 	0,57 	0,686 	1,395 	0,686
+Nominal length | Longitud nominal
+Номинальная длина | Lunghezza nominale 	L p / L w mm 	Pitch length (mm) | Longitud primitiva en mm
+Расчетная длина (мм) | Lunghezza primitiva in mm
+Size designation (example) Ejemplo de dimensión | Обозначение размера (пример) | Sigla della dimensione (esempio)
+HTD 960 - 8M - 50 CXP
+HTD 	Profi le | Perfi l | Профиль | Sezione
+960 	960 mm Pitch length | Longitud primitiva | Расчетная длина | Lunghezza primitiva
+8M 	8 mm Tooth pitch | Perfi l de dientes | Шаг зубьев | Passo dei denti
+50 	50 mm Timing belt width | Anchura correa síncrona | Ширина зубчатого ремня | Larghezza della cinghia dentata
+CXP 	Design | Versión | Конструкция | Esecuzione
+HTD 	STD
+
+-- 74 of 132 --
+
+75
+CONTI® SYNCHROFORCE CXP
+L p / Lw 	Pitch length | Longitud primitiva | Расчетная длина | Lunghezza primitiva
+SW 	Sleeve width | Anchura de mangón | Ширина рукава | Larghezza manicotto
+MOQ (sl.) 	Minimum quantity (sleeves) | Cantidad mínima (mangón) | Минимальное количество (рукава) | Quantità minima (manicotti)
+z 	Number of teeth | N° de dientes | Число зубьев | Numero di denti
+b 	Belt width | Anchura correa síncrona | Ширина зубчатого ремня | Larghezza della cinghia dentata
+EUR / pc. 	Price per piece | Precio por unidad | Цена за штуку | Prezzo per articolo
+EUR / sl. 	Price per sleeve | Precio por mangón | Цена за рукав | Prezzo per manicotto
+* 	On request (see page 6) | Bajo consulta (v. pág. 6) | По запросу (см. стр. 7) | Su richiesta (v. pag. 7)
+HTD 3M CXP
+L p / L w (mm) 	z 	b = 6 mm
+EUR / pc.
+b = 9 mm
+EUR / pc.
+b = 15 mm
+EUR / pc.
+SW
+(mm)
+MOQ
+(sl.)
+EUR / sl.
+111 * 	37 	5,21 	6,83 	10,23 	480 ± 10 mm 	6 	256,69
+117 	39 	5,35 	7,00 	10,72 	480 ± 10 mm 	268,06
+129 * 	43 	5,35 	7,00 	10,72 	480 ± 10 mm 	6 	268,06
+141 	47 	5,53 	7,16 	10,89 	480 ± 10 mm 	274,57
+144 * 	48 	5,53 	7,16 	10,89 	480 ± 10 mm 	6 	274,57
+150 	50 	5,53 	7,16 	10,89 	480 ± 10 mm 	274,57
+156 * 	52 	5,53 	7,16 	11,05 	720 ± 10 mm 	6 	416,88
+159 	53 	5,53 	7,16 	11,05 	480 ± 10 mm 	279,43
+168 	56 	5,53 	7,32 	11,05 	480 ± 10 mm 	279,43
+174 * 	58 	5,53 	7,32 	11,05 	480 ± 10 mm 	6 	279,43
+177 	59 	5,53 	7,32 	11,05 	480 ± 10 mm 	279,43
+180 	60 	6,02 	7,32 	11,20 	480 ± 10 mm 	283,82
+186 	62 	6,02 	7,32 	11,20 	480 ± 10 mm 	285,61
+192 * 	64 	6,02 	7,32 	11,20 	720 ± 10 mm 	6 	428,42
+201 	67 	6,02 	7,32 	11,20 	720 ± 10 mm 	428,42
+204 	68 	6,02 	7,32 	11,20 	480 ± 10 mm 	285,61
+210 	70 	6,02 	7,65 	11,38 	480 ± 10 mm 	290,80
+213 	71 	6,02 	7,65 	11,38 	480 ± 10 mm 	292,11
+216 	72 	6,02 	7,65 	11,38 	480 ± 10 mm 	292,11
+225 	75 	6,02 	7,65 	11,54 	480 ± 10 mm 	296,50
+234 	78 	6,02 	7,74 	11,54 	480 ± 10 mm 	296,50
+240 	80 	6,02 	7,81 	11,54 	480 ± 10 mm 	296,50
+246 	82 	6,32 	7,81 	11,54 	480 ± 10 mm 	296,50
+252 	84 	6,32 	7,81 	11,54 	480 ± 10 mm 	296,50
+255 	85 	6,32 	7,81 	11,54 	720 ± 10 mm 	439,12
+261 * 	87 	6,32 	7,81 	11,86 	480 ± 10 mm 	6 	299,33
+267 	89 	6,32 	7,81 	11,86 	480 ± 10 mm 	301,22
+270 * 	90 	6,32 	7,81 	11,86 	480 ± 10 mm 	6 	301,83
+285 	95 	6,32 	7,81 	11,86 	720 ± 10 mm 	451,66
+294 * 	98 	6,32 	7,95 	12,02 	720 ± 10 mm 	6 	459,95
+300 	100 	6,51 	8,13 	12,20 	480 ± 10 mm 	307,88
+312 	104 	6,51 	8,13 	12,50 	720 ± 10 mm 	472,61
+318 	106 	6,51 	8,29 	12,83 	480 ± 10 mm 	319,25
+321 * 	107 	6,51 	8,29 	12,83 	480 ± 10 mm 	6 	319,25
+336 	112 	6,51 	8,29 	12,83 	480 ± 10 mm 	319,25
+339 	113 	6,68 	8,29 	12,83 	480 ± 10 mm 	319,25
+357 * 	119 	6,68 	8,77 	12,97 	480 ± 10 mm 	3 	323,64
+363 	121 	6,68 	8,77 	12,99 	480 ± 10 mm 	325,10
+384 	128 	6,68 	8,77 	13,18 	480 ± 10 mm 	332,25
+390 	130 	6,68 	8,77 	13,18 	480 ± 10 mm 	332,25
+393 * 	131 	6,68 	8,77 	13,18 	720 ± 10 mm 	3 	499,31
+396 * 	132 	6,70 	8,77 	13,18 	480 ± 10 mm 	3 	322,94
+420 	140 	6,87 	9,12 	13,32 	480 ± 10 mm 	337,92
+432 * 	144 	6,91 	9,12 	13,62 	480 ± 10 mm 	3 	345,44
+435 * 	145 	6,92 	9,12 	13,67 	480 ± 10 mm 	3 	347,32
+447 	149 	7,00 	9,12 	13,95 	480 ± 10 mm 	354,83
+474 	158 	7,16 	9,26 	13,95 	480 ± 10 mm 	354,83
+477 * 	159 	7,16 	9,26 	13,95 	720 ± 10 mm 	3 	541,18
+480 	160 	7,16 	9,26 	13,95 	480 ± 10 mm 	360,67
+486 * 	162 	7,16 	9,26 	14,15 	720 ± 10 mm 	3 	541,18
+489 * 	163 	7,16 	9,26 	14,15 	480 ± 10 mm 	3 	360,67
+495 	165 	7,16 	9,44 	14,15 	480 ± 10 mm 	360,67
+501 	167 	7,16 	9,44 	14,15 	480 ± 10 mm 	360,67
+513 	171 	7,32 	9,44 	14,63 	480 ± 10 mm 	365,88
+522 * 	174 	7,32 	9,44 	14,63 	480 ± 10 mm 	3 	365,88
+525 	175 	7,32 	9,44 	14,63 	480 ± 10 mm 	365,88
+
+-- 75 of 132 --
+
+76
+CONTI® SYNCHROFORCE CXP
+HTD 3M CXP
+Lp / L w (mm) 	z 	b = 6 mm
+EUR / pc.
+b = 9 mm
+EUR / pc.
+b = 15 mm
+EUR / pc.
+SW
+(mm)
+MOQ
+(sl.)
+EUR / sl.
+537 	179 	7,32 	9,75 	14,63 	480 ± 10 mm 	370,26
+564 	188 	7,65 	9,92 	15,10 	480 ± 10 mm 	376,27
+570 	190 	7,65 	9,92 	15,10 	480 ± 10 mm 	378,70
+597 	199 	7,81 	10,23 	15,43 	720 ± 10 mm 	571,88
+600 	200 	7,81 	10,23 	15,43 	720 ± 10 mm 	572,21
+606 	202 	7,81 	10,23 	15,43 	480 ± 10 mm 	381,97
+612 	204 	7,81 	10,23 	15,43 	480 ± 10 mm 	381,97
+615 * 	205 	7,81 	10,23 	15,50 	480 ± 10 mm 	3 	382,85
+633 	211 	7,81 	10,23 	15,59 	480 ± 10 mm 	388,12
+669 	223 	8,13 	10,72 	16,08 	480 ± 10 mm 	404,85
+708 	236 	8,77 	11,05 	16,58 	480 ± 10 mm 	421,92
+711 	237 	8,77 	11,05 	16,58 	480 ± 10 mm 	421,92
+738 	246 	8,77 	11,05 	16,58 	480 ± 10 mm 	421,92
+753 	251 	8,93 	11,20 	16,71 	480 ± 10 mm 	427,61
+822 	274 	9,26 	11,54 	17,87 	480 ± 10 mm 	451,83
+843 	281 	9,26 	11,54 	17,87 	480 ± 10 mm 	451,83
+882 	294 	9,44 	12,20 	18,04 	480 ± 10 mm 	456,05
+945 	315 	9,44 	12,50 	18,20 	480 ± 10 mm 	463,33
+960 	320 	9,44 	12,50 	18,20 	480 ± 10 mm 	463,33
+1002 * 	334 	9,83 	12,74 	18,86 	480 ± 10 mm 	3 	477,67
+1041 * 	347 	10,23 	12,99 	19,50 	480 ± 10 mm 	3 	490,98
+1068 * 	356 	10,23 	12,99 	19,50 	480 ± 10 mm 	3 	490,98
+1071 * 	357 	10,23 	12,99 	19,50 	480 ± 10 mm 	3 	490,98
+1125 	375 	10,23 	13,18 	19,67 	480 ± 10 mm 	497,46
+1176 	392 	10,89 	13,95 	21,11 	480 ± 10 mm 	537,61
+1245 	415 	10,89 	13,95 	21,11 	480 ± 10 mm 	537,61
+1500 * 	500 	11,66 	15,20 	22,84 	480 ± 10 mm 	3 	585,03
+1569 * 	523 	12,20 	15,89 	23,89 	480 ± 10 mm 	3 	597,87
+HTD 5M CXP
+L p / L w (mm) 	z 	b = 9 mm
+EUR / pc.
+b = 15 mm
+EUR / pc.
+b = 25 mm
+EUR / pc.
+SW
+(mm)
+MOQ
+(sl.)
+EUR / sl.
+200 	40 	7,01 	10,84 	15,88 	480 ± 10 mm 	262,63
+225 	45 	7,32 	11,05 	16,40 	480 ± 10 mm 	272,29
+265 	53 	7,81 	11,38 	17,22 	480 ± 10 mm 	287,73
+275 	55 	7,81 	11,54 	17,70 	480 ± 10 mm 	290,17
+285 	57 	7,97 	11,70 	17,87 	480 ± 10 mm 	293,40
+295 	59 	8,13 	11,86 	18,04 	480 ± 10 mm 	296,64
+300 	60 	8,13 	12,02 	18,04 	480 ± 10 mm 	299,10
+330 	66 	8,29 	12,83 	19,33 	480 ± 10 mm 	312,26
+350 	70 	8,77 	12,99 	19,50 	480 ± 10 mm 	316,33
+375 	75 	8,93 	13,18 	19,99 	480 ± 10 mm 	326,55
+385 	77 	9,06 	13,62 	20,02 	480 ± 10 mm 	329,93
+390 * 	78 	9,21 	13,79 	20,29 	480 ± 10 mm 	6 	331,62
+400 	80 	9,44 	14,15 	20,81 	480 ± 10 mm 	335,00
+405 	81 	9,66 	14,46 	21,33 	720 ± 10 mm 	505,86
+425 	85 	10,54 	15,76 	23,40 	480 ± 10 mm 	346,21
+450 	90 	10,72 	15,89 	23,89 	480 ± 10 mm 	353,53
+460 	92 	10,89 	16,08 	24,21 	480 ± 10 mm 	360,67
+475 	95 	11,05 	16,25 	24,37 	480 ± 10 mm 	361,50
+500 	100 	11,20 	16,40 	24,70 	480 ± 10 mm 	370,60
+525 	105 	11,38 	16,91 	25,51 	720 ± 10 mm 	567,98
+535 	107 	11,54 	17,08 	25,84 	480 ± 10 mm 	381,97
+550 	110 	11,70 	17,58 	26,33 	720 ± 10 mm 	584,07
+565 	113 	11,86 	17,87 	26,81 	480 ± 10 mm 	397,07
+600 	120 	12,20 	18,34 	27,31 	480 ± 10 mm 	406,33
+615 	123 	12,50 	18,34 	27,61 	480 ± 10 mm 	412,66
+620 	124 	12,50 	18,34 	27,61 	480 ± 10 mm 	412,66
+630 	126 	12,83 	18,84 	27,95 	480 ± 10 mm 	417,72
+635 	127 	12,83 	19,00 	28,11 	480 ± 10 mm 	417,72
+665 	133 	12,99 	19,50 	28,76 	480 ± 10 mm 	426,16
+700 	140 	13,32 	19,67 	29,58 	480 ± 10 mm 	440,60
+
+-- 76 of 132 --
+
+77
+CONTI® SYNCHROFORCE CXP
+HTD 5M CXP
+Lp / Lw (mm) 	z 	b = 9 mm
+EUR / pc.
+b = 15 mm
+EUR / pc.
+b = 25 mm
+EUR / pc.
+SW
+(mm)
+MOQ
+(sl.)
+EUR / sl.
+710 	142 	13,47 	19,99 	29,91 	480 ± 10 mm 	443,21
+740 	148 	13,65 	20,31 	30,70 	480 ± 10 mm 	453,28
+755 	151 	13,95 	20,47 	31,04 	480 ± 10 mm 	460,42
+800 	160 	14,44 	20,98 	31,66 	480 ± 10 mm 	474,72
+835 	167 	14,92 	21,95 	32,96 	480 ± 10 mm 	487,58
+840 	168 	14,94 	21,97 	32,96 	480 ± 10 mm 	490,49
+860 	172 	15,24 	22,38 	33,49 	480 ± 10 mm 	496,53
+890 	178 	15,59 	22,92 	34,09 	480 ± 10 mm 	507,53
+900 	180 	15,59 	23,07 	34,29 	480 ± 10 mm 	510,95
+925 	185 	15,89 	23,55 	35,26 	480 ± 10 mm 	524,61
+950 	190 	16,15 	23,90 	35,72 	480 ± 10 mm 	535,04
+1000 	200 	16,25 	24,21 	36,06 	480 ± 10 mm 	553,35
+1050 	210 	17,08 	25,19 	38,18 	480 ± 10 mm 	567,33
+1125 	225 	17,87 	26,48 	39,97 	480 ± 10 mm 	591,21
+1200 	240 	18,53 	27,43 	41,01 	480 ± 10 mm 	618,66
+1270 	254 	19,19 	27,95 	41,93 	480 ± 10 mm 	625,82
+1420 	284 	20,87 	31,14 	46,16 	480 ± 10 mm 	673,69
+1500 	300 	21,77 	32,83 	48,41 	480 ± 10 mm 	702,81
+1595 	319 	23,66 	34,99 	52,09 	480 ± 10 mm 	735,25
+1690 	338 	25,52 	37,16 	55,79 	480 ± 10 mm 	767,68
+1800 	360 	27,17 	39,60 	59,43 	480 ± 10 mm 	805,22
+2000 	400 	30,20 	43,99 	66,02 	480 ± 10 mm 	873,51
+HTD 8M CXP
+Lp / L w (mm) 	z 	b = 20 mm
+EUR / pc.
+b = 30 mm
+EUR / pc.
+b = 50 mm
+EUR / pc.
+b = 85 mm
+EUR / pc.
+SW
+(mm)
+MOQ
+(sl.)
+EUR / sl.
+288 	36 	13,32 	20,31 	34,09 	60,77 	480 ± 10 mm 	258,51
+304 	38 	13,90 	21,27 	35,62 	63,07 	480 ± 10 mm 	269,14
+352 	44 	15,89 	24,37 	40,78 	71,80 	480 ± 10 mm 	301,04
+376 	47 	17,08 	26,15 	43,38 	74,90 	480 ± 10 mm 	315,35
+416 	52 	18,68 	27,95 	46,45 	79,12 	480 ± 10 mm 	331,92
+424 	53 	19,00 	28,27 	46,94 	79,93 	480 ± 10 mm 	334,21
+472 	59 	19,99 	30,04 	50,19 	85,30 	480 ± 10 mm 	346,05
+480 	60 	19,99 	30,04 	50,19 	85,30 	480 ± 10 mm 	346,05
+560 	70 	22,74 	33,63 	56,88 	96,04 	480 ± 10 mm 	386,34
+600 	75 	23,55 	34,93 	58,33 	100,09 	480 ± 10 mm 	407,78
+624 	78 	24,21 	36,23 	59,77 	102,19 	480 ± 10 mm 	414,94
+640 	80 	24,70 	36,73 	61,91 	104,46 	480 ± 10 mm 	421,92
+656 	82 	25,33 	37,84 	63,03 	107,54 	480 ± 10 mm 	426,81
+688 * 	86 	25,61 	38,68 	63,94 	109,02 	480 ± 10 mm 	3 	438,58
+720 	90 	26,81 	40,28 	66,62 	113,55 	480 ± 10 mm 	450,34
+776 	97 	27,76 	41,93 	69,86 	119,40 	480 ± 10 mm 	471,81
+784 	98 	28,27 	42,25 	70,35 	120,07 	480 ± 10 mm 	474,05
+800 	100 	28,44 	42,75 	71,31 	121,70 	480 ± 10 mm 	478,94
+880 	110 	30,38 	45,02 	75,23 	128,19 	480 ± 10 mm 	516,82
+912 	114 	31,52 	46,45 	77,81 	131,62 	480 ± 10 mm 	528,66
+920 	115 	31,86 	46,94 	78,47 	133,23 	480 ± 10 mm 	531,10
+960 	120 	32,49 	48,41 	80,59 	137,28 	480 ± 10 mm 	549,97
+1008 	126 	33,39 	50,39 	82,68 	142,18 	480 ± 10 mm 	576,95
+1040 	130 	34,43 	51,98 	85,30 	146,70 	480 ± 10 mm 	594,95
+1120 	140 	36,73 	54,75 	90,98 	155,97 	480 ± 10 mm 	625,82
+1200 	150 	38,18 	57,85 	96,04 	163,77 	480 ± 10 mm 	656,70
+1280 	160 	41,28 	60,27 	101,20 	172,36 	480 ± 10 mm 	692,26
+1304 	163 	41,93 	61,91 	103,16 	174,65 	480 ± 10 mm 	699,24
+1328 	166 	42,25 	62,54 	104,46 	177,08 	480 ± 10 mm 	706,40
+1360 	170 	42,75 	63,38 	106,26 	180,17 	480 ± 10 mm 	718,26
+1424 	178 	43,38 	65,16 	109,34 	185,85 	480 ± 10 mm 	749,14
+1440 	180 	43,55 	65,64 	110,31 	187,81 	480 ± 10 mm 	753,83
+1520 	190 	45,99 	68,05 	114,24 	193,39 	480 ± 10 mm 	800,06
+1600 	200 	48,41 	71,65 	120,25 	203,57 	480 ± 10 mm 	846,28
+1760 	220 	51,98 	77,81 	129,49 	219,98 	480 ± 10 mm 	910,29
+1800 	225 	52,80 	79,12 	132,26 	225,00 	480 ± 10 mm 	943,44
+
+-- 77 of 132 --
+
+78
+CONTI® SYNCHROFORCE CXP
+HTD 8M CXP
+L p / Lw (mm) 	z 	b = 20 mm
+EUR / pc.
+b = 30 mm
+EUR / pc.
+b = 50 mm
+EUR / pc.
+b = 85 mm
+EUR / pc.
+SW
+(mm)
+MOQ
+(sl.)
+EUR / sl.
+2000 	250 	58,33 	87,24 	144,93 	246,63 	480 ± 10 mm 	1036,04
+2248 	281 	63,53 	95,03 	157,59 	280,59 	480 ± 10 mm 	1145,06
+2400 	300 	68,73 	102,19 	170,75 	291,64 	480 ± 10 mm 	1218,49
+2800 	350 	78,97 	115,98 	195,11 	329,47 	480 ± 10 mm 	1386,81
+3008 	376 	83,68 	122,40 	206,29 	347,96 	480 ± 10 mm 	1464,90
+3408 	426 	107,77 	135,68 	229,86 	386,36 	480 ± 10 mm 	1626,59
+3808 	476 	117,59 	148,84 	253,17 	422,44 	480 ± 10 mm 	1778,48
+HTD 14M CXP
+Lp / L w (mm) 	z 	b = 40 mm
+EUR / pc.
+b = 55 mm
+EUR / pc.
+b = 85 mm
+EUR / pc.
+b = 115 mm
+EUR / pc.
+b = 170 mm
+EUR / pc.
+SW
+(mm)
+MOQ
+(sl.)
+EUR / sl.
+966 	69 	134,96 	188,25 	294,99 	394,61 	580,35 	470 ± 10 mm 	1352,56
+1050 	75 	148,52 	205,03 	321,27 	429,77 	632,07 	470 ± 10 mm 	1443,54
+1190 * 	85 	168,32 	232,99 	365,08 	488,36 	718,26 	470 ± 10 mm 	3 	1516,26
+1400 * 	100 	184,38 	256,05 	388,78 	531,09 	789,43 	470 ± 10 mm 	3 	1644,06
+1610 	115 	198,70 	275,04 	424,35 	573,66 	846,28 	470 ± 10 mm 	1769,64
+1778 	127 	213,33 	296,34 	459,94 	621,10 	910,29 	470 ± 10 mm 	1904,48
+1890 	135 	221,14 	305,77 	471,81 	635,26 	945,87 	470 ± 10 mm 	1967,26
+2100 	150 	236,38 	327,19 	504,94 	680,41 	1007,45 	470 ± 10 mm 	2106,88
+2310 	165 	251,33 	346,05 	533,37 	725,41 	1073,89 	470 ± 10 mm 	2248,71
+2450 	175 	263,17 	365,08 	566,52 	758,56 	1123,60 	470 ± 10 mm 	2395,19
+2590 	185 	270,18 	376,94 	578,40 	784,71 	1154,48 	470 ± 10 mm 	2481,25
+2800 	200 	291,64 	400,63 	640,10 	836,85 	1230,33 	470 ± 10 mm 	2627,87
+3150 	225 	305,77 	431,51 	656,71 	889,00 	1308,66 	470 ± 10 mm 	2795,19
+3360 	240 	320,84 	446,05 	689,53 	928,47 	1374,52 	470 ± 10 mm 	2926,60
+3500 	250 	334,17 	464,61 	718,26 	967,16 	1431,80 	470 ± 10 mm 	3048,77
+3668 	262 	345,63 	479,71 	745,49 	1005,03 	1479,45 	470 ± 10 mm 	3165,96
+3850 	275 	362,78 	504,94 	784,71 	1054,90 	1552,84 	470 ± 10 mm 	3292,92
+4326 	309 	407,77 	557,10 	855,87 	1163,90 	1759,02 	470 ± 10 mm 	3641,62
+4578 	327 	424,35 	583,24 	898,43 	1218,50 	1796,88 	470 ± 10 mm 	3806,72
+STD S8M CXP
+L p / Lw (mm) 	z 	b = 20 mm
+EUR / pc.
+b = 30 mm
+EUR / pc.
+b = 50 mm
+EUR / pc.
+b = 85 mm
+EUR / pc.
+SW
+(mm)
+MOQ
+(sl.)
+EUR / sl.
+440 	55 	19,99 	30,04 	50,19 	85,62 	480 ± 10 mm 	336,63
+480 	60 	20,81 	31,52 	52,17 	89,20 	480 ± 10 mm 	346,05
+528 	66 	22,74 	33,96 	56,21 	95,69 	480 ± 10 mm 	369,77
+560 	70 	23,89 	35,26 	58,81 	100,25 	480 ± 10 mm 	386,34
+600 	75 	24,37 	36,55 	61,09 	104,28 	480 ± 10 mm 	407,78
+632 	79 	25,33 	37,69 	63,03 	108,36 	480 ± 10 mm 	417,21
+640 	80 	25,84 	38,35 	64,01 	109,52 	480 ± 10 mm 	421,92
+656 	82 	26,48 	39,66 	65,64 	112,44 	480 ± 10 mm 	426,64
+672 	84 	26,77 	40,14 	66,44 	113,17 	480 ± 10 mm 	431,59
+688 	86 	26,95 	40,78 	67,27 	114,54 	480 ± 10 mm 	436,22
+696 	87 	27,46 	41,28 	68,06 	116,15 	480 ± 10 mm 	440,93
+712 	89 	27,76 	41,76 	69,21 	116,81 	480 ± 10 mm 	445,64
+720 	90 	27,95 	41,93 	69,70 	118,28 	480 ± 10 mm 	450,34
+728 	91 	28,27 	42,25 	70,18 	119,40 	480 ± 10 mm 	455,23
+736 	92 	28,27 	42,41 	70,66 	120,39 	480 ± 10 mm 	457,51
+760 	95 	28,76 	43,22 	72,13 	122,51 	480 ± 10 mm 	467,09
+768 	96 	29,08 	43,38 	72,64 	123,31 	480 ± 10 mm 	469,37
+784 	98 	29,42 	44,03 	73,44 	124,94 	480 ± 10 mm 	474,05
+792 	99 	29,42 	44,35 	73,92 	125,91 	480 ± 10 mm 	476,52
+800 * 	100 	29,58 	44,52 	74,40 	126,55 	480 ± 10 mm 	3 	478,79
+824 	103 	30,04 	45,48 	75,38 	128,65 	480 ± 10 mm 	490,66
+848 	106 	30,88 	45,99 	76,85 	130,65 	480 ± 10 mm 	502,51
+864 	108 	31,04 	46,45 	77,99 	132,57 	480 ± 10 mm 	512,09
+880 	110 	31,86 	46,94 	78,64 	133,71 	480 ± 10 mm 	516,82
+912 	114 	32,66 	48,57 	80,91 	138,26 	480 ± 10 mm 	528,66
+920 	115 	32,98 	48,89 	81,23 	138,74 	480 ± 10 mm 	531,10
+
+-- 78 of 132 --
+
+79
+CONTI® SYNCHROFORCE CXP
+STD S8M CXP
+L p / L w (mm) 	z 	b = 20 mm
+EUR / pc.
+b = 30 mm
+EUR / pc.
+b = 50 mm
+EUR / pc.
+b = 85 mm
+EUR / pc.
+SW
+(mm)
+MOQ
+(sl.)
+EUR / sl.
+944 	118 	33,46 	49,54 	83,03 	141,02 	480 ± 10 mm 	540,53
+960 * 	120 	33,63 	50,55 	84,16 	142,99 	480 ± 10 mm 	3 	549,97
+992 	124 	34,59 	51,66 	86,26 	147,50 	480 ± 10 mm 	571,40
+1000 	125 	34,76 	51,98 	86,75 	148,00 	480 ± 10 mm 	576,10
+1056 	132 	37,52 	54,59 	90,51 	154,83 	480 ± 10 mm 	599,82
+1064 	133 	37,52 	54,75 	90,98 	155,81 	480 ± 10 mm 	602,11
+1072 	134 	37,52 	55,07 	91,47 	156,46 	480 ± 10 mm 	609,22
+1120 	140 	37,84 	57,36 	97,67 	162,63 	480 ± 10 mm 	625,82
+1136 	142 	38,35 	58,00 	97,67 	164,26 	480 ± 10 mm 	630,53
+1160 	145 	38,82 	58,81 	97,97 	166,84 	480 ± 10 mm 	642,39
+1168 	146 	38,82 	59,30 	98,63 	167,33 	480 ± 10 mm 	644,84
+1176 	147 	39,16 	59,47 	99,13 	168,47 	480 ± 10 mm 	647,10
+1184 	148 	39,66 	59,77 	99,28 	168,81 	480 ± 10 mm 	651,99
+1200 	150 	40,13 	60,27 	100,25 	170,75 	480 ± 10 mm 	656,70
+1216 	152 	40,78 	61,09 	101,55 	172,05 	480 ± 10 mm 	663,82
+1240 	155 	41,43 	61,91 	103,31 	175,47 	480 ± 10 mm 	675,71
+1256 	157 	41,93 	62,40 	104,28 	177,59 	480 ± 10 mm 	680,42
+1264 	158 	42,25 	62,54 	104,46 	177,73 	480 ± 10 mm 	682,68
+1280 * 	160 	42,75 	63,03 	105,43 	179,99 	480 ± 10 mm 	3 	692,26
+1296 	162 	42,90 	63,53 	106,40 	181,33 	480 ± 10 mm 	696,97
+1304 	163 	43,22 	64,01 	107,41 	182,77 	480 ± 10 mm 	699,42
+1312 	164 	43,22 	64,01 	107,89 	183,26 	480 ± 10 mm 	704,13
+1344 	168 	43,55 	65,49 	110,00 	185,85 	480 ± 10 mm 	713,55
+1368 	171 	44,52 	66,12 	111,62 	188,30 	480 ± 10 mm 	722,98
+1400 	175 	45,33 	67,27 	112,91 	191,37 	480 ± 10 mm 	739,72
+1408 	176 	45,33 	67,27 	113,07 	192,21 	480 ± 10 mm 	744,42
+1440 	180 	45,99 	68,25 	114,68 	195,61 	480 ± 10 mm 	753,83
+1480 * 	185 	46,94 	69,86 	117,30 	199,84 	480 ± 10 mm 	3 	780,00
+1512 	189 	48,57 	72,27 	121,37 	203,07 	480 ± 10 mm 	798,85
+1552 	194 	49,71 	73,44 	123,31 	207,14 	480 ± 10 mm 	820,30
+1600 	200 	50,55 	74,76 	125,41 	212,21 	480 ± 10 mm 	846,28
+1624 	203 	51,03 	75,89 	128,00 	215,75 	480 ± 10 mm 	855,87
+1760 	220 	54,10 	80,59 	134,83 	229,23 	480 ± 10 mm 	910,29
+1776 	222 	54,59 	81,23 	136,31 	231,36 	480 ± 10 mm 	919,88
+1800 	225 	55,07 	82,52 	137,77 	234,45 	480 ± 10 mm 	943,44
+1816 	227 	55,88 	83,17 	138,74 	236,38 	480 ± 10 mm 	950,57
+1912 	239 	58,23 	85,96 	144,60 	247,18 	480 ± 10 mm 	1000,78
+2240 	280 	66,62 	99,13 	164,58 	279,76 	480 ± 10 mm 	1142,63
+2392 	299 	71,65 	106,90 	178,22 	301,06 	480 ± 10 mm 	1216,06
+2800 * 	350 	82,20 	120,72 	203,57 	343,76 	480 ± 10 mm 	3 	1386,81
+2848 	356 	84,16 	122,33 	207,14 	349,62 	480 ± 10 mm 	1410,51
+
+-- 79 of 132 --
+
+80
+CONTI® SYNCHROFORCE CXA
+CONTI® SYNCHROFORCE CXA
+Heavy-duty timing belts for sustained transmission of
+high torque levels at low speed
+Correas síncronas de alto rendimiento para la transmisión
+de altos pares a bajas velocidades
+Мощные зубчатые приводные ремни для непрерывной
+передачи высокого крутящего момента на низкой
+скорости
+Cinghie dentate di alta efficienza per la trasmissione
+continua di alte coppie meccaniche a basse velocità
+Properties
+- conditionally resistant to oil
+- temperature-resistant, depending on application, from -20°C to +100°C
+- electrically conductive to ISO 9563
+- suitable for tropical climates
+- resistant to aging and ozone
+Características
+- resistencia moderada a los aceites
+- resistentes a temperaturas , según aplicación, desde -20°C
+hasta +100°C
+- conductibilidad eléctrica según ISO 9563
+- resistentes a climas tropicales
+- resistentes al envejecimiento y al ozono
+Свойства
+- относительная маслостойкость
+- устойчивость к воздействию температур от -20°C до +100°C
+- пригодны для эксплуатации в тропических условиях
+- электропроводность согласно ISO 9563
+- атмосферостойкость
+Proprietà
+- Relativamente resistenti all’olio
+- Resistenti a temperature comprese tra -20 °C e +100 °C in funzione
+dell’applicazione
+- Elettricamente conduttrici secondo ISO 9563
+- Resistenti al clima tropicale
+- Resistenti all’invecchiamento ed all’ozono
+HTD
+HTD 8M 	HTD 14M 	STD S8M 	CTD C8M
+Tooth pitch | Perfil de dientes
+Шаг зубьев | Passo dei denti 	t 	mm 	8 	14 	8 	8
+Belt thickness | Grosor de correa
+Толщина ремня | Spessore della cinghia 	hs 	mm 	5,6 	10 	5,3 	5,6
+Tooth height | Altura de diente
+Высота зуба | Altezza dei denti 	h t 	mm 	3,4 	6,1 	2,95 	3,4
+Pitch height | Altura primitiva | Высота расчетной
+линии | Distanza tra le linee primitive 	u 	mm 	0,686 	1,395 	0,686 	0,8
+Nominal length | Longitud nominal
+Номинальная длина | Lunghezza nominale 	L p / L w mm 	Pitch length (mm) | Longitud primitiva en mm
+Расчетная длина (мм) | Lunghezza primitiva in mm
+Size designation (example) Ejemplo de dimensión | Обозначение размера (пример) | Sigla della dimensione (esempio)
+HTD 960 - 8M - 50 CXA
+HTD 	Profi le | Perfi l | Профиль | Sezione
+960 	960 mm Pitch length | Longitud primitiva | Расчетная длина | Lunghezza primitiva
+8M 	8 mm Tooth pitch | Perfi l de dientes | Шаг зубьев | Passo dei denti
+50 	50 mm Timing belt width | Anchura correa síncrona | Ширина зубчатого ремня | Larghezza della cinghia dentata
+CXA 	Design | Versión | Конструкция | Esecuzione
+STD 	CTD
+CTD: Other sizes on request | CTD: Otras dimensiones bajo consulta
+CTD: Другие размеры по запросу | CTD: Altre dimensioni su richiesta
+
+-- 80 of 132 --
+
+81
+CONTI® SYNCHROFORCE CXA
+L p / Lw 	Pitch length | Longitud primitiva | Расчетная длина | Lunghezza primitiva
+SW 	Sleeve width | Anchura de mangón | Ширина рукава | Larghezza del manicotto
+MOQ (sl.) 	Minimum quantity (sleeves) | Cantidad mínima (mangón) | Минимальное количество (рукава) | Quantità minima (manicotti)
+z 	Number of teeth | N° de dientes | Число зубьев | Numero di denti
+b 	Belt width | Anchura correa síncrona | Ширина зубчатого ремня | Larghezza della cinghia dentata
+EUR / pc. 	Price per piece | Precio por unidad | Цена за штуку | Prezzo per articolo
+EUR / sl. 	Price per sleeve | Precio por mangón | Цена за рукав | Prezzo per manicotto
+* 	On request (see page 6) | Bajo consulta (v. pág. 6) | По запросу (см. стр. 7) | Su richiesta (v. pag. 7)
+HTD 8M CXA
+L p / L w (mm) 	z 	b = 20 mm
+EUR / pc.
+b = 30 mm
+EUR / pc.
+b = 50 mm
+EUR / pc.
+b = 85 mm
+EUR / pc.
+SW
+(mm)
+MOQ
+(sl.)
+EUR / sl.
+288 	36 	24,44 	37,45 	62,73 	111,57 	480 ± 10mm 	475,03
+352 	44 	29,28 	44,81 	74,92 	132,15 	480 ± 10mm 	553,49
+376 	47 	31,45 	48,01 	79,78 	137,66 	480 ± 10mm 	579,73
+400 	50 	33,13 	49,34 	82,19 	139,87 	480 ± 10mm 	598,00
+416 	52 	34,44 	51,35 	85,47 	145,54 	480 ± 10mm 	610,19
+424 	53 	34,80 	51,85 	86,33 	146,87 	480 ± 10mm 	614,54
+472 	59 	36,61 	55,37 	92,34 	156,90 	480 ± 10mm 	636,26
+480 	60 	36,61 	55,37 	92,34 	156,90 	480 ± 10mm 	636,26
+560 	70 	41,83 	61,88 	104,55 	176,48 	480 ± 10mm 	710,39
+600 	75 	43,16 	64,04 	107,22 	183,97 	480 ± 10mm 	749,69
+624 	78 	44,49 	66,74 	109,89 	187,85 	480 ± 10mm 	762,72
+640 	80 	45,33 	67,56 	113,73 	192,21 	480 ± 10mm 	775,78
+656 	82 	46,67 	69,74 	115,92 	197,87 	480 ± 10mm 	784,49
+688 	86 	47,15 	70,84 	117,05 	199,57 	480 ± 10mm 	806,32
+720 	90 	49,33 	74,10 	122,45 	208,76 	480 ± 10mm 	828,14
+776 	97 	51,03 	77,13 	128,61 	219,62 	480 ± 10mm 	867,29
+784 	98 	51,85 	77,62 	129,45 	220,62 	480 ± 10mm 	871,63
+800 	100 	52,34 	78,45 	131,15 	223,64 	480 ± 10mm 	880,33
+880 	110 	55,87 	82,77 	138,16 	235,85 	480 ± 10mm 	950,06
+912 	114 	58,04 	85,47 	143,02 	241,89 	480 ± 10mm 	971,99
+920 	115 	58,38 	86,33 	144,18 	244,87 	480 ± 10mm 	976,33
+960 	120 	59,71 	88,97 	148,19 	252,40 	480 ± 10mm 	1011,14
+1040 	130 	63,24 	95,50 	156,90 	269,79 	480 ± 10mm 	1093,93
+1120 	140 	67,56 	100,71 	167,46 	286,85 	480 ± 10mm 	1150,62
+1160 	145 	67,91 	102,88 	170,65 	291,30 	480 ± 10mm 	1178,98
+1200 	150 	70,24 	106,38 	176,48 	301,24 	480 ± 10mm 	1207,33
+1280 	160 	75,77 	110,72 	186,18 	316,81 	480 ± 10mm 	1272,56
+1304 	163 	77,13 	113,73 	189,51 	321,14 	480 ± 10mm 	1285,78
+1328 	166 	77,62 	115,08 	192,21 	325,50 	480 ± 10mm 	1298,84
+1360 	170 	78,45 	116,43 	195,22 	331,19 	480 ± 10mm 	1320,57
+1424 	178 	79,78 	119,92 	200,89 	341,74 	480 ± 10mm 	1377,28
+1440 	180 	80,12 	120,76 	202,74 	345,24 	480 ± 10mm 	1385,96
+1520 	190 	84,53 	125,09 	209,90 	355,61 	480 ± 10mm 	1470,94
+1600 	200 	88,97 	131,66 	220,95 	374,33 	480 ± 10mm 	1555,92
+1760 	220 	95,50 	143,02 	238,03 	404,45 	480 ± 10mm 	1673,66
+1800 	225 	97,21 	145,54 	243,20 	413,66 	480 ± 10mm 	1734,55
+2000 	250 	107,22 	160,40 	266,29 	453,30 	480 ± 10mm 	1904,67
+2248 	281 	116,76 	174,81 	289,88 	515,84 	480 ± 10mm 	2105,04
+2400 	300 	126,45 	187,85 	313,77 	536,10 	480 ± 10mm 	2240,20
+2800 	350 	145,18 	213,09 	358,59 	605,82 	480 ± 10mm 	2549,64
+3008 	376 	153,60 	224,68 	378,70 	638,76 	480 ± 10mm 	2689,12
+3808 	476 	215,89 	273,23 	464,74 	775,47 	480 ± 10mm 	3264,77
+HTD 14M CXA
+L p / L w (mm) 	z 	b = 40 mm
+EUR / pc.
+b = 55 mm
+EUR / pc.
+b = 85 mm
+EUR / pc.
+b = 115 mm
+EUR / pc.
+b = 170 mm
+EUR / pc.
+SW
+(mm)
+MOQ
+(sl.)
+EUR / sl.
+966 	69 	288,01 	398,43 	614,54 	836,83 	1224,72 	470 ± 10mm 	2573,76
+1050 	75 	296,05 	409,66 	635,79 	859,72 	1260,67 	470 ± 10mm 	2653,94
+1190 	85 	309,43 	428,37 	671,22 	897,90 	1320,55 	470 ± 10mm 	2787,57
+1400 	100 	339,04 	470,68 	714,73 	976,33 	1451,37 	470 ± 10mm 	3022,70
+1610 	115 	365,31 	505,64 	780,13 	1054,77 	1555,93 	470 ± 10mm 	3253,54
+1778 	127 	392,23 	544,77 	845,54 	1141,92 	1673,66 	470 ± 10mm 	3501,48
+1890 	135 	406,63 	562,19 	867,29 	1168,04 	1738,91 	470 ± 10mm 	3616,97
+2100 	150 	434,55 	601,48 	928,33 	1250,82 	1852,29 	470 ± 10mm 	3873,42
+
+-- 81 of 132 --
+
+82
+CONTI® SYNCHROFORCE CXA
+HTD 14M CXA
+Lp / L w (mm) 	z 	b = 40 mm
+EUR / pc.
+b = 55 mm
+EUR / pc.
+b = 85 mm
+EUR / pc.
+b = 115 mm
+EUR / pc.
+b = 170 mm
+EUR / pc.
+SW
+(mm)
+MOQ
+(sl.)
+EUR / sl.
+2310 	165 	462,00 	636,28 	980,67 	1333,61 	1974,39 	470 ± 10mm 	4134,33
+2450 	175 	483,71 	671,22 	1041,75 	1394,67 	2065,89 	470 ± 10mm 	4403,57
+2590 	185 	496,78 	692,99 	1063,51 	1442,65 	2122,43 	470 ± 10mm 	4561,77
+2800 	200 	536,10 	736,63 	1176,70 	1538,51 	2261,95 	470 ± 10mm 	4831,17
+3150 	225 	562,19 	793,18 	1207,33 	1634,37 	2405,79 	470 ± 10mm 	5138,99
+3360 	240 	589,97 	820,06 	1267,72 	1707,10 	2527,13 	470 ± 10mm 	5418,58
+3500 	250 	614,54 	854,22 	1320,55 	1778,22 	2632,44 	470 ± 10mm 	5604,97
+3668 	262 	635,37 	884,45 	1374,47 	1847,76 	2719,78 	470 ± 10mm 	5820,46
+3850 	275 	666,90 	928,33 	1442,65 	1939,44 	2854,72 	470 ± 10mm 	6053,90
+4326 	309 	749,69 	1024,17 	1573,30 	2140,00 	3233,92 	470 ± 10mm 	6695,13
+4578 	327 	780,13 	1072,17 	1651,75 	2240,20 	3303,66 	470 ± 10mm 	6998,67
+STD S8M CXA
+Lp / L w (mm) 	z 	b = 20 mm
+EUR / pc.
+b = 30 mm
+EUR / pc.
+b = 50 mm
+EUR / pc.
+b = 85 mm
+EUR / pc.
+SW
+(mm)
+MOQ
+(sl.)
+EUR / sl.
+440 	55 	36,61 	55,37 	92,34 	157,40 	480 ± 10mm 	618,89
+480 	60 	38,30 	58,04 	95,85 	163,89 	480 ± 10mm 	636,26
+528 	66 	41,83 	62,40 	103,35 	176,12 	480 ± 10mm 	679,95
+560 * 	70 	43,98 	64,89 	108,05 	184,34 	480 ± 10mm 	3 	710,39
+600 	75 	44,81 	67,06 	112,40 	191,72 	480 ± 10mm 	749,69
+632 	79 	46,67 	69,26 	115,92 	199,21 	480 ± 10mm 	767,08
+640 	80 	47,52 	70,59 	117,74 	201,39 	480 ± 10mm 	775,78
+656 	82 	48,83 	72,75 	120,76 	206,59 	480 ± 10mm 	784,49
+672 * 	84 	49,25 	73,90 	122,32 	208,34 	480 ± 10mm 	3 	793,19
+688 	86 	49,68 	74,92 	123,78 	210,57 	480 ± 10mm 	801,88
+696 * 	87 	50,54 	75,77 	125,11 	213,59 	480 ± 10mm 	3 	810,59
+712 	89 	51,03 	76,78 	127,29 	214,95 	480 ± 10mm 	819,46
+720 	90 	51,35 	77,13 	128,12 	217,45 	480 ± 10mm 	828,14
+728 * 	91 	51,85 	77,62 	128,95 	219,62 	480 ± 10mm 	3 	836,85
+736 * 	92 	51,85 	77,93 	129,80 	221,46 	480 ± 10mm 	3 	841,18
+760 	95 	52,68 	79,28 	132,49 	225,30 	480 ± 10mm 	858,58
+768 	96 	53,52 	79,78 	133,30 	226,64 	480 ± 10mm 	862,93
+784 * 	98 	54,04 	81,13 	135,15 	229,65 	480 ± 10mm 	3 	871,63
+792 * 	99 	54,04 	81,49 	136,00 	231,51 	480 ± 10mm 	3 	875,98
+800 	100 	54,52 	81,97 	136,82 	232,66 	480 ± 10mm 	880,33
+824 	103 	55,37 	83,63 	138,66 	236,68 	480 ± 10mm 	902,23
+848 	106 	56,69 	84,48 	141,17 	240,18 	480 ± 10mm 	923,97
+864 	108 	57,04 	85,47 	143,34 	243,71 	480 ± 10mm 	941,38
+880 	110 	58,38 	86,33 	144,66 	245,90 	480 ± 10mm 	950,06
+912 * 	114 	60,20 	89,34 	148,68 	254,07 	480 ± 10mm 	3 	971,99
+920 	115 	60,55 	89,84 	149,53 	254,91 	480 ± 10mm 	976,33
+944 	118 	61,39 	91,13 	152,55 	259,25 	480 ± 10mm 	993,73
+960 * 	120 	61,88 	92,83 	154,73 	262,75 	480 ± 10mm 	3 	1011,14
+992 * 	124 	63,55 	95,00 	158,56 	271,13 	480 ± 10mm 	3 	1050,41
+1000 	125 	64,04 	95,50 	159,57 	271,98 	480 ± 10mm 	1059,13
+1056 	132 	68,91 	100,21 	166,43 	284,52 	480 ± 10mm 	1102,61
+1064 	133 	68,91 	100,71 	167,46 	286,35 	480 ± 10mm 	1106,96
+1072 	134 	68,91 	101,19 	168,28 	287,70 	480 ± 10mm 	1120,03
+1120 	140 	69,74 	105,57 	179,63 	298,91 	480 ± 10mm 	1150,62
+1136 	142 	70,59 	106,72 	179,63 	302,09 	480 ± 10mm 	1159,33
+1160 	145 	71,42 	108,05 	179,97 	306,78 	480 ± 10mm 	1181,07
+1168 	146 	71,42 	108,87 	181,34 	307,78 	480 ± 10mm 	1185,43
+1176 * 	147 	71,92 	109,37 	182,14 	309,95 	480 ± 10mm 	3 	1189,77
+1184 * 	148 	72,75 	109,89 	182,65 	310,28 	480 ± 10mm 	3 	1198,63
+1200 	150 	73,60 	110,72 	184,34 	313,77 	480 ± 10mm 	1207,33
+1216 	152 	74,92 	112,40 	186,50 	316,47 	480 ± 10mm 	1220,37
+1240 	155 	76,27 	113,73 	189,99 	322,51 	480 ± 10mm 	1242,13
+1256 	157 	77,13 	114,59 	191,72 	326,51 	480 ± 10mm 	1250,83
+1264 * 	158 	77,62 	115,08 	192,21 	326,84 	480 ± 10mm 	3 	1255,16
+1280 	160 	78,45 	115,92 	194,04 	330,86 	480 ± 10mm 	1272,56
+1296 * 	162 	78,96 	116,76 	195,71 	333,37 	480 ± 10mm 	3 	1281,42
+
+-- 82 of 132 --
+
+83
+CONTI® SYNCHROFORCE CXA
+STD S8M CXA
+Lp / L w (mm) 	z 	b = 20 mm
+EUR / pc.
+b = 30 mm
+EUR / pc.
+b = 50 mm
+EUR / pc.
+b = 85 mm
+EUR / pc.
+SW
+(mm)
+MOQ
+(sl.)
+EUR / sl.
+1304 	163 	79,28 	117,74 	197,36 	336,04 	480 ± 10mm 	1285,78
+1312 	164 	79,28 	117,74 	198,37 	336,88 	480 ± 10mm 	1294,49
+1344 	168 	80,12 	120,27 	202,23 	341,74 	480 ± 10mm 	1311,87
+1368 	171 	81,97 	121,61 	205,22 	346,07 	480 ± 10mm 	1329,29
+1400 	175 	83,27 	123,78 	207,41 	351,76 	480 ± 10mm 	1359,88
+1408 	176 	83,27 	123,78 	207,91 	353,44 	480 ± 10mm 	1368,57
+1440 	180 	84,48 	125,43 	210,94 	359,62 	480 ± 10mm 	1385,96
+1480 	185 	86,33 	128,61 	215,77 	367,46 	480 ± 10mm 	1433,98
+1512 	189 	89,34 	132,97 	223,14 	373,50 	480 ± 10mm 	1468,77
+1552 	194 	91,49 	135,15 	226,64 	380,86 	480 ± 10mm 	1508,06
+1600 	200 	92,83 	137,32 	230,51 	390,06 	480 ± 10mm 	1555,92
+1624 	203 	93,66 	139,51 	235,34 	396,60 	480 ± 10mm 	1573,30
+1760 	220 	99,34 	148,19 	248,07 	421,50 	480 ± 10mm 	1673,66
+1776 	222 	100,21 	149,53 	250,56 	425,36 	480 ± 10mm 	1691,05
+1800 * 	225 	101,19 	151,72 	253,23 	431,04 	480 ± 10mm 	3 	1734,55
+1816 * 	227 	102,88 	153,05 	254,91 	434,55 	480 ± 10mm 	3 	1747,77
+1912 	239 	106,88 	157,83 	267,28 	453,77 	480 ± 10mm 	1840,12
+2240 	280 	122,45 	182,14 	302,42 	514,35 	480 ± 10mm 	2100,71
+2392 * 	299 	131,66 	196,54 	327,65 	553,48 	480 ± 10mm 	3 	2235,84
+2800 	350 	151,21 	221,80 	374,33 	631,94 	480 ± 10mm 	2549,64
+2848 	356 	154,73 	224,97 	380,86 	642,80 	480 ± 10mm 	2593,28
+CTD C8M CXA
+Lp / Lw (mm) 	z 	b = 12 mm
+EUR / pc.
+b = 21 mm
+EUR / pc.
+SW
+(mm)
+MOQ
+(sl.)
+EUR / sl.
+288 	36 	15,32 	28,93 	480 ± 10mm 	532,03
+352 	44 	18,33 	34,59 	480 ± 10mm 	619,91
+416 	52 	21,61 	40,83 	480 ± 10mm 	683,41
+544 	68 	24,15 	45,57 	480 ± 10mm 	779,03
+640 	80 	28,42 	53,61 	480 ± 10mm 	868,87
+1280 	160 	56,83 	107,23 	480 ± 10mm 	1533,85
+
+-- 83 of 132 --
+
+84
+CONTI® SYNCHROFORCE EXTREME
+CONTI® SYNCHROFORCE EXTREME
+Heavy-duty timing belts for high acceleration forces and
+shock loads
+Correa síncrona de alto rendimiento para fuerzas inerciales
+extremas y elevadas cargas dinámicas
+Мощные зубчатые ремни для приводов с большими
+ускорениями и ударными нагрузками
+Cinghie dentate di alta efficienza per intense forze di
+accelerazione e sollecitazioni impulsive
+Properties
+- largely oil-resistant
+- temperature-resistant, depending on application, from -30°C to +130°C
+- resistant to aging and ozone
+- suitable for tropical climates
+Características
+- elevada resistencia a los aceites
+- resistentes a temperaturas , según aplicación, desde -30°C
+hasta +130°C
+- resistentes al envejecimiento y al ozono
+- aptas para climas tropicales
+Свойства
+- маслостойкость
+- устойчивость к воздействию температур, в зависимости от
+применения от -30°C до +130°C
+- атмосферостойкость
+- пригодны для эксплуатации в тропических условиях
+Proprietà
+- Prevalentemente resistenti all’olio
+- Resistenti a temperature comprese tra -30°C e +130°C in funzione
+dell’applicazione
+- Resistenti all’invecchiamento ed all’ozono
+- Idonee per il clima tropicale
+HTD 8M 	HTD 14M 	STD S8M 	CTD C8M 	CTD C14M
+Tooth pitch | Perfil de dientes
+Шаг зубьев | Passo dei denti 	t 	mm 	8 	14 	8 	8 	14
+Belt thickness | Grosor de correa
+Толщина ремня | Spessore della cinghia 	h s 	mm 	5,6 	10 	5,3 	5,6 	10
+Tooth height | Altura de diente
+Высота зуба | Altezza dei denti 	h t 	mm 	3,4 	6,1 	2,95 	5,6 	6,1
+Pitch height | Altura primitiva
+Высота расчетной линии | Distanza tra le linee primitive 	u 	mm 	0,686 	1,395 	0,686 	0,8 	1,395
+Nominal length | Longitud nominal
+Номинальная длина | Lunghezza nominale 	Lp / L w mm 	Pitch length (mm) | Longitud primitiva en mm
+Расчетная длина (мм) | Lunghezza primitiva in mm
+Size designation (example) Ejemplo de dimensión | Обозначение размера (пример) | Sigla della dimensione (esempio)
+HTD 3500 - 14M - 85 Extreme
+HTD 	Profi le | Perfi l | Профиль | Sezione
+3500 	3500 mm Pitch length | Longitud primitiva | Расчетная длина | Lunghezza primitiva
+14M 	14 mm Tooth pitch | Perfi l de dientes | Шаг зубьев | Passo dei denti
+85 	85 mm Timing belt width | Anchura correa síncrona | Ширина зубчатого ремня | Larghezza della cinghia dentata
+Extreme Design | Versión | Конструкция | Esecuzione
+HTD 	STD 	CTD
+
+-- 84 of 132 --
+
+85
+CONTI® SYNCHROFORCE EXTREME
+L p / Lw 	Pitch length | Longitud primitiva | Расчетная длина | Lunghezza primitiva
+SW 	Sleeve width | Anchura de mangón | Ширина рукава | Larghezza del manicotto
+MOQ (sl.) 	Minimum quantity (sleeves) | Cantidad mínima (mangón) | Минимальное количество (рукава) | Quantità minima (manicotti)
+z 	Number of teeth | N° de dientes | Число зубьев | Numero di denti
+b 	Belt width | Anchura correa síncrona | Ширина зубчатого ремня | Larghezza della cinghia dentata
+EUR / pc. 	Price per piece | Precio por unidad | Цена за штуку | Prezzo per articolo
+EUR / sl. 	Price per sleeve | Precio por mangón | Цена за рукав | Prezzo per manicotto
+* 	On request (see page 6) | Bajo consulta (v. pág. 6) | По запросу (см. стр. 7) | Su richiesta (v. pag. 7)
+HTD 8M EXTREME
+L p / L w (mm) 	z 	b = 85 mm
+EUR / pc.
+SW
+(mm)
+MOQ
+(sl.)
+EUR / sl.
+480 * 	60 	203,97 	480 ± 10 mm 	1 	827,14
+560 * 	70 	229,42 	480 ± 10 mm 	1 	923,51
+600 * 	75 	239,16 	480 ± 10 mm 	1 	974,60
+624 * 	78 	244,20 	480 ± 10 mm 	1 	991,54
+640 * 	80 	249,87 	480 ± 10 mm 	1 	1008,51
+656 * 	82 	257,23 	480 ± 10 mm 	1 	1019,84
+720 * 	90 	271,39 	480 ± 10 mm 	1 	1076,58
+776 * 	97 	285,50 	480 ± 10 mm 	1 	1127,47
+784 * 	98 	286,81 	480 ± 10 mm 	1 	1133,12
+800 * 	100 	290,73 	480 ± 10 mm 	1 	1144,43
+880 * 	110 	306,60 	480 ± 10 mm 	1 	1235,08
+912 * 	114 	314,45 	480 ± 10 mm 	1 	1263,58
+920 * 	115 	318,34 	480 ± 10 mm 	1 	1269,23
+960 * 	120 	328,12 	480 ± 10 mm 	1 	1314,48
+1040 * 	130 	350,72 	480 ± 10 mm 	1 	1422,10
+1120 * 	140 	372,91 	480 ± 10 mm 	1 	1495,80
+1160 * 	145 	378,70 	480 ± 10 mm 	1 	1532,67
+1200 * 	150 	391,61 	480 ± 10 mm 	1 	1569,53
+1280 * 	160 	411,86 	480 ± 10 mm 	1 	1654,33
+1328 * 	166 	423,15 	480 ± 10 mm 	1 	1688,49
+1360 * 	170 	430,55 	480 ± 10 mm 	1 	1716,74
+1440 * 	180 	448,81 	480 ± 10 mm 	1 	1801,75
+1600 * 	200 	486,63 	480 ± 10 mm 	1 	2022,70
+1760 * 	220 	525,78 	480 ± 10 mm 	1 	2175,76
+1800 * 	225 	537,76 	480 ± 10 mm 	1 	2254,92
+2000 * 	250 	589,29 	480 ± 10 mm 	1 	2476,07
+2248 * 	281 	670,60 	480 ± 10 mm 	1 	2736,55
+2800 * 	350 	787,56 	480 ± 10 mm 	1 	3314,54
+3008 * 	376 	830,38 	480 ± 10 mm 	1 	3495,86
+3408 * 	426 	922,05 	480 ± 10 mm 	1 	3881,74
+3808 * 	476 	1008,12 	480 ± 10 mm 	1 	4244,20
+HTD 14M EXTREME
+L p / L w (mm) 	z 	b = 85 mm
+EUR / pc.
+SW
+(mm)
+MOQ
+(sl.)
+EUR / sl.
+966 * 	69 	798,91 	470 ± 10 mm 	1 	3345,89
+1190 * 	85 	872,59 	470 ± 10 mm 	1 	3623,84
+1400 * 	100 	929,15 	470 ± 10 mm 	1 	3929,52
+1610 * 	115 	1014,17 	470 ± 10 mm 	1 	4229,61
+1778 * 	127 	1099,20 	470 ± 10 mm 	1 	4551,93
+1890 * 	135 	1127,47 	470 ± 10 mm 	1 	4702,07
+2100 * 	150 	1206,82 	470 ± 10 mm 	1 	5035,44
+2310 * 	165 	1274,87 	470 ± 10 mm 	1 	5374,63
+2450 * 	175 	1354,28 	470 ± 10 mm 	1 	5724,64
+2590 * 	185 	1382,56 	470 ± 10 mm 	1 	5930,30
+2800 * 	200 	1529,71 	470 ± 10 mm 	1 	6280,52
+3150 * 	225 	1569,53 	470 ± 10 mm 	1 	6680,68
+3500 * 	250 	1716,71 	470 ± 10 mm 	1 	7286,46
+3850 * 	275 	1875,45 	470 ± 10 mm 	1 	7870,08
+4578 * 	327 	2147,27 	470 ± 10 mm 	1 	9098,27
+
+-- 85 of 132 --
+
+86
+CONTI® SYNCHROFORCE EXTREME
+STD S8M EXTREME
+Lp (mm) 	z 	b = 85 mm
+EUR / pc.
+SW
+(mm)
+MOQ
+(sl.)
+EUR / sl.
+720 * 	90 	282,69 	480 ± 10 mm 	1 	1076,58
+768 * 	96 	294,63 	480 ± 10 mm 	1 	1121,81
+848 * 	106 	312,24 	480 ± 10 mm 	1 	1201,16
+864 * 	108 	316,83 	480 ± 10 mm 	1 	1223,79
+880 * 	110 	319,67 	480 ± 10 mm 	1 	1235,08
+1000 * 	125 	353,58 	480 ± 10 mm 	1 	1376,87
+1064 * 	133 	372,26 	480 ± 10 mm 	1 	1439,05
+CTD C8M EXTREME
+L p (mm) 	z 	b = 85 mm
+EUR / pc.
+SW
+(mm)
+MOQ
+(sl.)
+EUR / sl.
+640 * 	80 	279,86 	480 ± 10 mm 	1 	1129,54
+1280 * 	160 	461,28 	480 ± 10 mm 	1 	1852,85
+1600 * 	200 	545,02 	480 ± 10 mm 	1 	2265,42
+CTD C14M EXTREME
+L p (mm) 	z 	b = 85 mm
+EUR / pc.
+SW
+(mm)
+MOQ
+(sl.)
+EUR / sl.
+1568 * 	112 	1116,82 	470 ± 10 mm 	1 	4669,93
+1750 * 	125 	1215,24 	470 ± 10 mm 	1 	5037,99
+2240 * 	160 	1402,45 	470 ± 10 mm 	1 	5892,96
+2380 * 	170 	1472,32 	470 ± 10 mm 	1 	6215,59
+3920 * 	280 	2128,47 	470 ± 10 mm 	1 	8951,78
+
+-- 86 of 132 --
+
+87
+CONTI® SYNCHROFORCE EXTREME
+
+-- 87 of 132 --
+
+88
+CONTI® SYNCHROCOLOR
+CONTI® SYNCHROCOLOR
+Silicone-free timing belts free of substances that damage
+paintwork
+Correas síncronas libres de silicona y exentas de agentes
+que afectan al proceso de pintura
+Зубчатые приводные ремни без содержания силикона
+и веществ повреждающих лакокрасочные покрытия
+Cinghie dentate prive di silicone e senza sostanze che
+disturbano la reticolazione di vernici
+Properties
+- free of silicone, not harmful to paint
+- conditionally resistant to oil
+- temperature-resistant, depending on application, from -20°C to +100°C
+- electrically conductive to ISO 9563
+- ozone-resistant
+- suitable for tropical climates
+Características
+- sin silicona
+- resistencia moderada a los aceites
+- resistentes a temperaturas , según aplicación, desde -20°C
+hasta +100°C
+- conductibilidad eléctrica según ISO 9563
+- resistentes al ozono
+- aptas para climas tropicales
+Свойства
+- без содержания силикона, не наносят вреда краске
+- относительная маслостойкость
+- устойчивость к воздействию температур, в зависимости от области
+применения, от -20°C до +100°C
+- электропроводность согласно ISO 9563
+- устойчивость к воздействию озона
+- пригодны для эксплуатации в тропических условиях
+Proprietà
+- Prive di silicone e compatibili con vernici
+- Relativamente resistenti all’olio
+- Resistenti a temperature comprese tra -20 °C e +100 °C in funzione
+dell’applicazione
+- Elettricamente conduttrici secondo ISO 9563
+- Resistenti all’ozono
+- Idonee per il clima tropicale
+HTD 8M 	HTD 14M
+Tooth pitch | Perfil de dientes
+Шаг зубьев | Passo dei denti 	t 	mm 	8 	14
+Belt thickness | Grosor de correa
+Толщина ремня | Spessore della cinghia 	hs 	mm 	5,6 	10
+Tooth height | Altura de diente
+Высота зуба | Altezza dei denti 	ht 	mm 	3,4 	6,1
+Pitch height | Altura primitiva
+Высота расчетной линии | Distanza tra le linee primitive 	u 	mm 	0,686 	1,395
+Nominal length | Longitud nominal
+Номинальная длина | Lunghezza nominale 	Lp / L w mm 	Pitch length (mm) | Longitud primitiva en mm
+Расчетная длина (мм) | Lunghezza primitiva in mm
+Size designation (example) Ejemplo de dimensión | Обозначение размера (пример) | Sigla della dimensione (esempio)
+HTD 960 - 8M - 50
+HTD 	Profi le | Perfi l | Профиль | Sezione
+960 	960 mm Pitch length | Longitud primitiva | Расчетная длина | Lunghezza primitiva
+8M 	8 mm Tooth pitch | Perfi l de dientes | Шаг зубьев | Passo dei denti
+50 	50 mm Timing belt width | Anchura correa síncrona | Ширина зубчатого ремня | Larghezza della cinghia dentata
+HTD
+
+-- 88 of 132 --
+
+89
+CONTI® SYNCHROCOLOR
+L p / Lw 	Pitch length | Longitud primitiva | Расчетная длина | Lunghezza primitiva
+SW 	Sleeve width | Anchura de mangón | Ширина рукава | Larghezza del manicotto
+MOQ (sl.) 	Minimum quantity (sleeves) | Cantidad mínima (mangón) | Минимальное количество (рукава) | Quantità minima (manicotti)
+z 	Number of teeth | N° de dientes | Число зубьев | Numero di denti
+EUR / sl. 	Price per sleeve | Precio por mangón | Цена за рукав | Prezzo per manicotto
+* 	On request (see page 6) | Bajo consulta (v. pág. 6) | По запросу (см. стр. 7) | Su richiesta (v. pag. 7)
+HTD 8M Color
+L p / L w (mm) 	z 	SW (mm) 	MOQ (sl.) 	EUR / sl.
+480 * 	60 	480 ± 10 mm 	1 	271,99
+560 * 	70 	480 ± 10 mm 	1 	303,59
+600 * 	75 	480 ± 10 mm 	1 	320,46
+640 * 	80 	480 ± 10 mm 	1 	331,51
+720 * 	90 	480 ± 10 mm 	1 	353,85
+800 * 	100 	480 ± 10 mm 	1 	376,21
+880 * 	110 	480 ± 10 mm 	1 	406,02
+960 * 	120 	480 ± 10 mm 	1 	432,10
+1040 * 	130 	480 ± 10 mm 	1 	467,50
+1120 * 	140 	480 ± 10 mm 	1 	491,82
+1200 * 	150 	480 ± 10 mm 	1 	515,94
+1280 * 	160 	480 ± 10 mm 	1 	543,81
+1360 * 	170 	480 ± 10 mm 	1 	564,38
+1424 * 	178 	480 ± 10 mm 	1 	588,50
+1440 * 	180 	480 ± 10 mm 	1 	592,24
+1520 * 	190 	480 ± 10 mm 	1 	628,62
+1600 * 	200 	480 ± 10 mm 	1 	664,99
+1760 * 	220 	480 ± 10 mm 	1 	715,20
+1800 * 	225 	480 ± 10 mm 	1 	741,30
+2000 * 	250 	480 ± 10 mm 	1 	814,04
+2248 * 	281 	480 ± 10 mm 	1 	899,63
+2400 * 	300 	480 ± 10 mm 	1 	957,28
+2800 * 	350 	480 ± 10 mm 	1 	1089,61
+HTD 14M Color
+L p / L w (mm) 	z 	SW (mm) 	MOQ (sl.) 	EUR / sl.
+966 * 	69 	470 ± 10 mm 	1 	1099,87
+1400 * 	100 	470 ± 10 mm 	1 	1291,84
+3500 * 	250 	470 ± 10 mm 	1 	2395,40
+
+-- 89 of 132 --
+
+90
+CONTI® SYNCHROCOLOR CXP
+CONTI® SYNCHROCOLOR CXP
+Silicone-free timing belts free of substances that damage
+paintwork
+Correas síncronas libres de silicona y exentas de agentes
+que afectan al proceso de pintura
+Зубчатые приводные ремни без содержания силикона
+и веществ повреждающих лакокрасочные покрытия
+Cinghie dentate prive di silicone e senza sostanze che
+disturbano la reticolazione di vernici
+Properties
+- free of silicone, not harmful to paint
+- conditionally resistant to oil
+- temperature-resistant, depending on application, from -20°C to +100°C
+- electrically conductive to ISO 9563
+- ozone-resistant
+- suitable for tropical climates
+Características
+- sin silicona
+- resistencia moderada a los aceites
+- resistentes a temperaturas , según aplicación, desde -20°C
+hasta +100°C
+- conductibilidad eléctrica según ISO 9563
+- resistentes al ozono
+- aptas para climas tropicales
+Свойства
+- без содержания силикона, не наносят вреда краске
+- относительная маслостойкость
+- устойчивость к воздействию температур, в зависимости от области
+применения, от -20°C до +100°C
+- электропроводность согласно ISO 9563
+- устойчивость к воздействию озона
+- пригодны для эксплуатации в тропических условиях
+Proprietà
+- Prive di silicone e compatibili con vernici
+- Relativamente resistenti all’olio
+- Resistenti a temperature comprese tra -20 °C e +100 °C in funzione
+dell’applicazione
+- Elettricamente conduttrici secondo ISO 9563
+- Resistenti all’ozono
+- Idonee per il clima tropicale
+HTD 8M 	HTD 14M
+Tooth pitch | Perfil de dientes
+Шаг зубьев | Passo dei denti 	t 	mm 	8 	14
+Belt thickness | Grosor de correa
+Толщина ремня | Spessore della cinghia 	h s 	mm 	5,6 	10
+Tooth height | Altura de diente
+Высота зуба | Altezza dei denti 	h t 	mm 	3,4 	6,1
+Pitch height | Altura primitiva
+Высота расчетной линии | Distanza tra le linee primitive 	u 	mm 	0,686 	1,395
+Nominal length | Longitud nominal
+Номинальная длина | Lunghezza nominale 	L p / L w mm 	Pitch length (mm) | Longitud primitiva en mm
+Расчетная длина (мм) | Lunghezza primitiva in mm
+Size designation (example) Ejemplo de dimensión | Обозначение размера (пример) | Sigla della dimensione (esempio)
+HTD 960 - 8M - 50 CXP
+HTD 	Profi le | Perfi l | Профиль | Sezione
+960 	960 mm Pitch length | Longitud primitiva | Расчетная длина | Lunghezza primitiva
+8M 	8 mm Tooth pitch | Perfi l de dientes | Шаг зубьев | Passo dei denti
+50 	50 mm Timing belt width | Anchura correa síncrona | Ширина зубчатого ремня | Larghezza della cinghia dentata
+CXP 	Design | Versión | Конструкция | Esecuzione
+HTD
+
+-- 90 of 132 --
+
+91
+CONTI® SYNCHROCOLOR CXP
+L p / Lw 	Pitch length | Longitud primitiva | Расчетная длина | Lunghezza primitiva
+SW 	Sleeve width | Anchura de mangón | Ширина рукава | Larghezza del manicotto
+MOQ (sl.) 	Minimum quantity (sleeves) | Cantidad mínima (mangón) | Минимальное количество (рукава) | Quantità minima (manicotti)
+z 	Number of teeth | N° de dientes | Число зубьев | Numero di denti
+EUR / sl. 	Price per sleeve | Precio por mangón | Цена за рукав | Prezzo per manicotto
+* 	On request (see page 6) | Bajo consulta (v. pág. 6) | По запросу (см. стр. 7) | Su richiesta (v. pag. 7)
+HTD 8M Color CXP
+L p / L w (mm) 	z 	SW (mm) 	MOQ (sl.) 	EUR / sl.
+480 * 	60 	480 ± 10 mm 	1 	380,66
+560 * 	70 	480 ± 10 mm 	1 	424,97
+600 * 	75 	480 ± 10 mm 	1 	448,56
+640 * 	80 	480 ± 10 mm 	1 	464,12
+720 * 	90 	480 ± 10 mm 	1 	495,38
+800 * 	100 	480 ± 10 mm 	1 	526,84
+880 * 	110 	480 ± 10 mm 	1 	568,50
+920 * 	115 	480 ± 10 mm 	1 	584,21
+960 * 	120 	480 ± 10 mm 	1 	604,97
+1040 * 	130 	480 ± 10 mm 	1 	654,44
+1200 * 	150 	480 ± 10 mm 	1 	722,37
+1280 * 	160 	480 ± 10 mm 	1 	761,49
+1360 * 	170 	480 ± 10 mm 	1 	790,08
+1440 * 	180 	480 ± 10 mm 	1 	829,22
+1600 * 	200 	480 ± 10 mm 	1 	930,91
+1760 * 	220 	480 ± 10 mm 	1 	1001,32
+1800 * 	225 	480 ± 10 mm 	1 	1037,78
+2000 * 	250 	480 ± 10 mm 	1 	1139,65
+2248 * 	281 	480 ± 10 mm 	1 	1259,57
+2400 * 	300 	480 ± 10 mm 	1 	1340,34
+2800 * 	350 	480 ± 10 mm 	1 	1525,49
+HTD 14M Color CXP
+L p / L w (mm) 	z 	SW (mm) 	MOQ (sl.) 	EUR / sl.
+966 * 	69 	470 ± 10 mm 	1 	1539,89
+1190 * 	85 	470 ± 10 mm 	1 	1667,89
+1778 * 	127 	470 ± 10 mm 	1 	2094,93
+3150 * 	225 	470 ± 10 mm 	1 	3074,70
+
+-- 91 of 132 --
+
+92
+CONTI® SYNCHROCOLOR CXA
+CONTI® SYNCHROCOLOR CXA
+Silicone-free timing belts free of substances that damage
+paintwork
+Correas síncronas libres de silicona y exentas de agentes
+que afectan al proceso de pintura
+Зубчатые приводные ремни без содержания силикона
+и веществ повреждающих лакокрасочные покрытия
+Cinghie dentate prive di silicone e senza sostanze che
+disturbano la reticolazione di vernici
+Properties
+- free of silicone, not harmful to paint
+- conditionally resistant to oil
+- temperature-resistant, depending on application, from -20°C to +100°C
+- electrically conductive to ISO 9563
+- ozone-resistant
+- suitable for tropical climates
+Características
+- sin silicona
+- resistencia moderada a los aceites
+- resistentes a temperaturas , según aplicación, desde -20°C
+hasta +100°C
+- conductibilidad eléctrica según ISO 9563
+- resistentes al ozono
+- aptas para climas tropicales
+Свойства
+- без содержания силикона, не наносят вреда краске
+- относительная маслостойкость
+- устойчивость к воздействию температур, в зависимости от области
+применения, от -20°C до +100°C
+- электропроводность согласно ISO 9563
+- устойчивость к воздействию озона
+- пригодны для эксплуатации в тропических условиях
+Proprietà
+- Prive di silicone e compatibili con vernici
+- Relativamente resistenti all’olio
+- Resistenti a temperature comprese tra -20 °C e +100 °C in funzione
+dell’applicazione
+- Elettricamente conduttrici secondo ISO 9563
+- Resistenti all’ozono
+- Idonee per il clima tropicale
+HTD 8M 	HTD 14M
+Tooth pitch | Perfil de dientes
+Шаг зубьев | Passo dei denti 	t 	mm 	8 	14
+Belt thickness | Grosor de correa
+Толщина ремня | Spessore della cinghia 	h s 	mm 	5,6 	10
+Tooth height | Altura de diente
+Высота зуба | Altezza dei denti 	h t 	mm 	3,4 	6,1
+Pitch height | Altura primitiva
+Высота расчетной линии | Distanza tra le linee primitive 	u 	mm 	0,686 	1,395
+Nominal length | Longitud nominal
+Номинальная длина | Lunghezza nominale 	L p / L w mm 	Pitch length (mm) | Longitud primitiva en mm
+Расчетная длина (мм) | Lunghezza primitiva in mm
+Size designation (example) Ejemplo de dimensión | Обозначение размера (пример) | Sigla della dimensione (esempio)
+HTD 960 - 8M - 50 CXA
+HTD 	Profi le | Perfi l | Профиль | Sezione
+960 	960 mm Pitch length | Longitud primitiva | Расчетная длина | Lunghezza primitiva
+8M 	8 mm Tooth pitch | Perfi l de dientes | Шаг зубьев | Passo dei denti
+50 	50 mm Timing belt width | Anchura correa síncrona | Ширина зубчатого ремня | Larghezza della cinghia dentata
+CXA 	Design | Versión | Конструкция | Esecuzione
+HTD
+
+-- 92 of 132 --
+
+93
+CONTI® SYNCHROCOLOR CXA
+L p / Lw 	Pitch length | Longitud primitiva | Расчетная длина | Lunghezza primitiva
+SW 	Sleeve width | Anchura de mangón | Ширина рукава | Larghezza del manicotto
+MOQ (sl.) 	Minimum quantity (sleeves) | Cantidad mínima (mangón) | Минимальное количество (рукава) | Quantità minima (manicotti)
+z 	Number of teeth | N° de dientes | Число зубьев | Numero di denti
+EUR / sl. 	Price per sleeve | Precio por mangón | Цена за рукав | Prezzo per manicotto
+* 	On request (see page 6) | Bajo consulta (v. pág. 6) | По запросу (см. стр. 7) | Su richiesta (v. pag. 7)
+HTD 8M Color CXA
+L p / L w (mm) 	z 	SW (mm) 	MOQ (sl.) 	EUR / sl.
+480 * 	60 	480 ± 10 mm 	1 	699,89
+560 * 	70 	480 ± 10 mm 	1 	781,43
+600 * 	75 	480 ± 10 mm 	1 	824,66
+640 * 	80 	480 ± 10 mm 	1 	853,36
+720 * 	90 	480 ± 10 mm 	1 	910,96
+800 * 	100 	480 ± 10 mm 	1 	968,36
+880 * 	110 	480 ± 10 mm 	1 	1045,07
+920 * 	115 	480 ± 10 mm 	1 	1073,97
+960 * 	120 	480 ± 10 mm 	1 	1112,26
+1040 * 	130 	480 ± 10 mm 	1 	1203,32
+1120 * 	140 	480 ± 10 mm 	1 	1265,68
+1200 * 	150 	480 ± 10 mm 	1 	1328,06
+1280 * 	160 	480 ± 10 mm 	1 	1399,82
+1328 * 	166 	480 ± 10 mm 	1 	1428,72
+1424 * 	178 	480 ± 10 mm 	1 	1515,01
+1440 * 	180 	480 ± 10 mm 	1 	1524,56
+1600 * 	200 	480 ± 10 mm 	1 	1711,51
+1760 * 	220 	480 ± 10 mm 	1 	1841,03
+1800 * 	225 	480 ± 10 mm 	1 	1908,01
+2000 * 	250 	480 ± 10 mm 	1 	2095,14
+2400 * 	300 	480 ± 10 mm 	1 	2464,21
+2800 * 	350 	480 ± 10 mm 	1 	2804,61
+3008 * 	376 	480 ± 10 mm 	1 	2958,03
+3408 * 	426 	480 ± 10 mm 	1 	3284,55
+HTD 14M Color CXA
+L p / L w (mm) 	z 	SW (mm) 	MOQ (sl.) 	EUR / sl.
+1190 * 	85 	470 ± 10 mm 	1 	3066,32
+1400 * 	100 	470 ± 10 mm 	1 	3324,97
+1778 * 	127 	470 ± 10 mm 	1 	3851,63
+2100 * 	150 	470 ± 10 mm 	1 	4260,76
+2450 * 	175 	470 ± 10 mm 	1 	4843,92
+2590 * 	185 	470 ± 10 mm 	1 	5017,94
+2800 * 	200 	470 ± 10 mm 	1 	5314,28
+3500 * 	250 	470 ± 10 mm 	1 	6165,47
+4326 * 	309 	470 ± 10 mm 	1 	7364,64
+4578 * 	327 	470 ± 10 mm 	1 	7698,54
+
+-- 93 of 132 --
+
+94
+CONTI® SYNCHROTWIN
+CONTI® SYNCHROTWIN
+Double-sided timing belts for compact drives with
+reverse rotation
+Correas síncronas de doble dentado para transmisiones
+compactas en ambos sentidos
+Двухсторонние зубчатые приводные ремни для
+компактных приводов с изменением направления
+вращения
+Cinghie dentate doppie per trasmissioni compatte a S
+Properties
+- conditionally resistant to oil
+- temperature-resistant, depending on application, from -20°C to +100°C
+- suitable for tropical climates
+- resistant to aging and ozone
+Características
+- resistencia moderada a los aceites
+- resistentes a temperaturas , según aplicación, desde -20°C
+hasta +100°C
+- resistente a climas tropicales
+- resistentes al envejecimiento y al ozono
+Свойства
+- относительная маслостойкость
+- устойчивость к воздействию температур, в зависимости от
+применения от -20°C до +100°C
+- пригодны для эксплуатации в тропических условиях
+- атмосферостойкость
+Proprietà
+- Relativamente resistenti all’olio
+- Resistenti a temperature comprese tra -20 °C e +100 °C in funzione
+dell’applicazione
+- Resistenti al clima tropicale
+- Resistenti all’invecchiamento ed all’ozono
+DHTD
+DH 	DHTD
+D5M
+DHTD
+D8M
+DHTD
+D14M
+DSTD
+DS8M
+Tooth pitch | Perfil de dientes
+Шаг зубьев | Passo dei denti
+t 	mm 	12,700 	5,0 	8,0 	14,0 	8,0
+t 	inch 	1/2 	- 	- 	- 	-
+Belt thickness | Grosor de correa
+Толщина ремня | Spessore della cinghia 	h s 	mm 	6,00 	5,40 	8,20 	15,20 	7,30
+Tooth height | Altura de diente
+Высота зуба | Altezza dei denti 	h t 	mm 	2,29 	2,10 	3,40 	6,10 	3,00
+Pitch height | Altura primitiva | Высота расчетной
+линии | Distanza tra le linee primitive 	u 	mm 	0,686 	0,570 	0,686 	1,395 	0,686
+Nominal length | Longitud nominal
+Номинальная длина | Lunghezza nominale 	L p / L w 	mm
+Pitch length (tenths of an inch) | Longitud primi-
+tiva en 1/10 inch | Расчетная длина
+(1/10 дюйма) | Lunghezza primitiva in 1/10“
+Pitch length (mm) | Longitud primitiva en mm
+Расчетная длина (мм) | Lunghezza primitiva
+in mm
+Size designation (example) Ejemplo de dimensión | Обозначение размера (пример) | Sigla della dimensione (esempio)
+300 DH 075 (DH)
+300 	30 inch = 762,0 mm Pitch length | Longitud primitiva | Расчетная длина | Lunghezza primitiva
+D 	Double-sided timing belts | Correas de doble dentado | Двухсторонние зубчатые ремни | Cinghia dentata doppia
+H 	1/2 inch = 12,7 mm Tooth pitch | Perfi l de dientes | Шаг зубьев | Passo dei denti
+075 	0,75 inch = 19,05 mm Timing belt width | Anchura correa síncrona | Ширина зубчатого ремня | Larghezza della cinghia dentata
+DHTD 960 - D8M - 50 (HTD, STD)
+DHTD 	Profi le | Perfi l | Профиль | Sezione
+960 	960 mm Pitch length | Longitud primitiva | Расчетная длина | Lunghezza primitiva
+D 	Double-sided timing belts | Correas de doble dentado | Двухсторонние зубчатые ремни | Cinghia dentata doppia
+8M 	8 mm Tooth pitch | Perfi l de dientes | Шаг зубьев | Passo dei denti
+50 	50 mm Timing belt width | Anchura correa síncrona | Ширина зубчатого ремня | Larghezza della cinghia dentata
+DSTD	DH
+Heavy-duty variant CONTI® SYNCHROTWIN CXA for low speeds and high torque on request.
+Consultar variantes de alto rendimiento CONTI® SYNCHROTWIN CXA para bajas velocidades y altos pares.
+Усиленное исполнение CONTI® SYNCHROTWIN CXA для малых скоростей и высоких крутящих моментов: по запросу.
+Variante di alta effi cienza CONTI ® SYNCHROTWIN CXA per basse velocità ed alte coppie meccaniche su richiesta.
+
+-- 94 of 132 --
+
+95
+CONTI® SYNCHROTWIN
+L p / Lw 	Pitch length | Longitud primitiva | Расчетная длина | Lunghezza primitiva
+SW 	Sleeve width | Anchura de mangón | Ширина рукава | Larghezza del manicotto
+z 	Number of teeth | N° de dientes | Число зубьев | Numero di denti
+b 	Belt width | Anchura correa síncrona | Ширина зубчатого ремня | Larghezza della cinghia dentata
+EUR / pc. 	Price per piece | Precio por unidad | Цена за штуку | Prezzo per articolo
+EUR / sl. 	Price per sleeve | Precio por mangón | Цена за рукав | Prezzo per manicotto
+* 	On request (see page 6) | Bajo consulta (v. pág. 6) | По запросу (см. стр. 7) | Su richiesta (v. pag. 7)
+DHTD D5M
+L p / L w (mm) 	z 	b = 9 mm
+EUR / pc.
+b = 15 mm
+EUR / pc.
+b = 25 mm
+EUR / pc.
+SW
+(mm)
+EUR / sl.
+565 	113 	46,45 	69,36 	103,49 	440 ± 10mm 	1371,37
+600 	120 	47,42 	70,18 	105,27 	440 ± 10mm 	1403,55
+615 	123 	49,21 	70,18 	107,08 	440 ± 10mm 	1425,79
+620 	124 	49,21 	70,18 	107,08 	440 ± 10mm 	1425,79
+630 	126 	50,05 	72,76 	107,89 	440 ± 10mm 	1442,86
+635 	127 	50,05 	72,76 	107,89 	440 ± 10mm 	1442,86
+665 	133 	51,03 	75,38 	110,47 	440 ± 10mm 	1472,90
+700 	140 	51,84 	76,36 	114,05 	440 ± 10mm 	1522,29
+710 	142 	52,80 	77,18 	114,88 	440 ± 10mm 	1530,91
+740 	148 	53,60 	78,16 	118,44 	440 ± 10mm 	1566,34
+755 	151 	54,59 	78,97 	120,25 	440 ± 10mm 	1590,70
+800 	160 	57,19 	80,72 	122,82 	440 ± 10mm 	1643,34
+835 	167 	58,98 	84,16 	127,21 	440 ± 10mm 	1684,29
+840 	168 	59,32 	84,65 	127,96 	440 ± 10mm 	1690,57
+860 	172 	60,23 	86,14 	129,21 	440 ± 10mm 	1715,67
+890 	178 	61,75 	88,54 	131,62 	440 ± 10mm 	1753,32
+900 	180 	61,75 	88,54 	132,40 	440 ± 10mm 	1766,01
+925 	185 	62,54 	90,33 	136,00 	440 ± 10mm 	1812,30
+950 	190 	62,87 	91,20 	137,18 	440 ± 10mm 	1845,57
+1000 	200 	63,53 	92,93 	139,55 	440 ± 10mm 	1912,05
+1050 	210 	67,11 	96,50 	147,36 	440 ± 10mm 	1960,95
+1125 	225 	70,66 	102,67 	154,34 	440 ± 10mm 	2043,48
+1200 	240 	73,01 	106,64 	158,13 	440 ± 10mm 	2105,00
+1270 	254 	76,03 	107,89 	161,48 	440 ± 10mm 	2162,08
+1420 	284 	81,33 	119,95 	178,02 	440 ± 10mm 	2335,86
+1500 	300 	84,16 	126,39 	186,84 	440 ± 10mm 	2428,53
+1595 	319 	89,48 	134,41 	198,68 	440 ± 10mm 	2540,51
+1690 	338 	98,00 	142,99 	212,71 	440 ± 10mm 	2652,50
+2000 	400 	115,97 	169,20 	251,73 	440 ± 10mm 	3017,94
+DHTD D8M
+L p / L w (mm) 	z 	b = 20 mm
+EUR / pc.
+b = 30 mm
+EUR / pc.
+b = 50 mm
+EUR / pc.
+b = 85 mm
+EUR / pc.
+SW
+(mm)
+EUR / sl.
+600 	75 	77,00 	114,38 	191,37 	328,82 	440 ± 10mm 	1200,48
+624 	78 	79,28 	118,77 	196,59 	335,50 	440 ± 10mm 	1221,10
+640 	80 	80,72 	121,05 	203,24 	343,76 	440 ± 10mm 	1241,89
+656 	82 	83,67 	124,77 	206,97 	353,53 	440 ± 10mm 	1256,04
+720 	90 	88,22 	132,26 	219,00 	372,86 	440 ± 10mm 	1325,56
+776 	97 	91,12 	137,45 	229,40 	392,36 	440 ± 10mm 	1388,43
+784 	98 	92,61 	139,06 	231,68 	393,81 	440 ± 10mm 	1395,90
+800 	100 	93,41 	140,55 	234,60 	399,84 	440 ± 10mm 	1409,14
+880 	110 	99,42 	148,00 	246,63 	421,44 	440 ± 10mm 	1521,01
+912 	114 	103,81 	152,40 	255,54 	432,00 	440 ± 10mm 	1555,75
+920 	115 	104,64 	154,02 	257,81 	438,01 	440 ± 10mm 	1563,25
+960 	120 	106,90 	159,21 	264,51 	450,68 	440 ± 10mm 	1618,78
+1040 	130 	112,91 	170,44 	280,26 	482,04 	440 ± 10mm 	1751,36
+1120 	140 	121,05 	180,17 	298,93 	512,75 	440 ± 10mm 	1842,35
+1200 	150 	125,58 	189,75 	315,34 	538,07 	440 ± 10mm 	1932,85
+1280 	160 	135,34 	198,06 	332,58 	566,52 	440 ± 10mm 	2037,32
+1304 	163 	137,45 	203,24 	338,58 	573,98 	440 ± 10mm 	2058,75
+1328 	166 	139,06 	205,52 	343,76 	582,12 	440 ± 10mm 	2079,57
+1360 	170 	140,55 	207,81 	348,98 	591,87 	440 ± 10mm 	2114,32
+1424 	178 	142,79 	214,45 	358,73 	610,54 	440 ± 10mm 	2204,65
+1440 	180 	143,46 	215,91 	362,46 	616,56 	440 ± 10mm 	2218,61
+1520 	190 	151,34 	225,67 	378,54 	642,71 	440 ± 10mm 	2354,73
+
+-- 95 of 132 --
+
+96
+CONTI® SYNCHROTWIN
+DHTD D8M
+L p / Lw (mm) 	z 	b = 20 mm
+EUR / pc.
+b = 30 mm
+EUR / pc.
+b = 50 mm
+EUR / pc.
+b = 85 mm
+EUR / pc.
+SW
+(mm)
+EUR / sl.
+1600 	200 	159,21 	235,42 	394,62 	668,85 	440 ± 10mm 	2491,24
+1760 	220 	170,44 	255,54 	425,18 	722,63 	440 ± 10mm 	2679,22
+1800 	225 	173,33 	260,11 	434,92 	739,06 	440 ± 10mm 	2777,00
+2000 	250 	191,37 	286,94 	476,01 	810,05 	440 ± 10mm 	3049,46
+2248 	281 	208,52 	312,37 	517,88 	922,22 	440 ± 10mm 	3369,53
+2400 	300 	225,67 	335,59 	560,50 	958,11 	440 ± 10mm 	3585,78
+2600 	325 	237,15 	355,75 	592,90 	1007,82 	440 ± 10mm 	3870,32
+DHTD D14M
+Lp / L w (mm) 	z 	b = 40 mm
+EUR / pc.
+b = 55 mm
+EUR / pc.
+b = 85 mm
+EUR / pc.
+b = 115 mm
+EUR / pc.
+b = 170 mm
+EUR / pc.
+SW
+(mm)
+EUR / sl.
+966 	69 	514,97 	680,52 	1098,58 	1495,45 	2188,99 	410 ± 10 mm 	4057,54
+1190 	85 	553,06 	731,81 	1199,53 	1604,57 	2360,09 	410 ± 10 mm 	4548,92
+1400 	100 	606,12 	803,74 	1277,24 	1745,07 	2594,05 	410 ± 10 mm 	4932,50
+1610 	115 	652,46 	862,91 	1394,52 	1884,76 	2780,89 	410 ± 10 mm 	5309,27
+1778 	127 	701,00 	929,87 	1511,13 	2041,02 	2990,85 	410 ± 10 mm 	5713,58
+1890 	135 	726,42 	959,81 	1549,98 	2087,37 	3108,20 	410 ± 10 mm 	5901,65
+2100 	150 	776,53 	1026,01 	1659,09 	2235,34 	3310,72 	410 ± 10 mm 	6320,79
+2310 	165 	825,83 	1085,89 	1752,53 	2383,29 	3528,21 	410 ± 10 mm 	6746,48
+2450 	175 	858,70 	1125,81 	1814,82 	2481,93 	3673,21 	410 ± 10 mm 	7185,58
+DSTD DS8M
+L p / Lw (mm) 	z 	b = 20 mm
+EUR / pc.
+b = 30 mm
+EUR / pc.
+b = 50 mm
+EUR / pc.
+b = 85 mm
+EUR / pc.
+SW
+(mm)
+EUR / sl.
+600 	75 	79,73 	119,96 	200,43 	342,04 	440 ± 10 mm 	1196,75
+640 	80 	84,96 	125,94 	209,40 	359,19 	440 ± 10 mm 	1238,14
+656 	82 	87,18 	129,67 	215,36 	368,14 	440 ± 10 mm 	1252,11
+720 	90 	91,67 	137,12 	228,04 	387,51 	440 ± 10 mm 	1321,52
+760 	95 	93,90 	141,62 	236,26 	401,67 	440 ± 10 mm 	1370,31
+800 	100 	96,90 	146,10 	243,64 	415,12 	440 ± 10 mm 	1405,01
+848 	106 	100,61 	150,56 	251,86 	427,72 	440 ± 10 mm 	1475,02
+880 	110 	104,35 	153,49 	257,81 	438,18 	440 ± 10 mm 	1516,40
+960 	120 	110,26 	165,42 	275,74 	467,95 	440 ± 10 mm 	1613,88
+1000 	125 	114,00 	169,90 	283,97 	484,40 	440 ± 10 mm 	1690,63
+1056 	132 	122,95 	178,85 	296,57 	507,46 	440 ± 10 mm 	1760,10
+1064 	133 	122,95 	179,59 	298,07 	510,43 	440 ± 10 mm 	1766,77
+1072 	134 	122,95 	180,38 	299,56 	512,67 	440 ± 10 mm 	1788,11
+1120 	140 	124,44 	187,81 	319,72 	532,82 	440 ± 10 mm 	1836,79
+1136 	142 	125,94 	190,05 	319,72 	538,04 	440 ± 10 mm 	1850,15
+1160 	145 	127,50 	192,29 	320,44 	546,92 	440 ± 10 mm 	1885,87
+1168 	146 	127,50 	194,59 	323,34 	548,52 	440 ± 10 mm 	1892,65
+1176 	147 	128,14 	195,23 	324,98 	552,26 	440 ± 10 mm 	1899,30
+1184 	148 	129,59 	196,01 	325,62 	552,91 	440 ± 10 mm 	1913,22
+1200 	150 	131,22 	197,48 	328,72 	558,90 	440 ± 10 mm 	1927,32
+1216 	152 	133,31 	200,41 	332,42 	564,10 	440 ± 10 mm 	1948,06
+1240 	155 	135,60 	202,66 	338,27 	574,64 	440 ± 10 mm 	1982,73
+1256 	157 	137,06 	204,13 	341,99 	582,07 	440 ± 10 mm 	1996,66
+1264 	158 	138,66 	204,92 	342,78 	582,71 	440 ± 10 mm 	2004,10
+1280 	160 	140,13 	206,39 	345,71 	589,53 	440 ± 10 mm 	2031,49
+1296 	162 	140,77 	207,85 	348,77 	593,90 	440 ± 10 mm 	2045,41
+1304 	163 	141,59 	209,47 	351,69 	599,08 	440 ± 10 mm 	2052,87
+1312 	164 	141,59 	209,47 	353,16 	600,71 	440 ± 10 mm 	2066,14
+1344 	168 	143,04 	214,65 	360,61 	608,79 	440 ± 10 mm 	2094,19
+1368 	171 	146,13 	216,90 	365,96 	617,07 	440 ± 10 mm 	2122,19
+1400 	175 	148,24 	220,64 	369,67 	626,79 	440 ± 10 mm 	2170,98
+1408 	176 	148,24 	220,64 	370,34 	629,71 	440 ± 10 mm 	2184,90
+1440 	180 	150,50 	223,57 	375,53 	640,87 	440 ± 10 mm 	2212,29
+1480 	185 	153,56 	228,73 	384,60 	654,95 	440 ± 10 mm 	2289,06
+1512 	189 	159,40 	237,02 	397,84 	665,50 	440 ± 10 mm 	2344,47
+1552 	194 	163,15 	240,73 	403,86 	678,95 	440 ± 10 mm 	2407,31
+
+-- 96 of 132 --
+
+97
+CONTI® SYNCHROTWIN
+DSTD DS8M
+Lp / Lw (mm) 	z 	b = 20 mm
+EUR / pc.
+b = 30 mm
+EUR / pc.
+b = 50 mm
+EUR / pc.
+b = 85 mm
+EUR / pc.
+SW
+(mm)
+EUR / sl.
+1600 	200 	165,40 	244,45 	410,67 	695,31 	440 ± 10 mm 	2484,11
+1624 	203 	166,84 	248,82 	419,59 	706,49 	440 ± 10 mm 	2512,14
+1760 	220 	177,40 	263,71 	441,95 	751,21 	440 ± 10 mm 	2671,72
+1776 	222 	178,85 	265,99 	446,30 	757,83 	440 ± 10 mm 	2699,74
+1800 	225 	180,30 	270,54 	451,68 	768,37 	440 ± 10 mm 	2769,08
+1912 	239 	191,33 	282,47 	478,34 	812,16 	440 ± 10 mm 	2937,44
+2240 	280 	218,34 	324,54 	538,82 	916,59 	440 ± 10 mm 	3353,26
+2392 	299 	234,76 	350,24 	584,27 	986,64 	440 ± 10 mm 	3568,86
+DH
+Lp / L w
+(1/10 inch)
+L p (mm) 	z 	b = 075 =
+19,05 mm
+EUR / pc.
+b = 100 =
+25,40 mm
+EUR / pc.
+b = 150 =
+38,10 mm
+EUR / pc.
+b = 200 =
+50,80 mm
+EUR / pc.
+b = 300 =
+76,20 mm
+EUR / pc.
+SW
+(mm)
+EUR / sl.
+270 	685,8 	54 	59,14 	73,92 	105,77 	134,18 	193,82 	440 ± 10 mm 	822,90
+300 	762 	60 	63,22 	78,47 	113,23 	143,12 	208,79 	440 ± 10 mm 	854,09
+330 	838,2 	66 	67,27 	85,95 	122,33 	153,53 	224,20 	440 ± 10 mm 	915,98
+335 	850,9 	67 	67,91 	87,56 	122,82 	154,68 	226,48 	440 ± 10 mm 	947,17
+360 	914,4 	72 	70,18 	89,85 	128,00 	165,22 	232,50 	440 ± 10 mm 	977,72
+370 	939,8 	74 	72,45 	90,98 	130,32 	167,33 	239,79 	440 ± 10 mm 	990,06
+390 	990,6 	78 	76,03 	95,52 	137,12 	171,23 	251,33 	440 ± 10 mm 	1021,41
+420 	1066,8 	84 	79,62 	100,09 	147,36 	183,90 	270,68 	440 ± 10 mm 	1089,16
+450 	1143 	90 	82,52 	107,54 	153,53 	193,35 	285,61 	440 ± 10 mm 	1126,22
+480 	1219,2 	96 	87,08 	113,42 	158,75 	204,86 	300,56 	440 ± 10 mm 	1206,96
+510 	1295,4 	102 	90,02 	116,96 	164,90 	212,68 	312,11 	440 ± 10 mm 	1244,15
+540 	1371,6 	108 	96,84 	124,61 	174,00 	226,48 	330,95 	440 ± 10 mm 	1324,74
+570 	1447,8 	114 	102,19 	129,32 	179,67 	232,00 	342,00 	440 ± 10 mm 	1374,29
+600 	1524 	120 	107,08 	133,86 	189,93 	244,70 	358,55 	440 ± 10 mm 	1436,04
+630 	1600,2 	126 	110,64 	136,79 	203,71 	248,10 	370,11 	440 ± 10 mm 	1485,59
+660 	1676,4 	132 	117,30 	143,30 	215,75 	275,87 	400,98 	440 ± 10 mm 	1516,30
+700 	1778 	140 	126,07 	159,85 	225,98 	281,55 	422,56 	440 ± 10 mm 	1602,87
+730 	1854,2 	146 	132,40 	166,69 	230,89 	294,05 	440,11 	440 ± 10 mm 	1646,25
+750 	1905 	150 	138,08 	169,78 	236,22 	301,37 	451,49 	440 ± 10 mm 	1683,46
+
+-- 97 of 132 --
+
+98
+CONTI® SYNCHROTWIN CXP
+CONTI® SYNCHROTWIN CXP
+Heavy-duty double-sided timing belts for high speeds
+Correas sincronas de doble dentado y alto rendimiento
+para altas revoluciones
+Мощные двухсторонние зубчатые ремни для приводов
+с высокими скоростями вращения и большими
+крутящими моментами
+Cinghie dentate doppie ad alta efficienza per alti numeri di
+giri
+Properties
+- conditionally resistant to oil
+- temperature-resistant, depending on application, from -20°C to +100°C
+- electrically conductive to ISO 9563
+- suitable for tropical climates
+- resistant to aging and ozone
+Características
+- resistencia moderada a los aceites
+- resistentes a temperaturas , según aplicación, desde -20°C
+hasta +100°C
+- conductibilidad eléctrica según ISO 9563
+- resistente a climas tropicales
+- resistentes al envejecimiento y al ozono
+Свойства
+- относительная маслостойкость
+- устойчивость к воздействию температур от -20°C до +100°C
+- электропроводность согласно ISO 9563
+- пригодны для эксплуатации в тропических условиях
+- атмосферостойкость
+Proprietà
+- Relativamente resistenti all’olio
+- Resistenti a temperature comprese tra -20 °C e +100 °C in funzione
+dell’applicazione
+- Elettricamente conduttrici secondo ISO 9563
+- Resistenti al clima tropicale
+- Resistenti all’invecchiamento ed all’ozono
+DHTD D5M 	DHTD D8M 	DHTD D14M 	DSTD D8M
+Tooth pitch | Perfil de dientes
+Шаг зубьев | Passo dei denti 	t 	mm 	5 	8 	14 	8
+Belt thickness | Grosor de correa
+Толщина ремня | Spessore della cinghia 	hs 	mm 	5,4 	8,2 	15,2 	7,3
+Tooth height | Altura de diente
+Высота зуба | Altezza dei denti 	h t 	mm 	2,1 	3,4 	6,1 	3
+Pitch height | Altura primitiva
+Высота расчетной линии | Distanza tra le linee primitive 	u 	mm 	0,57 	0,686 	1,395 	0,686
+Nominal length | Longitud nominal
+Номинальная длина | Lunghezza nominale 	L p / L w mm 	Pitch length (mm) | Longitud primitiva en mm
+Расчетная длина (мм) | Lunghezza primitiva in mm
+Size designation (example) Ejemplo de dimensión | Обозначение размера (пример) | Sigla della dimensione (esempio)
+DHTD 960 - 8M - 50 CXP
+DHTD 	Profi le | Perfi l | Профиль | Sezione
+960 	960 mm Pitch length | Longitud primitiva | Расчетная длина | Lunghezza primitiva
+8M 	8 mm Tooth pitch | Perfi l de dientes | Шаг зубьев | Passo dei denti
+50 	50 mm Timing belt width | Anchura correa síncrona | Ширина зубчатого ремня | Larghezza della cinghia dentata
+CXP 	Design | Versión | Конструкция | Esecuzione
+DHTD 	DSTD
+
+-- 98 of 132 --
+
+99
+CONTI® SYNCHROTWIN CXP
+L p / Lw 	Pitch length | Longitud primitiva | Расчетная длина | Lunghezza primitiva
+SW 	Sleeve width | Anchura de mangón | Ширина рукава | Larghezza del manicotto
+MOQ (sl.) 	Minimum quantity (sleeves) | Cantidad mínima (mangón) | Минимальное количество (рукава) | Quantità minima (manicotti)
+z 	Number of teeth | N° de dientes | Число зубьев | Numero di denti
+b 	Belt width | Anchura correa síncrona | Ширина зубчатого ремня | Larghezza della cinghia dentata
+EUR / pc. 	Price per piece | Precio por unidad | Цена за штуку | Prezzo per articolo
+EUR / sl. 	Price per sleeve | Precio por mangón | Цена за рукав | Prezzo per manicotto
+* 	On request (see page 6) | Bajo consulta (v. pág. 6) | По запросу (см. стр. 7) | Su richiesta (v. pag. 7)
+DHTD D5M CXP
+L p / L w (mm) 	z 	b = 9 mm
+EUR / pc.
+b = 15 mm
+EUR / pc.
+b = 25 mm
+EUR / pc.
+SW
+(mm)
+MOQ
+(sl.)
+EUR / sl.
+565 	113 	64,99 	97,15 	144,93 	440 ± 10 mm 	1919,86
+600 	120 	66,44 	98,29 	147,36 	440 ± 10 mm 	1965,03
+615 	123 	68,89 	98,29 	149,95 	440 ± 10 mm 	1996,04
+620 	124 	68,89 	98,29 	149,95 	440 ± 10 mm 	1996,04
+630 	126 	70,02 	101,87 	151,10 	440 ± 10 mm 	2019,93
+635 	127 	70,02 	101,87 	151,10 	440 ± 10 mm 	2019,93
+665 	133 	71,48 	105,60 	154,68 	440 ± 10 mm 	2062,01
+700 	140 	72,64 	106,90 	159,71 	440 ± 10 mm 	2131,23
+710 	142 	73,92 	108,04 	160,84 	440 ± 10 mm 	2143,23
+740 	148 	75,06 	109,34 	165,88 	440 ± 10 mm 	2192,80
+755 	151 	76,36 	110,47 	168,32 	440 ± 10 mm 	2226,91
+800 	160 	80,09 	113,07 	171,90 	440 ± 10 mm 	2296,27
+835 	167 	82,52 	117,81 	178,06 	440 ± 10 mm 	2358,01
+840 	168 	83,04 	118,50 	179,12 	440 ± 10 mm 	2366,80
+860 	172 	85,01 	121,33 	183,38 	440 ± 10 mm 	2401,95
+890 	178 	86,43 	123,96 	184,22 	440 ± 10 mm 	2454,69
+900 	180 	86,43 	123,96 	185,37 	440 ± 10 mm 	2472,41
+925 	185 	87,56 	126,39 	190,40 	440 ± 10 mm 	2537,21
+950 	190 	88,00 	127,65 	192,08 	440 ± 10 mm 	2583,78
+1000 	200 	88,88 	130,14 	195,44 	440 ± 10 mm 	2676,95
+1050 	210 	93,90 	135,16 	206,34 	440 ± 10 mm 	2745,34
+1125 	225 	98,93 	143,78 	216,07 	440 ± 10 mm 	2860,87
+1200 	240 	102,21 	149,32 	221,36 	440 ± 10 mm 	2947,00
+1270 	254 	106,40 	151,10 	226,16 	440 ± 10 mm 	3027,37
+1420 	284 	113,81 	167,93 	249,25 	440 ± 10 mm 	3270,33
+1500 	300 	117,81 	176,95 	261,55 	440 ± 10 mm 	3399,91
+1595 	319 	122,52 	187,61 	276,20 	440 ± 10 mm 	3556,71
+1690 	338 	132,72 	199,35 	294,69 	440 ± 10 mm 	3713,49
+2000 	400 	157,06 	235,90 	348,76 	440 ± 10 mm 	4225,12
+DHTD D8M CXP
+L p / L w (mm) 	z 	b = 20 mm
+EUR / pc.
+b = 30 mm
+EUR / pc.
+b = 50 mm
+EUR / pc.
+b = 85 mm
+EUR / pc.
+SW
+(mm)
+MOQ
+(sl.)
+EUR / sl.
+600 	75 	107,89 	160,20 	267,90 	460,43 	440 ± 10 mm 	1680,72
+624 * 	78 	110,96 	166,20 	275,24 	469,68 	440 ± 10 mm 	3 	1709,46
+640 	80 	113,07 	169,45 	284,48 	481,22 	440 ± 10 mm 	1738,69
+656 * 	82 	117,13 	174,65 	289,83 	494,87 	440 ± 10 mm 	3 	1758,36
+720 	90 	123,49 	185,23 	306,57 	522,01 	440 ± 10 mm 	1855,86
+776 * 	97 	127,52 	192,35 	321,18 	549,30 	440 ± 10 mm 	3 	1943,72
+784 * 	98 	129,67 	194,64 	324,27 	551,38 	440 ± 10 mm 	3 	1954,30
+800 	100 	130,79 	196,75 	328,51 	559,69 	440 ± 10 mm 	1972,98
+880 	110 	139,24 	207,14 	345,24 	590,07 	440 ± 10 mm 	2129,44
+912 	114 	145,43 	213,33 	357,76 	604,86 	440 ± 10 mm 	2178,00
+920 * 	115 	146,54 	215,58 	360,97 	613,14 	440 ± 10 mm 	3 	2188,56
+960 	120 	149,61 	222,90 	370,25 	631,01 	440 ± 10 mm 	2266,39
+1040 	130 	158,09 	238,66 	392,36 	674,87 	440 ± 10 mm 	2451,91
+1120 	140 	169,45 	252,30 	418,50 	717,77 	440 ± 10 mm 	2579,29
+1200 	150 	175,80 	265,63 	441,41 	753,34 	440 ± 10 mm 	2706,03
+1280 	160 	189,43 	277,32 	465,63 	793,17 	440 ± 10 mm 	2852,24
+1304 	163 	192,35 	284,48 	474,06 	803,56 	440 ± 10 mm 	2882,30
+1328 * 	166 	194,64 	287,73 	481,22 	814,92 	440 ± 10 mm 	3 	2911,37
+1360 * 	170 	196,75 	291,00 	488,55 	828,58 	440 ± 10 mm 	3 	2960,12
+1424 	178 	200,00 	300,25 	502,19 	854,73 	440 ± 10 mm 	3086,51
+1440 	180 	200,81 	302,34 	507,38 	863,18 	440 ± 10 mm 	3106,00
+1520 * 	190 	211,85 	315,99 	529,97 	899,82 	440 ± 10 mm 	3 	3296,90
+
+-- 99 of 132 --
+
+100
+CONTI® SYNCHROTWIN CXP
+DHTD D8M CXP
+Lp / L w (mm) 	z 	b = 20 mm
+EUR / pc.
+b = 30 mm
+EUR / pc.
+b = 50 mm
+EUR / pc.
+b = 85 mm
+EUR / pc.
+SW
+(mm)
+MOQ
+(sl.)
+EUR / sl.
+1600 	200 	222,90 	329,63 	552,55 	936,46 	440 ± 10 mm 	3487,80
+1760 	220 	238,66 	357,76 	595,28 	1011,66 	440 ± 10 mm 	3750,84
+1800 	225 	242,75 	364,08 	608,91 	1034,74 	440 ± 10 mm 	3887,79
+2000 	250 	267,90 	401,62 	666,42 	1134,01 	440 ± 10 mm 	4269,44
+2248 	281 	291,92 	437,31 	725,05 	1291,11 	440 ± 10 mm 	4717,34
+2400 	300 	315,95 	469,83 	784,71 	1399,78 	440 ± 10 mm 	5020,08
+2600 	325 	333,63 	500,44 	834,04 	1448,15 	440 ± 10 mm 	5418,41
+DHTD D14M CXP
+Lp / L w (mm) 	z 	b = 40 mm
+EUR / pc.
+b = 55 mm
+EUR / pc.
+b = 85 mm
+EUR / pc.
+b = 115 mm
+EUR / pc.
+b = 170 mm
+EUR / pc.
+SW
+(mm)
+MOQ
+(sl.)
+EUR / sl.
+966 	69 	721,23 	996,95 	1537,33 	2094,03 	3064,08 	410 ± 10 mm 	5879,39
+1190 	85 	774,26 	1071,70 	1679,30 	2246,51 	3304,04 	410 ± 10 mm 	6368,48
+1400 	100 	848,26 	1177,81 	1788,42 	2443,08 	3631,34 	410 ± 10 mm 	6905,52
+1610 * 	115 	914,03 	1265,27 	1952,04 	2638,90 	3892,91 	410 ± 10 mm 	3 	7432,97
+1778 	127 	981,31 	1363,14 	2115,75 	2857,10 	4187,38 	410 ± 10 mm 	7999,03
+1890 	135 	1017,18 	1406,50 	2170,27 	2922,51 	4351,00 	410 ± 10 mm 	8262,30
+2100 	150 	1087,41 	1505,14 	2322,72 	3129,85 	4634,30 	410 ± 10 mm 	8849,11
+2310 	165 	1156,18 	1591,84 	2453,56 	3336,87 	4939,92 	410 ± 10 mm 	9445,04
+2450 	175 	1202,02 	1649,64 	2540,78 	3474,89 	5143,67 	410 ± 10 mm 	10059,80
+DSTD DS8M CXP
+Lp / L w (mm) 	z 	b = 20 mm
+EUR / pc.
+b = 30 mm
+EUR / pc.
+b = 50 mm
+EUR / pc.
+b = 85 mm
+EUR / pc.
+SW
+(mm)
+MOQ
+(sl.)
+EUR / sl.
+600 * 	75 	112,10 	168,14 	280,97 	479,77 	440 ± 10 mm 	3 	1680,07
+640 	80 	118,80 	176,34 	294,48 	503,71 	440 ± 10 mm 	1738,35
+656 	82 	121,79 	182,38 	301,92 	517,16 	440 ± 10 mm 	1757,72
+720 	90 	128,51 	192,82 	320,60 	544,10 	440 ± 10 mm 	1855,45
+760 	95 	132,30 	198,79 	331,80 	563,48 	440 ± 10 mm 	1924,41
+800 	100 	136,04 	204,77 	342,32 	582,16 	440 ± 10 mm 	1972,60
+848 * 	106 	142,03 	211,48 	353,51 	600,88 	440 ± 10 mm 	3 	2070,33
+880 * 	110 	146,49 	215,97 	361,70 	615,07 	440 ± 10 mm 	3 	2129,28
+960 * 	120 	154,70 	232,45 	387,16 	657,67 	440 ± 10 mm 	3 	2265,81
+1000 * 	125 	159,93 	239,17 	399,11 	680,81 	440 ± 10 mm 	3 	2373,51
+1056 * 	132 	172,61 	251,10 	416,27 	712,23 	440 ± 10 mm 	3 	2471,29
+1072 * 	134 	172,61 	253,36 	420,74 	719,70 	440 ± 10 mm 	3 	2510,06
+1120 * 	140 	174,12 	263,81 	449,18 	748,12 	440 ± 10 mm 	3 	2578,36
+1136 	142 	176,34 	266,80 	449,18 	755,58 	440 ± 10 mm 	2597,83
+1160 * 	145 	179,04 	270,03 	449,87 	767,82 	440 ± 10 mm 	3 	2647,84
+1168 	146 	179,04 	273,10 	453,93 	770,08 	440 ± 10 mm 	2657,28
+1176 	147 	179,85 	274,06 	456,21 	775,43 	440 ± 10 mm 	2666,54
+1184 	148 	181,96 	275,24 	457,18 	776,26 	440 ± 10 mm 	2686,19
+1200 * 	150 	184,22 	277,32 	461,57 	784,71 	440 ± 10 mm 	3 	2706,03
+1216 * 	152 	187,17 	281,38 	466,76 	792,03 	440 ± 10 mm 	3 	2734,93
+1240 	155 	190,40 	284,48 	474,89 	806,81 	440 ± 10 mm 	2783,67
+1256 * 	157 	192,35 	286,59 	480,08 	817,18 	440 ± 10 mm 	3 	2803,49
+1264 * 	158 	194,64 	287,73 	481,22 	818,17 	440 ± 10 mm 	3 	2813,73
+1280 * 	160 	196,75 	289,83 	485,43 	827,79 	440 ± 10 mm 	3 	2852,24
+1296 	162 	197,73 	291,77 	489,69 	833,77 	440 ± 10 mm 	2871,88
+1304 	163 	198,86 	294,05 	493,72 	841,10 	440 ± 10 mm 	2882,13
+1312 	164 	198,86 	294,05 	495,83 	843,35 	440 ± 10 mm 	2900,97
+1344 * 	168 	200,81 	301,37 	506,25 	854,73 	440 ± 10 mm 	3 	2940,29
+1368 * 	171 	205,19 	304,62 	513,89 	866,42 	440 ± 10 mm 	3 	2979,61
+1400 * 	175 	208,11 	309,82 	519,08 	880,09 	440 ± 10 mm 	3 	3047,99
+1408 * 	176 	208,11 	309,82 	519,87 	884,12 	440 ± 10 mm 	3 	3067,66
+1440 * 	180 	211,36 	313,89 	527,18 	899,73 	440 ± 10 mm 	3 	3106,18
+1480 	185 	215,58 	321,18 	540,02 	919,55 	440 ± 10 mm 	3213,89
+1512 * 	189 	223,87 	332,73 	558,57 	934,33 	440 ± 10 mm 	3 	3291,71
+1552 * 	194 	229,07 	337,94 	567,01 	953,20 	440 ± 10 mm 	3 	3379,93
+1600 * 	200 	232,16 	343,29 	576,59 	976,25 	440 ± 10 mm 	3 	3487,62
+
+-- 100 of 132 --
+
+101
+CONTI® SYNCHROTWIN CXP
+DSTD DS8M CXP
+L p / L w (mm) 	z 	b = 20 mm
+EUR / pc.
+b = 30 mm
+EUR / pc.
+b = 50 mm
+EUR / pc.
+b = 85 mm
+EUR / pc.
+SW
+(mm)
+MOQ
+(sl.)
+EUR / sl.
+1624 * 	203 	234,27 	349,29 	589,11 	991,85 	440 ± 10 mm 	3 	3526,95
+1760 * 	220 	249,08 	370,25 	620,47 	1054,72 	440 ± 10 mm 	3 	3750,99
+1776 * 	222 	251,17 	373,50 	626,63 	1063,98 	440 ± 10 mm 	3 	3790,46
+1800 * 	225 	253,12 	379,86 	634,11 	1078,75 	440 ± 10 mm 	3 	3887,79
+1912 * 	239 	267,88 	395,44 	669,69 	1137,03 	440 ± 10 mm 	3 	4121,39
+2240 * 	280 	305,66 	454,36 	754,33 	1283,22 	440 ± 10 mm 	3 	4707,98
+2392 * 	299 	328,67 	490,31 	817,98 	1381,28 	440 ± 10 mm 	3 	5261,29
+
+-- 101 of 132 --
+
+102
+CONTI® SYNCHROFLEX
+CONTI® SYNCHROFLEX
+Polyurethane timing belts for the lower and medium
+power range
+Correas de distribución de poliuretano para gama baja y
+media de rendimiento
+Полиуретановые зубчатые ремни для низких и средних
+нагрузок
+Cinghia dentata in poliuretano per potenze piccole e medie
+Properties
+- Constant length
+- Low-noise
+- Wear-resistance
+- High fl exibility
+- Fatigue-resistant
+- Hydrolysis-resistant
+- Aging-resistant
+- Temperature-resistant from -30°C to +80°C (please request technical
+advice for range under -10°C and above +50°C)
+- Resistant to oils, grease and carburetor fuel
+- Conditionally resistant to acid and lye
+Características
+- longitud constante
+- silenciosas
+- resistentes al desgaste
+- super flexibles
+- resistentes a la fatiga
+- estabilizadas a la hidrolisis
+- resistentes al envejecimiento
+- resistentes a temperaturas desde -30°C a +80°C (solicite asesoramiento
+técnico en gamas inferiores a –10°C y superiores a +50°C)
+- resistentes a los aceites, grasas y benzina sencillos
+- condicionadamente resistentes a los ácidos y bases
+Свойства
+- не растягиваются
+- низкий уровень шума
+- устойчивость к износу
+- высокая гибкость
+- устойчивость материала ремня к усталости
+- водостойкость
+- устойчивость к старению
+- устойчивость к воздействию температур от -30°C до +80°C (для
+диапазонов ниже -10°C и свыше +50°C обращайтесь за
+технической консультацией)
+- устойчивость к маслам, смазкам и бензину
+- относительная устойчивость к кислотам и щелочам
+Proprietà
+- Lunghezza costante
+- Silenziosa
+- Resistente all’abrasione
+- Alta flessibilità
+- Resistente alla fatica
+- Stabilizzata all’idrolisi
+- Resistente all’invecchiamento
+- Resistente a temperature comprese tra -30 °C e +80 °C (per
+temperatura minori di -10 °C e maggiori di +50 °C si prega di richiedere
+la consulenza tecnica)
+- Resistente agli oli semplici, ai grassi ed alla benzina
+- Relativamente resistente ad acidi e basi
+AT 3 	AT 5 	AT 10 	AT 20 	T 2 	T 2,5 	T 2,5-DL 	T 5 	T 5-DL
+Tooth pitch | Perfil de dientes
+Шаг зубьев | Passo dei denti 	t 	mm 	3 	5 	10 	20 	2 	2,5 	2,5 	5 	5
+Belt thickness | Grosor de correa
+Толщина ремня | Spessore della cinghia 	hs 	mm 	1,9 	2,7 	5 	9 	1,1 	1,3 	2 	2,2 	3,4
+Tooth height | Altura de diente
+Высота зуба | Altezza dei denti 	h t 	mm 	1,1 	1,2 	1,5 	5 	0,5 	0,7 	0,7 	1,2 	1,2
+T 10 	T 10-DL 	T 20 	T 20-DL 	M (MXL) 	K 1 	K 1,5
+Tooth pitch | Perfil de dientes
+Шаг зубьев | Passo dei denti 	t 	mm 	10 	10 	20 	20 	2,032 	1 	1,5
+Belt thickness | Grosor de correa
+Толщина ремня | Spessore della cinghia 	hs 	mm 	4,5 	7 	8 	13 	1,15 	0,95 	1,2
+Tooth height | Altura de diente
+Высота зуба | Altezza dei denti 	h t 	mm 	1,1 	1,2 	1,5 	5 	0,5 	0,7 	0,7
+AT 	T 	T-DL
+K 	M
+
+-- 102 of 132 --
+
+103
+CONTI® SYNCHROFLEX
+L p / L w 	Pitch length | Longitud primitiva | Расчетная длина | Lunghezza primitiva
+b 	Belt width | Anchura correa síncrona | Ширина зубчатого ремня | Larghezza della cinghia dentata
+AT 3
+L p / L w (mm) b (mm)
+150 	6
+150 	8
+150 	10
+150 	12
+150 	16
+150 	20
+150 	25
+150 	32
+150 	50
+150 	100
+150 	150
+201 	6
+201 	8
+201 	10
+201 	12
+201 	16
+201 	20
+201 	25
+201 	32
+201 	50
+201 	100
+201 	200
+252 	6
+252 	8
+252 	10
+252 	12
+252 	16
+252 	20
+252 	25
+252 	32
+252 	50
+252 	160
+252 	200
+267 	6
+267 	8
+267 	10
+267 	12
+267 	16
+267 	20
+267 	25
+267 	32
+267 	50
+267 	200
+270 	6
+270 	8
+270 	10
+270 	12
+270 	16
+270 	20
+270 	25
+270 	32
+270 	50
+270 	100
+270 	160
+300 	6
+300 	8
+L p / L w (mm) b (mm)
+300 	10
+300 	12
+300 	16
+300 	20
+300 	25
+300 	32
+300 	50
+300 	100
+300 	160
+300 	200
+351 	6
+351 	8
+351 	10
+351 	12
+351 	16
+351 	20
+351 	25
+351 	32
+351 	50
+351 	160
+351 	200
+399 	6
+399 	8
+399 	10
+399 	12
+399 	16
+399 	20
+399 	25
+399 	32
+399 	50
+399 	100
+399 	200
+417 	6
+417 	8
+417 	10
+417 	12
+417 	16
+417 	20
+417 	25
+417 	32
+417 	50
+417 	200
+450 	6
+450 	8
+450 	10
+450 	12
+450 	16
+450 	20
+450 	25
+450 	32
+450 	50
+450 	200
+501 	6
+501 	8
+501 	10
+501 	12
+AT 3
+L p / L w (mm) b (mm)
+501 	16
+501 	20
+501 	25
+501 	32
+501 	50
+501 	105
+501 	200
+549 	6
+549 	8
+549 	10
+549 	12
+549 	16
+549 	20
+549 	25
+549 	32
+549 	50
+549 	100
+549 	200
+600 	6
+600 	8
+600 	10
+600 	12
+600 	16
+600 	20
+600 	25
+600 	32
+600 	50
+600 	200
+639 	6
+639 	8
+639 	10
+639 	12
+639 	16
+639 	20
+639 	25
+639 	32
+639 	50
+639 	200
+648 	6
+648 	8
+648 	10
+648 	12
+648 	16
+648 	20
+648 	25
+648 	32
+648 	50
+648 	200
+816 	6
+816 	8
+816 	10
+816 	12
+816 	16
+816 	20
+816 	25
+816 	32
+AT 3
+Lp / L w (mm) b (mm)
+816 	50
+816 	100
+900 	6
+900 	8
+900 	10
+900 	12
+900 	16
+900 	20
+900 	25
+900 	32
+900 	50
+900 	200
+1011 	6
+1011 	8
+1011 	10
+1011 	12
+1011 	16
+1011 	20
+1011 	25
+1011 	32
+1011 	50
+1011 	160
+AT 5
+Lp / L w (mm) b (mm)
+225 	6
+225 	8
+225 	10
+225 	12
+225 	16
+225 	20
+225 	25
+225 	32
+225 	50
+225 	100
+225 	200
+255 	6
+255 	8
+255 	10
+255 	12
+255 	16
+255 	20
+255 	25
+255 	32
+255 	50
+255 	100
+255 	200
+260 	6
+260 	8
+260 	10
+260 	12
+260 	16
+260 	20
+260 	25
+260 	32
+AT 3
+L p / Lw (mm) b (mm)
+260 	50
+260 	100
+260 	200
+280 	6
+280 	8
+280 	10
+280 	12
+280 	16
+280 	20
+280 	25
+280 	32
+280 	50
+280 	100
+280 	200
+300 	6
+300 	8
+300 	10
+300 	12
+300 	16
+300 	20
+300 	25
+300 	32
+300 	50
+300 	100
+300 	200
+330 	6
+330 	8
+330 	10
+330 	12
+330 	16
+330 	20
+330 	25
+330 	32
+330 	50
+330 	100
+330 	200
+340 	6
+340 	8
+340 	10
+340 	12
+340 	16
+340 	20
+340 	25
+340 	32
+340 	50
+340 	100
+340 	200
+375 	6
+375 	8
+375 	10
+375 	12
+375 	16
+375 	20
+375 	25
+375 	32
+375 	50
+AT 5
+L p / L w (mm) b (mm)
+375 	100
+375 	200
+390 	6
+390 	8
+390 	10
+390 	12
+390 	16
+390 	20
+390 	25
+390 	32
+390 	50
+390 	100
+390 	200
+420 	6
+420 	8
+420 	10
+420 	12
+420 	16
+420 	20
+420 	25
+420 	32
+420 	50
+420 	100
+420 	200
+420 	300
+450 	6
+450 	8
+450 	10
+450 	12
+450 	16
+450 	20
+450 	25
+450 	32
+450 	50
+450 	100
+450 	200
+450 	300
+455 	6
+455 	8
+455 	10
+455 	12
+455 	16
+455 	20
+455 	25
+455 	32
+455 	50
+455 	100
+455 	200
+455 	300
+480 	6
+480 	8
+480 	10
+480 	12
+480 	16
+480 	20
+480 	25
+AT 5
+Sale limited in Spain. Get in touch with us.
+Ventas sujetas a limitación en España. Póngase en contacto con nosotros.
+Действуют ограничения на реализацию в Испании. Обращайтесь к нам.
+Vendita in Spagna soggetta a limitazioni. Contattateci.
+
+-- 103 of 132 --
+
+104
+CONTI® SYNCHROFLEX
+Lp / L w (mm) b (mm)
+480 	32
+480 	50
+480 	100
+480 	200
+490 	6
+490 	8
+490 	10
+490 	12
+490 	16
+490 	20
+490 	25
+490 	32
+490 	50
+490 	200
+500 	6
+500 	8
+500 	10
+500 	12
+500 	16
+500 	20
+500 	25
+500 	32
+500 	50
+500 	100
+500 	200
+525 	6
+525 	8
+525 	10
+525 	12
+525 	16
+525 	20
+525 	25
+525 	32
+525 	50
+525 	100
+525 	200
+545 	6
+545 	8
+545 	10
+545 	12
+545 	16
+545 	20
+545 	25
+545 	32
+545 	50
+545 	100
+545 	200
+600 	6
+600 	8
+600 	10
+600 	12
+600 	16
+600 	20
+600 	25
+600 	32
+600 	50
+600 	100
+600 	200
+600 	300
+610 	6
+610 	8
+610 	10
+610 	12
+610 	16
+L p / Lw (mm) b (mm)
+610 	20
+610 	25
+610 	32
+610 	50
+610 	100
+610 	200
+620 	6
+620 	8
+620 	10
+620 	12
+620 	16
+620 	20
+620 	25
+620 	32
+620 	50
+620 	100
+620 	200
+630 	6
+630 	8
+630 	10
+630 	12
+630 	16
+630 	20
+630 	25
+630 	32
+630 	50
+630 	100
+630 	200
+630 	300
+660 	6
+660 	8
+660 	10
+660 	12
+660 	16
+660 	20
+660 	25
+660 	32
+660 	50
+660 	100
+660 	200
+670 	6
+670 	8
+670 	10
+670 	12
+670 	16
+670 	20
+670 	25
+670 	32
+670 	50
+670 	100
+670 	200
+690 	6
+690 	8
+690 	10
+690 	12
+690 	16
+690 	20
+690 	25
+690 	32
+690 	50
+690 	100
+690 	200
+710 	6
+710 	8
+L p / L w (mm) b (mm)
+710 	10
+710 	12
+710 	16
+710 	20
+710 	25
+710 	32
+710 	50
+710 	100
+710 	200
+720 	6
+720 	8
+720 	10
+720 	12
+720 	16
+720 	20
+720 	25
+720 	32
+720 	50
+720 	100
+720 	200
+750 	6
+750 	8
+750 	10
+750 	12
+750 	16
+750 	20
+750 	25
+750 	32
+750 	50
+750 	100
+750 	200
+780 	6
+780 	8
+780 	10
+780 	12
+780 	16
+780 	20
+780 	25
+780 	32
+780 	50
+780 	100
+780 	200
+780 	300
+825 	6
+825 	8
+825 	10
+825 	12
+825 	16
+825 	20
+825 	25
+825 	32
+825 	50
+825 	100
+825 	200
+860 	6
+860 	8
+860 	10
+860 	12
+860 	14
+860 	16
+860 	20
+860 	25
+860 	32
+860 	50
+L p / L w (mm) b (mm)
+860 	100
+860 	200
+875 	6
+875 	8
+875 	10
+875 	12
+875 	16
+875 	20
+875 	25
+875 	32
+875 	50
+875 	100
+875 	200
+900 	6
+900 	8
+900 	10
+900 	12
+900 	16
+900 	20
+900 	25
+900 	32
+900 	50
+900 	100
+900 	200
+920 	6
+920 	8
+920 	10
+920 	12
+920 	16
+920 	20
+920 	25
+920 	32
+920 	50
+920 	100
+920 	200
+975 	6
+975 	8
+975 	10
+975 	12
+975 	16
+975 	20
+975 	25
+975 	32
+975 	50
+975 	100
+975 	200
+1050 	6
+1050 	8
+1050 	10
+1050 	12
+1050 	16
+1050 	20
+1050 	25
+1050 	32
+1050 	50
+1050 	100
+1050 	200
+1125 	6
+1125 	8
+1125 	10
+1125 	12
+1125 	16
+1125 	20
+1125 	25
+AT 5 	AT 5 	AT 5 	AT 5
+L p / L w (mm) b (mm)
+1125 	32
+1125 	50
+1125 	100
+1125 	200
+1230 	6
+1230 	8
+1230 	10
+1230 	12
+1230 	16
+1230 	20
+1230 	25
+1230 	32
+1230 	50
+1230 	100
+1230 	200
+1500 	6
+1500 	8
+1500 	10
+1500 	12
+1500 	16
+1500 	20
+1500 	25
+1500 	32
+1500 	50
+1500 	100
+1500 	200
+1750 	6
+1750 	8
+1750 	10
+1750 	12
+1750 	16
+1750 	20
+1750 	25
+1750 	32
+1750 	50
+1750 	100
+1750 	200
+2000 	6
+2000 	8
+2000 	10
+2000 	12
+2000 	16
+2000 	20
+2000 	25
+2000 	32
+2000 	50
+2000 	100
+2000 	200
+AT 10
+L p / L w (mm) b (mm)
+500 	16
+500 	20
+500 	25
+500 	32
+500 	50
+500 	60
+500 	75
+500 	100
+500 	200
+560 	16
+560 	20
+560 	25
+AT 5
+L p / L w (mm) b (mm)
+560 	32
+560 	50
+560 	60
+560 	75
+560 	100
+560 	200
+560 	300
+570 	16
+570 	20
+570 	25
+570 	32
+570 	50
+570 	60
+570 	75
+570 	100
+570 	200
+570 	300
+580 	16
+580 	20
+580 	25
+580 	32
+580 	50
+580 	60
+580 	75
+580 	100
+580 	200
+600 	16
+600 	20
+600 	25
+600 	32
+600 	50
+600 	60
+600 	75
+600 	100
+600 	200
+610 	16
+610 	20
+610 	25
+610 	32
+610 	50
+610 	60
+610 	75
+610 	100
+610 	200
+660 	16
+660 	20
+660 	25
+660 	32
+660 	50
+660 	60
+660 	75
+660 	100
+660 	200
+700 	16
+700 	20
+700 	25
+700 	32
+700 	50
+700 	60
+700 	75
+700 	100
+700 	200
+730 	16
+730 	20
+AT 10
+
+-- 104 of 132 --
+
+105
+CONTI® SYNCHROFLEX
+L p / L w (mm) b (mm)
+730 	25
+730 	32
+730 	50
+730 	60
+730 	75
+730 	100
+730 	200
+780 	16
+780 	20
+780 	25
+780 	32
+780 	50
+780 	60
+780 	75
+780 	100
+780 	200
+800 	16
+800 	20
+800 	25
+800 	32
+800 	50
+800 	60
+800 	75
+800 	100
+800 	200
+800 	300
+840 	16
+840 	20
+840 	25
+840 	32
+840 	50
+840 	60
+840 	75
+840 	100
+840 	200
+880 	16
+880 	20
+880 	25
+880 	32
+880 	50
+880 	60
+880 	75
+880 	100
+880 	200
+890 	16
+890 	20
+890 	25
+890 	32
+890 	50
+890 	60
+890 	75
+890 	100
+890 	200
+920 	16
+920 	20
+920 	25
+920 	32
+920 	50
+920 	60
+920 	75
+920 	100
+920 	200
+960 	16
+960 	20
+L p / L w (mm) b (mm)
+960 	25
+960 	32
+960 	50
+960 	60
+960 	75
+960 	100
+960 	200
+980 	16
+980 	20
+980 	25
+980 	32
+980 	50
+980 	60
+980 	75
+980 	100
+980 	200
+1000 	16
+1000 	20
+1000 	25
+1000 	32
+1000 	50
+1000 	60
+1000 	75
+1000 	100
+1000 	200
+1010 	16
+1010 	20
+1010 	25
+1010 	32
+1010 	50
+1010 	60
+1010 	75
+1010 	100
+1010 	200
+1050 	16
+1050 	20
+1050 	25
+1050 	32
+1050 	50
+1050 	60
+1050 	75
+1050 	100
+1050 	200
+1080 	16
+1080 	20
+1080 	25
+1080 	32
+1080 	50
+1080 	60
+1080 	75
+1080 	100
+1080 	200
+1100 	16
+1100 	20
+1100 	25
+1100 	32
+1100 	50
+1100 	60
+1100 	75
+1100 	100
+1100 	200
+1150 	16
+1150 	20
+1150 	25
+L p / L w (mm) b (mm)
+1150 	32
+1150 	50
+1150 	60
+1150 	75
+1150 	100
+1150 	200
+1200 	16
+1200 	20
+1200 	25
+1200 	32
+1200 	50
+1200 	60
+1200 	75
+1200 	100
+1200 	200
+1210 	16
+1210 	20
+1210 	25
+1210 	32
+1210 	50
+1210 	60
+1210 	75
+1210 	100
+1210 	200
+1250 	16
+1250 	20
+1250 	25
+1250 	32
+1250 	50
+1250 	60
+1250 	75
+1250 	100
+1250 	200
+1280 	16
+1280 	20
+1280 	25
+1280 	32
+1280 	50
+1280 	60
+1280 	75
+1280 	100
+1280 	200
+1300 	16
+1300 	20
+1300 	25
+1300 	32
+1300 	50
+1300 	60
+1300 	75
+1300 	100
+1300 	200
+1320 	16
+1320 	20
+1320 	25
+1320 	32
+1320 	50
+1320 	60
+1320 	75
+1320 	100
+1320 	200
+1350 	16
+1350 	20
+1350 	25
+1350 	32
+AT 10 	AT 10 	AT 10
+Lp / L w (mm) b (mm)
+1350 	50
+1350 	60
+1350 	75
+1350 	100
+1350 	200
+1360 	16
+1360 	20
+1360 	25
+1360 	32
+1360 	50
+1360 	60
+1360 	75
+1360 	100
+1360 	200
+1400 	16
+1400 	20
+1400 	25
+1400 	32
+1400 	50
+1400 	60
+1400 	75
+1400 	100
+1400 	200
+1480 	16
+1480 	20
+1480 	25
+1480 	32
+1480 	50
+1480 	60
+1480 	75
+1480 	100
+1480 	200
+1500 	16
+1500 	20
+1500 	25
+1500 	32
+1500 	50
+1500 	60
+1500 	75
+1500 	100
+1500 	200
+1600 	16
+1600 	20
+1600 	25
+1600 	32
+1600 	50
+1600 	60
+1600 	75
+1600 	100
+1600 	200
+1700 	16
+1700 	20
+1700 	25
+1700 	32
+1700 	50
+1700 	60
+1700 	75
+1700 	100
+1700 	200
+1720 	16
+1720 	20
+1720 	25
+1720 	32
+1720 	50
+AT 10
+L p / Lw (mm) b (mm)
+1720 	60
+1720 	75
+1720 	100
+1720 	200
+1800 	16
+1800 	20
+1800 	25
+1800 	32
+1800 	50
+1800 	60
+1800 	75
+1800 	100
+1800 	200
+1860 	16
+1860 	20
+1860 	25
+1860 	32
+1860 	50
+1860 	60
+1860 	75
+1860 	100
+1860 	200
+1940 	16
+1940 	20
+1940 	25
+1940 	32
+1940 	50
+1940 	60
+1940 	75
+1940 	100
+1940 	200
+AT 20
+L p / Lw (mm) b (mm)
+1000 	25
+1000 	32
+1000 	50
+1000 	60
+1000 	75
+1000 	100
+1000 	200
+1100 	25
+1100 	32
+1100 	50
+1100 	60
+1100 	75
+1100 	100
+1100 	200
+1200 	25
+1200 	32
+1200 	50
+1200 	60
+1200 	75
+1200 	100
+1200 	200
+1260 	25
+1260 	32
+1260 	50
+1260 	60
+1260 	75
+1260 	100
+1260 	200
+L p / L w (mm) b (mm)
+1500 	25
+1500 	32
+1500 	50
+1500 	60
+1500 	75
+1500 	100
+1500 	200
+1600 	25
+1600 	32
+1600 	50
+1600 	60
+1600 	75
+1600 	100
+1600 	200
+1700 	25
+1700 	32
+1700 	50
+1700 	60
+1700 	75
+1700 	100
+1700 	200
+1760 	25
+1760 	32
+1760 	50
+1760 	60
+1760 	75
+1760 	100
+1760 	200
+1800 	25
+1800 	32
+1800 	50
+1800 	60
+1800 	75
+1800 	100
+1800 	200
+1900 	25
+1900 	32
+1900 	50
+1900 	60
+1900 	75
+1900 	100
+1900 	200
+1960 	25
+1960 	32
+1960 	50
+1960 	60
+1960 	75
+1960 	100
+1960 	200
+AT 20	AT 10
+
+-- 105 of 132 --
+
+106
+CONTI® SYNCHROFLEX
+T 2
+Lp / L w (mm) b (mm)
+68 	6
+68 	8
+68 	10
+68 	12
+68 	16
+68 	100
+90 	6
+90 	8
+90 	10
+90 	12
+90 	16
+90 	50
+90 	80
+90 	120
+108 	6
+108 	8
+108 	10
+108 	12
+108 	16
+108 	100
+118 	6
+118 	8
+118 	10
+118 	12
+118 	16
+118 	100
+120 	6
+120 	8
+120 	10
+120 	12
+120 	16
+120 	100
+120 	150
+120 	200
+138 	6
+138 	8
+138 	10
+138 	12
+138 	16
+138 	105
+140 	6
+140 	8
+140 	10
+140 	12
+140 	16
+140 	100
+144 	6
+144 	8
+144 	10
+144 	12
+144 	16
+144 	100
+150 	6
+150 	8
+150 	10
+150 	12
+150 	16
+150 	105
+160 	6
+160 	8
+160 	10
+160 	12
+160 	16
+160 	100
+L p / Lw (mm) b (mm)
+160 	150
+160 	200
+180 	6
+180 	8
+180 	10
+180 	12
+180 	16
+180 	100
+200 	6
+200 	8
+200 	10
+200 	12
+200 	16
+200 	100
+220 	6
+220 	8
+220 	10
+220 	12
+220 	16
+220 	100
+240 	6
+240 	8
+240 	10
+240 	12
+240 	16
+240 	105
+240 	200
+256 	6
+256 	8
+256 	10
+256 	12
+256 	16
+256 	100
+262 	6
+262 	8
+262 	10
+262 	12
+262 	16
+262 	160
+280 	6
+280 	8
+280 	10
+280 	12
+280 	16
+280 	100
+292 	6
+292 	8
+292 	10
+292 	12
+292 	16
+292 	100
+320 	6
+320 	8
+320 	10
+320 	12
+320 	16
+320 	110
+360 	6
+360 	8
+360 	10
+360 	12
+360 	16
+360 	100
+600 	6
+T 2
+L p / L w (mm) b (mm)
+600 	8
+600 	10
+600 	12
+600 	16
+600 	200
+710 	6
+710 	8
+710 	10
+710 	12
+710 	16
+710 	200
+T 2,5
+L p / L w (mm) b (mm)
+120 	6
+120 	8
+120 	10
+120 	12
+120 	16
+120 	100
+120 	160
+145 	6
+145 	8
+145 	10
+145 	12
+145 	16
+145 	100
+145 	180
+160 	6
+160 	8
+160 	10
+160 	12
+160 	16
+160 	100
+160 	200
+177 	6
+177 	8
+177 	10
+177 	12
+177 	16
+177 	110
+177 	200
+180 	6
+180 	8
+180 	10
+180 	12
+180 	16
+180 	110
+180 	200
+182 	6
+182 	8
+182 	10
+182 	12
+182 	16
+182 	110
+200 	6
+200 	8
+200 	10
+200 	12
+200 	16
+200 	100
+200 	160
+L p / L w (mm) b (mm)
+200 	200
+225 	6
+225 	8
+225 	10
+225 	12
+225 	16
+225 	200
+230 	6
+230 	8
+230 	10
+230 	12
+230 	16
+230 	100
+230 	200
+245 	6
+245 	8
+245 	10
+245 	12
+245 	16
+245 	100
+245 	200
+250 	6
+250 	8
+250 	10
+250 	12
+250 	16
+250 	200
+265 	6
+265 	8
+265 	10
+265 	12
+265 	16
+265 	100
+265 	120
+265 	200
+285 	6
+285 	8
+285 	10
+285 	12
+285 	16
+285 	125
+285 	200
+290 	6
+290 	8
+290 	10
+290 	12
+290 	16
+290 	100
+290 	200
+305 	6
+305 	8
+305 	10
+305 	12
+305 	16
+305 	160
+317 	6
+317 	8
+317 	10
+317 	12
+317 	16
+317 	200
+330 	6
+330 	8
+330 	10
+L p / L w (mm) b (mm)
+330 	12
+330 	16
+330 	100
+330 	200
+380 	6
+380 	8
+380 	10
+380 	12
+380 	16
+380 	100
+380 	105
+380 	200
+395 	6
+395 	8
+395 	10
+395 	12
+395 	16
+395 	120
+420 	6
+420 	8
+420 	10
+420 	12
+420 	16
+420 	135
+420 	160
+480 	6
+480 	8
+480 	10
+480 	12
+480 	16
+480 	105
+480 	160
+480 	200
+500 	6
+500 	8
+500 	10
+500 	12
+500 	16
+500 	100
+500 	200
+540 	6
+540 	8
+540 	10
+540 	12
+540 	16
+540 	200
+600 	6
+600 	8
+600 	10
+600 	12
+600 	16
+600 	200
+620 	6
+620 	8
+620 	10
+620 	12
+620 	16
+620 	205
+650 	6
+650 	8
+650 	10
+650 	12
+650 	16
+650 	100
+T 2 	T 2,5 	T 2,5
+L p / L w (mm) b (mm)
+650 	200
+780 	6
+780 	8
+780 	10
+780 	12
+780 	16
+780 	100
+950 	6
+950 	8
+950 	10
+950 	12
+950 	16
+950 	100
+1300 	6
+1300 	8
+1300 	10
+1300 	12
+1300 	16
+1300 	200
+T 2,5 - DL
+L p / L w (mm) b (mm)
+317 	6
+317 	8
+317 	10
+317 	12
+317 	16
+317 	100
+415 	6
+415 	8
+415 	10
+415 	12
+415 	16
+415 	120
+457 	6
+457 	8
+457 	10
+457 	12
+457 	16
+457 	105
+T 5
+L p / L w (mm) b (mm)
+100 	6
+100 	8
+100 	10
+100 	12
+100 	16
+100 	20
+100 	25
+100 	32
+100 	50
+100 	100
+150 	6
+150 	8
+150 	10
+150 	12
+150 	16
+150 	20
+150 	25
+150 	32
+T 2,5
+
+-- 106 of 132 --
+
+107
+CONTI® SYNCHROFLEX
+L p / L w (mm) b (mm)
+150 	50
+150 	100
+165 	6
+165 	8
+165 	10
+165 	12
+165 	16
+165 	20
+165 	25
+165 	32
+165 	50
+165 	160
+180 	6
+180 	8
+180 	10
+180 	12
+180 	16
+180 	20
+180 	25
+180 	32
+180 	50
+180 	160
+185 	6
+185 	8
+185 	10
+185 	12
+185 	16
+185 	20
+185 	25
+185 	32
+185 	50
+185 	120
+185 	160
+200 	6
+200 	8
+200 	10
+200 	12
+200 	16
+200 	20
+200 	25
+200 	32
+200 	50
+200 	120
+200 	160
+200 	200
+210 	6
+210 	8
+210 	10
+210 	12
+210 	16
+210 	20
+210 	25
+210 	32
+210 	50
+210 	160
+215 	6
+215 	8
+215 	10
+215 	12
+215 	16
+215 	20
+215 	25
+215 	32
+215 	50
+L p / L w (mm) b (mm)
+215 	120
+215 	160
+220 	6
+220 	8
+220 	10
+220 	12
+220 	16
+220 	20
+220 	25
+220 	32
+220 	50
+220 	145
+220 	160
+220 	200
+225 	6
+225 	8
+225 	10
+225 	12
+225 	16
+225 	20
+225 	25
+225 	32
+225 	50
+225 	120
+225 	155
+245 	6
+245 	8
+245 	10
+245 	12
+245 	16
+245 	20
+245 	25
+245 	32
+245 	50
+245 	120
+245 	150
+245 	160
+245 	200
+250 	6
+250 	8
+250 	10
+250 	12
+250 	16
+250 	20
+250 	25
+250 	32
+250 	50
+250 	200
+255 	6
+255 	8
+255 	10
+255 	12
+255 	16
+255 	20
+255 	25
+255 	32
+255 	50
+255 	120
+260 	6
+260 	8
+260 	10
+260 	12
+260 	16
+260 	20
+L p / L w (mm) b (mm)
+260 	25
+260 	32
+260 	50
+260 	120
+260 	160
+270 	6
+270 	8
+270 	10
+270 	12
+270 	16
+270 	20
+270 	25
+270 	32
+270 	50
+270 	160
+270 	200
+280 	6
+280 	8
+280 	10
+280 	12
+280 	16
+280 	20
+280 	25
+280 	32
+280 	50
+280 	130
+280 	160
+280 	200
+295 	6
+295 	8
+295 	10
+295 	12
+295 	16
+295 	20
+295 	25
+295 	32
+295 	50
+295 	130
+295 	150
+295 	200
+305 	6
+305 	8
+305 	10
+305 	12
+305 	16
+305 	20
+305 	25
+305 	32
+305 	50
+305 	120
+305 	200
+330 	6
+330 	8
+330 	10
+330 	12
+330 	16
+330 	20
+330 	25
+330 	32
+330 	50
+330 	200
+340 	6
+340 	8
+340 	10
+Lp / L w (mm) b (mm)
+340 	12
+340 	16
+340 	20
+340 	25
+340 	32
+340 	50
+340 	120
+340 	160
+340 	200
+355 	6
+355 	8
+355 	10
+355 	12
+355 	16
+355 	20
+355 	25
+355 	32
+355 	50
+355 	160
+355 	200
+365 	6
+365 	8
+365 	10
+365 	12
+365 	16
+365 	20
+365 	25
+365 	32
+365 	50
+365 	120
+365 	160
+365 	200
+390 	6
+390 	8
+390 	10
+390 	12
+390 	16
+390 	20
+390 	25
+390 	32
+390 	50
+390 	120
+390 	200
+400 	6
+400 	8
+400 	10
+400 	12
+400 	16
+400 	20
+400 	25
+400 	32
+400 	50
+400 	200
+410 	6
+410 	8
+410 	10
+410 	12
+410 	16
+410 	20
+410 	25
+410 	32
+410 	50
+410 	120
+410 	200
+L p / Lw (mm) b (mm)
+420 	6
+420 	8
+420 	10
+420 	12
+420 	16
+420 	20
+420 	25
+420 	32
+420 	50
+420 	200
+455 	6
+455 	8
+455 	10
+455 	12
+455 	16
+455 	20
+455 	25
+455 	32
+455 	50
+455 	120
+455 	200
+460 	6
+460 	8
+460 	10
+460 	12
+460 	16
+460 	20
+460 	25
+460 	32
+460 	50
+460 	200
+480 	6
+480 	8
+480 	10
+480 	12
+480 	16
+480 	20
+480 	25
+480 	32
+480 	50
+480 	100
+480 	200
+500 	6
+500 	8
+500 	10
+500 	12
+500 	16
+500 	20
+500 	25
+500 	30
+500 	32
+500 	50
+500 	120
+500 	200
+505 	6
+505 	8
+505 	10
+505 	12
+505 	16
+505 	20
+505 	25
+505 	32
+505 	50
+505 	200
+L p / L w (mm) b (mm)
+510 	6
+510 	8
+510 	10
+510 	12
+510 	16
+510 	20
+510 	25
+510 	32
+510 	50
+510 	120
+510 	200
+525 	6
+525 	8
+525 	10
+525 	12
+525 	16
+525 	20
+525 	25
+525 	32
+525 	50
+525 	125
+525 	150
+525 	200
+545 	6
+545 	8
+545 	10
+545 	12
+545 	16
+545 	20
+545 	25
+545 	32
+545 	50
+545 	200
+550 	6
+550 	8
+550 	10
+550 	12
+550 	16
+550 	20
+550 	25
+550 	32
+550 	50
+550 	200
+560 	6
+560 	8
+560 	10
+560 	12
+560 	16
+560 	20
+560 	25
+560 	32
+560 	50
+560 	120
+560 	200
+575 	6
+575 	8
+575 	10
+575 	12
+575 	16
+575 	20
+575 	25
+575 	32
+575 	50
+575 	180
+T 5 	T 5 	T 5 	T 5 	T 5 	T 5
+
+-- 107 of 132 --
+
+108
+CONTI® SYNCHROFLEX
+T 5
+Lp / L w (mm) b (mm)
+575 	200
+590 	6
+590 	8
+590 	10
+590 	12
+590 	16
+590 	20
+590 	25
+590 	32
+590 	50
+590 	200
+610 	6
+610 	8
+610 	10
+610 	12
+610 	16
+610 	20
+610 	25
+610 	32
+610 	50
+610 	120
+610 	200
+620 	6
+620 	8
+620 	10
+620 	12
+620 	16
+620 	20
+620 	25
+620 	32
+620 	50
+620 	120
+620 	170
+620 	200
+630 	6
+630 	8
+630 	10
+630 	12
+630 	16
+630 	20
+630 	25
+630 	32
+630 	50
+630 	120
+630 	200
+650 	6
+650 	8
+650 	10
+650 	12
+650 	16
+650 	20
+650 	25
+650 	32
+650 	50
+650 	200
+660 	6
+660 	8
+660 	10
+660 	12
+660 	16
+660 	20
+660 	25
+660 	32
+660 	50
+L p / Lw (mm) b (mm)
+660 	100
+690 	6
+690 	8
+690 	10
+690 	12
+690 	16
+690 	20
+690 	25
+690 	32
+690 	50
+690 	200
+700 	6
+700 	8
+700 	10
+700 	12
+700 	16
+700 	20
+700 	25
+700 	32
+700 	50
+700 	200
+720 	6
+720 	8
+720 	10
+720 	12
+720 	16
+720 	20
+720 	25
+720 	32
+720 	50
+720 	200
+725 	8
+725 	10
+725 	12
+725 	16
+725 	20
+725 	25
+725 	32
+725 	50
+725 	200
+750 	6
+750 	8
+750 	10
+750 	12
+750 	16
+750 	20
+750 	25
+750 	32
+750 	50
+750 	200
+765 	6
+765 	8
+765 	10
+765 	12
+765 	16
+765 	20
+765 	25
+765 	32
+765 	50
+765 	200
+780 	6
+780 	8
+780 	10
+780 	12
+L p / L w (mm) b (mm)
+780 	16
+780 	20
+780 	25
+780 	32
+780 	50
+780 	200
+800 	6
+800 	8
+800 	10
+800 	12
+800 	15
+800 	16
+800 	20
+800 	25
+800 	32
+800 	50
+800 	200
+815 	6
+815 	8
+815 	10
+815 	12
+815 	16
+815 	20
+815 	25
+815 	32
+815 	50
+815 	200
+840 	6
+840 	8
+840 	10
+840 	12
+840 	16
+840 	20
+840 	25
+840 	32
+840 	50
+840 	200
+900 	6
+900 	8
+900 	10
+900 	12
+900 	16
+900 	20
+900 	25
+900 	32
+900 	50
+900 	200
+920 	6
+920 	8
+920 	10
+920 	12
+920 	16
+920 	20
+920 	25
+920 	32
+920 	50
+920 	200
+925 	6
+925 	8
+925 	10
+925 	12
+925 	16
+925 	20
+925 	25
+L p / L w (mm) b (mm)
+925 	32
+925 	50
+925 	205
+940 	6
+940 	8
+940 	10
+940 	12
+940 	16
+940 	20
+940 	25
+940 	32
+940 	50
+940 	200
+990 	6
+990 	8
+990 	10
+990 	12
+990 	16
+990 	20
+990 	25
+990 	32
+990 	50
+990 	200
+1075 	6
+1075 	8
+1075 	10
+1075 	12
+1075 	16
+1075 	20
+1075 	25
+1075 	32
+1075 	50
+1075 	200
+1100 	6
+1100 	8
+1100 	10
+1100 	12
+1100 	16
+1100 	20
+1100 	25
+1100 	32
+1100 	50
+1100 	190
+1100 	300
+1160 	6
+1160 	8
+1160 	10
+1160 	12
+1160 	16
+1160 	20
+1160 	25
+1160 	32
+1160 	50
+1160 	200
+1215 	6
+1215 	8
+1215 	10
+1215 	12
+1215 	16
+1215 	20
+1215 	25
+1215 	32
+1215 	50
+1215 	200
+T 5 	T 5 	T 5
+L p / L w (mm) b (mm)
+1315 	6
+1315 	8
+1315 	10
+1315 	12
+1315 	16
+1315 	20
+1315 	25
+1315 	32
+1315 	50
+1315 	200
+1380 	6
+1380 	8
+1380 	10
+1380 	12
+1380 	16
+1380 	20
+1380 	25
+1380 	32
+1380 	50
+1380 	200
+1500 	6
+1500 	8
+1500 	10
+1500 	12
+1500 	16
+1500 	20
+1500 	25
+1500 	32
+1500 	50
+1500 	200
+T 5 - DL
+L p / L w (mm) b (mm)
+150 	6
+150 	8
+150 	10
+150 	12
+150 	16
+150 	20
+150 	25
+150 	32
+150 	50
+150 	100
+150 	160
+260 	6
+260 	8
+260 	10
+260 	12
+260 	16
+260 	20
+260 	25
+260 	32
+260 	50
+260 	200
+300 	6
+300 	8
+300 	10
+300 	12
+300 	16
+300 	20
+300 	25
+300 	32
+300 	50
+L p / L w (mm) b (mm)
+300 	200
+330 	6
+330 	8
+330 	10
+330 	12
+330 	16
+330 	20
+330 	25
+330 	32
+330 	50
+330 	200
+410 	6
+410 	8
+410 	10
+410 	12
+410 	16
+410 	20
+410 	25
+410 	32
+410 	50
+410 	145
+410 	200
+460 	6
+460 	8
+460 	10
+460 	12
+460 	16
+460 	20
+460 	25
+460 	32
+460 	50
+460 	120
+515 	6
+515 	8
+515 	10
+515 	12
+515 	16
+515 	20
+515 	25
+515 	32
+515 	50
+515 	200
+525 	6
+525 	8
+525 	10
+525 	12
+525 	16
+525 	20
+525 	25
+525 	32
+525 	50
+525 	200
+590 	6
+590 	8
+590 	10
+590 	12
+590 	16
+590 	20
+590 	25
+590 	32
+590 	50
+590 	200
+620 	6
+620 	8
+T 5 - DL	T 5
+
+-- 108 of 132 --
+
+109
+CONTI® SYNCHROFLEX
+L p / L w (mm) b (mm)
+620 	10
+620 	12
+620 	16
+620 	20
+620 	25
+620 	32
+620 	50
+620 	190
+625 	6
+625 	8
+625 	10
+625 	12
+625 	16
+625 	20
+625 	25
+625 	32
+625 	50
+625 	200
+750 	6
+750 	8
+750 	10
+750 	16
+750 	20
+750 	25
+750 	32
+750 	50
+750 	200
+815 	6
+815 	8
+815 	10
+815 	12
+815 	16
+815 	20
+815 	25
+815 	32
+815 	50
+815 	200
+860 	6
+860 	8
+860 	10
+860 	12
+860 	16
+860 	20
+860 	25
+860 	32
+860 	50
+860 	190
+940 	6
+940 	8
+940 	10
+940 	12
+940 	16
+940 	20
+940 	25
+940 	32
+940 	50
+940 	200
+1100 	6
+1100 	8
+1100 	10
+1100 	12
+1100 	16
+1100 	20
+1100 	25
+T 5 - DL
+L p / L w (mm) b (mm)
+1100 	32
+1100 	50
+1100 	200
+1325 	6
+1325 	8
+1325 	10
+1325 	12
+1325 	16
+1325 	20
+1325 	25
+1325 	32
+1325 	50
+1325 	200
+T 10
+L p / L w (mm) b (mm)
+260 	16
+260 	20
+260 	25
+260 	32
+260 	50
+260 	75
+260 	80
+260 	120
+350 	16
+350 	20
+350 	25
+350 	32
+350 	50
+350 	75
+350 	200
+370 	16
+370 	20
+370 	25
+370 	32
+370 	50
+370 	75
+370 	120
+400 	16
+400 	20
+400 	25
+400 	32
+400 	50
+400 	75
+400 	200
+410 	16
+410 	20
+410 	25
+410 	32
+410 	50
+410 	75
+410 	120
+410 	200
+440 	16
+440 	20
+440 	25
+440 	32
+440 	50
+440 	75
+440 	200
+450 	16
+450 	20
+L p / L w (mm) b (mm)
+450 	25
+450 	32
+450 	50
+450 	75
+450 	200
+480 	16
+480 	20
+480 	25
+480 	32
+480 	50
+480 	75
+480 	200
+500 	16
+500 	20
+500 	25
+500 	32
+500 	50
+500 	75
+500 	125
+500 	200
+500 	280
+530 	16
+530 	20
+530 	25
+530 	32
+530 	50
+530 	75
+530 	200
+530 	285
+560 	16
+560 	20
+560 	25
+560 	32
+560 	50
+560 	75
+560 	120
+560 	180
+560 	200
+600 	16
+600 	20
+600 	25
+600 	32
+600 	50
+600 	75
+600 	200
+610 	16
+610 	20
+610 	25
+610 	32
+610 	50
+610 	75
+610 	120
+610 	200
+630 	16
+630 	20
+630 	25
+630 	32
+630 	50
+630 	75
+630 	125
+630 	200
+660 	16
+660 	20
+660 	25
+Lp / L w (mm) b (mm)
+660 	32
+660 	50
+660 	75
+660 	200
+680 	16
+680 	20
+680 	25
+680 	32
+680 	50
+680 	75
+680 	200
+690 	16
+690 	20
+690 	25
+690 	32
+690 	50
+690 	75
+690 	200
+700 	16
+700 	20
+700 	25
+700 	32
+700 	50
+700 	75
+700 	150
+700 	200
+720 	16
+720 	20
+720 	25
+720 	32
+720 	50
+720 	75
+720 	200
+730 	16
+730 	20
+730 	25
+730 	32
+730 	50
+730 	75
+730 	200
+750 	16
+750 	20
+750 	25
+750 	32
+750 	50
+750 	75
+750 	200
+760 	16
+760 	20
+760 	25
+760 	32
+760 	50
+760 	75
+760 	200
+780 	16
+780 	20
+780 	25
+780 	32
+780 	50
+780 	75
+780 	200
+810 	16
+810 	20
+810 	25
+L p / Lw (mm) b (mm)
+810 	32
+810 	50
+810 	75
+810 	200
+840 	16
+840 	20
+840 	25
+840 	32
+840 	50
+840 	75
+840 	200
+850 	16
+850 	20
+850 	25
+850 	32
+850 	50
+850 	75
+850 	200
+880 	16
+880 	20
+880 	25
+880 	32
+880 	50
+880 	75
+880 	200
+890 	16
+890 	20
+890 	25
+890 	32
+890 	50
+890 	75
+890 	200
+920 	16
+920 	20
+920 	25
+920 	32
+920 	50
+920 	75
+920 	200
+960 	16
+960 	20
+960 	25
+960 	32
+960 	50
+960 	75
+960 	200
+960 	275
+970 	16
+970 	20
+970 	25
+970 	32
+970 	50
+970 	75
+970 	150
+980 	16
+980 	20
+980 	25
+980 	32
+980 	50
+980 	75
+980 	200
+1010 	16
+1010 	20
+1010 	25
+L p / L w (mm) b (mm)
+1010 	32
+1010 	50
+1010 	75
+1010 	200
+1080 	16
+1080 	20
+1080 	25
+1080 	32
+1080 	50
+1080 	75
+1080 	200
+1110 	16
+1110 	20
+1110 	25
+1110 	32
+1110 	50
+1110 	75
+1110 	200
+1140 	16
+1140 	20
+1140 	25
+1140 	32
+1140 	50
+1140 	75
+1140 	200
+1150 	16
+1150 	20
+1150 	25
+1150 	32
+1150 	50
+1150 	75
+1150 	200
+1150 	275
+1210 	16
+1210 	20
+1210 	25
+1210 	32
+1210 	50
+1210 	75
+1210 	200
+1210 	280
+1240 	16
+1240 	20
+1240 	25
+1240 	32
+1240 	50
+1240 	75
+1240 	200
+1250 	16
+1250 	20
+1250 	25
+1250 	32
+1250 	50
+1250 	75
+1250 	200
+1300 	16
+1300 	20
+1300 	25
+1300 	32
+1300 	50
+1300 	75
+1300 	200
+1320 	16
+1320 	20
+T 5 - DL 	T 10 	T 10 	T 10 	T 10
+
+-- 109 of 132 --
+
+110
+CONTI® SYNCHROFLEX
+Lp / L w (mm) b (mm)
+1320 	25
+1320 	32
+1320 	50
+1320 	75
+1320 	200
+1350 	16
+1350 	20
+1350 	25
+1350 	32
+1350 	50
+1350 	75
+1350 	125
+1350 	200
+1390 	16
+1390 	20
+1390 	25
+1390 	32
+1390 	50
+1390 	75
+1390 	150
+1390 	200
+1400 	16
+1400 	20
+1400 	25
+1400 	32
+1400 	50
+1400 	75
+1400 	200
+1420 	16
+1420 	20
+1420 	25
+1420 	32
+1420 	50
+1420 	75
+1420 	135
+1420 	200
+1450 	16
+1450 	20
+1450 	25
+1450 	32
+1450 	50
+1450 	75
+1450 	200
+1460 	16
+1460 	20
+1460 	25
+1460 	32
+1460 	50
+1460 	75
+1460 	140
+1460 	200
+1500 	16
+1500 	20
+1500 	25
+1500 	32
+1500 	50
+1500 	75
+1500 	200
+1560 	16
+1560 	20
+1560 	25
+1560 	32
+1560 	50
+1560 	75
+T 10
+L p / Lw (mm) b (mm)
+1560 	150
+1560 	200
+1610 	16
+1610 	20
+1610 	25
+1610 	32
+1610 	50
+1610 	75
+1610 	150
+1610 	190
+1750 	16
+1750 	20
+1750 	25
+1750 	32
+1750 	50
+1750 	75
+1750 	150
+1750 	200
+1780 	16
+1780 	20
+1780 	25
+1780 	32
+1780 	50
+1780 	75
+1780 	100
+1780 	120
+1780 	150
+1780 	200
+1880 	16
+1880 	20
+1880 	25
+1880 	32
+1880 	50
+1880 	75
+1880 	200
+1960 	16
+1960 	20
+1960 	25
+1960 	32
+1960 	50
+1960 	75
+1960 	110
+1960 	200
+2250 	16
+2250 	20
+2250 	25
+2250 	32
+2250 	50
+2250 	75
+2250 	300
+3100 	16
+3100 	20
+3100 	25
+3100 	32
+3100 	50
+3100 	75
+3100 	180
+4780 	16
+4780 	20
+4780 	25
+4780 	32
+4780 	50
+4780 	75
+4780 	150
+T 10 - DL
+L p / L w (mm) b (mm)
+260 	16
+260 	20
+260 	25
+260 	32
+260 	50
+260 	75
+260 	160
+530 	16
+530 	20
+530 	25
+530 	32
+530 	50
+530 	75
+530 	200
+630 	16
+630 	20
+630 	25
+630 	32
+630 	50
+630 	75
+630 	155
+660 	16
+660 	20
+660 	25
+660 	32
+660 	50
+660 	75
+660 	200
+720 	16
+720 	20
+720 	25
+720 	32
+720 	50
+720 	75
+720 	190
+840 	16
+840 	20
+840 	25
+840 	32
+840 	50
+840 	75
+840 	200
+980 	16
+980 	20
+980 	25
+980 	32
+980 	50
+980 	75
+980 	200
+1210 	16
+1210 	20
+1210 	25
+1210 	32
+1210 	50
+1210 	75
+1210 	200
+1240 	16
+1240 	20
+1240 	25
+1240 	32
+1240 	50
+1240 	75
+1240 	200
+1250 	16
+T 10
+L p / L w (mm) b (mm)
+1250 	20
+1250 	25
+1250 	32
+1250 	50
+1250 	75
+1250 	200
+1320 	16
+1320 	20
+1320 	25
+1320 	32
+1320 	50
+1320 	75
+1320 	200
+1350 	16
+1350 	20
+1350 	25
+1350 	32
+1350 	50
+1350 	75
+1350 	200
+1420 	16
+1420 	20
+1420 	25
+1420 	32
+1420 	50
+1420 	75
+1420 	200
+1610 	16
+1610 	20
+1610 	25
+1610 	32
+1610 	50
+1610 	75
+1610 	195
+1880 	16
+1880 	20
+1880 	25
+1880 	32
+1880 	50
+1880 	75
+1880 	200
+4780 	16
+4780 	20
+4780 	25
+4780 	32
+4780 	50
+4780 	75
+4780 	150
+T 20
+L p / L w (mm) b (mm)
+1260 	25
+1260 	32
+1260 	50
+1260 	75
+1260 	100
+1260 	200
+1460 	25
+1460 	32
+1460 	50
+1460 	75
+1460 	100
+1460 	155
+T 10 - DL
+L p / L w (mm) b (mm)
+1460 	200
+1780 	25
+1780 	32
+1780 	50
+1780 	75
+1780 	100
+1780 	200
+1880 	25
+1880 	32
+1880 	50
+1880 	75
+1880 	100
+1880 	200
+2600 	25
+2600 	32
+2600 	50
+2600 	75
+2600 	100
+2600 	140
+3100 	25
+3100 	32
+3100 	50
+3100 	75
+3100 	100
+3100 	180
+3620 	25
+3620 	32
+3620 	50
+3620 	75
+3620 	100
+3620 	140
+T 20
+
+-- 110 of 132 --
+
+111
+CONTI® SYNCHROFLEX
+M (MXL)	M (MXL)
+L p / Lw (mm) 	b (mm)
+111 	6
+111 	8
+111 	10
+111 	12
+111 	100
+113 	6
+113 	8
+113 	10
+113 	12
+113 	100
+121 	6
+121 	8
+121 	10
+121 	12
+121 	100
+132 	6
+132 	8
+132 	10
+132 	12
+132 	100
+132 	150
+142 	6
+142 	8
+142 	10
+142 	12
+142 	100
+144 	6
+144 	8
+144 	10
+144 	12
+144 	100
+162 	6
+162 	8
+162 	10
+162 	12
+162 	100
+162 	105
+182 	6
+182 	8
+182 	10
+182 	12
+182 	100
+197 	6
+197 	8
+197 	10
+197 	12
+197 	100
+203 	6
+203 	8
+203 	10
+203 	12
+203 	100
+209 	6
+209 	8
+209 	10
+209 	12
+209 	100
+213 	6
+213 	8
+213 	10
+213 	12
+213 	100
+243 	6
+243 	8
+L p / L w (mm) 	b (mm)
+243 	10
+243 	12
+243 	100
+256 	6
+256 	8
+256 	10
+256 	12
+256 	100
+264 	6
+264 	8
+264 	10
+264 	12
+264 	100
+284 	6
+284 	8
+284 	10
+284 	12
+284 	100
+284 	200
+304 	6
+304 	8
+304 	10
+304 	12
+304 	100
+355 	6
+355 	8
+355 	10
+355 	12
+355 	105
+373 	6
+373 	8
+373 	10
+373 	12
+373 	105
+449 	6
+449 	8
+449 	10
+449 	12
+449 	105
+503 	6
+503 	8
+503 	10
+503 	12
+503 	200
+520 	6
+520 	8
+520 	10
+520 	12
+520 	105
+599 	6
+599 	8
+599 	10
+599 	12
+599 	200
+731 	6
+731 	8
+731 	10
+731 	12
+731 	200
+1178 	6
+1178 	8
+1178 	10
+1178 	12
+1178 	205
+K 1
+Lp / L w (mm) 	b (mm)
+279 	6
+279 	8
+279 	10
+279 	12
+279 	100
+K 1,5
+Lp / L w (mm) 	b (mm)
+57 	6
+57 	8
+57 	10
+57 	12
+57 	100
+68 	6
+68 	8
+68 	10
+68 	12
+68 	100
+100 	6
+100 	8
+100 	10
+100 	12
+100 	100
+141 	6
+141 	8
+141 	10
+141 	12
+141 	100
+165 	6
+165 	8
+165 	10
+165 	12
+165 	100
+165 	150
+201 	6
+201 	8
+201 	10
+201 	12
+201 	100
+228 	6
+228 	8
+228 	10
+228 	12
+228 	100
+286 	6
+286 	8
+286 	10
+286 	12
+286 	200
+300 	6
+300 	10
+300 	12
+300 	160
+400 	6
+400 	8
+400 	10
+400 	12
+400 	200
+501 	6
+501 	8
+501 	10
+501 	12
+Lp / L w (mm) 	b (mm)
+501 	200
+600 	6
+600 	8
+600 	10
+600 	12
+600 	200
+1242 	6
+1242 	8
+1242 	10
+1242 	12
+1242 	160
+
+-- 111 of 132 --
+
+112
+CONTI® SYNCHROLEX GEN III
+CONTI® SYNCHROFLEX GEN III
+Polyurethane heavy-duty timing belts for high power
+transmission at high speeds
+Correas de distribución de poliuretano para gama baja y
+media de rendimiento
+Мощные зубчатые ремни из полиуретана для передачи
+больших мощностей при высоких скоростях
+Cinghia dentata di poliuretano di alta efficienza per grandi
+potenze ed alte velocità
+Properties
+- Constant length
+- Low-noise
+- Transmission of high torque
+- High fl exibility
+- Fatigue-resistant
+- No timing belt lubrication needed
+- High resistance to mechanical and chemical influences
+- Temperature-resistant from -30°C to +100°C
+- Resistant to oils, grease and carburetor fuel
+- Conditionally resistant to acid and lye
+Características
+- longitud constante
+- silenciosas
+- transmisión de altos momentos torsores
+- super flexibles
+- resistentes a la fatiga
+- sin necesidad de lubricación de correa dentada
+- alta resistencia a los influjos mecánicos y químicos
+- resistentes a temperaturas desde -30° C hasta +100° C
+- resistentes a los aceites, grasas y benzina sencillos
+- condicionadamente resistentes a los ácidos y bases
+Свойства
+- не растягиваются
+- низкий уровень шума
+- для передачи больших моментов
+- устойчивость материала ремня к усталости
+- не требуют смазки
+- высокая устойчивость к механическому и химическому
+воздействию
+- устойчивость к воздействию температур от -30°C до +100°C
+- устойчивость к маслам, смазкам и бензину
+- относительная устойчивость к кислотам и щелочам
+Proprietà
+- Lunghezza costante
+- Silenziosa
+- Trasmissione di grandi coppie meccaniche
+- Alta flessibilità
+- Resistente alla fatica
+- Nessuna lubrificazione della cinghia dentata
+- Alta resistenza alle influenze meccaniche e chimiche
+- Resistente a temperature comprese tra -30 °C e +100 °C
+- Resistente agli oli semplici, ai grassi ed alla benzina
+- Relativamente resistente ad acidi e basi
+AT 3 GEN III 	AT 5 GEN III 	AT 10 GEN III 	AT 20 GEN III
+Tooth pitch | Perfil de dientes
+Шаг зубьев | Passo dei denti 	t 	mm 	3 	5 	10 	20
+Belt thickness | Grosor de correa
+Толщина ремня | Spessore della cinghia 	hs 	mm 	1,9 	2,7 	5 	9
+Tooth height | Altura de diente
+Высота зуба | Altezza dei denti 	h t 	mm 	1,1 	1,2 	2,5 	5
+AT
+All sizes and prices are available on request.
+Dimensiones y precios bajo consulta.
+Все размеры и цены по запросу.
+Dimensioni e prezzi su richiesta.
+Sale limited in Spain. Get in touch with us.
+Ventas sujetas a limitación en España. Póngase en contacto con nosotros.
+Действуют ограничения на реализацию в Испании. Обращайтесь к нам.
+Vendita in Spagna soggetta a limitazioni. Contattateci.
+
+-- 112 of 132 --
+
+113
+CONTI® SYNCHROLEX GEN III
+All sizes and prices are available on request.
+Dimensiones y precios bajo consulta.
+Все размеры и цены по запросу.
+Dimensioni e prezzi su richiesta.
+
+-- 113 of 132 --
+
+114
+CONTI® SYNCHROCHAIN
+CONTI® SYNCHROCHAIN
+Мощные зубчатые ремни из полиуретана для
+экстремальных нагрузок и применений с очень
+высокой передачей мощности
+Cinghie dentate di alta efficienza per applicazioni estreme
+con forze estremamente intense
+Heavy-duty timing belts for extreme, ultra high-power
+applications
+Correas síncronas de alto rendimiento para aplicaciones
+extremas de alta potencia
+Properties
+- temperature-resistant from -40°C to +80°C
+- suitable for tropical climates
+- resistant to aging and ozone
+- withstands reverse fl exing
+- resistant to oils, grease and carburetor fuel
+- conditionally resistant to acid and lye
+Características
+- resistentes a temperaturas , según aplicación, desde -40°C hasta +80°C
+- resistente a climas tropicales
+- resistentes al envejecimiento y al ozono
+- resistentes a la contraflexión
+- resistentes a los aceites, grasas y bencina
+- moderadamente resistentes a los ácidos y bases
+Свойства
+- устойчивость к воздействию температур от -50°C до +80°C
+- пригодны для эксплуатации в тропических условиях
+- атмосферостойкость
+- устойчивость к изгибу в обратную сторону
+- устойчивость в маслам, смазкам и бензину
+- относительная устойчивость в кислотам и щелочам
+Proprietà
+- Resistenti a temperature comprese tra -40°C e +80°C in funzione
+dell’applicazione
+- Resistenti al clima tropicale
+- Resistenti all’invecchiamento ed all’ozono
+- Resistenti alla controflessione
+- Resistenti agli oli semplici, ai grassi ed alla benzina
+- Relativamente resistenti ad acidi e basi
+CTD
+CTD C8M 	CTD C14M
+Tooth pitch | Perfil de dientes
+Шаг зубьев | Passo dei denti 	t 	mm 	8 	14
+Belt thickness | Grosor de correa
+Толщина ремня | Spessore della cinghia 	h s 	mm 	5,6 	10
+Tooth height | Altura de diente
+Высота зуба | Altezza dei denti 	h t 	mm 	3,4 	6,1
+Size designation (example) Ejemplo de dimensión | Обозначение размера (пример) | Sigla della dimensione (esempio)
+CTD 1000 - C8M - 62
+CTD 	Profi le | Perfi l | Профиль | Sezione
+1000 	1000 mm Pitch length | Longitud primitiva | Расчетная длина | Lunghezza primitiva
+C8M 	8 mm Tooth pitch | Perfi l de dientes | Шаг зубьев | Passo dei denti
+62 	62 mm Timing belt width | Anchura correa síncrona | Ширина зубчатого ремня | Larghezza della cinghia dentata
+Further sizes available on request. | tras dimensiones bajo consulta.
+Другие размеры по запросу. | Altre dimensioni su richiesta.
+
+-- 114 of 132 --
+
+115
+CONTI® SYNCHROCHAIN
+L p / Lw 	Pitch length | Longitud primitiva | Расчетная длина | Lunghezza primitiva
+SW 	Sleeve width | Anchura de mangón | Ширина рукава | Larghezza del manicotto
+z 	Number of teeth | N° de dientes | Число зубьев | Numero di denti
+b 	Belt width | Anchura correa síncrona | Ширина зубчатого ремня | Larghezza della cinghia dentata
+EUR / pc. 	Price per piece | Precio por unidad | Цена за штуку | Prezzo per articolo
+EUR / sl. 	Price per sleeve | Precio por mangón | Цена за рукав | Prezzo per manicotto
+* 	On request (see page 6) | Bajo consulta (v. pág. 6) | По запросу (см. стр. 7) | Su richiesta (v. pag. 7)
+CTD C8M
+L p / L w (mm) 	z 	b = 12 mm
+EUR / pc.
+b = 21 mm
+EUR / pc.
+b = 36 mm
+EUR / pc.
+b = 62 mm
+EUR / pc.
+SW
+(mm)
+EUR / sl.
+640 	80 	63,30 	110,61 	189,68 	326,71 	300 	1343,72
+720 	90 	64,73 	113,12 	193,98 	334,12 	300 	1374,18
+800 	100 	66,40 	116,36 	199,63 	343,85 	300 	1414,24
+896 	112 	68,82 	120,35 	206,54 	355,58 	300 	1462,48
+920 	115 	70,01 	122,55 	210,05 	361,65 	300 	1487,45
+960 	120 	70,56 	123,49 	211,70 	364,61 	450 	2249,43
+1000 	125 	71,22 	124,74 	213,56 	367,74 	300 	1512,46
+1040 	130 	72,31 	126,58 	217,01 	373,72 	300 	1537,08
+1120 	140 	75,10 	131,44 	225,40 	388,26 	300 	1596,89
+1200 	150 	79,89 	139,69 	239,71 	412,62 	450 	2545,59
+1224 	153 	80,87 	141,54 	242,61 	417,86 	450 	2577,91
+1280 	160 	84,31 	147,58 	252,84 	435,49 	450 	2658,54
+1440 	180 	94,61 	165,60 	283,74 	488,72 	300 	2010,05
+1600 	200 	97,98 	171,26 	293,71 	505,62 	450 	3119,32
+1760 	220 	106,77 	186,86 	320,32 	551,65 	450 	3403,31
+1792 	224 	107,98 	189,12 	324,07 	558,29 	450 	3444,30
+2000 	250 	118,37 	206,92 	354,84 	611,18 	450 	3770,58
+2200 	275 	126,64 	221,60 	379,93 	654,31 	450 	4036,68
+2240 	280 	128,08 	224,05 	384,26 	661,67 	450 	4082,08
+2400 	300 	134,74 	235,56 	403,70 	695,43 	450 	4290,33
+2520 	315 	139,46 	244,18 	418,56 	720,78 	450 	4446,73
+2600 	325 	143,88 	251,84 	431,68 	743,49 	450 	4586,83
+2800 	350 	152,26 	266,51 	456,90 	786,85 	450 	4854,38
+2840 	355 	152,68 	266,98 	457,85 	788,27 	450 	4863,11
+3048 	381 	162,52 	284,39 	487,51 	839,60 	450 	5179,76
+3200 	400 	167,25 	292,64 	501,85 	864,27 	450 	5331,97
+3280 	410 	171,89 	300,78 	515,64 	888,06 	450 	5478,74
+3600 	450 	183,58 	321,27 	550,88 	948,78 	450 	5853,37
+4000 	500 	200,03 	349,85 	599,89 	1032,98 	450 	6372,85
+4400 	550 	215,17 	376,57 	645,54 	1111,77 	450 	6858,90
+4480 	560 	219,49 	384,26 	658,57 	1134,36 	450 	6998,24
+CTD C14M
+L p / L w (mm) 	z 	b = 20 mm
+EUR / pc.
+b = 37 mm
+EUR / pc.
+b = 68 mm
+EUR / pc.
+b = 90 mm
+EUR / pc.
+b = 125 mm
+EUR / pc.
+SW
+(mm)
+EUR / sl.
+994 	124 	215,27 	398,32 	731,86 	968,64 	1345,32 	450 	4116,69
+1120 	140 	235,14 	434,91 	799,35 	1057,87 	1469,25 	450 	4495,90
+1190 	149 	246,18 	455,42 	836,91 	1107,67 	1538,37 	450 	4707,40
+1260 	158 	257,13 	475,81 	874,22 	1157,20 	1607,22 	300 	3278,73
+1400 	175 	279,30 	516,46 	949,29 	1256,41 	1745,16 	450 	5340,18
+1568 	196 	305,74 	565,58 	1039,34 	1375,45 	1910,34 	450 	5845,64
+1610 	201 	309,98 	573,49 	1053,98 	1394,99 	1937,46 	450 	5928,64
+1750 	219 	334,39 	618,45 	1136,80 	1504,67 	2089,63 	450 	6394,25
+1890 	236 	356,39 	659,38 	1211,69 	1603,83 	2227,41 	450 	6815,86
+1960 	245 	367,43 	679,76 	1249,26 	1653,36 	2296,42 	450 	7027,06
+2100 	263 	389,45 	720,52 	1324,14 	1752,59 	2434,22 	450 	7448,70
+2240 	280 	411,55 	761,40 	1399,24 	1851,90 	2572,08 	450 	7870,55
+2310 	289 	422,22 	781,09 	1435,52 	1899,96 	2638,82 	450 	8074,79
+2380 	298 	433,57 	802,18 	1474,22 	1951,12 	2709,86 	450 	8292,16
+2450 	306 	444,01 	821,42 	1509,65 	1998,09 	2775,10 	450 	8491,80
+2520 	315 	455,67 	842,81 	1549,16 	2050,36 	2847,82 	450 	8714,32
+2590 	324 	465,66 	861,44 	1583,19 	2095,40 	2910,27 	450 	8905,42
+2660 	333 	477,71 	883,71 	1624,22 	2149,55 	2985,62 	450 	9136,00
+
+-- 115 of 132 --
+
+116
+CONTI® SYNCHROCHAIN
+L p / Lw (mm) 	z 	b = 20 mm
+EUR / pc.
+b = 37 mm
+EUR / pc.
+b = 68 mm
+EUR / pc.
+b = 90 mm
+EUR / pc.
+b = 125 mm
+EUR / pc.
+SW
+(mm)
+EUR / sl.
+2800 	350 	499,71 	924,43 	1699,11 	2248,74 	3123,43 	450 	9557,71
+3136 	392 	552,71 	1022,47 	1879,02 	2487,01 	3454,27 	450 	10570,06
+3304 	413 	579,08 	1071,48 	1969,07 	2606,04 	3619,66 	450 	11076,17
+3360 	420 	589,04 	1089,72 	2002,66 	2650,64 	3681,41 	450 	11265,13
+3500 	438 	609,99 	1128,46 	2074,10 	2745,05 	3812,66 	450 	11666,75
+3850 	481 	666,60 	1233,21 	2266,42 	2999,70 	4166,24 	450 	12748,69
+3920 	490 	676,27 	1250,82 	2298,96 	3042,70 	4226,06 	450 	12931,75
+4326 	541 	741,10 	1371,03 	2519,71 	3334,93 	4631,83 	450 	14173,41
+4410 	551 	753,30 	1393,81 	2561,52 	3390,16 	4708,48 	450 	14407,95
+CTD C14M
+
+-- 116 of 132 --
+
+117
+CONTI® SYNCHROCHAIN
+
+-- 117 of 132 --
+
+118
+CONTI® SYNCHROLINE
+CONTI® SYNCHROLINE
+Open-ended rubber timing belts for use in automatic entry
+systems
+Correas síncronas de caucho, abiertas a metros
+diseñadas para su utilización en sistemas automáticos de
+apertura de puertas
+Зубчатые приводные ремни из резины открытой
+конструкции для применения в автоматических
+системах открывания дверей
+Cinghie dentate di gomma ad estremità aperte per
+l’impiego in sistemi apriporta automatici
+Properties
+- conditionally resistant to oil
+- temperature-resistant, depending on application, from -20°C to +100°C
+- ozone-resistant
+- maintenance-free
+Características
+- resistencia moderada a los aceites
+- resistentes a temperaturas , según aplicación, desde -20°C
+hasta +100°C
+- resistentes al ozono
+- libres de mantenimiento
+Свойства
+- относительная маслостойкость
+- устойчивость к воздействию температур, в зависимости от
+области применения, от -20°C до +100°C
+- атмосферостойкость
+- не требуют обслуживания
+Proprietà
+- Relativamente resistenti all’olio
+- Resistenti a temperature comprese tra -20 °C e +100 °C in funzione
+dell’applicazione
+- Resistenti all’ozono
+- Esenti da manutenzione
+HTD 5M 	HTD 8M 	STD S8M
+Tooth pitch | Perfil de dientes
+Шаг зубьев | Passo dei denti 	t 	mm 	5 	8 	8
+Belt thickness | Grosor de correa
+Толщина ремня | Spessore della cinghia 	hs 	mm 	3,6 	5,6 	5,3
+Tooth height | Altura de diente
+Высота зуба | Altezza dei denti 	h t 	mm 	2,1 	3,4 	2,95
+Size designation (example) Ejemplo de dimensión | Обозначение размера (пример) | Sigla della dimensione (esempio)
+M50 STD - S8M - 15
+M50 	Length (m) | Longitud en m | длина (м) | Lunghezza in m
+STD 	Profi le | Perfi l | Профиль | Sezione
+S8M 	8 mm Tooth pitch | Perfi l de dientes | Шаг зубьев | Passo dei denti
+15 	15 mm Timing belt width | Anchura correa síncrona | Ширина зубчатого ремня | Larghezza della cinghia dentata
+HTD 	STD
+Antistatic heavy-duty CXP type on request.
+Consultar versión antiestática CXP.
+Антистатичное усиленное исполнение CXP по запросу.
+Esecuzione di alta efficienza antistatica CXP su richiesta.
+Minimum quantities: 1 roll | Cantidad mínima: 1 mangón | Минимальное количество: 1 рулон | Quantità minima: 1 rotolo
+Other sizes on request. | Otras anchuras bajo consulta. | Другие размеры по запросу. | Altre larghezze su richiesta.
+
+-- 118 of 132 --
+
+119
+CONTI® SYNCHROLINE
+b 	Belt width | Anchura correa síncrona | Ширина зубчатого ремня | Larghezza della cinghia dentata
+R 	Roll length | Longitud de mangón | Длина рулона | Lunghezza del rotolo
+MOQ (R.) 	Minimum quantity (rolls) | Cantidad mínima (rollos) | Минимальное количесво (рулоны) | Quantità minima (rotoli)
+EUR / m 	Price per m | Precio por m | Цена за метр | Prezzo al m
+* 	Auf Anfrage (s. S. 6) | On request (see page 6) | Sur demande (cf. page 7) | Op aanvraag (zie pag. 7)
+HTD 5M
+b (mm) 	R (m) 	MOQ (R.) 	EUR / m
+10 * 	63 	12 	11,16
+12 * 	80 	8 	13,40
+15 	63 	1 	16,58
+20 * 	47 	8 	21,99
+HTD 8M
+b (mm) 	R (m) 	MOQ (R.) 	EUR / m
+10 	76 	1 	14,30
+12 	63 	1 	17,44
+15 	50 	1 	21,93
+20 * 	57 	8 	29,43
+STD S8M
+b (mm) 	R (m) 	MOQ (R.) 	EUR / m
+10 * 	76 	12 	14,30
+12 	63 	1 	17,44
+15 	50 	1 	21,93
+20 * 	57 	8 	29,43
+
+-- 119 of 132 --
+
+120
+CONTI® SYNCHRODRIVE
+CONTI® SYNCHRODRIVE
+Open-ended polyurethane timing belts for linear and
+transport technology and entry systems
+Correas síncronas de poliuretano, abiertas a metros para
+la técnica lineal, transporte y sistemas de apeturas de
+puertas y portones
+Зубчатые приводные ремни из полиуретана открытой
+конструкции для линейных и транспортных систем, а
+также для автоматических дверей
+Cinghie dentate di poliuretano ad estremità aperte per
+tecnica lineare e di trasporto e sistemi di porte e portoni
+Properties
+- wear-resistant
+- oil- and grease-resistant
+- resistant to carburetor fuel and benzene
+- hydrolysis-resistant
+- resistant to UV and ozone attack
+- resistant to temperatures from -30°C to +80°C (please request
+technical advice for temperatures below -10°C and above +50°C)
+- can be spliced with thermoplastics
+Características
+- resistentes al desgaste
+- resistentes a los aceites y grasas
+- resistencia a la bencina y benzol
+- resistentes a la hidrolisis
+- resistentes a los rayos UV y al ozono
+- resistentes a la temperaturas desde -30°C a +80°C (solicite
+asesoramiento técnico en rangos de temperatura inferiores a –10°C y
+superiores a +50°C)
+- soldable con termoplásticos
+Свойства
+- устойчивость к износу
+- маслостойкость
+- устойчивость к бензину и бензолу
+- водостойкость
+- устойчивость к УФ - излучению и воздействию озона
+- устойчивость к воздействию температур от -30°C до +80°C (для
+диапазонов ниже -10°C и свыше +50°C обращайтесь за
+технической консультацией)
+- возможна термопластичная сварка для получения замкнутого
+ремня
+Proprietà
+- Resistenti all’abrasione
+- Resistenti all’olio ed al grasso
+- Resistenti alla benzina ed al benzolo
+- Resistenti all’idrolisi
+- Resistenti ai raggi ultravioletti ed all’ozono
+- Resistenti a temperature comprese tra -30 °C e +80 °C (per temperatura
+minori di -10 °C e maggiori di +50 °C si prega di richiedere la consulenza
+tecnica)
+- Saldabili con materiali termoplastici
+HTD 	STD	XL, L, H
+AT	T
+XL 	L 	H 	HTD 3M 	HTD 5M 	HTD 8M 	HTD 14M STD S3M 	STD S5M 	STD S8M
+Tooth pitch | Perfil de dientes
+Шаг зубьев | Passo dei denti
+t 	mm 	5,08 	9,53 	12,7 	3 	5 	8 	14 	3 	5 	8
+t 	inch 	1/5 	3/8 	1/2 	- 	- 	- 	- 	- 	-
+Belt thickness | Grosor de correa
+Толщина ремня | Spessore della cinghia h s 	mm 	2,3 	3,6 	4,3 	2,4 	3,6 	5,6 	10 	2,3 	3,4 	5,2
+Tooth height | Altura de diente
+Высота зуба | Altezza dei denti 	h t 	mm 	1,27 	1,91 	2,29 	1,3 	2,1 	3,4 	6,1 	1,1 	1,9 	3
+T5 	T10 	AT3 	AT5 	AT10 	AT20
+Tooth pitch | Perfil de dientes
+Шаг зубьев | Passo dei denti
+t 	mm 	5, 	10 	3 	5 	10 	20
+t 	inch 	- 	- 	- 	- 	- 	-
+Belt thickness | Grosor de correa
+Толщина ремня | Spessore della cinghia 	h s 	mm 	2,2 	4,5 	1,9 	2,7 	4,5 	8
+Tooth height | Altura de diente
+Высота зуба | Altezza dei denti 	h t 	mm 	1,2 	2,5 	1,1 	1,2 	2,5 	5
+
+-- 120 of 132 --
+
+121
+CONTI® SYNCHRODRIVE
+Size designation (example) Ejemplo de dimensión | Обозначение размера (пример) | Sigla della dimensione (esempio)
+M30 	- 8M - 50 HP [PAZ] [PAR]
+- 8M - 50 HF -V- 2500 mm
+M30 	Roll length (m) | Longitud de mangón en m | Длина рулона (м) | Lunghezza del rotolo in m
+8M 	8 mm Tooth pitch | Perfi l de dientes | Шаг зубьев | Passo dei denti
+50 	50 mm Timing belt width | Anchura correa síncrona | Ширина зубчатого ремня | Larghezza della cinghia dentata
+HP 	HP (high power) type | Versión HP (high power) | Исполнение HP (High Power) | Esecuzione HP (high power)
+PAZ 	Fabric on tooth side (optional) | Tejido en dientes (opcional) | Полиамидная ткань на зубьях (опционально) | Tela sul lato dei denti (opzionale)
+PAR 	Fabric on backside (optional) | Tejido en dorso (opcional) | Полиамидная ткань на обратной стороне (опционально) |
+Tela sul dorso (opzionale)
+-V- 	Spliced type, e.g. with a belt length of 2,500 mm | versión soldada p. ej. con longitud de correa 2500 mm
+в сварном исполнении, например, при длине ремня 2500 мм | Esecuzione saldata, ad esempio con lunghezza della cinghia di 2500 mm
+HP 	Reinforced type | versión reforzada | усиленное исполнение (стандартное) | Esecuzione rinforzata
+HF 	Version flexible | versión fl exible | исполнение с повышенной гибкостью | Esecuzione flessibile
+HS 	Very high tensile strength | resistencia a la tracción muy alta | исполнение с высоким усилием на разрыв |
+Resistenza alla trazione molto grande
+XHP 	Extra-high tensile strength | resistencia superior a la tracción | исполнение со сверхвысоким усилием на разрыв |
+Resistenza alla trazione extra grande
+Standard roll length: 30 m | Longitud estándar de rollo: 30 m | Longueur standard de rouleau : 30 m | Lunghezza dei rulli standard: 30 m
+Alternative tensile members, intermediate widths, short lengths, PAZ/PAR coating as well as splicing on request (minimum length 1000 mm).
+Consultar elementos tensores alternativos, anchuras intermedias, longitudes más cortas, revestimiento PAZ/PAR y soldaduras
+(longitud mínima 1000 mm).
+Альтернативные версии кордшнура, промежуточные значения длины, короткие длины, покрытие полиамидное PAZ/PAR, а также сварные
+модификации (мин. длина 1000 мм) по запросу.
+Anime resistenti alternative, larghezze intermedie, piccole lunghezze, rivestimento di PAZ/PAR e saldature su richiesta (lunghezza minima 1000 mm).
+Sale of T und AT profi les limied in Spain. Kindly get in touch with us.
+Ventas de perfi les T y AT sujetas a limitación en España. Rogamos ponerse en contacto con nosotros.
+Действуют ограничения на реализацию профилей Т и АТ в Испании. Обращайтесь к нам.
+Vendita in Spagna per profili T e AT soggetta a limitazioni. Contattateci.
+Pricing: HF type = HP type minus 5%
+Precios: Versión HF = Versión HP -5%
+Fixation des prix : Version HF = version HP -5%
+Prezzo: esecuzione HF = esecuzione HP - 5%
+b 	Belt width | Anchura correa síncrona | Ширина зубчатого ремня | Larghezza della cinghia dentata
+EUR / m 	Price per m | Precio por m | Цена за метр | Prezzo al m
+* 	On request (see page 6) | Bajo consulta (v. pág. 6) | По запросу (см. стр. 7) | Su richiesta (v. pag. 7)
+XL HF
+b (mm) 	b (1/100 inch) 	EUR / m
+6,35 	25 	7,30
+9,4 	37 	9,34
+12,7 	50 	11,27
+19,05 	75 	16,18
+25,4 	100 	20,47
+50,8 	200 	38,83
+L HF
+b (mm) 	b (1/100 inch) 	EUR / m
+12,7 	50 	11,72
+19,05 	75 	16,66
+25,4 	100 	21,09
+38,1 	150 	30,13
+50,8 	200 	38,22
+H HF
+b (mm) 	b (1/100 inch) 	EUR / m
+12,7 	50 	12,05
+19,05 	75 	17,28
+25,4 	100 	21,75
+38,1 	150 	30,90
+50,8 	200 	39,01
+76,2 	300 	55,22
+101,6 	400 	71,42
+
+-- 121 of 132 --
+
+122
+CONTI® SYNCHRODRIVE
+HTD 3M HP
+b (mm) 	EUR / m
+5 	5,56
+10 	9,98
+15 	13,48
+25 	20,12
+50 	38,36
+HTD 5M HP
+b (mm) 	EUR / m
+5 	5,56
+10 	9,98
+15 	13,48
+20 	17,99
+25 	20,12
+50 	38,36
+HTD 8M HP
+b (mm) 	EUR / m
+10 	12,36
+15 	16,66
+20 	19,98
+25 	24,97
+30 	29,95
+50 	45,02
+85 	80,39
+100 	85,59
+HTD 14M HP
+b (mm) 	EUR / m
+25 	36,15
+40 	59,08
+55 	77,84
+85 	140,29
+100 	150,12
+120 	180,26
+HTD 5M HF
+b (mm) 	EUR / m
+5 	5,30
+10 	9,50
+15 	12,84
+20 	17,13
+25 	19,16
+50 	36,53
+HTD 8M HF
+b (mm) 	EUR / m
+10 	11,77
+15 	15,87
+20 	19,03
+25 	28,52
+30 	42,88
+50 	76,56
+85 	81,51
+100 	85,59
+HTD 14M HF
+b (mm) 	EUR / m
+25 	34,43
+40 	56,27
+55 	74,13
+85 	133,61
+100 	142,97
+120 	171,68
+HTD 3M HP PAZ
+b (mm) 	EUR / m
+5 	6,67
+10 	11,98
+15 	16,18
+25 	24,14
+50 	46,03
+HTD 5M HP PAZ
+b (mm) 	EUR / m
+5 	6,67
+10 	11,98
+15 	16,18
+20 	21,59
+25 	24,14
+50 	46,03
+HTD 8M HP PAZ
+b (mm) 	EUR / m
+10 	14,21
+15 	19,16
+20 	22,98
+25 	28,72
+30 	34,44
+50 	51,77
+85 	92,45
+100 	98,43
+HTD 14M HP PAZ
+b (mm) 	EUR / m
+25 	39,77
+40 	64,99
+55 	85,62
+85 	154,32
+100 	165,13
+120 	198,29
+HTD 14M XHP PAZ
+b (mm) 	EUR / m
+25 	48,80
+40 	79,76
+55 	105,08
+85 	189,39
+100 	202,66
+120 	243,35
+
+-- 122 of 132 --
+
+123
+CONTI® SYNCHRODRIVE
+STD S3M HP
+b (mm) 	EUR / m
+5 	5,56
+10 	9,98
+15 	13,48
+25 	20,12
+50 	38,36
+STD S5M HP
+b (mm) 	EUR / m
+5 	5,56
+10 	9,98
+15 	13,48
+25 	20,12
+50 	38,36
+STD S8M HP
+b (mm) 	EUR / m
+10 	12,36
+15 	16,66
+20 	19,98
+30 	29,95
+50 	45,02
+85 	80,39
+100 	85,59
+STD S5M HF
+b (mm) 	EUR / m
+5 	5,30
+10 	9,50
+15 	12,84
+25 	19,16
+50 	36,53
+STD S8M HF
+b (mm) 	EUR / m
+10 	11,77
+15 	15,87
+20 	19,03
+30 	28,52
+50 	42,88
+100 	81,51
+STD S3M HP PAZ
+b (mm) 	EUR / m
+5 	6,67
+10 	11,98
+15 	16,18
+25 	24,14
+50 	46,03
+STD S5M HP PAZ
+b (mm) 	EUR / m
+5 	6,67
+10 	11,98
+15 	16,18
+25 	24,14
+50 	46,03
+STD S8M HP PAZ
+b (mm) 	EUR / m
+10 	14,21
+15 	19,16
+20 	22,98
+30 	34,44
+50 	51,77
+85 	92,45
+100 	98,43
+T5 HP
+b (mm)
+5
+10
+16
+20
+25
+30
+32
+50
+75
+100
+T10 HP
+b (mm)
+10
+16
+20
+25
+30
+32
+50
+60
+75
+100
+AT3 HP
+b (mm)
+5
+10
+16
+20
+25
+50
+AT5 HP
+b (mm)
+5
+10
+16
+25
+32
+50
+AT10 HP
+b (mm)
+10
+16
+20
+25
+30
+32
+50
+75
+100
+AT20 HP
+b (mm)
+25
+32
+50
+75
+100
+120
+
+-- 123 of 132 --
+
+124
+CONTI® SYNCHRODRIVE
+CONTI® SYNCHRODRIVE N10
+Self-guiding nubbed belts for transport and linear
+technology
+Correa de tacos auto guiada para la técnica de transporte
+y lineal
+Самовыравнивающийся комковатый ремень для
+транспортной и линейной техники
+Cinghie noduli autoguidanti per la tecnica di trasporto e
+lineare
+Properties
+- wear-resistant
+- oil- and grease-resistant
+- resistant to carburetor fuel and benzene
+- hydrolysis-resistant
+- resistant to UV and ozone attack
+- resistant to temperatures from -30°C to +80°C (please request
+technical advice for temperatures below -10°C and above +50°C)
+- can be spliced with thermoplastics
+Características
+- resistentes al desgaste
+- resistentes a los aceites y grasas
+- resistencia a la bencina y benzol
+- resistentes a la hidrolisis
+- resistentes a los rayos UV y al ozono
+- resistentes a la temperaturas desde -30°C a +80°C (solicite
+asesoramiento técnico en rangos de temperatura inferiores a –10°C y
+superiores a +50°C)
+- soldable con termoplásticos
+Свойства
+- устойчивость к износу
+- маслостойкость
+- устойчивость к бензину и бензолу
+- водостойкость
+- устойчивость к УФ - излучению и воздействию озона
+- устойчивость к воздействию температур от -30°C до +80°C (для
+диапазонов ниже -10°C и свыше +50°C обращайтесь за
+технической консультацией)
+- возможна термопластичная сварка для получения замкнутого
+ремня
+Proprietà
+- Resistenti all’abrasione
+- Resistenti all’olio ed al grasso
+- Resistenti alla benzina ed al benzolo
+- Resistenti all’idrolisi
+- Resistenti ai raggi ultravioletti ed all’ozono
+- Resistenti a temperature comprese tra -30 °C e +80 °C (per temperatura
+minori di -10 °C e maggiori di +50 °C si prega di richiedere la consulenza
+tecnica)
+N10
+Tooth pitch | Perfil de dientes
+Шаг зубьев | Passo dei denti 	t 	mm 	10
+Belt thickness | Grosor de correa
+Толщина ремня | Spessore della cinghia 	h s 	mm 	4,5
+Tooth height | Altura de diente
+Высота зуба | Altezza dei denti 	h t 	mm 	2,5
+Size designation (example) Ejemplo de dimensión | Обозначение размера (пример) | Sigla della dimensione (esempio)
+M30 	- N10 - 40 HF
+- N10 - 40 HF -V- 2500 mm
+M30 	Roll length (m) | Longitud de mangón en m | Длина рулона (м) | Lunghezza del rotolo in m
+N10 	10 mm Nub pitch | División de tacos | Шаг зубье | Passo dei noduli
+40 	40 mm Timing belt width | Anchura correa síncrona | Ширина зубчатого ремня | Larghezza della cinghia dentata
+HF 	HF type (fl exible type) | Versión HF (versión fl exible) | Исполнение HF (гибкое исполнение) | Esecuzione HF (esecuzione flessibile)
+PAN 	Fabric on nub side (optional) | Tejido en tacos (opcional) | Ткань на зубьях (опционально) | Tela sul lato dei noduli (opzionale)
+PAR 	Fabric on backside (optional) | Tejido en dorso (opcional) | Полиамидная ткань на обратной стороне (опционально) |
+Tela sul dorso (opzionale)
+-V- 	Spliced type, e.g. with a belt length of 2,500 mm | versión soldada p. ej. con longitud de correa 2500 mm
+в сварном исполнении, например, при длине ремня 2500 мм | Esecuzione saldata, ad esempio con lunghezza della cinghia di 2500 mm
+HF 	Version fl exible | versión fl exible | исполнение с повышенной гибкостью | Esecuzione flessibile
+Standard roll length: 30 m | Longitud estándar de rollo: 30 m | Longueur standard de rouleau : 30 m | Lunghezza dei rulli standard: 30 m
+Short lengths, PAN/PAR coating as well as splicing on request (minimum length 1000 mm).
+Consultar longitudes más cortas, revestimiento PAN/PAR y soldaduras (longitud mínima 1000 mm).
+Короткие длины, полиамидное покрытие PAZ/PAR, а также сварные модификации по запросу (мин. длина 1000 мм).
+Piccole lunghezze, rivestimento di PAN/PAR e saldature su richiesta (lunghezza minima 1000 mm).
+
+-- 124 of 132 --
+
+125
+CONTI® SYNCHRODRIVE
+b 	Belt width | Anchura correa síncrona | Ширина зубчатого ремня | Larghezza della cinghia dentata
+EUR / m 	Price per m | Precio por m | Цена за метр | Prezzo al m
+* 	On request (see page 6) | Bajo consulta (v. pág. 6) | По запросу (см. стр. 7) | Su richiesta (v. pag. 7)
+N10 HF
+b (mm) 	EUR / m
+10 	12,03
+20 	20,80
+30 	32,72
+40 	43,24
+50 	47,87
+60 	74,47
+70 	79,30
+80 	83,90
+90 	93,05
+100 	94,77
+N10 HF PAN
+b (mm) 	EUR / m
+10 	13,83
+20 	23,92
+30 	37,63
+40 	49,73
+50 	55,05
+60 	85,64
+70 	91,20
+80 	96,49
+90 	107,01
+100 	108,99
+
+-- 125 of 132 --
+
+126
+CONTI® POLYFLAT
+CONTI® POLYFLAT
+For space-saving drive configurations in lift systems
+Para configuraciones compactas en sistemas elevadores
+Для компактных приводов лифтовых систем
+Per confi gurazioni di trasmissioni a basso ingombro in
+sistemi di sollevamento
+Properties
+- wear-resistant
+- oil- and grease-resistant
+- resistant to carburetor fuel and benzene
+- hydrolysis-resistant
+- resistant to UV and ozone attack
+- resistant to temperatures from -30°C to +80°C (please request
+technical advice for temperatures below -10°C and above +50°C)
+- can be spliced with thermoplastics
+Características
+- resistentes al desgaste
+- resistentes a los aceites y grasas
+- resistencia a la bencina y benzol
+- resistentes a la hidrolisis
+- resistentes a los rayos UV y al ozono
+- resistentes a la temperaturas desde -30°C a +80°C (solicite
+asesoramiento técnico en rangos de temperatura inferiores a –10°C y
+superiores a +50°C)
+- soldable con termoplásticos
+Свойства
+- устойчивость к износу
+- маслостойкость
+- устойчивость к бензину и бензолу
+- водостойкость
+- устойчивость к УФ - излучению и воздействию озона
+- устойчивость к воздействию температур от -30°C до +80°C (для
+диапазонов ниже -10°C и свыше +50°C обращайтесь за
+технической консультацией)
+- возможна термопластичная сварка для получения замкнутого
+ремня
+Proprietà
+- Resistenti all’abrasione
+- Resistenti all’olio ed al grasso
+- Resistenti alla benzina ed al benzolo
+- Resistenti all’idrolisi
+- Resistenti ai raggi ultravioletti ed all’ozono
+- Resistenti a temperature comprese tra -30 °C e +80 °C (per temperatura
+minori di -10 °C e maggiori di +50 °C si prega di richiedere la consulenza
+tecnica)
+F HP 	F HF 	F HS 	F XHP 	F XHS
+Belt thickness | Grosor de correa
+Толщина ремня | Spessore della cinghia 	h 	mm 	2,3 	2,1 	2,5 	3 	4,5
+Size designation (example) Ejemplo de dimensión | Обозначение размера (пример) | Sigla della dimensione (esempio)
+M30 	- F 20 HP
+- F 20 HF -V- 2500 mm
+M30 	Roll length (m) | Longitud de mangón en m | Длина рулона (м) | Lunghezza del rotolo in m
+F 	Flat belts | Correas planas | Плоские ремни | Cinghie piatte
+50 	50 mm Timing belt width | Anchura correa síncrona | Ширина зубчатого ремня | Larghezza della cinghia dentata
+HP 	HP (high power) type | Versión HP (high power) | Исполнение HP (High Power) | Esecuzione HP (high power)
+-V- 	Spliced type, e.g. with a belt length of 2,500 mm | versión soldada p. ej. con longitud de correa 2500 mm
+в сварном исполнении, например, при длине ремня 2500 мм | Esecuzione saldata, ad esempio con lunghezza della cinghia di 2500 mm
+HP 	Reinforced type | versión reforzada | усиленное исполнение (стандартное) | Esecuzione rinforzata
+HF 	Version fl exible | versión fl exible | исполнение с повышенной гибкостью | Esecuzione flessibile
+HS 	Very high tensile strength | resistencia a la tracción muy alta | исполнение с высоким усилием на разрыв |
+Resistenza alla trazione molto grande
+XHP 	Extra-high tensile strength | resistencia superior a la tracción | исполнение со сверхвысоким усилием на разрыв |
+Resistenza alla trazione extra grande
+XHS 	Ultra-high tensile strength | resistencia a la tracción extremadamente alta | исполнение с экстремально высоким усилием на разрыв |
+Resistenza alla trazione estremamente grande
+Standard roll length: 30 m | Longitud estándar de rollo: 30 m | Longueur standard de rouleau : 30 m | Lunghezza dei rulli standard: 30 m
+Alternative tensile members, intermediate widths, short lengths and splicing on request (minimum length 1000 mm).
+Consultar elementos tensores alternativos, anchuras intermedias, longitudes más cortas y soldaduras (longitud mínima 1000 mm).
+Альтернативные кордшнуры, промежуточные значения длины, короткие длины, а также сварные модификации по запросу
+(мин. длина 1000 мм).
+Anime resistenti alternative, larghezze intermedie, piccole lunghezze e saldature su richiesta (lunghezza minima 1000 mm).
+Pricing: HF type = HP type minus 5%, HS type = HP type plus 20%, XHP type = HP type plus 40%
+Precios: Versión HF = Versión HP -5%, Versión HS = Versión HP +20%, Versión XHP = Versión HP +40%
+Ценообразование: исполнение HF = стандартное исполнение HP -5%, исполнение HS = исполнение HP +20%,
+исполнение XHP = исполнение HP +40%
+Prezzo: esecuzione HF = esecuzione HP - 5%; esecuzione HS = esecuzione HP +20%; esecuzione XHP = esecuzione HP +40%
+
+-- 126 of 132 --
+
+127
+CONTI® POLYFLAT
+b 	Belt width | Anchura correa síncrona | Ширина зубчатого ремня | Larghezza della cinghia dentata
+EUR / m 	Price per m | Precio por m | Цена за метр | Prezzo al m
+* 	On request (see page 6) | Bajo consulta (v. pág. 6) | По запросу (см. стр. 7) | Su richiesta (v. pag. 7)
+F HP
+b (mm) 	EUR / m
+10 	11,80
+15 	15,85
+20 	19,07
+25 	23,45
+30 	28,56
+40 	31,15
+50 	42,89
+85 	76,64
+100 	81,59
+120 	97,91
+F HF
+b (mm) 	EUR / m
+10 	11,24
+15 	15,10
+20 	18,16
+25 	22,33
+30 	27,20
+40 	29,67
+50 	40,85
+85 	72,99
+100 	77,70
+F HS
+b (mm) 	EUR / m
+10 	14,16
+15 	19,02
+20 	22,88
+25 	28,14
+30 	34,27
+40 	37,38
+85 	91,97
+100 	97,91
+120 	117,49
+F XHP
+b (mm) 	EUR / m
+15 	22,19
+20 	26,70
+25 	32,83
+30 	39,98
+40 	43,61
+50 	60,05
+85 	107,30
+100 	114,23
+120 	137,07
+F XHS
+b (mm) 	EUR / m
+40 	42,05
+50 	57,90
+85 	103,46
+100 	110,15
+120 	132,18
+
+-- 127 of 132 --
+
+128
+Service program 	Programa de servicio | Сервис | Programmi di assistenza
+ContiTech pretension gauges
+VSM-1/VSM-3
+The ContiTech fully electronic pretensioning
+gauges work with timing belts, V-ribbed belts
+and V-belts.
+An LCD display shows the eigenfrequency of
+the vibrating belt rim. As a means of control, the
+system compares the eigenfrequency with the
+nominal frequency, which depends on belt type
+and load. Or it calculates the static belt tension.
+Technical data:
+Measuring range 10-500 Hz (VSM-1) /
+5-500 Hz (VSM-3)
+Probe: photosensor
+Display: 4-digit LCD (VSM-1 / VSM-3)
+Part no.
+67 79 093 (VSM-1)
+67 79 089 (VSM-3)
+Prices:
+VSM-1: €680.00
+VSM-3: €680.00
+ContiTech V-belt pretension gauge
+This gauge is good for the most diverse V-belt
+types.
+Part no. 67 79 004
+Price: €18,90
+ContiTech V-belt length gauge
+This gauge determines lengths of 500 to
+2600 mm. This gauge is good for the most
+diverse V-belt types.
+Part no. 67 79 003
+Price: €45,50
+Aparatos medidores de tensión ContiTech
+VSM-1/VSM-3
+Los aparatos medidores de tensión ContiTech
+completamente electrónicos están concebidos
+para el pretensado de correas dentadas,
+correas trapeciales y acanalas.
+La frecuencia propia del ramal de correa puesto
+a vibrar aparece visualizada en un indicador
+LCD. El control se realiza a través de una
+simple comparación con la frecuencia teórica
+dependiente del tipo de correa y de la carga o
+calculando la fuerza estática de la correa.
+Datos técnicos:
+Rango de medición 10-500 Hz (VSM-1) /
+5-500 Hz (VSM-3)
+Detector del valor de medición: Sensor óptico
+Indicación: LCD 4 dígitos (VSM-1 / VSM-3)
+N° art.
+67 79 093 (VSM-1)
+67 79 089 (VSM-3)
+Precios:
+VSM-1: €680.00
+VSM-3: €680.00
+Aparato de medición de tensión para correas
+trapeciales ContiTech
+Este aparato medidor es de uso universal para
+los diferentes tipos de correas trapeciales.
+N° artículo 67 79 004
+Precio: €18,90
+Aparato medidor de longitud de correas
+trapeciales ContiTech
+Con este aparato se determina la longitud de
+500 hasta 2600 mm. Este aparato medidor es
+de uso universal para los diferentes tipos de
+correas trapeciales.
+N° artículo 67 79 003
+Precio: €45,50
+
+-- 128 of 132 --
+
+129
+Приборы ContiTech для измерения
+предварительного натяжение ремней
+VSM-1/VSM-3
+Электронные приборы ContiTech
+предназначены для измерения
+предварительного натяжения зубчатых,
+поликлиновых и клиновых ремней.
+На дисплее прибора отображается частота
+собственных колебаний ветви ремня,
+испытывающего вибрацию. Контроль
+осуществляется методом простого
+сравнения с расчетной номинальной
+частотой, которая зависит от типа ремня
+и нагрузки или методом расчета силы
+статического натяжения ветви ремня.
+Технические характеристики:
+Диапазон измерений 10-500 Гц (VSM-1) /
+5-500 Гц (VSM-3)
+Чувствительный элемент: оптический датчик
+Индикация: ЖК-дисплей, 4-разрядный
+(VSM-1 / VSM-3)
+Арт. №
+67 79 093 (VSM-1)
+67 79 089 (VSM-3)
+Цены
+VSM-1: 680,- €
+VSM-3: 680,- €
+Механический прибор ContiTech для
+измерения предварительного натяжения
+клиновых ремней
+Этот измерительный прибор универсален
+и используется для клиновых ремней
+различных типов.
+Артикул 67 79 004
+Цена: 18,90 €
+Прибор ContiTech для измерения длины
+клиновых ремней
+Прибор позволяет измерять длины от
+500 до 2600 мм. Измерительный прибор
+универсален и используется для клиновых
+ремней различных типов.
+Артикул 67 79 003
+Цена: 45,50 €
+Strumenti di misura del pretensionamento
+ContiTech VSM-1/VSM-3
+Gli strumenti di misura del pretensionamento
+ContiTech sono strumenti di misura
+elettronici progettati e realizzati per misurare il
+pretensionamento di cinghie dentate, cinghie
+trapezoidali scanalate e cinghie trapezoidali.
+La frequenza naturale o di risonanza del tratto
+di cinghia messo in vibrazione viene visualizzata
+su un display LC. Il controllo avviene tramite il
+semplice confronto della frequenza nominale
+dipendente dal tipo di cinghia e dal carico o
+calcolando la forza statica agente sul tratto.
+Dati tecnici:
+Campo di misura 10-500 Hz (VSM-1) /
+5-500 Hz (VSM-3)
+Sensore del valore misurato: ottico
+Display: LC a 4 cifre (VSM-1 / VSM-3)
+Cod. art.
+67 79 093 (VSM-1)
+67 79 089 (VSM-3)
+Prezzi:
+VSM-1: 680,- €
+VSM-3: 680,- €
+Strumento di misura del pretensionamento di
+cinghie trapezoidali ContiTech
+Questo strumento di misura è di impiego
+universale ed utilizzabile per cinghie trapezoidali
+di forma più diversa.
+Cod. art. 67 79 004
+Prezzo: 18,90 €
+Strumento di misura della lunghezza di
+cinghie trapezoidali ContiTech
+Con questo strumento si misurano lunghezze
+da 500 a 2600 mm. Lo strumento di misura è
+di impiego universale ed utilizzabile per cinghie
+trapezoidali di forma più diversa.
+Cod. art. 67 79 003
+Prezzo: 45,50 €
+
+-- 129 of 132 --
+
+130
+Krikit I: Part no. 6579870000
+Price: €15,00
+Krikit II: Part no. 6579871000
+Price: €15,00
+Krikit IIII: Part no. 6579872000
+Price: €15,00
+Rótulo publicitario iluminado
+para interiores y exteriores
+- Incluye sujeción de pared
+- puede iluminarse por ambos lados
+- 94 x 65 x 14 cm
+N° art. 6779753000
+A consulta
+Illuminated advertising sign
+Possible to use inside and outside
+- inclusive wall attachment
+- Can be illuminated from both sides
+- 94 x 65 x 14 cm
+Part no. 6779753000
+Availability on request
+Poster-Set DIN A1
+Semigloss
+Contains 5 posters:
+- Synchrochain
+- Extreme
+- CXA
+- CXP
+- Multirib
+Part no. WT 7777
+Availability on request
+Póster DIN A1
+Semi-gloss
+Contiene 5 unidades:
+- Synchrochain
+- Extreme
+- CXA
+- CXP
+- Multirib
+N° art. WT 7777
+A consulta
+V-belt pretension gauges
+KRIKIT in three versions
+KRIKIT I:
+The KRIKIT I pretension gauge makes it
+possible to mechanically set the optimum V-belt
+tension.
+KRIKIT II:
+The KRIKIT II pretension gauge makes it
+possible to set the optimum V-ribbed belt
+tension at up to 70 kg tensile stress.
+KRIKIT III:
+The KRIKIT III tension gauge makes it possible
+to set the optimum V-ribbed belt pretension to a
+tensile stress of 70 to 150 kg.
+Krikit I: N° art. 6579870000
+Precio: €15,00
+Krikit II: N° art. 6579871000
+Precio: €15,00
+Krikit IIII: N° art. 6579872000
+Precio: €15,00
+Medidores de tensión de correas trapeciales
+KRIKIT en tres modelos
+KRIKIT I:
+Con el aparato medidor de tensión KRIKIT I se
+puede ajustar mecánicamente la tensión de
+correas trapeciales.
+KRIKIT II:
+Con el aparato medidor de tensión KRIKIT II
+se puede ajustar mecánicamente la tensión de
+correas acanaladas con una tensión de tracción
+de hasta 70 kg.
+KRIKIT III:
+Con el aparato medidor de tensión KRIKIT III
+se puede ajustar mecánicamente la tensión de
+correas acanaladas con una tensión de tracción
+de 70 hasta 150 kg.
+
+-- 130 of 132 --
+
+131
+Рекламный щит с подсветкой
+для внутреннего и наружного размещения
+- включая настенное крепление
+- возможна подсветка с обеих сторон
+- 94 x 65 x 14 см
+Артикул 6779753000
+По запросу
+Targa pubblicitaria illuminata
+Utilizzabile all’interno ed all’esterno
+- Con supporto a parete
+- Può essere illuminata da entrambi i lati
+- 94 x 65 x 14 cm
+Cod. art. 6779753000
+Su richiesta
+Набор плакатов DIN A1
+Полуглянцевые
+Включает 5 плакатов:
+- Synchrochain
+- Extreme
+- CXA
+- CXP
+- Multirib
+Артикул WT 7777
+По запросу
+Set di poster DIN A1
+Semibrillante
+Contiene 5 poster:
+- Synchrochain
+- Extremen
+- CXA
+- CXP
+- Multirib
+Cod. art. WT 7777
+Su richiesta
+Krikit I: Артикул 6579870000
+Цена: 15,00 €
+Krikit II: Артикул 6579871000
+Цена: 15,00 €
+Krikit IIII: Артикул 6579872000
+Цена: 15,00 €
+Приборы для измерения предварительного
+натяжения клиновых ремней
+KRIKIT I:
+Прибором для измерения предварительного
+натяжения KRIKIT I можно установить
+оптимальное предварительное натяжение
+клинового ремня.
+KRIKIT II:
+Прибором для измерения предварительного
+натяжения KRIKIT II можно установить
+оптимальное предварительное натяжение
+поликлинового ремня при силе натяжения
+до 70 кг.
+KRIKIT III:
+Прибором для измерения предварительного
+натяжения KRIKIT II можно установить
+оптимальное натяжение поликлинового
+ремня при силе натяжения от 70 до 150 кг.
+Krikit I: Cod. art. 6579870000
+Prezzo: 15,00 €
+Krikit II: Cod. art. 6579871000
+Prezzo: 15,00 €
+Krikit IIII: Cod. art. 6579872000
+Prezzo: 15,00 €
+Strumenti di misura del pretensionamento di
+cinghie trapezoidali KRIKIT in tre versioni
+KRIKIT I:
+con lo strumento di misura del
+pretensionamento KRIKIT I si può regolare
+meccanicamente la tensione ottimale delle
+cinghie trapezoidali.
+KRIKIT II:
+con lo strumento di misura del
+pretensionamento KRIKIT II si può regolare
+meccanicamente la tensione ottimale delle
+cinghie trapezoidali scanalate con una forza di
+trazione fi no a 70 kg.
+KRIKIT III:
+con lo strumento di misura del
+pretensionamento KRIKIT III si può regolare
+meccanicamente la tensione ottimale delle
+cinghie trapezoidali scanalate con una forza di
+trazione da 70 a 150 kg.
+
+-- 131 of 132 --
+
+WT 8004 E · SP · RU · IT 06.11 (Ru)
+ 
+Printed with ContiTech offset printing blankets on bleached paper free of chlorine
+www.contitech.de
+www.contitech-online.com
+Power Transmission Group
+Market segment
+Industry
+Contact
+ContiTech
+Antriebssysteme GmbH
+D-30165 Hannover
+Phone +49 511 938-71
+industrie.as@ptg.contitech.de
+Your local contact:
+www.contitech.de/contactlocator	q
+The ContiTech division
+of the Continental Corporation
+is a development partner and
+original equipment supplier
+to numerous industries for
+high-quality functional parts,
+components and systems.
+With its know-how in rubber
+and plastics technology,
+ContiTech contributes signifi-
+cantly to industrial progress
+and mobility that is safe,
+comfortable and eco-friendly.
+This pricelist does not apply for Austria, France, Germany, Scandinavia and the U.K.
+The content of this publication is not legally binding and is provided as information only. The trademarks displayed in this publication are the property of
+Continental AG and/or its affiliates. Copyright © 2011 ContiTech AG. All rights reserved. For complete information go to: www.contitech.de/discl_en
+Esta lista de precios no es válida para Alemania, Austria, Francia, Gran Bretaña y Países Escandinavos.
+El contenido de esta publicación no es obligatorio y solamente tiene fines informativos. Los derechos de propiedad industrial mostrados son propiedad
+de Continental AG y/o de sus filiales. Copyright © 2011 ContiTech AG, Hanóver. Reservados todos los derechos. Recibirá más informaciones en
+www.contitech.de/discl_sp
+Настоящий прейскурант не действует в Германии, Великобритании, Скандинавии, Франции и Австрии.
+Содержание настоящего печатного материала не является обязывающим и служит исключительно для целей информации. Представленные
+охранные документы являются собственностью концерна Continental AG и (или) его дочерних предприятий. Авторские права © 2011 ContiTech AG,
+г. Ганновер. Все права сохранены. Более подробная информация приведена по адресу www.contitech.de/discl_en
+Il presente listino prezzi non è valido per la Germania, la Gran Bretagna, la Scandinavia, la Francia e l'Austria.
+Il contenuto del presente opuscolo non è vincolante e vuole avere solo carattere informativo. I diritti di privativa industriale dei marchi sono e rimangono
+di proprietà della Continental AG e/o delle sue affiliate. Copyright © 2011 ContiTech AG, Hannover. Tutti i diritti riservati. Per ulteriori informazioni visitare:
+www.contitech.de/discl_en
+
+-- 132 of 132 --
+
