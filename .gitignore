@@ -38,3 +38,15 @@ _site/
 # Generated data files
 sources/aprom_brands.csv
 sources/aprom_table_data.json
+
+# Temporary/Generated reports and exports
+*-to-md_*.md
+excel-to-md*.md
+*EXTRACTION_REPORT.md
+*SUMMARY.md
+
+# Office documents in root (keep only in sources/)
+/*.xlsx
+/*.xls
+/*.docx
+/*.doc
