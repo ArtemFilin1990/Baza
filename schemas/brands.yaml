@@ -3,15 +3,41 @@
     {
       "name": "brands",
       "path": "data/brands/brands.csv",
+      "description": "Bearing manufacturers and brands database",
       "columns": {
-        "brand": "string",
-        "country": "string",
-        "segment": "string",
-        "categories": "string",
-        "notes": "string",
-        "source": "string"
+        "brand": {
+          "type": "string",
+          "required": true,
+          "description": "Brand or manufacturer name"
+        },
+        "country": {
+          "type": "string",
+          "required": false,
+          "description": "Country of origin"
+        },
+        "segment": {
+          "type": "string",
+          "required": false,
+          "enum": ["Premium", "Standard", "Economy", "OEM", "Aftermarket"],
+          "description": "Market segment classification"
+        },
+        "categories": {
+          "type": "string",
+          "required": false,
+          "description": "Product categories (comma-separated)"
+        },
+        "notes": {
+          "type": "string",
+          "required": false,
+          "description": "Additional notes about the brand"
+        },
+        "source": {
+          "type": "string",
+          "required": true,
+          "description": "Reference source (catalog, website, etc.)"
+        }
       },
-      "unique": ["brand"],
+      "uniqueKey": ["brand"],
       "sort_by": ["brand"]
     }
   ]

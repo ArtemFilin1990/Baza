@@ -3,53 +3,137 @@
     {
       "name": "iso_bearings",
       "path": "data/iso/bearings.csv",
+      "description": "ISO standard bearing designations and types",
       "columns": {
-        "designation": "string",
-        "type": "string",
-        "description": "string",
-        "source": "string"
+        "designation": {
+          "type": "string",
+          "required": true,
+          "description": "ISO bearing designation code"
+        },
+        "type": {
+          "type": "string",
+          "required": true,
+          "description": "Bearing type (ball, roller, needle, etc.)"
+        },
+        "description": {
+          "type": "string",
+          "required": false,
+          "description": "Detailed description of the bearing"
+        },
+        "source": {
+          "type": "string",
+          "required": true,
+          "description": "Reference source (ISO standard number)"
+        }
       },
-      "unique": ["designation"],
+      "uniqueKey": ["designation"],
       "sort_by": ["designation"]
     },
     {
       "name": "iso_dimensions",
       "path": "data/iso/dimensions.csv",
+      "description": "ISO bearing dimensions (d, D, B)",
       "columns": {
-        "designation": "string",
-        "d": "number",
-        "D": "number",
-        "B": "number",
-        "source": "string"
+        "designation": {
+          "type": "string",
+          "required": true,
+          "description": "ISO bearing designation code"
+        },
+        "d": {
+          "type": "number",
+          "required": true,
+          "description": "Inner diameter in mm"
+        },
+        "D": {
+          "type": "number",
+          "required": true,
+          "description": "Outer diameter in mm"
+        },
+        "B": {
+          "type": "number",
+          "required": true,
+          "description": "Width in mm"
+        },
+        "source": {
+          "type": "string",
+          "required": true,
+          "description": "Reference source (ISO standard number)"
+        }
       },
-      "unique": ["designation", "d", "D", "B"],
+      "uniqueKey": ["designation", "d", "D", "B"],
       "sort_by": ["designation", "d", "D"]
     },
     {
       "name": "iso_prefixes",
       "path": "data/iso/prefixes.csv",
+      "description": "ISO bearing designation prefixes",
       "columns": {
-        "code": "string",
-        "category": "string",
-        "description": "string",
-        "source": "string"
+        "code": {
+          "type": "string",
+          "required": true,
+          "description": "Prefix code"
+        },
+        "category": {
+          "type": "string",
+          "required": false,
+          "description": "Prefix category"
+        },
+        "description": {
+          "type": "string",
+          "required": true,
+          "description": "Description of prefix meaning"
+        },
+        "source": {
+          "type": "string",
+          "required": true,
+          "description": "Reference source (ISO standard or catalog)"
+        }
       },
-      "unique": ["code"],
+      "uniqueKey": ["code"],
       "sort_by": ["code"]
     },
     {
       "name": "iso_suffixes",
       "path": "data/iso/suffixes.csv",
+      "description": "ISO bearing designation suffixes by manufacturer",
       "columns": {
-        "code": "string",
-        "manufacturer": "string",
-        "type": "string",
-        "description": "string",
-        "snr_equivalent": "string",
-        "notes": "string",
-        "source": "string"
+        "code": {
+          "type": "string",
+          "required": true,
+          "description": "Suffix code"
+        },
+        "manufacturer": {
+          "type": "string",
+          "required": true,
+          "description": "Manufacturer name (SKF, NSK, FAG, etc.)"
+        },
+        "type": {
+          "type": "string",
+          "required": false,
+          "description": "Suffix type category"
+        },
+        "description": {
+          "type": "string",
+          "required": true,
+          "description": "Description of suffix meaning"
+        },
+        "snr_equivalent": {
+          "type": "string",
+          "required": false,
+          "description": "SNR equivalent suffix code"
+        },
+        "notes": {
+          "type": "string",
+          "required": false,
+          "description": "Additional notes"
+        },
+        "source": {
+          "type": "string",
+          "required": true,
+          "description": "Reference source (catalog or standard)"
+        }
       },
-      "unique": ["code", "manufacturer"],
+      "uniqueKey": ["code", "manufacturer"],
       "sort_by": ["code", "manufacturer"]
     }
   ]

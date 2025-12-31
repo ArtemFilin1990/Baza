@@ -3,50 +3,122 @@
     {
       "name": "gost_bearings",
       "path": "data/gost/bearings.csv",
+      "description": "GOST standard bearing designations and types",
       "columns": {
-        "designation": "string",
-        "type": "string",
-        "description": "string",
-        "source": "string"
+        "designation": {
+          "type": "string",
+          "required": true,
+          "description": "GOST bearing designation code"
+        },
+        "type": {
+          "type": "string",
+          "required": true,
+          "description": "Bearing type (ball, roller, needle, etc.)"
+        },
+        "description": {
+          "type": "string",
+          "required": false,
+          "description": "Detailed description of the bearing"
+        },
+        "source": {
+          "type": "string",
+          "required": true,
+          "description": "Reference source (GOST standard number)"
+        }
       },
-      "unique": ["designation"],
+      "uniqueKey": ["designation"],
       "sort_by": ["designation"]
     },
     {
       "name": "gost_dimensions",
       "path": "data/gost/dimensions.csv",
+      "description": "GOST bearing dimensions (d, D, B)",
       "columns": {
-        "designation": "string",
-        "d": "number",
-        "D": "number",
-        "B": "number",
-        "source": "string"
+        "designation": {
+          "type": "string",
+          "required": true,
+          "description": "GOST bearing designation code"
+        },
+        "d": {
+          "type": "number",
+          "required": true,
+          "description": "Inner diameter in mm"
+        },
+        "D": {
+          "type": "number",
+          "required": true,
+          "description": "Outer diameter in mm"
+        },
+        "B": {
+          "type": "number",
+          "required": true,
+          "description": "Width in mm"
+        },
+        "source": {
+          "type": "string",
+          "required": true,
+          "description": "Reference source (GOST standard number)"
+        }
       },
-      "unique": ["designation", "d", "D", "B"],
+      "uniqueKey": ["designation", "d", "D", "B"],
       "sort_by": ["designation", "d", "D"]
     },
     {
       "name": "gost_series",
       "path": "data/gost/series.csv",
+      "description": "GOST bearing series classifications",
       "columns": {
-        "designation": "string",
-        "width_series": "string",
-        "diameter_series": "string",
-        "type": "string",
-        "source": "string"
+        "designation": {
+          "type": "string",
+          "required": true,
+          "description": "Series designation"
+        },
+        "width_series": {
+          "type": "string",
+          "required": false,
+          "description": "Width series code"
+        },
+        "diameter_series": {
+          "type": "string",
+          "required": false,
+          "description": "Diameter series code"
+        },
+        "type": {
+          "type": "string",
+          "required": true,
+          "description": "Bearing type"
+        },
+        "source": {
+          "type": "string",
+          "required": true,
+          "description": "Reference source (GOST standard number)"
+        }
       },
-      "unique": ["designation"],
+      "uniqueKey": ["designation"],
       "sort_by": ["designation"]
     },
     {
       "name": "gost_tolerances",
       "path": "data/gost/tolerances.csv",
+      "description": "GOST bearing tolerance classes",
       "columns": {
-        "class": "string",
-        "description": "string",
-        "source": "string"
+        "class": {
+          "type": "string",
+          "required": true,
+          "description": "Tolerance class (0, 6, 5, 4, 2, T)"
+        },
+        "description": {
+          "type": "string",
+          "required": true,
+          "description": "Description of tolerance class"
+        },
+        "source": {
+          "type": "string",
+          "required": true,
+          "description": "Reference source (GOST standard number)"
+        }
       },
-      "unique": ["class"],
+      "uniqueKey": ["class"],
       "sort_by": ["class"]
     }
   ]
