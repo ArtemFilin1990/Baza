@@ -143,7 +143,12 @@ def cmd_sources():
     print("Sources Status")
     print("=" * 60 + "\n")
     
-    import yaml
+    try:
+        import yaml
+    except ImportError:
+        print("❌ Error: PyYAML is not installed")
+        print("Install it with: pip install pyyaml")
+        return 1
     
     sources_dir = REPO_ROOT / "sources"
     categories = ["gost", "iso", "analogs", "brands", "skf"]

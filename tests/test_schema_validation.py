@@ -30,7 +30,7 @@ class TestSchemas(unittest.TestCase):
         self.assertTrue(self.schemas_dir.is_dir(), "schemas/ should be a directory")
     
     def test_all_schema_files_valid_json(self):
-        """Test that all .yaml schema files contain valid JSON."""
+        """Test that all .yaml schema files contain valid JSON format."""
         schema_files = list(self.schemas_dir.glob("*.yaml"))
         self.assertGreater(len(schema_files), 0, "Should have at least one schema file")
         
@@ -38,6 +38,7 @@ class TestSchemas(unittest.TestCase):
             with self.subTest(schema=schema_file.name):
                 with open(schema_file, 'r', encoding='utf-8') as f:
                     try:
+                        # Note: These .yaml files actually contain JSON format
                         data = json.load(f)
                         self.assertIsInstance(data, dict, f"{schema_file.name} should contain a JSON object")
                     except json.JSONDecodeError as e:

@@ -5,6 +5,9 @@ Generate sources table for SOURCES.md.
 This script reads all meta.yaml files from sources/ subdirectories
 and generates a markdown table with source information.
 
+Requirements:
+    - PyYAML (install with: pip install pyyaml)
+
 Usage:
     python scripts/generate_sources_table.py [--output SOURCES.md]
 
@@ -14,9 +17,16 @@ Examples:
 """
 
 import argparse
-import yaml
+import sys
 from pathlib import Path
 from datetime import datetime
+
+try:
+    import yaml
+except ImportError:
+    print("❌ Error: PyYAML is not installed")
+    print("Install it with: pip install pyyaml")
+    sys.exit(1)
 
 
 def load_sources_metadata(sources_dir):
