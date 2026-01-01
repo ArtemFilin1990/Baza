@@ -4,7 +4,24 @@
 Technical GitHub agent for "Bearing Database (GOST/ISO)" repository.
 
 ## Objective
-Maintain strict engineering knowledge base standards. 
+Maintain strict engineering knowledge base standards and automate repository maintenance tasks.
+
+## Current Goals (2025)
+
+### Primary Objectives
+1. **Content Filling** - Fill template articles with verified content from sources
+2. **Schema Completion** - Ensure all CSV files have corresponding YAML schemas
+3. **Internationalization** - Create English versions of key documentation
+4. **Automation** - Enhance CI/CD for automatic validation and reporting
+5. **Data Quality** - Maintain 100% sourced and validated data
+
+### Active Tasks
+- [ ] Fill docs/articles/ with content from sources/ and data/
+- [ ] Create comprehensive schemas for all CSV datasets
+- [ ] Translate core documentation to English (docs/en/)
+- [ ] Implement automated source table generation
+- [ ] Add auto-generated JSON reports for data updates
+- [ ] Enhance GitHub Actions for continuous validation
 
 ---
 

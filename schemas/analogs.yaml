@@ -3,40 +3,103 @@
     {
       "name": "analogs_gost_iso",
       "path": "data/analogs/gost_iso.csv",
+      "description": "GOST to ISO bearing equivalents mapping table",
       "columns": {
-        "source": "string",
-        "gost": "string",
-        "iso": "string",
-        "brand": "string",
-        "notes": "string"
+        "source": {
+          "type": "string",
+          "required": true,
+          "description": "Reference source for the mapping"
+        },
+        "gost": {
+          "type": "string",
+          "required": true,
+          "description": "GOST bearing designation"
+        },
+        "iso": {
+          "type": "string",
+          "required": true,
+          "description": "ISO equivalent bearing designation"
+        },
+        "brand": {
+          "type": "string",
+          "required": false,
+          "description": "Brand-specific designation (if applicable)"
+        },
+        "notes": {
+          "type": "string",
+          "required": false,
+          "description": "Additional notes about the equivalence"
+        }
       },
-      "unique": ["gost", "iso"],
+      "uniqueKey": ["gost", "iso"],
       "sort_by": ["gost", "iso", "brand"]
     },
     {
       "name": "analogs_units",
       "path": "data/analogs/units.csv",
+      "description": "Bearing units equivalents (GOST to ISO)",
       "columns": {
-        "source": "string",
-        "gost": "string",
-        "iso": "string",
-        "brand": "string",
-        "notes": "string"
+        "source": {
+          "type": "string",
+          "required": true,
+          "description": "Reference source for the mapping"
+        },
+        "gost": {
+          "type": "string",
+          "required": true,
+          "description": "GOST bearing unit designation"
+        },
+        "iso": {
+          "type": "string",
+          "required": true,
+          "description": "ISO equivalent bearing unit designation"
+        },
+        "brand": {
+          "type": "string",
+          "required": false,
+          "description": "Brand-specific designation (if applicable)"
+        },
+        "notes": {
+          "type": "string",
+          "required": false,
+          "description": "Additional notes about the equivalence"
+        }
       },
-      "unique": ["gost", "iso"],
+      "uniqueKey": ["gost", "iso"],
       "sort_by": ["gost", "iso", "brand"]
     },
     {
       "name": "analogs_housings",
       "path": "data/analogs/housings.csv",
+      "description": "Bearing housings equivalents (GOST to ISO)",
       "columns": {
-        "source": "string",
-        "gost": "string",
-        "iso": "string",
-        "brand": "string",
-        "notes": "string"
+        "source": {
+          "type": "string",
+          "required": true,
+          "description": "Reference source for the mapping"
+        },
+        "gost": {
+          "type": "string",
+          "required": true,
+          "description": "GOST bearing housing designation"
+        },
+        "iso": {
+          "type": "string",
+          "required": true,
+          "description": "ISO equivalent bearing housing designation"
+        },
+        "brand": {
+          "type": "string",
+          "required": false,
+          "description": "Brand-specific designation (if applicable)"
+        },
+        "notes": {
+          "type": "string",
+          "required": false,
+          "description": "Additional notes about the equivalence"
+        }
       },
-      "unique": ["gost", "iso"],
+      "uniqueKey": ["gost", "iso"],
       "sort_by": ["gost", "iso", "brand"]
     }
   ]
