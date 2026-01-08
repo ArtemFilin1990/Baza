@@ -44,7 +44,7 @@ from urllib.request import Request, urlopen
 DEFAULT_TIMEOUT_SECONDS = int(os.getenv("HTTP_TIMEOUT_SECONDS", "10"))
 DEFAULT_DELAY_SECONDS = float(os.getenv("REQUEST_DELAY_SECONDS", "0.2"))
 DEFAULT_MAX_PAGES = int(os.getenv("TABLE_MAX_PAGES", "250"))
-DEFAULT_USER_AGENT = os.getenv("TABLE_SCRAPER_USER_AGENT", "BazaTableScraper/1.0")
+DEFAULT_USER_AGENT = os.getenv("TABLE_SCRAPER_USER_AGENT", "TableScraper/1.0")
 DEFAULT_MAX_RETRIES = int(os.getenv("TABLE_MAX_RETRIES", "3"))
 DEFAULT_RETRY_DELAY = float(os.getenv("TABLE_RETRY_DELAY", "2.0"))
 
@@ -223,10 +223,10 @@ def fetch_html(url: str, timeout: int, max_retries: int = DEFAULT_MAX_RETRIES, r
     Raises:
         HTTPError: If HTTP request fails after all retries
         URLError: If network connection fails after all retries
-        ValueError: If max_retries is less than 1
+        ValueError: If max_retries is less than 0
     """
-    if max_retries < 1:
-        raise ValueError("max_retries must be at least 1")
+    if max_retries < 0:
+        raise ValueError("max_retries must be at least 0")
     
     request = Request(url, headers={"User-Agent": DEFAULT_USER_AGENT})
     last_error: Optional[Exception] = None
