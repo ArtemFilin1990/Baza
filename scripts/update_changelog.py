@@ -17,8 +17,8 @@ Examples:
 """
 
 import argparse
-import subprocess
 import re
+import subprocess
 from datetime import datetime
 from pathlib import Path
 
@@ -111,7 +111,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 """
     else:
         # Read existing changelog
-        with open(changelog_path, "r", encoding="utf-8") as f:
+        with open(changelog_path, encoding="utf-8") as f:
             content = f.read()
 
         # Find insertion point (after header, before first version)

@@ -18,8 +18,8 @@ Examples:
 
 import argparse
 import sys
-from pathlib import Path
 from datetime import datetime
+from pathlib import Path
 
 try:
     import yaml
@@ -38,7 +38,7 @@ def load_sources_metadata(sources_dir):
         meta_file = sources_dir / category / "meta.yaml"
         if meta_file.exists():
             try:
-                with open(meta_file, "r", encoding="utf-8") as f:
+                with open(meta_file, encoding="utf-8") as f:
                     data = yaml.safe_load(f)
                     if data and "sources" in data:
                         sources_data[category] = data["sources"]
@@ -126,7 +126,7 @@ def update_sources_md(table, detailed_table, output_file):
     """Update SOURCES.md with the generated tables."""
     # Read current SOURCES.md if it exists
     if output_file.exists():
-        with open(output_file, "r", encoding="utf-8") as f:
+        with open(output_file, encoding="utf-8") as f:
             content = f.read()
     else:
         content = ""

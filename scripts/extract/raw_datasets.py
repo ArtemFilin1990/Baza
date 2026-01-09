@@ -4,18 +4,18 @@ Each dataset lists normalized rows with explicit sort and uniqueness rules.
 """
 
 from pathlib import Path
-from typing import Dict, List, TypedDict
+from typing import TypedDict
 
 
 class DatasetSpec(TypedDict):
     output: Path
-    columns: List[str]
-    unique: List[str]
-    sort_by: List[str]
-    rows: List[Dict[str, str]]
+    columns: list[str]
+    unique: list[str]
+    sort_by: list[str]
+    rows: list[dict[str, str]]
 
 
-RAW_DATASETS: Dict[str, DatasetSpec] = {
+RAW_DATASETS: dict[str, DatasetSpec] = {
     "analogs_gost_iso": {
         "output": Path("data/analogs/gost_iso.csv"),
         "columns": ["source", "gost", "iso", "brand", "notes"],

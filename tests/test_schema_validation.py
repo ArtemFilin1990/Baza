@@ -9,9 +9,8 @@ Tests validate that:
 4. All CSV files have corresponding schemas
 """
 
-import unittest
 import json
-import yaml
+import unittest
 from pathlib import Path
 
 
@@ -36,7 +35,7 @@ class TestSchemas(unittest.TestCase):
 
         for schema_file in schema_files:
             with self.subTest(schema=schema_file.name):
-                with open(schema_file, "r", encoding="utf-8") as f:
+                with open(schema_file, encoding="utf-8") as f:
                     try:
                         # Note: These .yaml files actually contain JSON format
                         data = json.load(f)
@@ -50,7 +49,7 @@ class TestSchemas(unittest.TestCase):
 
         for schema_file in schema_files:
             with self.subTest(schema=schema_file.name):
-                with open(schema_file, "r", encoding="utf-8") as f:
+                with open(schema_file, encoding="utf-8") as f:
                     schema = json.load(f)
 
                 # Check for 'tables' key
@@ -77,7 +76,7 @@ class TestSchemas(unittest.TestCase):
         schema_files = list(self.schemas_dir.glob("*.yaml"))
 
         for schema_file in schema_files:
-            with open(schema_file, "r", encoding="utf-8") as f:
+            with open(schema_file, encoding="utf-8") as f:
                 schema = json.load(f)
 
             for table in schema["tables"]:
@@ -117,7 +116,7 @@ class TestSchemas(unittest.TestCase):
                     self.assertTrue(schema_file.exists(), f"CSV file {csv_path} should have schema {schema_path}")
 
                     # Verify the schema references this CSV
-                    with open(schema_file, "r", encoding="utf-8") as f:
+                    with open(schema_file, encoding="utf-8") as f:
                         schema = json.load(f)
 
                     paths = [table.get("path") for table in schema.get("tables", [])]
@@ -128,7 +127,7 @@ class TestSchemas(unittest.TestCase):
         schema_files = list(self.schemas_dir.glob("*.yaml"))
 
         for schema_file in schema_files:
-            with open(schema_file, "r", encoding="utf-8") as f:
+            with open(schema_file, encoding="utf-8") as f:
                 schema = json.load(f)
 
             for table in schema["tables"]:
@@ -145,7 +144,7 @@ class TestSchemas(unittest.TestCase):
         schema_files = list(self.schemas_dir.glob("*.yaml"))
 
         for schema_file in schema_files:
-            with open(schema_file, "r", encoding="utf-8") as f:
+            with open(schema_file, encoding="utf-8") as f:
                 schema = json.load(f)
 
             for table in schema["tables"]:
@@ -171,7 +170,7 @@ class TestSchemaRequiredFields(unittest.TestCase):
         schema_files = list(self.schemas_dir.glob("*.yaml"))
 
         for schema_file in schema_files:
-            with open(schema_file, "r", encoding="utf-8") as f:
+            with open(schema_file, encoding="utf-8") as f:
                 schema = json.load(f)
 
             for table in schema["tables"]:

@@ -12,16 +12,15 @@ import csv
 import json
 import sys
 from pathlib import Path
-from typing import List, Dict
 
 
-def load_brands_json(filepath: Path) -> List[Dict[str, str]]:
+def load_brands_json(filepath: Path) -> list[dict[str, str]]:
     """Load brands data from JSON file."""
-    with open(filepath, "r", encoding="utf-8") as f:
+    with open(filepath, encoding="utf-8") as f:
         return json.load(f)
 
 
-def write_brands_csv(brands: List[Dict[str, str]], filepath: Path) -> None:
+def write_brands_csv(brands: list[dict[str, str]], filepath: Path) -> None:
     """Write brands data to CSV file."""
     if not brands:
         print("Warning: No brands data to write", file=sys.stderr)

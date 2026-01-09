@@ -26,11 +26,11 @@ def _import_table_scraper():
 
     from table_scraper import (
         TableCell,
-        extract_tables,
-        derive_headers,
-        table_to_records,
         clean_text,
+        derive_headers,
+        extract_tables,
         normalize_url,
+        table_to_records,
     )
 
     return TableCell, extract_tables, derive_headers, table_to_records, clean_text, normalize_url

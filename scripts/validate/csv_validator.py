@@ -6,8 +6,6 @@ import csv
 import json
 from dataclasses import dataclass
 from pathlib import Path
-from typing import Dict, List, Sequence, Tuple
-
 
 TYPE_CASTERS = {
     "string": str,
@@ -21,14 +19,14 @@ class TableSchema:
 
     name: str
     path: Path
-    columns: Dict[str, str]
-    unique: List[str]
-    sort_by: List[str]
+    columns: dict[str, str]
+    unique: list[str]
+    sort_by: list[str]
 
 
-def _load_schema_file(path: Path) -> List[TableSchema]:
+def _load_schema_file(path: Path) -> list[TableSchema]:
     payload = json.loads(path.read_text(encoding="utf-8"))
-    tables: List[TableSchema] = []
+    tables: list[TableSchema] = []
     for table in payload.get("tables", []):
         # Extract column types from nested column definitions
         columns = {}
@@ -50,15 +48,15 @@ def _load_schema_file(path: Path) -> List[TableSchema]:
     return tables
 
 
-def load_schemas(schema_dir: Path) -> List[TableSchema]:
+def load_schemas(schema_dir: Path) -> list[TableSchema]:
     """Load all table schemas from a directory."""
-    schemas: List[TableSchema] = []
+    schemas: list[TableSchema] = []
     for schema_file in sorted(schema_dir.glob("*.yaml")):
         schemas.extend(_load_schema_file(schema_file))
     return schemas
 
 
-def _coerce(value: str, expected_type: str) -> Tuple[bool, str]:
+def _coerce(value: str, expected_type: str) -> tuple[bool, str]:
     caster = TYPE_CASTERS.get(expected_type, str)
     if value == "" and expected_type == "string":
         return True, value
@@ -69,8 +67,8 @@ def _coerce(value: str, expected_type: str) -> Tuple[bool, str]:
     return True, str(coerced) if expected_type == "number" else str(coerced)
 
 
-def _sort_key(row: Dict[str, str], schema: TableSchema) -> Tuple:
-    key_parts: List = []
+def _sort_key(row: dict[str, str], schema: TableSchema) -> tuple:
+    key_parts: list = []
     for field in schema.sort_by:
         expected_type = schema.columns.get(field, "string")
         if expected_type == "number":
@@ -83,9 +81,9 @@ def _sort_key(row: Dict[str, str], schema: TableSchema) -> Tuple:
     return tuple(key_parts)
 
 
-def validate_table(schema: TableSchema) -> List[str]:
+def validate_table(schema: TableSchema) -> list[str]:
     """Validate a single table against the provided schema."""
-    errors: List[str] = []
+    errors: list[str] = []
     if not schema.path.exists():
         return [f"{schema.name}: missing file {schema.path}"]
 
@@ -99,7 +97,7 @@ def validate_table(schema: TableSchema) -> List[str]:
             errors.append(f"{schema.name}: header mismatch. expected {expected_fields}, found {reader.fieldnames}")
 
         seen_keys = set()
-        prev_key: Tuple | None = None
+        prev_key: tuple | None = None
         for line_number, row in enumerate(reader, start=2):
             # Column completeness and type validation
             for column, expected_type in schema.columns.items():
@@ -134,9 +132,9 @@ def validate_table(schema: TableSchema) -> List[str]:
     return errors
 
 
-def validate_all(schema_dir: Path) -> List[str]:
+def validate_all(schema_dir: Path) -> list[str]:
     """Validate every schema in the directory and aggregate errors."""
-    all_errors: List[str] = []
+    all_errors: list[str] = []
     for schema in load_schemas(schema_dir):
         all_errors.extend(validate_table(schema))
     return all_errors
