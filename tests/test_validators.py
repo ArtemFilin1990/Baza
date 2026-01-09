@@ -1,7 +1,6 @@
 """Tests for CSV validators."""
 
 import csv
-from pathlib import Path
 import pytest
 from scripts.validate.csv_validator import validate_table, TableSchema
 
