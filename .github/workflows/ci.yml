@@ -29,6 +29,31 @@ jobs:
       - name: Normalize datasets
         run: python scripts/update_repo.py --no-report
 
+      - name: Check for duplicate keys in nomenclature
+        run: |
+          echo "Checking nomenclature.csv for duplicate keys..."
+          python -c "
+          import csv
+          from pathlib import Path
+          csv_file = Path('data/nomenclature.csv')
+          with csv_file.open(encoding='utf-8') as f:
+              reader = csv.DictReader(f)
+              seen = set()
+              duplicates = []
+              for line_num, row in enumerate(reader, start=2):
+                  key = (row['Brand'], row['Product Name'])
+                  if key in seen:
+                      duplicates.append((key, line_num))
+                  seen.add(key)
+          if duplicates:
+              print(f'ERROR: Found {len(duplicates)} duplicate keys:')
+              for key, line_num in duplicates[:10]:
+                  print(f'  - {key} at line {line_num}')
+              exit(1)
+          else:
+              print('✓ No duplicate keys found')
+          "
+
       - name: Run validations
         run: python scripts/validate/run_validations.py
 
