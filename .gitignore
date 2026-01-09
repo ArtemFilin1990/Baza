@@ -27,8 +27,22 @@ package-lock.json
 # Python (if using validation scripts)
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+.Python
 .venv/
 venv/
+.env
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+coverage_html/
+htmlcov/
+*.egg-info/
+dist/
+build/
+*.egg
 
 # Generated
 _site/

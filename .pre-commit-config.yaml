@@ -1,0 +1,45 @@
+repos:
+  # General file checks
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v4.5.0
+    hooks:
+      - id: trailing-whitespace
+      - id: end-of-file-fixer
+      - id: check-yaml
+      - id: check-json
+      - id: check-added-large-files
+        args: ['--maxkb=5000']
+      - id: check-case-conflict
+      - id: check-merge-conflict
+      - id: detect-private-key
+
+  # Python code formatting
+  - repo: https://github.com/psf/black
+    rev: 24.1.1
+    hooks:
+      - id: black
+        language_version: python3.11
+
+  # Python linting
+  - repo: https://github.com/astral-sh/ruff-pre-commit
+    rev: v0.1.15
+    hooks:
+      - id: ruff
+        args: [--fix, --exit-non-zero-on-fix]
+
+  # Local hooks for repository-specific checks
+  - repo: local
+    hooks:
+      - id: deduplicate-nomenclature
+        name: Deduplicate nomenclature.csv
+        entry: python scripts/deduplicate_nomenclature.py
+        language: system
+        files: ^data/nomenclature\.csv$
+        pass_filenames: false
+
+      - id: validate-csv
+        name: Validate CSV files
+        entry: python scripts/validate/run_validations.py
+        language: system
+        files: ^data/.*\.csv$
+        pass_filenames: false
