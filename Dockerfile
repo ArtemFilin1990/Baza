@@ -1,9 +1,13 @@
 # Multi-stage build for optimized image size
 FROM python:3.11-slim as builder
 
+# Use same UID as final stage for consistency
+RUN useradd -m -u 1000 builder
+
 WORKDIR /app
 
-# Install dependencies
+# Install dependencies as the builder user
+USER builder
 COPY requirements.txt .
 RUN pip install --user --no-cache-dir -r requirements.txt
 
@@ -18,7 +22,7 @@ RUN useradd -m -u 1000 appuser && \
 WORKDIR /app
 
 # Copy dependencies from builder
-COPY --from=builder /root/.local /home/appuser/.local
+COPY --from=builder /home/builder/.local /home/appuser/.local
 
 # Copy application code
 COPY --chown=appuser:appuser . .

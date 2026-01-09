@@ -2,7 +2,9 @@
 """Remove duplicate entries from nomenclature.csv based on unique key (Brand, Product Name)."""
 
 import csv
+import os
 import sys
+import tempfile
 from collections import OrderedDict
 from pathlib import Path
 
@@ -38,11 +40,21 @@ def deduplicate_nomenclature(input_file: Path, output_file: Path) -> int:
             else:
                 unique_rows[key] = row
     
-    # Write deduplicated data
-    with open(output_file, 'w', encoding='utf-8', newline='') as f:
-        writer = csv.DictWriter(f, fieldnames=header)
-        writer.writeheader()
-        writer.writerows(unique_rows.values())
+    # Write to a temporary file first, then atomically replace
+    fd, temp_path = tempfile.mkstemp(dir=output_file.parent, suffix='.csv', text=True)
+    try:
+        with os.fdopen(fd, 'w', encoding='utf-8', newline='') as f:
+            writer = csv.DictWriter(f, fieldnames=header)
+            writer.writeheader()
+            writer.writerows(unique_rows.values())
+        
+        # Atomically replace the original file
+        os.replace(temp_path, output_file)
+    except Exception:
+        # Clean up temp file on error
+        if os.path.exists(temp_path):
+            os.unlink(temp_path)
+        raise
     
     # Report
     total_original = len(unique_rows) + len(duplicates)

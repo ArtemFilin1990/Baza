@@ -18,7 +18,7 @@ lint: ## Run code linters
 	@echo "Running ruff..."
 	ruff check scripts/ sources/ tests/
 	@echo "Running mypy..."
-	mypy scripts/ sources/ tests/ --ignore-missing-imports || true
+	mypy scripts/ sources/ tests/ --ignore-missing-imports
 	@echo "Checking code style with black..."
 	black --check scripts/ sources/ tests/
 
@@ -53,12 +53,12 @@ docker-down: ## Stop Docker containers
 	docker-compose down
 
 clean: ## Clean build artifacts and cache
-	find . -type d -name "__pycache__" -exec rm -rf {} + 2>/dev/null || true
+	find . -type d -name "__pycache__" -print0 | xargs -0 rm -rf 2>/dev/null || true
 	find . -type f -name "*.pyc" -delete
 	find . -type f -name "*.pyo" -delete
-	find . -type d -name ".pytest_cache" -exec rm -rf {} + 2>/dev/null || true
-	find . -type d -name ".ruff_cache" -exec rm -rf {} + 2>/dev/null || true
-	find . -type d -name ".mypy_cache" -exec rm -rf {} + 2>/dev/null || true
-	find . -type d -name "*.egg-info" -exec rm -rf {} + 2>/dev/null || true
+	find . -type d -name ".pytest_cache" -print0 | xargs -0 rm -rf 2>/dev/null || true
+	find . -type d -name ".ruff_cache" -print0 | xargs -0 rm -rf 2>/dev/null || true
+	find . -type d -name ".mypy_cache" -print0 | xargs -0 rm -rf 2>/dev/null || true
+	find . -type d -name "*.egg-info" -print0 | xargs -0 rm -rf 2>/dev/null || true
 	rm -rf coverage_html/ htmlcov/ .coverage
 	@echo "✅ Cleaned build artifacts and cache"
