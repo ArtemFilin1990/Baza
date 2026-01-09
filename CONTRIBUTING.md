@@ -296,15 +296,112 @@ git push origin data/update-iso-suffixes
 
 ## CI/CD и автоматические проверки
 
+### Требования к коду
+
+Перед созданием Pull Request убедитесь, что:
+
+1. **Код отформатирован**:
+   ```bash
+   make format  # Форматирование с black и ruff
+   ```
+
+2. **Линтеры пройдены**:
+   ```bash
+   make lint    # Проверка с ruff, mypy, black
+   ```
+
+3. **Тесты проходят**:
+   ```bash
+   make test    # Запуск всех тестов
+   make test-cov  # С coverage
+   ```
+
+4. **Данные валидны**:
+   ```bash
+   make dedup    # Дедупликация nomenclature.csv
+   make validate  # Валидация CSV файлов
+   ```
+
+### Pre-commit Hooks
+
+После установки dev зависимостей (`make install-dev`):
+
+```bash
+pip install -r requirements-dev.txt
+pre-commit install
+```
+
+Pre-commit hooks автоматически:
+- Проверяют trailing whitespace
+- Форматируют код с black
+- Проверяют с ruff
+- Валидируют YAML/JSON
+- Запускают дедупликацию
+- Валидируют CSV
+
 ### GitHub Actions
 
 При создании Pull Request автоматически запускаются проверки:
 
-1. **Синтаксис Python** - проверка всех .py файлов
-2. **Валидация JSON** - проверка всех .json файлов
-3. **Валидация CSV** - проверка структуры и соответствия схемам
-4. **Тесты** - запуск всех unit и integration тестов
-5. **Нормализация данных** - проверка сортировки и форматирования
+1. **PR Checks Workflow** (`.github/workflows/pr-checks.yml`):
+   - Проверка форматирования (black)
+   - Линтинг (ruff)
+   - Проверка типов (mypy)
+   - Дедупликация nomenclature.csv
+   - Валидация CSV
+   - Тесты с coverage
+   - Комментарий с результатами
+
+2. **CI Workflow** (`.github/workflows/ci.yml`):
+   - Тестирование на Python 3.11 и 3.12
+   - Нормализация данных
+   - Валидация структуры
+   - Проверка ссылок в Markdown
+
+3. **Security Workflow** (`.github/workflows/security.yml`):
+   - Сканирование зависимостей (pip-audit)
+   - Поиск секретов (Gitleaks)
+   - CodeQL анализ
+   - SBOM генерация
+
+### Стиль кода
+
+Следуйте этим правилам:
+
+- **Python**: PEP 8, line-length=120
+- **Форматтер**: black
+- **Линтер**: ruff с правилами E, F, I, N, W, UP
+- **Типы**: mypy (опционально, но рекомендуется)
+- **Тесты**: pytest с минимум 80% coverage
+
+### Commit Messages
+
+Используйте [Conventional Commits](https://www.conventionalcommits.org/):
+
+```
+<type>(<scope>): <subject>
+
+<body>
+
+<footer>
+```
+
+Типы:
+- `feat`: новая функциональность
+- `fix`: исправление бага
+- `docs`: изменения в документации
+- `style`: форматирование, без изменения логики
+- `refactor`: рефакторинг кода
+- `test`: добавление/изменение тестов
+- `chore`: обновление зависимостей, настройки CI
+
+Примеры:
+```
+feat(data): add ISO 15 suffixes from 2017 catalogue
+fix(scripts): correct duplicate detection in nomenclature
+docs(readme): update installation instructions
+ci: add security scanning workflow
+```
 
 ### Статусы проверок
 

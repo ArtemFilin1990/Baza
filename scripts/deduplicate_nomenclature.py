@@ -2,9 +2,11 @@
 """Remove duplicate entries from nomenclature.csv based on unique key (Brand, Product Name)."""
 
 import csv
+import os
 import sys
-from pathlib import Path
+import tempfile
 from collections import OrderedDict
+from pathlib import Path
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
 NOMENCLATURE_FILE = REPO_ROOT / "data" / "nomenclature.csv"
@@ -16,48 +18,66 @@ def deduplicate_nomenclature(input_file: Path, output_file: Path) -> int:
     Returns:
         Number of duplicates removed
     """
-    seen_keys = OrderedDict()
-    duplicates_count = 0
-    
     with open(input_file, encoding='utf-8', newline='') as f:
         reader = csv.DictReader(f)
         header = reader.fieldnames
         
-        for row in reader:
-            key = (row.get('Brand', ''), row.get('Product Name', ''))
-            
-            if key not in seen_keys:
-                seen_keys[key] = row
-            else:
-                duplicates_count += 1
-                print(f"Duplicate removed: {key}")
-    
-    # Write deduplicated data
-    with open(output_file, 'w', encoding='utf-8', newline='') as f:
-        writer = csv.DictWriter(f, fieldnames=header)
-        writer.writeheader()
+        if not header or 'Brand' not in header or 'Product Name' not in header:
+            print("ERROR: CSV must have 'Brand' and 'Product Name' columns", file=sys.stderr)
+            sys.exit(1)
         
-        for row in seen_keys.values():
-            writer.writerow(row)
+        # Use OrderedDict to preserve first occurrence
+        unique_rows = OrderedDict()
+        duplicates = []
+        
+        for line_num, row in enumerate(reader, start=2):
+            brand = row.get('Brand', '').strip()
+            product_name = row.get('Product Name', '').strip()
+            key = (brand, product_name)
+            
+            if key in unique_rows:
+                duplicates.append((line_num, key))
+            else:
+                unique_rows[key] = row
     
-    return duplicates_count
-
-
-def main():
-    """Main entry point."""
-    if not NOMENCLATURE_FILE.exists():
-        print(f"Error: {NOMENCLATURE_FILE} not found", file=sys.stderr)
-        sys.exit(1)
+    # Write to a temporary file first, then atomically replace
+    fd, temp_path = tempfile.mkstemp(dir=output_file.parent, suffix='.csv')
+    try:
+        with os.fdopen(fd, 'w', encoding='utf-8', newline='') as f:
+            writer = csv.DictWriter(f, fieldnames=header)
+            writer.writeheader()
+            writer.writerows(unique_rows.values())
+        
+        # Atomically replace the original file
+        os.replace(temp_path, output_file)
+    except Exception:
+        # Clean up temp file on error
+        if os.path.exists(temp_path):
+            os.unlink(temp_path)
+        raise
     
-    print(f"Deduplicating {NOMENCLATURE_FILE}...")
-    removed = deduplicate_nomenclature(NOMENCLATURE_FILE, NOMENCLATURE_FILE)
+    # Report
+    total_original = len(unique_rows) + len(duplicates)
+    print(f"📊 Статистика дедупликации {input_file.name}:")
+    print(f"  Исходных записей: {total_original}")
+    print(f"  Уникальных записей: {len(unique_rows)}")
+    print(f"  Удалено дубликатов: {len(duplicates)}")
     
-    print(f"\n✓ Deduplication complete!")
-    print(f"  Duplicates removed: {removed}")
-    print(f"  File updated: {NOMENCLATURE_FILE}")
+    if duplicates:
+        print("\n⚠️  Найдены и удалены дубликаты:")
+        for line_num, key in sorted(duplicates)[:10]:  # Show first 10
+            print(f"  Строка {line_num}: {key}")
+        if len(duplicates) > 10:
+            print(f"  ... и ещё {len(duplicates) - 10}")
     
-    return 0 if removed >= 0 else 1
+    return len(duplicates)
 
 
 if __name__ == "__main__":
-    sys.exit(main())
+    removed = deduplicate_nomenclature(NOMENCLATURE_FILE, NOMENCLATURE_FILE)
+    if removed > 0:
+        print(f"\n✅ Файл {NOMENCLATURE_FILE.name} очищен от {removed} дубликатов")
+        sys.exit(0)
+    else:
+        print(f"\n✅ Файл {NOMENCLATURE_FILE.name} не содержит дубликатов")
+        sys.exit(0)

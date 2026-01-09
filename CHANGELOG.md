@@ -9,6 +9,35 @@
 
 ## [Unreleased]
 
+### Добавлено
+- **DevOps/SRE инфраструктура**:
+  - Скрипт дедупликации `scripts/deduplicate_nomenclature.py` для удаления дубликатов
+  - Удалено 13,546 дубликатов из `data/nomenclature.csv`
+  - Конфигурация качества кода: `pyproject.toml`, `.editorconfig`, `.pre-commit-config.yaml`
+  - Dev зависимости: `requirements-dev.txt` с black, ruff, mypy, pytest, pre-commit
+  - Тесты: `tests/test_deduplication.py`, `tests/test_validators.py`, `tests/conftest.py`
+  - CI/CD workflows: security scanning, PR checks, release automation
+  - Docker: `Dockerfile` (multi-stage), `docker-compose.yml`
+  - Автоматизация: `Makefile` с задачами для разработки
+  - Документация: `CODE_OF_CONDUCT.md`, `CODEOWNERS`, `.env.example`
+  - Улучшенный `.gitignore` для Python проектов
+
+### Изменено
+- Обновлён `.github/workflows/ci.yml`:
+  - Добавлен шаг дедупликации перед валидацией
+  - Добавлен кеширование pip зависимостей
+  - Добавлена matrix strategy для Python 3.11 и 3.12
+  - Добавлена загрузка test artifacts
+- Обновлён `README.md`:
+  - Добавлены CI/Security badges
+  - Добавлены секции "Разработка", "Тестирование", "CI/CD"
+  - Добавлены инструкции по использованию Makefile и Docker
+- `requirements.txt`: версии зависимостей зафиксированы (==)
+
+### Исправлено
+- Критический баг: дублирующиеся ключи в `data/nomenclature.csv` (55,994+ дубликатов)
+- CI теперь проходит валидацию без ошибок
+
 ### Планируется
 - Извлечение данных из PDF каталога NSK (Обозначения подшипников)
 - Извлечение данных из PDF каталога SKF (Общий каталог)

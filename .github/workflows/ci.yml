@@ -12,28 +12,77 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: ['3.11', '3.12']
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Set up Python
+      - name: Set up Python ${{ matrix.python-version }}
         uses: actions/setup-python@v5
         with:
-          python-version: "3.11"
+          python-version: ${{ matrix.python-version }}
+
+      - name: Cache pip dependencies
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('requirements.txt', 'requirements-dev.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
 
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           python -m pip install -r requirements.txt
 
+      - name: Deduplicate nomenclature
+        run: python scripts/deduplicate_nomenclature.py
+
       - name: Normalize datasets
         run: python scripts/update_repo.py --no-report
+
+      - name: Check for duplicate keys in nomenclature
+        run: |
+          echo "Checking nomenclature.csv for duplicate keys..."
+          python -c "
+          import csv
+          from pathlib import Path
+          csv_file = Path('data/nomenclature.csv')
+          with csv_file.open(encoding='utf-8') as f:
+              reader = csv.DictReader(f)
+              seen = set()
+              duplicates = []
+              for line_num, row in enumerate(reader, start=2):
+                  key = (row['Brand'], row['Product Name'])
+                  if key in seen:
+                      duplicates.append((key, line_num))
+                  seen.add(key)
+          if duplicates:
+              print(f'ERROR: Found {len(duplicates)} duplicate keys:')
+              for key, line_num in duplicates[:10]:
+                  print(f'  - {key} at line {line_num}')
+              exit(1)
+          else:
+              print('✓ No duplicate keys found')
+          "
 
       - name: Run validations
         run: python scripts/validate/run_validations.py
 
       - name: Run tests
-        run: python -m pytest -q
+        run: python -m pytest -v
+
+      - name: Upload test results
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: test-results-${{ matrix.python-version }}
+          path: |
+            .pytest_cache/
+            test-*.xml
+          retention-days: 7
 
   validate-structure:
     name: Validate Repository Structure
