@@ -42,7 +42,9 @@ jobs:
         run: ruff check scripts/ sources/ tests/
 
       - name: Run mypy type checking
-        run: mypy scripts/ sources/ tests/ --ignore-missing-imports || true
+        run: |
+          export PYTHONPATH=$PWD
+          mypy scripts/ sources/ tests/ --ignore-missing-imports || true
 
       - name: Deduplicate nomenclature
         run: python scripts/deduplicate_nomenclature.py
@@ -51,7 +53,9 @@ jobs:
         run: python scripts/validate/run_validations.py
 
       - name: Run tests with coverage
-        run: pytest --cov=scripts --cov=sources --cov-report=xml --cov-report=term
+        run: |
+          export PYTHONPATH=$PWD
+          pytest --cov=scripts --cov=sources --cov-report=xml --cov-report=term
 
       - name: Upload coverage reports
         uses: codecov/codecov-action@v3

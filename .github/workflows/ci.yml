@@ -72,7 +72,9 @@ jobs:
         run: python scripts/validate/run_validations.py
 
       - name: Run tests
-        run: python -m pytest -v
+        run: |
+          export PYTHONPATH=$PWD
+          python -m pytest -v
 
       - name: Upload test results
         if: always()
