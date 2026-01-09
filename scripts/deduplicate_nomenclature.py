@@ -37,7 +37,12 @@ def deduplicate_nomenclature() -> int:
     duplicates_removed = 0
     
     for row in rows:
-        key = (row["Brand"], row["Product Name"])
+        try:
+            key = (row["Brand"], row["Product Name"])
+        except KeyError as e:
+            print(f"⚠️  Warning: Missing column {e} in row, skipping")
+            continue
+        
         if key not in seen_keys:
             seen_keys.add(key)
             unique_rows.append(row)
