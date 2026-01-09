@@ -1,7 +1,6 @@
 """Tests for the deduplicate_nomenclature script."""
 
 import csv
-from collections import OrderedDict
 
 import pytest
 
