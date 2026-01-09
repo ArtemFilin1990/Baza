@@ -12,34 +12,6 @@ sys.path.insert(0, str(REPO_ROOT))
 from scripts.validate_articles_structure import EXPECTED, TEMPLATE_MARKERS, read_first_h1
 
 
-TEMPLATE_SECTIONS = """
-## Цель
-
-(Описание цели и назначения статьи)
-
-## Ключевые термины
-
-- **Термин 1** — определение
-- **Термин 2** — определение
-
-## Суть
-
-(Основное содержание статьи)
-
-## Примеры
-
-(Примеры использования или применения)
-
-## Связанные данные
-
-- (Ссылки на связанные статьи)
-
-## Источники
-
-- (Ссылки на источники информации)
-"""
-
-
 def fix_h1_mismatch(file_path: Path, expected_h1: str) -> bool:
     """Fix H1 title mismatch."""
     content = file_path.read_text(encoding="utf-8")

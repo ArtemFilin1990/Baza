@@ -41,7 +41,7 @@ def deduplicate_nomenclature(input_file: Path, output_file: Path) -> int:
                 unique_rows[key] = row
     
     # Write to a temporary file first, then atomically replace
-    fd, temp_path = tempfile.mkstemp(dir=output_file.parent, suffix='.csv', text=True)
+    fd, temp_path = tempfile.mkstemp(dir=output_file.parent, suffix='.csv')
     try:
         with os.fdopen(fd, 'w', encoding='utf-8', newline='') as f:
             writer = csv.DictWriter(f, fieldnames=header)
