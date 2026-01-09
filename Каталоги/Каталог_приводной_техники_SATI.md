@@ -1,15 +1,14 @@
 # Каталог приводной техники SATI
 
-Каталог выпускаемой продукции.Каталог продукции: Муфты, зубчатые муфты, зажимные муфты, муфты под коническую втулку, втулки (зажимные втулки sati).Звездочки: специальные, Pignoni и Corone, конвейерные, под ASA цепь, чугунные, Pignoni под тапербуш.Зубчатые и клиновые шкивы. Зубчатые рейки и колеса. Конические зубчатые пары. Ступицы. Тапербуши .Роликовые цепи. Салазки электродвигателей. Ремни.
+**Language:** английский, итальянский, немецкий о производителе ...
 
-Производитель: N/A
-Язык: английский, итальянский, немецкий о производителе ...
+**Size:** 11,8Mb
 
----
-
-# Каталог приводной техники SATI
+**Source:** [PDF](/catalog/catalog-sati.pdf)
 
 ---
+
+## Content
 
 ENGAGING THE WORLD.catalogue
 General
@@ -2616,6 +2615,8 @@ Zz 	25 	26 	27 	28 	29 	30 	31 	32 	33 	34 	35 	36 	37 	38 	39 	40
 
 -- 17 of 349 --
 
+
+
 -- 18 of 349 --
 
 19
@@ -4152,6 +4153,8 @@ UNI EN 10083-1
 b-T-M pag. / page 19
 
 -- 27 of 349 --
+
+
 
 -- 28 of 349 --
 
@@ -16198,6 +16201,8 @@ Rapporto 1:4 / Ratio 1:4 / Untersetzung 1:4 / Rapport 1:4 / Relaciones 1:4
 
 -- 147 of 349 --
 
+
+
 -- 148 of 349 --
 
 149
@@ -18270,6 +18275,8 @@ Rollenketten / Chaine industrielle / Cadena industrial
 
 -- 161 of 349 --
 
+
+
 -- 162 of 349 --
 
 163
@@ -19152,6 +19159,8 @@ Pulleys for SYNCHROFLEX toothed belts / SYNCHROFLEX-Zahnriemenscheiben
 Poulies pour courroies dentées SYNCHROFLEX / Poleas para correas dentadas SYNCHROFLEX
 
 -- 167 of 349 --
+
+
 
 -- 168 of 349 --
 
@@ -22538,6 +22547,8 @@ oxidacion anodica
 
 -- 193 of 349 --
 
+
+
 -- 194 of 349 --
 
 195
@@ -23059,6 +23070,8 @@ UNI 9006/4 apto para la
 oxidacion anodica
 
 -- 199 of 349 --
+
+
 
 -- 200 of 349 --
 
@@ -26063,6 +26076,8 @@ F043A 	124,0 108,0 117,0 1,0 	FL100 	200,0 180,0 193,0 1,5 	Ébavurées et sans 
 FL047 	131,0 115,0 125,5 1,0 	F100A 	212,0 190,0 204,0 1,5 	Desbarbado y sin defecto en la superficie
 
 -- 229 of 349 --
+
+
 
 -- 230 of 349 --
 
@@ -29836,6 +29851,8 @@ CT1250X 	SPC1250-10 	10 	1250 	1259,6 	5 	5050 	125 	- 	264 	1187 	68,5 	127 	68
 
 -- 269 of 349 --
 
+
+
 -- 270 of 349 --
 
 271
@@ -31412,6 +31429,8 @@ Diamètre de l’alésage de la poulie (logement pour moyeu de serrage) / Diáme
 SPC 	1 	2 	3 	4
 
 -- 291 of 349 --
+
+
 
 -- 292 of 349 --
 
@@ -37393,6 +37412,8 @@ Axial
 
 -- 327 of 349 --
 
+
+
 -- 328 of 349 --
 
 329
@@ -39963,3 +39984,4 @@ www.satispa.com | info@satispa.com
 Ed.05/2016
 
 -- 349 of 349 --
+

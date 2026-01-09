@@ -1,15 +1,14 @@
 # Каталог подшипников SNH
 
-Основной каталог подшипников SNH. Номенклатура и технические характеристики.
+**Language:** английский о производителе ...
 
-Производитель: N/A
-Язык: английский о производителе ...
+**Size:** 0,9Mb
 
----
-
-# Каталог подшипников SNH
+**Source:** [PDF](/catalog/catalog-snh.pdf)
 
 ---
+
+## Content
 
 A FAG Partner CompanyA KRW Partner Company
 
@@ -1341,3 +1340,4 @@ Internet: www.snh-europe.com
 Email: info@snh-europe.com
 
 -- 27 of 27 --
+
