@@ -30,12 +30,20 @@ def _load_schema_file(path: Path) -> List[TableSchema]:
     payload = json.loads(path.read_text(encoding="utf-8"))
     tables: List[TableSchema] = []
     for table in payload.get("tables", []):
+        # Extract column types from nested column definitions
+        columns = {}
+        for col_name, col_def in table["columns"].items():
+            if isinstance(col_def, dict):
+                columns[col_name] = col_def.get("type", "string")
+            else:
+                columns[col_name] = col_def
+        
         tables.append(
             TableSchema(
                 name=table["name"],
                 path=Path(table["path"]),
-                columns=table["columns"],
-                unique=table.get("unique", []),
+                columns=columns,
+                unique=table.get("unique", table.get("uniqueKey", [])),
                 sort_by=table.get("sort_by", []),
             )
         )
