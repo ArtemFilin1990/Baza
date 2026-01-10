@@ -33,6 +33,12 @@
 - Навигация: [`docs/NAVIGATION_GUIDE.md`](docs/NAVIGATION_GUIDE.md) - Полная навигация по репозиторию
 - Индекс знаний: [`docs/EXTRACTED_KNOWLEDGE_INDEX.md`](docs/EXTRACTED_KNOWLEDGE_INDEX.md)
 
+### Создание статей
+- Промт: [`PROMPT_ARTICLE_CREATION.md`](PROMPT_ARTICLE_CREATION.md) - Полный промт для создания статей
+- Руководство: [`docs/ARTICLE_CREATION_GUIDE.md`](docs/ARTICLE_CREATION_GUIDE.md) - Подробная инструкция
+- Краткая памятка: [`docs/QUICK_REFERENCE.md`](docs/QUICK_REFERENCE.md) - Быстрый старт
+- Примеры: [`docs/examples/`](docs/examples/) - Образцы готовых статей
+
 ### Стандарты и спецификации
 - ГОСТ: [`docs/gost/`](docs/gost/) - Стандарты ГОСТ
 - ISO: [`docs/iso/`](docs/iso/) - Стандарты ISO
