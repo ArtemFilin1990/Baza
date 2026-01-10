@@ -1,6 +1,5 @@
 # Обозначение подшипников BARDEN.
 
-Источник: https://aprom.by/cgi-bin/article.pl?words=barden
 
 ---
 
@@ -8,7 +7,6 @@
 # Обозначение подшипников BARDEN.
 
 
-![высокоточные подшипники BARDEN в упаковке](https://aprom.by/images/super-precision-bearing-barden-in-packing.jpg )
 
 
 ## Расшифровка обозначения высокоточных прецизионных радиально-упорных шариковых подшипников BARDEN.

@@ -1,6 +1,5 @@
 # NMB
 
-Источник: https://aprom.by/cgi-bin/nomenclature.pl?brand=NMB
 
 Всего позиций: 5
 

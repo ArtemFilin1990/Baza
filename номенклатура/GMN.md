@@ -1,6 +1,5 @@
 # GMN
 
-Источник: https://aprom.by/cgi-bin/nomenclature.pl?brand=GMN
 
 Всего позиций: 920
 

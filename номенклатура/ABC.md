@@ -1,6 +1,5 @@
 # ABC
 
-Источник: https://aprom.by/cgi-bin/nomenclature.pl?brand=ABC
 
 Всего позиций: 250
 

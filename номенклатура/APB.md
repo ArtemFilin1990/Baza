@@ -1,6 +1,5 @@
 # APB
 
-Источник: https://aprom.by/cgi-bin/nomenclature.pl?brand=APB
 
 Всего позиций: 443
 

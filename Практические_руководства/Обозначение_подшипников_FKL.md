@@ -1,6 +1,5 @@
 # Обозначение подшипников FKL.
 
-Источник: https://aprom.by/cgi-bin/article.pl?words=fkl
 
 ---
 

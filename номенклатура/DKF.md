@@ -1,6 +1,5 @@
 # DKF
 
-Источник: https://aprom.by/cgi-bin/nomenclature.pl?brand=DKF
 
 Всего позиций: 8
 

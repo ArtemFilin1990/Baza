@@ -1,6 +1,5 @@
 # ISB
 
-Источник: https://aprom.by/cgi-bin/nomenclature.pl?brand=ISB
 
 Всего позиций: 5359
 

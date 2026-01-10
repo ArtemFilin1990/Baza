@@ -1,6 +1,5 @@
 # GPL
 
-Источник: https://aprom.by/cgi-bin/nomenclature.pl?brand=GPL
 
 Всего позиций: 50
 

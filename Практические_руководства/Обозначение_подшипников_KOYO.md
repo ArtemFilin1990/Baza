@@ -1,6 +1,5 @@
 # Обозначение подшипников KOYO.
 
-Источник: https://aprom.by/cgi-bin/article.pl?words=koyo
 
 ---
 

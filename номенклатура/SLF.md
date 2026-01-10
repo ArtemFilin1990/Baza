@@ -1,6 +1,5 @@
 # SLF
 
-Источник: https://aprom.by/cgi-bin/nomenclature.pl?brand=SLF
 
 Всего позиций: 3708
 

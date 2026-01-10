@@ -1,6 +1,5 @@
 # ADR
 
-Источник: https://aprom.by/cgi-bin/nomenclature.pl?brand=ADR
 
 Всего позиций: 77
 

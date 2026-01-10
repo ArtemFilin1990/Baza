@@ -1,6 +1,5 @@
 # TOR
 
-Источник: https://aprom.by/cgi-bin/nomenclature.pl?brand=TOR
 
 Всего позиций: 49
 

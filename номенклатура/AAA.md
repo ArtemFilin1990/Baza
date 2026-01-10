@@ -1,6 +1,5 @@
 # AAA
 
-Источник: https://aprom.by/cgi-bin/nomenclature.pl?brand=AAA
 
 Всего позиций: 2605
 

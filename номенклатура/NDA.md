@@ -1,6 +1,5 @@
 # NDA
 
-Источник: https://aprom.by/cgi-bin/nomenclature.pl?brand=NDA
 
 Всего позиций: 12
 

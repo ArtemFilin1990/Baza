@@ -1,6 +1,5 @@
 # TIMKEN
 
-Источник: https://aprom.by/cgi-bin/nomenclature.pl?brand=TIMKEN
 
 Всего позиций: 28
 

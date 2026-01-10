@@ -1,6 +1,5 @@
 # Автомобильные комплекты подшипников SKF, FAG, SNR, TIMKEN, FERSA A&S, QH
 
-Источник: https://aprom.by/cgi-bin/article.pl?words=skf_vkba
 
 ---
 
@@ -361,5 +360,4 @@
 | VKBA 977 | 713630480 | R 140.56 |  | 32007XF 30205F | QWB 608 |
 
 
-![Автомобильный комплектный ступичный подшипник SKF](https://aprom.by//images/stupichnyj-komplekt-podshipnikov-skf.jpg)
 

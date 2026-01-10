@@ -1,6 +1,5 @@
 # KOYO
 
-Источник: https://aprom.by/cgi-bin/nomenclature.pl?brand=KOYO
 
 Всего позиций: 28
 

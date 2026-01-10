@@ -1,6 +1,5 @@
 # RIV
 
-Источник: https://aprom.by/cgi-bin/nomenclature.pl?brand=RIV
 
 Всего позиций: 4
 

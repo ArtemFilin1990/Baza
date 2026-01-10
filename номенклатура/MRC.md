@@ -1,6 +1,5 @@
 # MRC
 
-Источник: https://aprom.by/cgi-bin/nomenclature.pl?brand=MRC
 
 Всего позиций: 2
 

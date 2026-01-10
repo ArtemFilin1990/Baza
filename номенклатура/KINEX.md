@@ -1,6 +1,5 @@
 # KINEX
 
-Источник: https://aprom.by/cgi-bin/nomenclature.pl?brand=KINEX
 
 Всего позиций: 1336
 

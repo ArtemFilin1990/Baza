@@ -1,6 +1,5 @@
 # NKE
 
-Источник: https://aprom.by/cgi-bin/nomenclature.pl?brand=NKE
 
 Всего позиций: 4430
 

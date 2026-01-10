@@ -1,6 +1,5 @@
 # INA
 
-Источник: https://aprom.by/cgi-bin/nomenclature.pl?brand=INA
 
 Всего позиций: 1015
 

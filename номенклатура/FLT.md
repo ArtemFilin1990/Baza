@@ -1,6 +1,5 @@
 # FLT
 
-Источник: https://aprom.by/cgi-bin/nomenclature.pl?brand=FLT
 
 Всего позиций: 1812
 

@@ -1,6 +1,5 @@
 # Обозначение подшипников SNFA.
 
-Источник: https://aprom.by/cgi-bin/article.pl?words=snfa
 
 ---
 
@@ -8,7 +7,6 @@
 # Обозначение подшипников SNFA.
 
 
-![высокоточные подшипники SNFA в упаковке](https://aprom.by/images/super-precision-bearing-snfa-in-packing.jpg )
 
 
 ## Расшифровка обозначения высокоточных прецизионных радиально-упорные шариковых подшипников  SNFA.

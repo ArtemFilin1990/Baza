@@ -1,6 +1,5 @@
 # FAG
 
-Источник: https://aprom.by/cgi-bin/nomenclature.pl?brand=FAG
 
 Всего позиций: 5075
 

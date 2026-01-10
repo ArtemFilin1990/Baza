@@ -1,6 +1,5 @@
 # BARDEN
 
-Источник: https://aprom.by/cgi-bin/nomenclature.pl?brand=BARDEN
 
 Всего позиций: 1542
 

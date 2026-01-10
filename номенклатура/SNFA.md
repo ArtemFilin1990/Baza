@@ -1,6 +1,5 @@
 # SNFA
 
-Источник: https://aprom.by/cgi-bin/nomenclature.pl?brand=SNFA
 
 Всего позиций: 111
 

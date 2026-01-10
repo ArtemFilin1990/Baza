@@ -1,6 +1,5 @@
 # NICE
 
-Источник: https://aprom.by/cgi-bin/nomenclature.pl?brand=NICE
 
 Всего позиций: 13
 

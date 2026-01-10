@@ -1,6 +1,5 @@
 # SKF
 
-Источник: https://aprom.by/cgi-bin/nomenclature.pl?brand=SKF
 
 Всего позиций: 10000
 

@@ -1,6 +1,5 @@
 # AKE
 
-Источник: https://aprom.by/cgi-bin/nomenclature.pl?brand=AKE
 
 Всего позиций: 425
 

@@ -1,6 +1,5 @@
 # FERSA
 
-Источник: https://aprom.by/cgi-bin/nomenclature.pl?brand=FERSA
 
 Всего позиций: 1562
 

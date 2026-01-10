@@ -1,6 +1,5 @@
 # BBC
 
-Источник: https://aprom.by/cgi-bin/nomenclature.pl?brand=BBC
 
 Всего позиций: 2494
 

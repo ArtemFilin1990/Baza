@@ -1,6 +1,5 @@
 # Обозначение подшипников BBC-R.
 
-Источник: https://aprom.by/cgi-bin/article.pl?words=bbc-r
 
 ---
 

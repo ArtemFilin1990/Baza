@@ -1,6 +1,5 @@
 # GRW
 
-Источник: https://aprom.by/cgi-bin/nomenclature.pl?brand=GRW
 
 Всего позиций: 306
 

@@ -1,6 +1,5 @@
 # ZKL
 
-Источник: https://aprom.by/cgi-bin/nomenclature.pl?brand=ZKL
 
 Всего позиций: 7
 

@@ -1,6 +1,5 @@
 # PEER
 
-Источник: https://aprom.by/cgi-bin/nomenclature.pl?brand=PEER
 
 Всего позиций: 10
 

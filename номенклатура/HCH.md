@@ -1,6 +1,5 @@
 # HCH
 
-Источник: https://aprom.by/cgi-bin/nomenclature.pl?brand=HCH
 
 Всего позиций: 264
 

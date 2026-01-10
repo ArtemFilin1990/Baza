@@ -1,6 +1,5 @@
 # Обозначение подшипников FAG.
 
-Источник: https://aprom.by/cgi-bin/article.pl?words=fag
 
 ---
 

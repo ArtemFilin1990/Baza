@@ -1,6 +1,5 @@
 # Обозначение подшипников GMN.
 
-Источник: https://aprom.by/cgi-bin/article.pl?words=gmn
 
 ---
 
@@ -8,7 +7,6 @@
 # Обозначение подшипников GMN.
 
 
-![высокоточные подшипники GMN в упаковке](https://aprom.by/images/super-precision-bearing-gmn-in-packing.jpg )
 
 
 ## Расшифровка обозначения высокоточных прецизионных радиально-упорных шариковых подшипников  GMN.

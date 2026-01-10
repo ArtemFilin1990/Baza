@@ -1,6 +1,5 @@
 # URB
 
-Источник: https://aprom.by/cgi-bin/nomenclature.pl?brand=URB
 
 Всего позиций: 81
 

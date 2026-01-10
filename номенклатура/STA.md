@@ -1,6 +1,5 @@
 # STA
 
-Источник: https://aprom.by/cgi-bin/nomenclature.pl?brand=STA
 
 Всего позиций: 13
 

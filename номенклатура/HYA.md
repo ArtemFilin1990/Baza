@@ -1,6 +1,5 @@
 # HYA
 
-Источник: https://aprom.by/cgi-bin/nomenclature.pl?brand=HYA
 
 Всего позиций: 4
 

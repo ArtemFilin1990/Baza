@@ -1,6 +1,5 @@
 # RWY
 
-Источник: https://aprom.by/cgi-bin/nomenclature.pl?brand=RWY
 
 Всего позиций: 102
 

@@ -1,6 +1,5 @@
 # Экскурсия по  заводу FKL: производство подшипников и карданных валов.
 
-Источник: https://aprom.by/cgi-bin/article.pl?words=bearins_fkl
 
 ---
 
