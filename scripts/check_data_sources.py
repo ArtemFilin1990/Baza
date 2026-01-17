@@ -12,15 +12,10 @@ import os
 from pathlib import Path
 from typing import Dict, List, Tuple
 
-
-def count_csv_lines(file_path: Path) -> int:
-    """Count lines in a CSV file (excluding header)."""
-    try:
-        with open(file_path, 'r', encoding='utf-8') as f:
-            return sum(1 for _ in f) - 1  # Exclude header
-    except Exception as e:
-        print(f"Error reading {file_path}: {e}")
-        return 0
+# Constants for data quality thresholds
+SMALL_FILE_THRESHOLD = 10  # Files with fewer records
+SMALL_FILE_DISPLAY_THRESHOLD = 50  # Show headers for files with fewer records
+LARGE_FILE_THRESHOLD = 50000  # Files that might need splitting
 
 
 def analyze_csv_structure(file_path: Path) -> Tuple[int, List[str]]:
@@ -82,7 +77,7 @@ def print_statistics(stats: Dict[str, Dict]):
             print(f"     Строк/Rows: {data['rows']:,}")
             print(f"     Столбцов/Columns: {data['columns']}")
             print(f"     Размер/Size: {data['size_kb']:.2f} KB")
-            if data['rows'] < 50:  # Show headers for small files
+            if data['rows'] < SMALL_FILE_DISPLAY_THRESHOLD:  # Show headers for small files
                 print(f"     Заголовки: {', '.join(data['headers'][:5])}")
             print()
             
@@ -111,7 +106,7 @@ def check_data_quality(stats: Dict[str, Dict]) -> List[str]:
         )
     
     # Check for small files that might need expansion
-    small_files = [f for f, d in stats.items() if 0 < d['rows'] < 10]
+    small_files = [f for f, d in stats.items() if 0 < d['rows'] < SMALL_FILE_THRESHOLD]
     if small_files:
         recommendations.append(
             f"📝 Файлы с малым количеством данных (могут требовать расширения):\n   "
@@ -119,7 +114,7 @@ def check_data_quality(stats: Dict[str, Dict]) -> List[str]:
         )
     
     # Check for very large files that might need splitting
-    large_files = [f for f, d in stats.items() if d['rows'] > 50000]
+    large_files = [f for f, d in stats.items() if d['rows'] > LARGE_FILE_THRESHOLD]
     if large_files:
         recommendations.append(
             f"💾 Большие файлы (возможно, стоит разделить):\n   "
