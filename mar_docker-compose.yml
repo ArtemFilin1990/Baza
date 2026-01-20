@@ -1,0 +1,66 @@
+version: '3.8'
+
+# Docker Compose для развертывания всего стека
+# Интегрировано из bearing-api
+
+services:
+  # PostgreSQL база данных
+  postgres:
+    image: postgres:15-alpine
+    container_name: bearing-postgres
+    environment:
+      POSTGRES_DB: bearings
+      POSTGRES_USER: bearing_user
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-changeme}
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+      - ./api/sql:/docker-entrypoint-initdb.d
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U bearing_user -d bearings"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  # FastAPI приложение
+  api:
+    build:
+      context: ./api
+      dockerfile: Dockerfile
+    container_name: bearing-api
+    environment:
+      DATABASE_URL: postgresql://bearing_user:${POSTGRES_PASSWORD:-changeme}@postgres:5432/bearings
+      API_HOST: 0.0.0.0
+      API_PORT: 8000
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./data:/app/data
+      - ./api:/app
+    depends_on:
+      postgres:
+        condition: service_healthy
+    command: uvicorn main:app --host 0.0.0.0 --port 8000 --reload
+
+  # pgAdmin для управления БД (опционально)
+  pgadmin:
+    image: dpage/pgadmin4:latest
+    container_name: bearing-pgadmin
+    environment:
+      PGADMIN_DEFAULT_EMAIL: admin@bearings.local
+      PGADMIN_DEFAULT_PASSWORD: ${PGADMIN_PASSWORD:-admin}
+    ports:
+      - "5050:80"
+    depends_on:
+      - postgres
+    profiles:
+      - admin
+
+volumes:
+  postgres_data:
+    driver: local
+
+networks:
+  default:
+    name: bearing-network

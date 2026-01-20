@@ -1,0 +1,1336 @@
+Каталог цилиндрических бессепараторных подшипников APB - серия SL.
+
+Language: английский, немецкий о производителе ...
+
+Size: 24,3Mb
+
+Source: PDF
+
+---
+
+Content
+
+w w w . a p b - b e a r i n g s . c o m
+vollrollige & axiale
+zylinderrollenlager
+full complement & axial
+cylindrical roller bearings
+
+-- 1 of 36 --
+
+unsere kunden / our customers
+stahlwerk / steel factory
+- MANNESMANN
+- SALZGITTER AG
+- TATA STEEL INDIA
+- ARCELOR
+- MITTAL STEEL
+- VA STAHL
+anlagenbau für stahlindustrie /
+equipment construction for steel industry
+- ANDRITZ/SUNDWIG
+maschinenbau / mechanical engineering
+- SMAG
+schiffskranbau /
+off-shore-cranes producer
+- HUISMAN-ITREC
+getriebebau / gear producer
+- ZOLLERN
+- FLENDER
+- ROLLSTAR AG
+- M/S ELECON ENGINEERING
+zellulose industrie / cellulose industry
+- LENZING AG
+forsttechnik / forest technology
+- KONRAD
+über händler / various steel factory in
+russia supported by APB-dealers
+- DIV. STAHLWERKE RUSSLAND
+sowie viele weitere kunden... /
+as well as many further customers
+referenzliste der marke apb
+references of the brand apb
+inhalt
+vollrollige zylinderrollenlager
+full complement cylindrical roller bearings
+serie NCF18xx.V 	4
+serie NCF22xx.V 	6
+serie NCF29xx.V 	8
+serie NCF30xx.V 	10
+serie NJG23xx.V 	12
+serie NNC48xx.V 	14
+serie NNC49xx.V 	16
+serie NNCF50xx.V 	18
+serie NNF50xx.A.2LSV/NNF 1xx & 2xx.A.2LS.V. 20
+axial zylinderrollenlager
+axial cylindrical roller bearings
+serie 811xx 	22
+serie 812xx 	24
+sonderlösungen / special solutions 	25
+page
+
+-- 2 of 36 --
+
+die 	marke
+seit 2004 premiummarke der thb gmbh
+fertigungsstätten aller produkte und
+komponenten in westeuropa
+zertifizierte materialien
+(einsatz + durchhärtend) aus westeuropa
+modernster maschinenpark
+audit der produktionsstandorte
+jederzeit möglich
+breiter standardbereich (z.t. bevorratungs-
+programm) und sonderlösungen
+höchstmögliche fertigungsflexibilität
+the 	brand
+thb´s premiumbrand since 2004
+all production facilities and components
+located/made in west europe
+certified materials (case + through hardening) –
+only source: west europe
+top modern machinery equipment
+factories are always auditable
+broad standard range (stock programme) and
+special solutions (tailor made)
+highest possible flexibility in
+manufacturing
+premiummarke der thb
+premium brand owned by thb
+w w w . a p b - b e a r i n g s . c o m
+
+-- 3 of 36 --
+- stützlager bestehend aus massivem innen- und außenring, bordgeführten
+zylinderrollen, vollrollig ohne käfig / semi-locating bearing, consists of massive inner-
+and outerring, rib guided rollers, full complement without cage
+- hohe dynamische und statische tragzahlen /
+high dynamic and static load carrying capacity
+- können radiale kräfte & einseitig wirkende axialkräfte aufnehmen, andere seite wirkt als loslager
+(einseitig verschiebbar) / can support radial forces & axial forces in one direction, other side acts like
+non locating bearing (single side shiftable)
+- nachschmierbar durch die stirnseiten / relubricated via end faces
+- von d=150 bis d=1000 mm / from d=150 to d=1000 mm
+>> 	move 	on
+vollrollige zylinderrollenlager >>>
+full complement cylindrical roller bearings
+serie NCF18xx.V
+4
+
+-- 4 of 36 --
+
+abmessungen / dimensions (mm)
+bezeichnung 	gewicht
+designation 	mass
+d 	D 	B 	rmin s1) 	d1 	D1 	E 	dyn. Cr
+kN
+2103070031d/e
+nG
+min -1
+tragzahlen radial
+radial load rating
+grenzdrehzahl
+limiting speed
+stat. C0r
+kN
+s1) axialer Verschiebeweg / possible axial displacement
+NCF 1830.V 	1,30 kg 	150 	190 	20 	1 	1,5 	163 	176 	179,5 	115 	220 	2400
+NCF 1832.V 	1,45 kg 	160 	200 	20 	1 	1,5 	173 	185 	189 	120 	231 	2150
+NCF 1836.V 	1,95 kg 	180 	225 	22 	1 	1,5 	196 	211 	215,2 	153 	282 	1905
+NCF 1840.V 	2,57 kg 	200 	250 	24 	1,5 	2 	216,6 	231,6 	237,6 	190 	340 	1550
+NCF 1844.V 	2,8 kg 	220 	270 	24 	1,5 	2 	237,3 	252,3 	258,5 	195 	370 	1300
+NCF 1848.V 	4,29 kg 	240 	300 	28 	2 	2 	260,5 	281 	287,5 	268 	499 	1200
+NCF 1852.V 	4,61 kg 	260 	320 	28 	2 	2 	281 	301,5 	308 	280 	540 	1150
+NCF 1856.V 	6,89 kg 	280 	350 	33 	2 	2,5 	304 	327 	335 	360 	680 	1055
+NCF 1860.V 	9,79 kg 	300 	380 	38 	2,1 	3 	323,5 	350,5 	360 	450 	850 	1000
+NCF 1864.V 	10,36 kg 	320 	400 	38 	2,1 	3 	344,5 	371,5 	381 	475 	910 	950
+NCF 1868.V 	10,93 kg 	340 	420 	38 	2,1 	3 	365,5 	392,5 	402,2 	490 	970 	910
+NCF 1872.V 	11,49 kg 	360 	440 	38 	2,1 	3 	387 	413,5 	423,5 	510 	1030 	860
+NCF 1876.V 	18,87 kg 	380 	480 	46 	2,1 	4 	415,5 	448 	459 	660 	1300 	780
+NCF 1880.V 	19,81 kg 	400 	500 	46 	2,1 	4 	432 	464,5 	475,5 	670 	1360 	750
+NCF 1884.V 	20,6 kg 	420 	520 	46 	2,1 	4 	457 	489,5 	500 	690 	1500 	705
+NCF 1888.V 	21,54 kg 	440 	540 	46 	2,1 	4 	473,5 	506 	517 	705 	1510 	690
+NCF 1892.V 	33,21 kg 	460 	580 	56 	3 	5 	501,5 	541 	554 	945 	1900 	650
+NCF 1896.V 	34,53 kg 	480 	600 	56 	3 	5 	522 	561 	573,5 	970 	1990 	620
+NCF 18/500.V 	35,73 kg 	500 	620 	56 	3 	5 	542 	581,5 	594,5 	1000 	2080 	600
+NCF 18/530.V 	37,50 kg 	530 	650 	56 	3 	5 	572 	614 	624,5 	1130 	2240 	580
+NCF 18/560.V 	40,5 kg 	560 	680 	56 	3 	5 	603 	645 	655 	1190 	2350 	550
+NCF 18/600.V 	49,5 kg 	600 	730 	60 	3 	7 	644 	686 	696 	1220 	2550 	520
+NCF 18/630.V 	70 kg 	630 	780 	69 	4 	8 	680 	728 	739 	1280 	2950 	505
+NCF 18/670.V 	74 kg 	670 	820 	69 	4 	8 	724 	772 	783 	1320 	3180 	490
+NCF 18/710.V 	90 kg 	710 	870 	74 	4 	8 	766 	818 	831 	1560 	3780 	460
+NCF 18/750.V 	110 kg 	750 	920 	78 	5 	8 	810 	867 	880 	1790 	4350 	430
+NCF 18/800.V 	130 kg 	800 	980 	82 	5 	9 	863 	922 	936 	1950 	4830 	410
+NCF 18/850.V 	135 kg 	850 	1030 	82 	5 	9 	911 	972 	986 	2100 	5300 	390
+NCF 18/900.V 	160 kg 	900 	1090 	85 	5 	9 	966 	1029 	1044 	2250 	5790 	365
+NCF 18/950.V 	185 kg 	950 	1150 	90 	5 	10 	1021 	1087 	1103 	2450 	6380 	340
+NCF 18/1000.V 	230 kg 	1000 	1220 	100 	6 	12 	1073 	1148 	1165 	2950 	7560 	315
+w w w. a p b - b e a r i n g s . c o m
+
+-- 5 of 36 --
+- stützlager bestehend aus massivem innen- und außenring, bordgeführten
+zylinderrollen, vollrollig ohne käfig / semi-locating bearing, consists of massive inner-
+and outerring, rib guided rollers, full complement without cage
+- hohe dynamische und statische tragzahlen /
+high dynamic and static load carrying capacity
+- können radiale kräfte & einseitig wirkende axialkräfte aufnehmen, andere seite wirkt als loslager
+(einseitig verschiebbar) / can support radial & axial forces in one direction, other side acts like
+non locating bearing (single side shiftable)
+- nachschmierbar durch die stirnseiten / relubricated via end faces
+- von d=20 bis d=220 mm / from d=20 bis d=220 mm
+>> 	move 	on
+vollrollige zylinderrollenlager >>>
+full complement cylindrical roller bearings
+serie NCF22xx.V
+6
+F 	F
+F
+F 	F
+F 	F
+F
+loslager
+nonlocating
+stützlager
+semi locating
+festlager
+locating
+F
+
+-- 6 of 36 --
+
+abmessungen / dimensions (mm)
+bezeichnung 	gewicht
+designation 	mass d 	D 	B 	rmin s 1) 	d1 	D1 	E
+dyn. Cr
+kN
+1001070026d/e
+nG
+min -1
+tragzahlen radial
+radial load rating
+grenzdrehzahl
+limiting speed
+stat. C0r
+kN
+s1) axialer Verschiebeweg / possible axial displacement
+NCF 2204.V 	0,16 kg 	20 	47 	18 	1 	1 	30,3 	36,9 	41,47 	46 	38 	9800
+NCF 2205.V 	0,18 kg 	25 	52 	18 	1 	1 	35,5 	41,9 	46,52 	51,5 	46 	7500
+NCF 2206.V 	0,3 kg 	30 	62 	20 	1 	1 	42 	50,6 	55,19 	70 	65,5 	7050
+NCF 2207.V 	0,44 kg 	35 	72 	23 	1,1 	1 	47 	59,3 	63,97 	89 	80 	6200
+NCF 2208.V 	0,55 kg 	40 	80 	23 	1,1 	1 	54 	66,3 	70,94 	97 	93 	5450
+NCF 2209.V 	0,59 kg 	45 	85 	23 	1,1 	1 	57,5 	69,8 	74,43 	103 	100 	5100
+NCF 2210.V 	0,64 kg 	50 	90 	23 	1,1 	1 	64,4 	76,7 	81,4 	110 	113 	4700
+NCF 2211.V 	0,84 kg 	55 	100 	25 	1,5 	1 	70 	84,1 	88,81 	143 	154 	4300
+NCF 2212.V 	1,18 kg 	60 	110 	28 	1,5 	1,5 	76,8 	93,9 	99,17 	170 	183 	3850
+NCF 2213.V 	1,57 kg 	65 	120 	31 	1,5 	1,5 	82,3 	100,7 	106,25 	199 	216 	3500
+NCF 2214.V 	1,66 kg 	70 	125 	31 	1,5 	1,5 	87 	105,2 	111,45 	210 	228 	3350
+NCF 2215.V 	1,75 kg 	75 	130 	31 	1,5 	1,5 	91,8 	110 	116,2 	220 	241 	3200
+NCF 2216.V 	2,15 kg 	80 	140 	33 	2 	1,5 	98,6 	119,3 	126,3 	227 	287 	3000
+NCF 2217.V 	2,74 kg 	85 	150 	36 	2 	1,5 	104,4 	126,3 	133,75 	256 	328 	2800
+NCF 2218.V 	3,48 kg 	90 	160 	40 	2 	2,5 	110,2 	133,3 	141,15 	295 	380 	2600
+NCF 2219.V 	4,17 kg 	95 	170 	43 	2,1 	2,5 	122 	147,3 	155,95 	340 	440 	2500
+NCF 2220.V 	5,13 kg 	100 	180 	46 	2,1 	2,5 	127,5 	154,3 	163,35 	395 	522 	2350
+NCF 2222.V 	7,24 kg 	110 	200 	53 	2,1 	4 	137 	168 	177,6 	460 	600 	2100
+NCF 2224.V 	9,08 kg 	120 	215 	58 	2,1 	4 	150,7 	183 	192,9 	550 	740 	2000
+NCF 2226.V 	11,25 kg 	130 	230 	64 	3 	5 	162,3 	197 	207,75 	635 	870 	1850
+NCF 2228.V 	14,47 kg 	140 	250 	68 	3 	5 	173,9 	211,1 	222,55 	725 	1030 	1700
+NCF 2230.V 	18,43 kg 	150 	270 	73 	3 	6 	185,5 	225,2 	237,35 	840 	1200 	1600
+NCF 2232.V 	23 kg 	160 	290 	80 	3 	6 	208,7 	253,4 	267,1 	1035 	1500 	1450
+NCF 2234.V 	28,65 kg 	170 	310 	86 	4 	7 	220,3 	267,4 	281,9 	1160 	1700 	1400
+NCF 2236.V 	29,8 kg 	180 	320 	86 	4 	7 	232,4 	279,5 	294 	1200 	1800 	1350
+NCF 2238.V 	35,65 kg 	190 	340 	92 	4 	9 	243,5 	295,5 	311,5 	1350 	1990 	1250
+NCF 2240.V 	43,12 kg 	200 	360 	98 	4 	9 	246,6 	302,4 	319,4 	1450 	2050 	1200
+NCF 2244.V 	59,5 kg 	220 	400 	108 	4 	9 	277 	349 	366 	1850 	2750 	1000
+r
+w w w. a p b - b e a r i n g s . c o m
+
+-- 7 of 36 --
+- stützlager bestehend aus massivem innen- und außenring, bordgeführten
+zylinderrollen, vollrollig ohne käfig / semi-locating bearing, consists of massive inner-
+and outerring, rib guided rollers, full complement without cage
+- hohe dynamische und statische tragzahlen /
+high dynamic and static load carrying capacity
+- können radialkräfte & einseitig wirkende axialkräfte aufnehmen, andere seite wirkt als loslager
+(einseitig verschiebbar) / can support radial forces & axial forces in one direction, other side acts like
+non locating bearing (single side shiftable)
+- nachschmierbar durch die stirnseiten / relubricated via end faces
+- von d=60 bis d=670 mm / from d=60 to d=670 mm
+>> 	move 	on
+vollrollige zylinderrollenlager >>>
+full complement cylindrical roller bearings
+serie NCF29xx.V
+8
+
+-- 8 of 36 --
+
+w w w. a p b - b e a r i n g s . c o m
+abmessungen / dimensions (mm)
+bezeichnung 	gewicht
+designation 	mass 	d 	D 	B 	rmin s1) 	d1 	D1 	E
+dyn. Cr
+kN
+nG
+min -1
+10010700021d/e
+stat. C0r
+kN
+tragzahlen radial
+radial load rating
+grenzdrehzahl
+limiting speed
+NCF 2912.V 	0,29 kg 	60 	85 	16 	1 	1 	69 	74,4 	78,55 	63,5 	79,5 	4450
+NCF 2913.V 	0,31 kg 	65 	90 	16 	1 	1 	75,7 	81 	85,24 	67 	85,8 	4200
+NCF 2914.V 	0,49 kg 	70 	100 	19 	1 	1 	81,2 	87,8 	92,31 	87,9 	113,4 	3800
+NCF 2915.V 	0,52 kg 	75 	105 	19 	1 	1 	86,3 	92,8 	97,41 	91,4 	120,9 	3600
+NCF 2916.V 	0,55 kg 	80 	110 	19 	1 	1 	91,4 	98 	102,51 	93,4 	128,7 	3400
+NCF 2917.V 	0,81 kg 	85 	120 	22 	1,1 	1 	96,4 	105 	109,58 	116,9 	160,4 	3150
+NCF 2918.V 	0,84 kg 	90 	125 	22 	1,1 	1 	102 	110,7 	115,75 	121 	173 	3000
+NCF 2919.V 	0,86 kg 	95 	130 	22 	1,1 	1 	106,7 	117 	122,25 	133 	176 	2900
+NCF 2920.V 	1,14 kg 	100 	140 	24 	1,1 	1,5 	113,4 	125,7 	130,95 	154,2 	204,6 	2700
+NCF 2922.V 	1,23 kg 	110 	150 	24 	1,1 	1,5 	124 	136,2 	141,5 	152,5 	219 	2490
+NCF 2924.V 	1,73 kg 	120 	165 	27 	1,1 	1,5 	134,8 	149 	154,3 	198,2 	285 	2270
+NCF 2926.V 	2,33 kg 	130 	180 	30 	1,5 	2 	146 	161,1 	167,15 	229,5 	349 	2090
+NCF 2928.V 	2,42 kg 	140 	190 	30 	1,5 	2 	157 	174 	180 	258,9 	379 	1960
+NCF 2930.V 	3,77 kg 	150 	210 	36 	2 	2,5 	169 	189,6 	196,75 	342 	493 	1800
+NCF 2932.V 	4 kg 	160 	220 	36 	2 	2,5 	179,7 	200,5 	207,6 	348 	519 	1710
+NCF 2934.V 	4,3 kg 	170 	230 	36 	2 	2,5 	190,6 	211,3 	218,45 	363 	560 	1620
+NCF 2936.V 	6,2 kg 	180 	250 	42 	2 	3 	200,7 	224 	231,85 	453 	695 	1510
+NCF 2938.V 	6,5 kg 	190 	260 	42 	2 	2 	211,5 	238,5 	244,15 	516 	788 	1440
+NCF 2940.V 	9,1 kg 	200 	280 	48 	2,1 	3 	225,5 	252,4 	261,6 	612 	958 	1350
+NCF 2944.V 	9,9 kg 	220 	300 	48 	2,1 	3 	246,3 	273,2 	282,45 	649 	1060 	1250
+NCF 2948.V 	10,6 kg 	240 	320 	48 	2,1 	3 	267,5 	294,4 	303,7 	670 	1148 	1160
+NCF 2952.V 	18,5 kg 	260 	360 	60 	2,1 	5 	291,5 	323,4 	333,7 	790 	1470 	1050
+NCF 2956.V 	19,7 kg 	280 	380 	60 	2,1 	3,5 	314 	348,5 	359,5 	925 	1737 	980
+NCF 2960.V 	31,2 kg 	300 	420 	72 	3 	5 	338 	376,9 	389,45 	1185 	2228 	900
+NCF 2964.V 	32,9 kg 	320 	440 	72 	3 	5 	358,5 	397,4 	409,85 	1225 	2365 	850
+NCF 2968.V 	34,7 kg 	340 	460 	72 	3 	5 	379 	418,7 	430,5 	1244 	2490 	810
+NCF 2972.V 	36,4 kg 	360 	480 	72 	3 	5 	399,5 	438,6 	450,6 	1288 	2640 	770
+NCF 2976.V 	52,1 kg 	380 	520 	82 	4 	5 	426 	472,1 	486,7 	1667 	3346 	720
+NCF 2980.V 	54,2 kg 	400 	540 	82 	4 	5 	450 	496,1 	510,85 	1735 	3530 	690
+NCF 2984.V 	56,9 kg 	420 	560 	82 	4 	5 	462 	509 	522,95 	1780 	3620 	660
+NCF 2988.V 	78,1 kg 	440 	600 	95 	4 	7 	490 	544,6 	562 	2109 	4155 	620
+NCF 2992.V 	81,1 kg 	460 	620 	95 	4 	7 	504 	559,6 	576,3 	2140 	4360 	600
+NCF 2996.V 	94,7 kg 	480 	650 	100 	5 	7 	538 	596,6 	614,75 	2426 	4836 	570
+NCF 29/500.V 	98,3 kg 	500 	670 	100 	5 	7 	553 	612,7 	630 	2467 	5020 	550
+NCF 29/530.V 	120 kg 	530 	710 	106 	5 	7 	598 	648 	673 	2710 	6050 	490
+NCF 29/560.V 	140 kg 	560 	750 	112 	5 	7 	628 	682 	709 	3028 	6740 	470
+NCF 29/600.V 	170 kg 	600 	800 	118 	5 	7 	670 	726 	754 	3340 	7540 	400
+NCF 29/630.V 	205 kg 	630 	850 	128 	6 	8 	709 	788 	807 	3720 	8630 	360
+NCF 29/670.V 	245 kg 	670 	900 	136 	6 	10 	748 	827 	846 	3780 	8653 	330
+s1) axialer Verschiebeweg / possible axial displacement
+
+-- 9 of 36 --
+- stützlager bestehend aus massivem innen- und außenring, bordgeführten
+zylinderrollen, vollrollig ohne käfig / semi-locating bearing, consists of massive inner-
+and outerring, rib guided rollers, full complement without cage
+- hohe dynamische und statische tragzahlen /
+high dynamic and static load carrying capacity
+- können radialkräfte & einseitig wirkende axialkräfte aufnehmen, andere seite wirkt als loslager
+(einseitig verschiebbar) / can support radial & axial forces in one direction, other side acts like
+non locating bearing (single side shiftable)
+- nachschmierbar durch die stirnseiten / relubricated via end faces
+- von d=20 bis d=500 mm / from d=20 to d=500 mm
+>> 	move 	on
+vollrollige zylinderrollenlager >>>
+full complement cylindrical roller bearings
+serie NCF30xx.V
+10
+
+-- 10 of 36 --
+
+abmessungen / dimensions (mm)
+bezeichnung 	gewicht
+designation 	mass d 	D 	B 	rmin s1) 	d1 	D1 	E
+dyn. Cr
+kN
+1001070026d/e
+nG
+min -1
+tragzahlen radial
+radial load rating
+grenzdrehzahl
+limiting speed
+stat. C0r
+kN
+NCF 3004.V 	0,11 kg 	20 	42 	16 	0,6 	1,5 	28,8 	32,8 	36,81 	30,4 	26,3 	10500
+NCF 3005.V 	0,12 kg 	25 	47 	16 	0,6 	1,5 	34,6 	38,5 	42,51 	35,1 	32,8 	9000
+NCF 3006.V 	0,2 kg 	30 	55 	19 	1 	2 	40 	45,4 	49,6 	45,2 	43,3 	7600
+NCF 3007.V 	0,26 kg 	35 	62 	20 	1 	2 	44,9 	51,3 	55,52 	55,4 	55,3 	6700
+NCF 3008.V 	0,31 kg 	40 	68 	21 	1 	2 	50,5 	57,1 	61,74 	66,8 	67,8 	6000
+NCF 3009.V 	0,4 kg 	45 	75 	23 	1 	2 	55,3 	62,2 	66,85 	70,5 	76,4 	5400
+NCF 3010.V 	0,43 kg 	50 	80 	23 	1 	2 	59,1 	67,7 	72,33 	88,4 	97 	5000
+NCF 3011.V 	0,64 kg 	55 	90 	26 	1,1 	2 	68,5 	78,8 	83,54 	124 	138 	4450
+NCF 3012.V 	0,69 kg 	60 	95 	26 	1,1 	2 	71,7 	82,1 	86,74 	125 	147 	4200
+NCF 3013.V 	0,73 kg 	65 	100 	26 	1,1 	2 	78,1 	88,4 	93,09 	132 	161 	3950
+NCF 3014.V 	1,02 kg 	70 	110 	30 	1,1 	3 	81,5 	95,6 	100,28 	157 	179 	3600
+NCF 3015.V 	1,06 kg 	75 	115 	30 	1,1 	3 	89 	103,2 	107,9 	163 	196 	3400
+NCF 3016.V 	1,43 kg 	80 	125 	34 	1,1 	4 	95 	111,7 	117,4 	172 	228 	3150
+NCF 3017.V 	1,51 kg 	85 	130 	34 	1,1 	4 	99,4 	116,1 	121,95 	178 	238 	3000
+NCF 3018.V 	1,97 kg 	90 	140 	37 	1,5 	4 	106,1 	124,5 	130,65 	209 	285 	2800
+NCF 3020.V 	2,15 kg 	100 	150 	37 	1,5 	4 	115,7 	134 	140,2 	216,7 	312 	2600
+NCF 3022.V 	3,5 kg 	110 	170 	45 	2 	5,5 	127,3 	149,3 	156,7 	278 	387 	2310
+NCF 3024.V 	3,8 kg 	120 	180 	46 	2 	5,5 	138,8 	160,7 	168,15 	307 	438 	2160
+NCF 3026.V 	5,65 kg 	130 	200 	52 	2 	5,5 	148,6 	175,5 	184,4 	438 	623 	1960
+NCF 3028.V 	6,04 kg 	140 	210 	53 	2 	5,5 	162,2 	189,5 	198,4 	457 	678 	1850
+NCF 3030.V 	7,33 kg 	150 	225 	56 	2,1 	7 	170 	198 	207,45 	482 	714 	1730
+NCF 3032.V 	8,8 kg 	160 	240 	60 	2,1 	7 	184,8 	215,8 	225,45 	554 	823 	1620
+NCF 3034.V 	12,2 kg 	170 	260 	67 	2,1 	7 	198,1 	232,7 	243,55 	716 	1080 	1510
+NCF 3036.V 	16,1 kg 	180 	280 	74 	2,1 	7 	212,2 	249,4 	261 	818 	1266 	1410
+NCF 3038.V 	17 kg 	190 	290 	75 	2,1 	9 	221,8 	259 	270,6 	838 	1340 	1350
+NCF 3040.V 	21,8 kg 	200 	310 	82 	2,1 	9 	236,6 	276,2 	288,6 	959 	1490 	1270
+NCF 3044.V 	28,4 kg 	220 	340 	90 	3 	9 	254,6 	299,2 	213,1 	1186 	1828 	1160
+NCF 3048.V 	30,9 kg 	240 	360 	92 	3 	11 	277,5 	322,1 	336 	1232 	2088 	1080
+NCF 3052.V 	44,5 kg 	260 	400 	104 	4 	11 	304 	358,4 	375,97 	1617 	2547 	980
+NCF 3056.V 	48 kg 	280 	420 	106 	4 	11 	319,5 	372,9 	390,3 	1663 	2745 	930
+NCF 3060.V 	66,6 kg 	300 	460 	118 	4 	14 	353,6 	415,6 	434,85 	2036 	3345 	850
+NCF 3064.V 	71,7 kg 	320 	480 	121 	4 	14 	369,5 	430,1 	449,5 	2110 	3540 	820
+NCF 3068.V 	95,8 kg 	340 	520 	133 	5 	16 	396,1 	463,9 	485,65 	2520 	4180 	750
+NCF 3072.V 	101 kg 	360 	540 	134 	5 	16 	414 	481,6 	503,45 	2570 	4360 	740
+NCF 3076.V 	106 kg 	380 	560 	135 	5 	16 	431,7 	499,5 	521,25 	2620 	4510 	690
+NCF 3080.V 	140 kg 	400 	600 	148 	5 	18 	462,5 	535,1 	558,52 	3140 	5380 	650
+NCF 3084.V 	150 kg 	420 	620 	150 	5 	14 	482 	555 	578,2 	3340 	6320 	620
+NCF 3088.V 	175 kg 	440 	650 	1557 	6 	14 	507 	582 	607,5 	3720 	7290 	580
+NCF 3092.V 	195 kg 	460 	680 	163 	6 	14 	526 	608 	635 	4120 	8060 	510
+NCF 3096.V 	205 kg 	480 	700 	165 	6 	6 	546 	628 	655,2 	4150 	8340 	470
+NCF 30/500.V 	215 kg 	500 	720 	167 	6 	16 	568 	650 	676,8 	4295 	8630 	450
+s1) axialer Verschiebeweg / possible axial displacement
+w w w. a p b - b e a r i n g s . c o m
+
+-- 11 of 36 --
+- stützlager bestehend aus massivem innen- und außenring, bordgeführten
+zylinderrollen, vollrollig ohne käfig / semi-locating bearing, consists of massive inner-
+and outerring, rib guided rollers, full complement without cage
+- hohe dynamische und statische tragzahlen /
+high dynamic and static load carrying capacity
+- können radialkräfte & einseitig wirkende axialkräfte aufnehmen, andere seite wirkt als loslager
+(einseitig verschiebbar) / can support radial forces & axial forces in one direction, other
+side acts like non locating bearing (single side shiftable)
+- nachschmierbar durch die stirnseiten / relubricated via end faces
+- von d=25 bis d=260 mm / from d=25 bis d=260 mm
+>> 	move 	on
+vollrollige zylinderrollenlager >>>
+full complement cylindrical roller bearings
+serie NJG23xx.V
+12
+F 	F
+F
+F 	F
+F 	F
+F
+loslager
+nonlocating
+stützlager
+semi locating
+festlager
+locating
+F
+
+-- 12 of 36 --
+
+abmessungen / dimensions (mm)
+bezeichnung 	gewicht
+designation 	mass d 	D 	B 	rmin s 1) 	d1 	D1 	F
+dyn. Cr
+kN
+1001070026d/e
+nG
+min -1
+tragzahlen radial
+radial load rating
+grenzdrehzahl
+limiting speed
+stat. C0r
+kN
+NJG 2305 V 	0,37 kg 	25 	62 	24 	1,1 	2 	36,7 	47,5 	31,72 	74 	65 	7550
+NJG 2306 V 	0,56 kg 	30 	72 	27 	1,1 	2 	43,5 	56 	38,3 	110 	94 	6500
+NJG 2307 V 	0,74 kg 	35 	80 	31 	1,5 	2 	50,7 	65,8 	44,68 	130 	115 	5850
+NJG 2308 V 	1,01 kg 	40 	90 	33 	1,5 	2 	57,5 	75,2 	51,12 	175 	160 	5150
+NJG 2309 V 	1,37 kg 	45 	100 	36 	1,5 	3 	62,5 	80,3 	56,1 	185 	176 	4600
+NJG 2310 V 	1,81 kg 	50 	110 	40 	2 	3 	68,3 	89,7 	60,72 	240 	225 	4250
+NJG 2311 V 	2,28 kg 	55 	120 	43 	2 	3 	75,5 	99,3 	67,11 	280 	265 	3800
+NJG 2312 V 	2,88 kg 	60 	130 	46 	2,1 	3 	82 	105,8 	73,62 	295 	290 	3550
+NJG 2313 V 	3,52 kg 	65 	140 	48 	2,1 	3,5 	90 	116,5 	80,69 	360 	365 	3350
+NJG 2314 V 	4,33 kg 	70 	150 	51 	2,1 	3,5 	93,5 	121,6 	84,14 	400 	410 	3200
+NJG 2315 V 	5,30 kg 	75 	160 	55 	2,1 	3,5 	101,6 	131,5 	91,22 	470 	485 	3000
+NJG 2316 V 	6,32 kg 	80 	170 	58 	2,1 	3,5 	109,5 	142,1 	98,24 	550 	575 	2850
+NJG 2317 V 	7,34 kg 	85 	180 	60 	3 	4 	118,2 	150,9 	107,01 	585 	640 	2600
+NJG 2318 V 	8,83 kg 	90 	190 	64 	3 	4 	117,5 	152,5 	105,26 	640 	685 	2450
+NJG 2319 V 	10,20 kg 	95 	200 	67 	3 	4 	126,6 	161,9 	114,65 	670 	735 	2350
+NJG 2320 V 	13,00 kg 	100 	215 	73 	3 	4 	132,7 	172,8 	119,3 	815 	880 	2210
+NJG 2322 V 	17,00 kg 	110 	240 	80 	3 	5 	151,1 	199,9 	134,27 	970 	1000 	2000
+NJG 2324 V 	22,30 kg 	120 	260 	86 	3 	5 	164,2 	213,1 	147,39 	1200 	1300 	1870
+NJG 2326 V 	28,00 kg 	130 	280 	93 	4 	6 	175 	226 	157,9 	1250 	1550 	1650
+NJG 2328 V 	35,50 kg 	140 	300 	102 	4 	6,5 	187 	241 	168,45 	1450 	1750 	1400
+NJG 2330 V 	42,50 kg 	150 	320 	108 	4 	6,5 	202 	261 	182,5 	1550 	2050 	1260
+NJG 2334 V 	59,50 kg 	170 	360 	120 	4 	7 	225 	294 	203,55 	1900 	2650 	1100
+NJG 2336 V 	69,50 kg 	180 	380 	126 	4 	9 	243 	312 	221,7 	2000 	2800 	850
+NJG 2338 V 	80,00 kg 	190 	400 	132 	5 	9 	250 	320 	224,43 	2400 	3150 	850
+NJG 2340 V 	92,00 kg 	200 	420 	138 	5 	9 	266 	342 	238,65 	2600 	3450 	800
+NJG 2344 V 	111,00 kg 	220 	460 	145 	5 	10 	295 	383 	266,7 	2700 	3700 	730
+NJG 2348 V 	147,00 kg 	240 	500 	155 	5 	10 	310 	403 	280,55 	3000 	4200 	730
+NJG 2352 V 	177,00 kg 	260 	540 	165 	6 	11 	349 	456 	315,6 	3750 	5150 	620
+r
+w w w. a p b - b e a r i n g s . c o m
+s1) axialer Verschiebeweg / possible axial displacement
+vergrössert / detail
+
+-- 13 of 36 --
+- festlager zweireihig bestehend aus massivem innen- und außenring, bordgeführten
+zylinderrollen, vollrollig ohne käfig / locating bearing, consists of massive inner-
+and outerring, rib guided rollers, full complement without cage
+- hohe dynamische und statische tragzahlen /
+high dynamic and static load carrying capacity
+- nachschmierbar durch schmierrille & -bohrung(en) oder stirnseiten /
+relubricated through lubrication grooves & -hole(s) or via end faces
+- nehmen radial- & axialkräfte in beiden richtungen auf / support radial- & axial
+forces in both directions
+- von d=150 bis d=530 mm / from d=150 to d=530 mm
+>> 	move 	on
+vollrollige zylinderrollenlager >>>
+full complement cylindrical roller bearings
+serie NNC48xx.V
+14
+F 	F
+F
+F 	F
+F 	F
+F
+loslager
+nonlocating
+stützlager
+semi locating
+festlager
+locating
+F
+
+-- 14 of 36 --
+
+abmessungen / dimensions (mm)
+bezeichnung 	gewicht
+designation 	mass
+d 	D 	B 	rmin 	d1~ 	D1~ dyn. Cr
+kN
+nG
+min -1
+tragzahlen radial
+radial load ratings
+grenzdrehzahl
+limiting speed
+stat. C0r
+kN
+NNC 4830.V 	2,90 kg 	150 	190 	40 	1,1 	165,1 	147,2 	238 	552 	1910
+NNC 4832.V 	3,10 kg 	160 	200 	40 	1,1 	173,7 	182,8 	243 	581 	1810
+NNC 4834.V 	4,10 kg 	170 	215 	45 	1,1 	186,3 	197 	264 	618 	1700
+NNC 4836.V 	4,30 kg 	180 	225 	45 	1,1 	199,1 	209,8 	275 	660 	1610
+NNC 4838.V 	5,65 kg 	190 	240 	50 	1,5 	207,6 	220,7 	316 	750 	1510
+NNC 4840.V 	5,90 kg 	200 	250 	50 	1,5 	218,1 	231,2 	325 	790 	1450
+NNC 4844.V 	6,40 kg 	220 	270 	50 	1,5 	239,1 	252,3 	340 	870 	1330
+NNC 4848.V 	10,00 kg 	240 	300 	60 	2 	259,5 	276,7 	518 	1285 	1220
+NNC 4852.V 	11,00 kg 	260 	320 	60 	2 	281,8 	298,8 	540 	1400 	1130
+NNC 4856.V 	16,00 kg 	280 	350 	69 	2 	306,8 	326,4 	712 	1865 	1030
+NNC 4860.V 	23,00 kg 	300 	380 	80 	2,1 	327,9 	349,9 	830 	2120 	950
+NNC 4864.V 	24,00 kg 	320 	400 	80 	2,1 	350,9 	372,9 	862 	2285 	900
+NNC 4868.V 	25,50 kg 	340 	420 	80 	2,1 	368,1 	390,1 	879 	2390 	850
+NNC 4872.V 	27,00 kg 	360 	440 	80 	2,1 	391 	413,2 	910 	2550 	810
+NNC 4876.V 	45,50 kg 	380 	480 	100 	2,1 	419 	447,2 	1330 	3550 	750
+NNC 4880.V 	46,50 kg 	400 	500 	100 	2,1 	433,8 	462 	1360 	3720 	725
+NNC 4884.V 	49,50 kg 	420 	520 	100 	2,1 	458 	482 	1400 	4080 	520
+NNC 4888.V 	52,00 kg 	440 	540 	100 	2,1 	480 	504 	1450 	4200 	500
+NNC 4892.V 	76,00 kg 	460 	580 	118 	3 	505 	531 	1590 	4600 	485
+NNC 4896.V 	78,50 kg 	480 	600 	118 	3 	529 	555 	1600 	4850 	440
+NNC 48/500.V 	81,50 kg 	500 	620 	118 	3 	546 	571 	1650 	4980 	390
+NNC 48/530.V 	86,00 kg 	530 	650 	118 	3 	577 	603 	1700 	5420 	375
+w w w. a p b - b e a r i n g s . c o m
+s1) axialer Verschiebeweg /
+possible axial displacement
+
+-- 15 of 36 --
+- loslager zweireihig bestehend aus massivem innen- und außenring, bordgeführten
+zylinderrollen, vollrollig ohne käfig / non-locating bearing, consists of massive inner-
+and outerring, rib guided rollers, full complement without cage
+- hohe dynamische und statische tragzahlen / high dynamic and static load carrying capacity
+- nehmen radiale kräfte auf / support radial forces
+- außen- & innenring axial verschiebbar in beide richtungen /
+outer- & innerrings can be displaced axial in both directions
+- nachschmierbar durch schmierrille & -bohrung(en) oder stirnseiten /
+relubricated through lubrication grooves & -hole(s) or via end faces
+- von d=150 bis d=530 mm / from d=150 bis d=530 mm
+>> 	move 	on
+vollrollige zylinderrollenlager >>>
+full complement cylindrical roller bearings
+serie NNCL48xx.V
+16
+F 	F
+F
+F 	F
+F 	F
+F
+loslager
+nonlocating
+stützlager
+semi locating
+festlager
+locating
+F
+
+-- 16 of 36 --
+
+abmessungen / dimensions (mm)
+bezeichnung 	gewicht
+designation 	mass
+d 	D 	B 	rmin 	s1) 	d1 	E dyn. Cr
+kN
+nG
+min -1
+tragzahlen radial
+radial load ratings
+grenzdrehzahl
+limiting speed
+stat. C0r
+kN
+NNCL 4830.V 	2,80 kg 	150 	190 	40 	1,1 	2 	165,1 	178,3 	238 	552 	1910
+NNCL 4832.V 	3,00 kg 	160 	200 	40 	1,1 	2 	173,7 	186,9 	243 	581 	1810
+NNCL 4834.V 	3,95 kg 	170 	215 	45 	1,1 	3 	186,3 	201,3 	264 	618 	1700
+NNCL 4836.V 	4,15 kg 	180 	225 	45 	1,1 	3 	199,1 	214,1 	275 	660 	1610
+NNCL 4838.V 	5,45 kg 	190 	240 	50 	1,5 	4 	207,6 	225 	316 	750 	1510
+NNCL 4840.V 	5,70 kg 	200 	250 	50 	1,5 	4 	218,1 	235,5 	325 	790 	1450
+NNCL 4844.V 	6,20 kg 	220 	270 	50 	1,5 	4 	239,1 	256,5 	340 	870 	1330
+NNCL 4848.V 	9,90 kg 	240 	300 	60 	2 	4 	259,5 	281,9 	518 	1285 	1220
+NNCL 4852.V 	10,60 kg 	260 	320 	60 	2 	4 	281,8 	304,2 	540 	1400 	1130
+NNCL 4856.V 	15,60 kg 	280 	350 	69 	2 	4 	306,8 	332,4 	712 	1865 	1030
+NNCL 4860.V 	22,00 kg 	300 	380 	80 	2,1 	6 	327,9 	356,7 	830 	2120 	950
+NNCL 4864.V 	23,50 kg 	320 	400 	80 	2,1 	6 	350,9 	379,7 	862 	2285 	900
+NNCL 4868.V 	25,00 kg 	340 	420 	80 	2,1 	6 	368,1 	396,9 	879 	2390 	850
+NNCL 4872.V 	26,00 kg 	360 	440 	80 	2,1 	6 	391 	419,8 	910 	2550 	810
+NNCL 4876.V 	44,00 kg 	380 	480 	100 	2,1 	6 	419 	455,8 	1330 	3550 	750
+NNCL 4880.V 	45,80kg 	400 	500 	100 	2,1 	6 	433,8 	470,59 	1360 	3720 	725
+NNCL 4884.V 	49,50 kg 	420 	520 	100 	2,1 	6 	458 	492,6 	1400 	4080 	520
+NNCL 4888.V 	52,00 kg 	440 	540 	100 	2,1 	6 	480 	563,5 	1450 	4200 	500
+NNCL 4892.V 	76,00 kg 	460 	580 	118 	3 	7 	505 	543,3 	1590 	4600 	485
+NNCL 4896.V 	78,50 kg 	480 	600 	118 	3 	7 	529 	567,3 	1600 	4850 	440
+NNCL 48/500.V 	81,50 kg 	500 	620 	118 	3 	7 	546 	583,5 	1650 	4980 	390
+NNCL 48/530.V 	84,00 kg 	530 	650 	118 	3 	7 	577 	615 	1700 	5420 	375
+w w w. a p b - b e a r i n g s . c o m
+
+-- 17 of 36 --
+- festlager zweireihig bestehend aus massivem innen- und außenring, bordgeführten
+zylinderrollen, vollrollig ohne käfig / locating bearing, consists of massive inner-
+and outerring, rib guided rollers, full complement without cage
+- hohe dynamische und statische tragzahlen /
+high dynamic and static load carrying capacity
+- nachschmierbar durch schmierrille & -bohrung(en) oder stirnseiten /
+relubricated through lubrication grooves & -hole(s) or via end faces
+- nehmen radial- & axialkräfte in beiden richtungen auf / support radial- &
+axial forces in both directions
+- von d=60 bis d=530 mm / from d=60 bis d=530 mm
+>> 	move 	on
+vollrollige zylinderrollenlager >>>
+full complement cylindrical roller bearings
+serie NNC49xx.V
+18
+F 	F
+F
+F 	F
+F 	F
+F
+loslager
+nonlocating
+stützlager
+semi locating
+festlager
+locating
+F
+
+-- 18 of 36 --
+
+abmessungen / dimensions (mm)
+bezeichnung 	gewicht
+designation 	mass
+d 	D 	B 	rmin 	d1~ D1~ dyn. Cr
+kN
+2103070027d/e
+nG
+min -1
+tragzahlen radial
+radial load ratings
+grenzdrehzahl
+limiting speed
+stat. C0r
+kN
+NNC 4912.V 	0,49 kg 	60 	85 	25 	1 	70,3 	73,5 	72 	127 	4500
+NNC 4914.V 	0,78 kg 	70 	100 	30 	1 	82,5 	87,4 	109 	191 	3850
+NNC 4916.V 	0,88 kg 	80 	110 	30 	1 	91,4 	96,2 	116 	214 	3450
+NNC 4918.V 	1,35 kg 	90 	125 	35 	1,1 	103 	110,7 	156 	297 	3100
+NNC 4920.V 	1,95 kg 	100 	140 	40 	1,1 	116,4 	125 	198 	384 	2750
+NNC 4922.V 	2,15 kg 	110 	150 	40 	1,1 	125 	133,6 	205 	413 	2500
+NNC 4924.V 	2,95 kg 	120 	165 	45 	1,1 	138,6 	148,6 	230 	460 	2300
+NNC 4926.V 	3,95 kg 	130 	180 	50 	1,5 	148,4 	160 	270 	540 	2150
+NNC 4928.V 	4,2 kg 	140 	190 	50 	1,5 	159 	170,5 	280 	580 	2000
+NNC 4930.V 	6,65 kg 	150 	210 	60 	2 	171,8 	187,2 	425 	850 	1850
+NNC 4932.V 	7 kg 	160 	220 	60 	2 	184,2 	200,3 	440 	910 	1750
+NNC 4934.V 	7,35 kg 	170 	230 	60 	2 	193,1 	209,1 	450 	960 	1650
+NNC 4936.V 	10,8 kg 	180 	250 	69 	2 	204,9 	224,1 	590 	1250 	1550
+NNC 4938.V 	11,2 kg 	190 	260 	69 	2 	215 	234,3 	600 	1310 	1470
+NNC 4940.V 	15,8 kg 	200 	280 	80 	2,1 	230,5 	252,3 	705 	1495 	1390
+NNC 4944.V 	17,2 kg 	220 	300 	80 	2,1 	248 	268,5 	730 	1600 	1300
+NNC 4948.V 	18,5 kg 	240 	320 	80 	2,1 	270,6 	292,3 	755 	1750 	1200
+NNC 4952.V 	32 kg 	260 	360 	100 	2,1 	294,5 	322,1 	1130 	2530 	1100
+NNC 4956.V 	34 kg 	280 	380 	100 	2,1 	316,5 	344,6 	1175 	2740 	1000
+NNC 4960.V 	53 kg 	300 	420 	118 	3 	340,7 	374,3 	1680 	3850 	960
+NNC 4964.V 	56 kg 	320 	440 	118 	3 	367,5 	401,1 	1730 	4120 	910
+NNC 4968.V 	59 kg 	340 	460 	118 	3 	385,3 	418,9 	1790 	4350 	850
+NNC 4972.V 	62,1 kg 	360 	480 	118 	3 	404 	436,8 	1850 	4590 	790
+NNC 4976.V 	92,4 kg 	380 	520 	140 	4 	430,2 	468,7 	2290 	5690 	750
+NNC 4980.V 	96,5 kg 	400 	540 	140 	4 	450,5 	489 	2390 	6010 	710
+NNC 4984.V 	99,5 kg 	420 	560 	140 	4 	470 	512 	2450 	6320 	680
+NNC 4988.V 	137 kg 	440 	600 	160 	4 	503 	544 	3020 	7520 	620
+NNC 4992.V 	140 kg 	460 	620 	160 	4 	512 	564 	3060 	7750 	600
+NNC 4996.V 	165 kg 	480 	650 	170 	5 	537 	592 	3350 	8400 	560
+NNC 49/500.V 	175 kg 	500 	670 	170 	5 	568 	611 	3410 	8860 	540
+NNC 49/530.V 	200 kg 	530 	710 	180 	5 	588 	648 	3980 	10300 	500
+w w w. a p b - b e a r i n g s . c o m
+s1) axialer Verschiebeweg / possible axial displacement
+
+-- 19 of 36 --
+- loslager zweireihig bestehend aus massivem innen- und außenring, bordgeführten
+zylinderrollen, vollrollig ohne käfig / non-locating bearing, consists of massive inner-
+and outerring, rib guided rollers, full complement without cage
+- hohe dynamische und statische tragzahlen / high dynamic and static load carrying capacity
+- nehmen radiale kräfte auf / support radial forces
+- außen- & innenring axial verschiebbar in beide richtungen /
+outer- & innerring can be displaced axial in both directions
+- nachschmierbar durch schmierrille & -bohrung(en) oder stirnseiten /
+relubricated through lubrication grooves & -hole(s) or via end faces
+- von d=60 bis d=530 mm / from d=60 bis d=530 mm
+>> 	move 	on
+vollrollige zylinderrollenlager >>>
+full complement cylindrical roller bearings
+serie NNCL49xx.V
+20
+F 	F
+F
+F 	F
+F 	F
+F
+loslager
+nonlocating
+stützlager
+semi locating
+festlager
+locating
+F
+
+-- 20 of 36 --
+
+abmessungen / dimensions (mm)
+bezeichnung 	gewicht
+designation 	mass
+d 	D 	B 	rmin 	s1) 	d1 	E dyn. Cr
+kN
+2103070027d/e
+nG
+min -1
+tragzahlen radial
+radial load ratings
+grenzdrehzahl
+limiting speed
+stat. C0r
+kN
+NNCL 4912.V 	0,47 kg 	60 	85 	25 	1 	1 	70,3 	77,51 	70,5 	124 	4500
+NNCL 4914.V 	0,75 kg 	70 	100 	30 	1 	1 	82,5 	91,87 	108 	190 	3800
+NNCL 4916.V 	0,85 kg 	80 	110 	30 	1 	1 	91,4 	100,78 	115,5 	212 	3390
+NNCL 4918.V 	1,3 kg 	90 	125 	35 	1,1 	1,5 	103 	115,2 	156 	297 	3000
+NNCL 4920.V 	1,9 kg 	100 	140 	40 	1,1 	2 	116,4 	129,6 	196 	380 	2700
+NNCL 4922.V 	2,1 kg 	110 	150 	40 	1,1 	2 	125 	138,2 	205 	413 	2480
+NNCL 4924.V 	2,85 kg 	120 	165 	45 	1,1 	3 	138,6 	153,55 	227 	455 	2250
+NNCL 4926.V 	3,8 kg 	130 	180 	50 	1,5 	4 	149,5 	165,4 	266 	535 	2090
+NNCL 4928.V 	4,1 kg 	140 	190 	50 	1,5 	4 	160 	175,9 	274 	565 	2000
+NNCL 4930.V 	6,45 kg 	150 	210 	60 	2 	4 	171,8 	192,77 	415 	840 	1800
+NNCL 4932.V 	6,8 kg 	160 	220 	60 	2 	4 	184,2 	206,16 	434 	890 	1750
+NNCL 4934.V 	7,1 kg 	170 	230 	60 	2 	4 	193,1 	215,08 	445 	950 	1630
+NNCL 4936.V 	10,5 kg 	180 	250 	69 	2 	4 	204,9 	230,5 	585 	1240 	1500
+NNCL 4938.V 	10,9 kg 	190 	260 	69 	2 	4 	215 	240,7 	590 	1290 	1440
+NNCL 4940.V 	15,3 kg 	200 	280 	80 	2,1 	5 	230,5 	259,34 	695 	1490 	1340
+NNCL 4944.V 	16,7 kg 	220 	300 	80 	2,1 	5 	248 	276,52 	715 	1580 	1280
+NNCL 4948.V 	17,9 kg 	240 	320 	80 	2,1 	5 	270,6 	299,46 	755 	1750 	1150
+NNCL 4952.V 	31,2 kg 	260 	360 	100 	2,1 	6 	294,5 	331,33 	1120 	2500 	1050
+NNCL 4956.V 	33,1 kg 	280 	380 	100 	2,1 	6 	316,5 	353,34 	1170 	2700 	980
+NNCL 4960.V 	51,9 kg 	300 	420 	118 	3 	6 	340,7 	385,51 	1660 	3880 	900
+NNCL 4964.V 	54,9 kg 	320 	440 	118 	3 	6 	367,5 	412,27 	1720 	4100 	860
+NNCL 4968.V 	57,8 kg 	340 	460 	118 	3 	6 	385,3 	430,11 	1760 	4290 	820
+NNCL 4972.V 	60,8 kg 	360 	480 	118 	3 	6 	404 	447,95 	1810 	4500 	770
+NNCL 4976.V 	90,5 kg 	380 	520 	140 	4 	7 	430,2 	481,35 	2290 	5630 	710
+NNCL 4980.V 	94,6 kg 	400 	540 	140 	4 	7 	450,5 	501,74 	2340 	5900 	690
+NNCL 4984.V 	99,5 kg 	420 	560 	140 	4 	7 	470 	522,5 	2420 	6220 	575
+NNCL 4988.V 	137 kg 	440 	600 	160 	4 	7 	503 	563,5 	3020 	7550 	470
+NNCL 4992.V 	140 kg 	460 	620 	160 	4 	7 	512 	577 	3100 	7700 	420
+NNCL 4996.V 	165 kg 	480 	650 	170 	5 	8 	537 	605,5 	3350 	8400 	390
+NNCL 49/500.V 	175 kg 	500 	670 	170 	5 	8 	568 	631,5 	3410 	8850 	365
+NNCL 49/530.V 	200 kg 	530 	710 	180 	5 	8 	588 	663 	3950 	10250 	345
+w w w. a p b - b e a r i n g s . c o m
+s1) axialer Verschiebeweg /
+possible axial displacement
+
+-- 21 of 36 --
+- stützlager zweireihig bestehend aus massivem innen- und außenring, bordgeführten
+zylinderrollen, vollrollig ohne käfig / 2 row-non-locating bearing, consists of massive inner-
+and outerring, rib guided rollers, full complement without cage
+- hohe dynamische und statische tragzahlen / high dynamic and static load carrying capacity
+- können radialkräfte & einseitig wirkende axialkräfte aufnehmen, andere seite wirkt als loslager
+(einseitig verschiebbar) / can support radial forces & axial forces in one direction, other
+side acts like non locating bearing (single side shiftable)
+- nachschmierbar durch schmierrille & -bohrung(en) oder stirnseiten /
+relubricated through lubrication grooves & -holes or via end faces
+- von d=150 bis d=530 mm / from d=150 to d=530 mm
+>> 	move 	on
+vollrollige zylinderrollenlager >>>
+full complement cylindrical roller bearings
+serie NNCF48xx.V
+22
+
+-- 22 of 36 --
+
+abmessungen / dimensions (mm)
+bezeichnung 	gewicht
+designation 	mass
+d 	D 	B 	rmin 	s1) 	d1 ~ 	D1~ dyn. Cr
+kN
+nG
+min -1
+tragzahlen radial
+radial load ratings
+grenzdrehzahl
+limiting speed
+stat. C0r
+kN
+NNCF 4830.V 	2,80 kg 	150 	190 	40 	1,1 	2 	165 	174 	260 	590 	1500
+NNCF 4832.V 	3,00 kg 	160 	200 	40 	1,1 	2 	174 	182 	265 	620 	1690
+NNCF 4834.V 	4,00 kg 	170 	215 	45 	1,1 	3 	187 	197 	286 	655 	1600
+NNCF 4836.V 	4,20 kg 	180 	225 	45 	1,1 	3 	200 	210 	295 	690 	1520
+NNCF 4838.V 	5,50 kg 	190 	240 	50 	1,5 	4 	209 	221 	332 	755 	1400
+NNCF 4840.V 	5,80 kg 	200 	250 	50 	1,5 	4 	219 	231 	335 	800 	1390
+NNCF 4844.V 	6,30 kg 	220 	270 	50 	1,5 	4 	239 	252 	350 	862 	1210
+NNCF 4848.V 	9,90 kg 	240 	300 	60 	2 	4 	259 	277 	540 	1290 	1100
+NNCF 4852.V 	10,80 kg 	260 	320 	60 	2 	4 	282 	299 	565 	1410 	1000
+NNCF 4856.V 	15,80 kg 	280 	350 	69 	2 	4 	307 	326 	740 	1865 	940
+NNCF 4860.V 	22,50 kg 	300 	380 	80 	2,1 	6 	330 	350 	860 	2125 	700
+NNCF 4864.V 	23,50 kg 	320 	400 	80 	2,1 	6 	351 	373 	895 	2275 	810
+NNCF 4868.V 	25,00 kg 	340 	420 	80 	2,1 	6 	368 	390 	915 	2400 	750
+NNCF 4872.V 	26,50 kg 	360 	440 	80 	2,1 	6 	391 	413 	930 	2540 	710
+NNCF 4876.V 	44,80 kg 	380 	480 	100 	2,1 	6 	419 	447 	1410 	3670 	670
+NNCF 4880.V 	46,20 kg 	400 	500 	100 	2,1 	6 	434 	462 	1425 	3750 	630
+NNCF 4884.V 	49,50 kg 	420 	520 	100 	2,1 	6 	458 	482 	1480 	4050 	590
+NNCF 4888.V 	52,00 kg 	440 	540 	100 	2,1 	6 	480 	504 	1500 	4160 	510
+NNCF 4892.V 	76,00 kg 	460 	580 	118 	3 	7 	505 	531 	1580 	4550 	480
+NNCF 4896.V 	78,50 kg 	480 	600 	118 	3 	7 	529 	555 	1610 	4790 	440
+NNCF 48/500.V 	81,50 kg 	500 	620 	118 	3 	7 	546 	571 	1630 	4910 	420
+NNCF 48/530.V 	85,00 kg 	530 	650 	118 	3 	7 	577 	603 	1690 	5420 	370
+w w w. a p b - b e a r i n g s . c o m
+s1) axialer Verschiebeweg / possible axial displacement
+
+-- 23 of 36 --
+- stützlager zweireihig bestehend aus massivem innen- und außenring, bordgeführten zylinderrollen, vollrollig
+ohne käfig / 2 row-semi-locating bearing, consists of massive inner- and outerring, rib guided rollers, full
+complement without cage
+- hohe dynamische und statische tragzahlen / high dynamic and static load carrying capacity
+- können radialkräfte & einseitig wirkende axialkräfte aufnehmen, andere seite wirkt als loslager
+(einseitig verschiebbar) / can support radial forces & axial forces in one direction, other side acts like
+non locating bearing (single side shiftable)
+- nachschmierbar durch schmierrille & -bohrung(en) oder stirnseiten /
+relubricated through lubrication grooves & -holes or via end faces
+- von von d=60 bis d=530 mm / from d=60 to d=530 mm
+>> 	move 	on
+vollrollige zylinderrollenlager >>>
+full complement cylindrical roller bearings
+serie NNCF49xx.V
+24
+
+-- 24 of 36 --
+
+abmessungen / dimensions (mm)
+bezeichnung 	gewicht
+designation 	mass
+d 	D 	B 	rmin 	s1) 	d1 ~ 	D1~ dyn. Cr
+kN
+2 030 002 d/
+nG
+min -1
+tragzahlen radial
+radial load ratings
+grenzdrehzahl
+limiting speed
+stat. C0r
+kN
+NNCF 4912.V 	0,48 kg 	60 	85 	25 	1 	1 	70,5 	73,5 	78 	137 	4500
+NNCF 4914.V 	0,77 kg 	70 	100 	30 	1 	1 	83 	87 	115 	195 	3790
+NNCF 4916.V 	0,87 kg 	80 	110 	30 	1 	1 	91,4 	96 	122 	218 	3400
+NNCF 4918.V 	1,33 kg 	90 	125 	35 	1,1 	1,5 	103 	111 	160 	298 	3000
+NNCF 4920.V 	1,93 kg 	100 	140 	40 	1,1 	2 	116 	125 	210 	400 	2610
+NNCF 4922.V 	2,12 kg 	110 	150 	40 	1,1 	2 	125 	134 	220 	430 	2400
+NNCF 4924.V 	2,90 kg 	120 	165 	45 	1,1 	3 	139 	149 	245 	490 	2180
+NNCF 4926.V 	3,88 kg 	130 	180 	50 	1,5 	4 	149 	160 	280 	540 	2000
+NNCF 4928.V 	4,15 kg 	140 	190 	50 	1,5 	4 	160 	171 	285 	568 	1900
+NNCF 4930.V 	6,55 kg 	150 	210 	60 	2 	4 	171 	187 	430 	830 	1700
+NNCF 4932.V 	6,90 kg 	160 	220 	60 	2 	4 	184 	200 	445 	912 	1610
+NNCF 4934.V 	7,20 kg 	170 	230 	60 	2 	4 	193 	209 	459 	955 	1500
+NNCF 4936.V 	10,70 kg 	180 	250 	69 	2 	4 	205 	224 	595 	1220 	1410
+NNCF 4938.V 	11,10 kg 	190 	260 	69 	2 	4 	215 	234 	605 	1290 	1400
+NNCF 4940.V 	15,60 kg 	200 	280 	80 	2,1 	5 	230 	252 	705 	1500 	1300
+NNCF 4944.V 	17,00 kg 	220 	300 	80 	2,1 	5 	248 	269 	735 	1600 	1210
+NNCF 4948.V 	18,30 kg 	240 	320 	80 	2,1 	5 	270 	292 	785 	1765 	1100
+NNCF 4952.V 	31,60 kg 	260 	360 	100 	2,1 	6 	294 	322 	1170 	2550 	950
+NNCF 4956.V 	33,50 kg 	280 	380 	100 	2,1 	6 	316 	345 	1220 	2700 	890
+NNCF 4960.V 	52,50 kg 	300 	420 	118 	3 	6 	341 	374 	1690 	3750 	800
+NNCF 4964.V 	55,50 kg 	320 	440 	118 	3 	6 	368 	401 	1750 	4050 	780
+NNCF 4968.V 	58,50 kg 	340 	460 	118 	3 	6 	385 	419 	1790 	4250 	700
+NNCF 4972.V 	61,50 kg 	360 	480 	118 	3 	6 	404 	437 	1850 	4550 	650
+NNCF 4976.V 	91,50 kg 	380 	850 	140 	4 	7 	430 	469 	2375 	5690 	630
+NNCF 4980.V 	96,50 kg 	400 	540 	140 	4 	7 	451 	489 	2420 	6000 	610
+NNCF 4984.V 	99,50 kg 	420 	560 	140 	4 	7 	470 	512 	2490 	6150 	575
+NNCF 4988.V 	137,00 kg 	440 	600 	160 	4 	7 	503 	544 	3000 	7520 	505
+NNCF 4992.V 	140,00 kg 	460 	620 	160 	4 	7 	512 	564 	3090 	7700 	460
+NNCF 4996.V 	165,00 kg 	480 	650 	170 	5 	8 	537 	592 	3330 	8380 	400
+NNCF 49/500.V 	175,00 kg 	500 	670 	170 	5 	8 	568 	611 	3400 	8900 	370
+NNCF 49/530.V 	200,00 kg 	530 	710 	180 	5 	8 	588 	648 	3950 	10290 	350
+w w w. a p b - b e a r i n g s . c o m
+s1) axialer Verschiebeweg / possible axial displacement
+
+-- 25 of 36 --
+- stützlager zweireihig bestehend aus massivem innen- und außenring, bordgeführten zylinderrollen, vollrollig
+ohne käfig / 2 row-semi-locating bearing, consists of massive inner- and outerring, rib guided rollers, full
+complement without cage
+- hohe dynamische und statische tragzahlen / high dynamic and static load carrying capacity
+- können radialkräfte & einseitig wirkende axialkräfte aufnehmen, andere seite wirkt als loslager
+(einseitig verschiebbar) / can support radial forces & axial forces in one direction, other side acts like
+non locating bearing (single side shiftable)
+- nachschmierbar durch schmierrille & -bohrung(en) oder stirnseiten /
+relubricated through lubrication grooves & -holes or via end faces
+- von von d=20 bis d=400mm / from d=20 to d=400 mm
+>> 	move 	on
+vollrollige zylinderrollenlager >>>
+full complement cylindrical roller bearings
+serie NNCF50xx.V
+26
+
+-- 26 of 36 --
+
+abmessungen / dimensions (mm)
+bezeichnung 	gewicht
+designation 	mass 	d 	D 	B 	rmin s1) 	d1 	D1 	E
+dyn. Cr
+kN
+nG
+min -1
+stat. C0r
+kN
+tragzahlen radial
+radial load rating
+grenzdrehzahl
+limiting speed
+NNCF 5004.V 	0,20 kg 	20 	42 	30 	0,6 	1 	28,4 	33,3 	36,81 	55 	55 	10600
+NNCF 5005.V 	0,23 kg 	25 	47 	30 	0,6 	1 	34,5 	39 	42,51 	62 	67 	9100
+NNCF 5006.V 	0,35 kg 	30 	55 	34 	1 	1,5 	40 	45,3 	49,6 	80 	86 	7700
+NNCF 5007.V 	0,46 kg 	35 	62 	36 	1 	1,5 	44,9 	51,2 	55,52 	97 	112 	6900
+NNCF 5008.V 	0,56 kg 	40 	68 	38 	1 	1,5 	50,5 	57,2 	61,74 	115 	140 	6200
+NNCF 5009.V 	0,71 kg 	45 	75 	40 	1 	1,5 	55,3 	62,6 	66,85 	125 	160 	5650
+NNCF 5010.V 	0,76 kg 	50 	80 	40 	1 	1,5 	59,1 	67,6 	72,33 	160 	200 	5200
+NNCF 5011.V 	1,16 kg 	55 	90 	46 	1,1 	1,5 	68,5 	78,7 	83,54 	215 	280 	4690
+NNCF 5012.V 	1,24 kg 	60 	95 	46 	1,1 	1,5 	71,7 	81,9 	86,74 	218 	296 	4210
+NNCF 5013.V 	1,32 kg 	65 	100 	46 	1,1 	1,5 	78,1 	88,3 	93,09 	230 	330 	3700
+NNCF 5014.V 	1,85 kg 	70 	110 	54 	1,1 	3 	81,5 	95,7 	100,28 	280 	375 	3600
+NNCF 5015.V 	1,92 kg 	75 	115 	54 	1,1 	3 	89 	102,9 	107,9 	290 	405 	3550
+NNCF 5016.V 	2,59 kg 	80 	125 	60 	1,1 	3,5 	95 	111,7 	117,4 	305 	470 	3350
+NNCF 5017.V 	2,72 kg 	85 	130 	60 	1,1 	3,5 	99 	116,1 	121,95 	320 	495 	3200
+NNCF 5018.V 	3,62 kg 	90 	140 	67 	1,5 	4 	106,1 	124,4 	130,65 	380 	590 	3050
+NNCF 5020.V 	3,94 kg 	100 	150 	67 	1,5 	4 	115,7 	134 	140,2 	395 	645 	2850
+NNCF 5022.V 	6,32 kg 	110 	170 	80 	2 	5 	127,3 	149,3 	156,7 	505 	810 	2450
+NNCF 5024.V 	6,77 kg 	120 	180 	80 	2 	5 	138,8 	160,7 	168,15 	535 	890 	2340
+NNCF 5026.V 	10,20 kg 	130 	200 	95 	2 	5 	148,6 	175,5 	184,4 	765 	1350 	2120
+NNCF 5028.V 	11,10 kg 	140 	210 	95 	2 	5 	162,6 	189,5 	198,4 	815 	1410 	2000
+NNCF 5030.V 	13,30 kg 	150 	225 	100 	2 	6 	170 	198 	207,45 	835 	1450 	1860
+NNCF 5032.V 	16,20 kg 	160 	240 	109 	2,1 	6 	184 	216 	225 	990 	1700 	1650
+NNCF 5034.V 	23,00 kg 	170 	260 	122 	2,1 	6 	198 	232 	243 	1250 	2150 	1500
+NNCF 5036.V 	30,50 kg 	180 	280 	136 	2,1 	8 	212 	249 	260,5 	1450 	2590 	1350
+NNCF 5038.V 	31,50 kg 	190 	290 	136 	2,1 	8 	222 	258 	270 	1500 	2700 	1300
+NNCF 5040.V 	41,00 kg 	200 	310 	150 	2,1 	9 	236 	276 	288 	1700 	3090 	1250
+NNCF 5044.V 	52,50 kg 	220 	340 	160 	3 	9 	255 	300 	313,5 	2050 	3700 	1200
+NNCF 5048.V 	56,00 kg 	240 	360 	160 	3 	9 	278 	322 	335,6 	2150 	3950 	1150
+NNCF 5052.V 	85,50 kg 	260 	400 	190 	4 	10 	304 	357 	373,5 	2900 	5200 	1000
+NNCF 5056.V 	90,50 kg 	280 	420 	190 	4 	10 	320 	372 	389 	2950 	5350 	900
+NNCF 5060.V 	130,00 kg 	300 	460 	218 	4 	9 	352 	418 	432 	3550 	6600 	850
+NNCF 5064.V 	135,00 kg 	320 	480 	218 	4 	9 	370 	434 	447,5 	3720 	6990 	750
+NNCF 5068.V 	185,00 kg 	340 	520 	243 	5 	11 	395 	468 	486 	4500 	8450 	700
+NNCF 5072.V 	195,00 kg 	360 	540 	243 	5 	11 	412 	486 	504 	4550 	8700 	600
+NNCF 5076.V 	200,00 kg 	380 	560 	243 	5 	11 	431 	504 	532 	4720 	9240 	600
+NNCF 5080.V 	270,00 kg 	400 	600 	272 	5 	11 	460 	540 	560 	5600 	12000 	580
+w w w. a p b - b e a r i n g s . c o m
+s1) axialer Verschiebeweg / possible axial displacement
+
+-- 27 of 36 --
+- vollrollige, bordgeführte und abgedichtete zylinderrollenlager / full complement, rib guided and sealed cylindrical roller bearings
+- mit sicherungsringen einfach zu fixieren / easy to fix with snap rings
+- festlager / locating bearing
+- hohe traglasten / high load carrying capacity
+- können radialkräfte & einseitig wirkende axialkräfte aufnehmen, andere seite wirkt als loslager
+(einseitig verschiebbar) / can support radial forces &axial forces in one direction, other side
+acts like non locating bearing (single side shiftable)
+- große steifigkeit / high rigidity
+- gefettet mit lithiumkomplexseifenfett (-30° c bis +80°c) - nachschmierbar über aussen- oder innenring /
+greased with lithium complex soap grease - regreasable through lubholes in inner and outerring
+- alle toleranzen entsprechend DIN 620/PN / all tolerances according to DIN 620/PN
+- nachschmierbar durch schmiernut und eine oder mehrere schmierbohrungen
+im innen- & außenring / relubricated through grease groove an one or
+more lubrication holes in the inner- & outer ring
+- sonderausführungen verfügbar / special designs available
+- von von d=20 bis d=300mm / from d=20 to d=300 mm
+>> 	move 	on
+vollrollige zylinderrollenlager >>>
+full complement cylindrical roller bearings
+serie NNF50xx.A.2LSV/NNF 1xx & 2xx.A.2LS.V.
+28
+
+-- 28 of 36 --
+
+abmessungen / dimensions
+grenzdreh-
+zahlen
+speed limit
+tragzahlen
+load ratings
+bezeichnung 	gewicht 	d 	D 	B 	C 	C1 	Ca1 	Ca2 	D1 	d1 	d2 	m 	rmin
+sprengring
+retaining ring
+sicherheitsring
+locating ring
+DIN 471
+dyn. Cr
+(kN)
+stat. C0r
+(kN)
+n G
+(min-1)
+0809060007d
+designation 	mass
+NNF 5004.A.2LS.V 	0,2 kg 	20 	42 	30 	29 	24,7 	21,5 	21 	40,2 	31 	47 	1,8 	0,3 	40,5 	49 	4000 	wre 42 	42 x 1,75
+NNF 5005.A.2LS.V 	0,24 kg 	25 	47 	30 	29 	24,7 	21,5 	21 	45,2 	35,5 	52 	1,8 	0,3 	44,5 	58 	3600 	wre 47 	47 x 1,75
+NNF 5006.A.2LS.V 	0,37 kg 	30 	55 	34 	33 	28,2 	25 	24 	53 	41 	60 	2,1 	0,3 	50 	67 	3000 	wre 55 	55 x 2
+NNF 5007.A.2LS.V 	0,48 kg 	35 	62 	36 	35 	30,2 	27 	26 	60 	46,5 	67 	2,1 	0,3 	63 	88 	2600 	wre 62 	62 x 2
+NNF 5008.A.2LS.V 	0,56 kg 	40 	68 	38 	37 	32,2 	28 	27 	65,8 	51,5 	75 	2,7 	0,6 	76 	103 	2400 	wre 68 	68 x 2,5
+NNF 5009.A.2LS.V 	0,70 kg 	45 	75 	40 	39 	34,2 	30 	29 	72,8 	57,5 	82 	2,7 	0,6 	92 	130 	2200 	wre 75 	75 x 2,5
+NNF 5010.A.2LS.V 	0,76 kg 	50 	80 	40 	39 	34,2 	30 	29 	77,8 	62 	87 	2,7 	0,6 	97 	142 	2000 	wre 80 	80 x 2,5
+NNF 5011.A.2LS.V 	1,18 kg 	55 	90 	46 	45 	40,2 	35 	34 	87,4 	69 	99 	3,2 	0,6 	115 	175,5 	1800 	wre 90 	90 x 3
+NNF 5012.A.2LS.V 	1,26 kg 	60 	95 	46 	45 	40,2 	35 	34 	92,4 	74 	104 	3,2 	0,6 	120 	189 	1700 	wre 95 	95 x 3
+NNF 5013.A.2LS.V 	1,33 kg 	65 	100 	46 	45 	40,2 	35 	34 	97,4 	79 	109 	3,2 	0,6 	125 	203 	1600 	wre 100 	100 x 3
+NNF 5014.A.2LS.V 	1,87 kg 	70 	110 	54 	53 	48,2 	43 	40 107,1 	85 	119 	4,2 	0,6 	168 	265 	1400 	wre 110 	110 x 4
+NNF 5015.A.2LS.V 	1,96 kg 	75 	115 	54 	53 	48,2 	43 	40 112,1 	90 	124 	4,2 	0,6 	194 	300 	1400 	wre 115 	115 x 4
+NNF 5016.A.2LS.V 	2,71 kg 	80 	125 	60 	59 	54,2 	49 	46 122,1 	97,5 	137 	4,2 	0,6 	203 	325 	1300 	wre 125 	125 x 4
+NNF 5017.A.2LS.V 	2,83 kg 	85 	130 	60 	59 	54,2 	49 	46 127,1 104,5 	142 	4,2 	0,6 	211 	350 	1200 	wre 130 	130 x 4
+NNF 5018.A.2LS.V 	3,71 kg 	90 	140 	67 	66 	59,2 	54 	51 	137 109,5 	152 	4,2 	0,6 	305 	510 	1100 	wre 140 	140 x 4
+NNF 5019.A.2LS.V 	3,88 kg 	95 	145 	67 	66 	59,2 	54 	51 	142 	114 	157 	4,2 	0,6 	315 	530 	1100 	wre 145 	145 x 4
+NNF 5020.A.2LS.V 	3,95 kg 	100 	150 	67 	66 	59,2 	54 	51 	147 	118 	162 	4,2 	0,6 	330 	550 	1000 	wre 150 	150 x 4
+NNF 5022.A.2LS.V 	6,57 kg 	110 	170 	80 	79 	70,2 	65 	62 	167 	132 	182 	4,2 	0,6 	395 	680 	900 	wre 170 	170 x 4
+NNF 5024.A.2LS.V 	7,04 kg 	120 	180 	80 	79 	71,2 	65 	63 	176 141,5 	196 	4,2 	0,6 	410 	740 	900 	wre 180 	180 x 4
+NNF 5026.A.2LS.V 	10,50 kg 	130 	200 	95 	94 	83,2 	77 	75 	196 	157 	216 	4,2 	0,6 	540 	960 	800 	wre 200 	200 x 4
+NNF 5028.A.2LS.V 	11,10 kg 	140 	210 	95 	94 	83,2 	77 	73 	206 	166 	226 	5,2 	0,6 	610 	1100 	750 	wre 210 	210 x 5
+NNF 5030.A.2LS.V 	13,30 kg 	150 	225 	100 	99 	87,2 	81 	77 	221 	176 	245 	5,2 	0,6 	710 	1260 	700 	wre 225 	225 x 5
+NNF 5032.A.2LS.V 	16,60 kg 	160 	240 	109 	108 	95,2 	89 	85 	236 189,5 	260 	5,2 	0,6 	740 	1360 	650 	wre 240 	240 x 5
+NNF 5034.A.2LS.V 	22,60 kg 	170 	260 	122 	121 107,2 	99 	97 	254 	201 	282 	5,2 	0,6 	960 	1750 	600 	wre 260 	260 x 5
+NNF 5036.A.2LS.V 	30,10 kg 	180 	280 	136 	135 118,2 	110 	108 	274 218,5 	302 	5,2 	0,6 	1140 	2130 	550 	wre 280 	280 x 5
+NNF 5038.A.2LS.V 	31,50 kg 	190 	290 	136 	135 118,2 	110 	108 	284 	226 	312 	5,2 	0,6 	1160 	2210 	550 	wre 290 	290 x 5
+NNF 5040.A.2LS.V 	40,80 kg 	200 	310 	150 	149 128,2 	120 	116 	304 241,5 	336 	6,3 	0,6 	1350 	2600 	550 	wre 310 	310 x 6
+NNF 5044.A.2LS.V 	52,50 kg 	220 	340 	160 	159 138,2 	130 	126 	334 260,5 	366 	6,3 	1 	1570 	3050 	480 	wre 340 	340 x 6
+NNF 5048.A.2LS.V 	56,00 kg 	240 	360 	160 	159 138,2 	130 	126 	354 279,5 	386 	6,3 	1 	1630 	3300 	440 	wre 360 	360 x 6
+NNF 5052.A.2LS.V 	84,50 kg 	260 	400 	190 	189 162,2 	154 	150 	394 305,5 	426 	6,3 	1,1 	2380 	4700 	400 	wre 400 	400 x 6
+NNF 5056 A-2LS.V 	90,00 kg 	280 	420 	190 	189 163,2 	154 	149 	413 321,5 	453 	7,3 	1,1 	2600 	5200 	380 	wre 420 	420 x 7
+NNF 5060 A-2LS.V 126,00 kg 	300 	460 	218 	216 185,2 	176 	171 	453 347,5 	493 	7,3 	1,1 	3000 	5800 	340 	wre 460 	460 x 7
+leichtbaureihe / light series
+NNF 130.A.2LS.V 	7,5 kg 	130 	190 	80 	79 	71,2 	65 	63 	186 150,55 	160 	4,2 	0,6 	432 	795 	810 	wre 190 	190x4
+NNF 140.A.2LS.V 	8 kg 	140 	200 	80 	79 	71,2 	65 	63 	196 159,95 	170 	4,2 	0,6 	445 	842 	755 	wre 200 	200x4
+NNF 150.A.2LS.V 	8,4 kg 	150 	210 	80 	79 	71,2 	65 	61 	206 174,4 	185 	5,2 	0,6 	464 	918 	710 	wre 210 	210x5
+NNF 160.A.2LS.V 	8,8 kg 	160 	220 	80 	79 	71,2 	65 	61 	216 184,05 	196 	5,2 	0,6 	485 	973 	702 	wre 220 	220x5
+NNF 170.A.2LS.V 	9,3 kg 	170 	230 	80 	79 	71,2 	65 	61 	226 193,9 	206 	5,2 	0,6 	492 	1034 	660 	wre 230 	230x5
+NNF 180.A.2LS.V 	9,8 kg 	180 	240 	80 	79 	71,2 	65 	61 	236 203,1 	216 	5,2 	0,6 	501 	1082 	610 	wre 240 	240x5
+NNF 190.A.2LS.V 	12,7 kg 	190 	260 	80 	79 	73,2 	65 	63 	254 217,55 	231 	5,2 	0,6 	523 	1135 	560 	wre 260 	260x5
+NNF 200.A.2LS.V 	13,2 kg 	200 	270 	80 	79 	73,2 	65 	63 	264 227,15 	241 	5,2 	0,6 	545 	1215 	550 	wre 270 	270x5
+NNF 220.A.2LS.V 	19,5 kg 	220 	300 	95 	94 	83,2 	75 	71 	294 248,7 	264 	5,2 	1 	708 	1555 	485 	wre 300 	300x5
+NNF 240.A.2LS.V 	21 kg 	240 	320 	95 	94 	83,2 	75 	71 	314 271,7 	287 	6,3 	1 	745 	1710 	480 	wre 320 	320x6
+NNF 260.A.2LS.V 	22,5 kg 	260 	340 	95 	94 	83,2 	75 	71 	334 292,7 	310 	6,3 	1 	842 	1995 	445 	wre 340 	340x6
+w w w. a p b - b e a r i n g s . c o m
+vergrössert / detail
+
+-- 29 of 36 --
+- komplette einheit bestehend aus einem axial zylinderrollenkranz (K), einer
+gehäusescheibe (GS) und einer wellenscheibe (WS) /
+complete unit consisting of an axial cylindrical roller cage (K),
+a housing washer (GS) and a shaft washer (WS)
+- entsprechen ISO104, DIN 722 / corresponding to ISO 104, DIN 722
+- käfig materialien: polyamid, stahl oder messing /
+cage materials: polyamide, steel or brass
+- sonderabmessungen auf anfrage lieferbar /
+special dimensions available upon request
+>> 	move 	on
+axial zylinderrollenlager >>>
+axial cylindrical roller bearings
+serie 811xx
+30
+
+-- 30 of 36 --
+
+abmessungen /
+dimensions (mm)
+bezeichnung 	gewicht
+designation 	mass d 	D 	T
+1201070023d
+d
+1 	D
+1
+da
+min
+r1,2
+min
+da
+max
+ra
+max
+axial tragzahlen /
+axial load rating
+grenzdrehzahl
+reference speed
+nG
+min-1
+abmessungen /
+dimensions (mm)
+anschlussmaße /
+abutment dimensions
+dyn. Ca
+kN
+stat. C0r
+kN
+81120 	1,00 kg 	100 	135 	25 	200 	649 	2499 	135 	102 	1 	131 	104 	1
+81122 	1,10 kg 	110 	145 	25 	208 	700 	2283 	145 	112 	1 	141 	114 	1
+81124 	1,15 kg 	120 	155 	25 	215 	765 	2153 	155 	122 	1 	151 	124 	1
+81126 	1,70 kg 	130 	170 	30 	251 	900 	1980 	170 	132 	1 	165 	135 	1
+81128 	1,95 kg 	140 	180 	31 	260 	961 	1835 	178 	142 	1 	175 	145 	1
+81130 	2,05 kg 	150 	190 	31 	269 	1022 	1736 	188 	142 	1 	185 	155 	1
+81132 	2,20 kg 	160 	200 	31 	259 	992 	1590 	198 	162 	1 	195 	165 	1
+81134 	2,95 kg 	170 	215 	34 	360 	1370 	1576 	213 	172 	1,1 	209 	176 	1
+81136 	3,05 kg 	180 	225 	34 	350 	1310 	1359 	222 	183 	1,1 	219 	185 	1
+81138 	3,85 kg 	190 	240 	37 	385 	1498 	1310 	327 	193 	1,1 	233 	197 	1
+81140 	4,00 kg 	200 	250 	37 	390 	1552 	1295 	247 	203 	1,1 	243 	206 	1
+81144 	4,50 kg 	220 	270 	37 	420 	1730 	1190 	267 	223 	1,1 	263 	226 	1
+81148 	7,25 kg 	240 	300 	45 	600 	2497 	1084 	297 	243 	1,5 	296 	248 	1,5
+81152 	7,85 kg 	260 	320 	45 	620 	2645 	998 	317 	263 	1,5 	316 	268 	1,5
+81156 	10,5 kg 	280 	350 	53 	862 	3649 	917 	347 	283 	1,5 	346 	288 	1,5
+81160 	16,5 kg 	300 	380 	62 	1050 	4458 	864 	376 	304 	2 	373 	315 	2
+81164 	18,0 kg 	320 	400 	63 	1100 	4755 	813 	396 	324 	2 	394 	334 	2
+81168 	19,5 kg 	340 	420 	64 	1200 	4900 	775 	416 	344 	2 	414 	354 	2
+81172 	21,2 kg 	360 	440 	65 	1250 	4950 	730 	436 	364 	2 	434 	374 	2
+81176 	22,0 kg 	380 	460 	65 	1300 	5300 	721 	456 	384 	2 	453 	393 	2
+81180 	23,0 kg 	400 	480 	65 	1300 	5600 	692 	476 	404 	2 	473 	413 	2
+81184 	24,0 kg 	420 	500 	65 	1310 	5850 	645 	495 	424 	2 	493 	433 	2
+81188 	39,5 kg 	440 	540 	80 	1430 	8000 	615 	535 	444 	2,1 	533 	459 	2
+81192 	41,0 kg 	460 	560 	80 	1460 	8500 	576 	555 	464 	2,1 	553 	479 	2
+81196 	43,0 kg 	480 	580 	80 	1460 	8650 	570 	575 	484 	2,1 	573 	500 	2
+811/500 	44,0 kg 	500 	600 	80 	1560 	9300 	505 	595 	505 	2,1 	592 	519 	2
+811/530 	55,5 kg 	530 	640 	85 	1730 	10600 	475 	635 	535 	3 	632 	554 	2,5
+811/560 	58,0 kg 	560 	670 	85 	1760 	11100 	460 	665 	565 	3 	662 	584 	2,5
+811/600 	62,0 kg 	600 	710 	85 	1800 	11600 	450 	705 	605 	3 	702 	624 	2,5
+811/630 	80,0 kg 	630 	750 	95 	2160 	13700 	430 	746 	634 	3 	732 	650 	2,5
+811/670 	104 kg 	670 	800 	105 	2550 	16300 	405 	795 	675 	4 	777 	693 	3
+811/710 	127 kg 	710 	850 	112 	2900 	18300 	385 	845 	715 	4 	825 	735 	3
+811/750 	155 kg 	750 	900 	120 	3250 	21200 	350 	895 	755 	4 	873 	777 	3
+811/800 	165 kg 	800 	950 	120 	3450 	22000 	330 	945 	805 	4 	923 	827 	3
+811/850 	170 kg 	850 	1000 	120 	3450 	23200 	315 	995 	855 	4 	973 	877 	3
+811/900 	210 kg 	900 	1060 	130 	4000 	27000 	295 	1054 	906 	5 	1032 	928 	4
+811/950 	250 kg 	950 	1120 	135 	4400 	30000 	285 	1114 	956 	5 	1089 	981 	4
+811/1000 	285 kg 	1000 	1180 	140 	4750 	32500 	270 	1174 	1006 	5 	1146 	1034 	4
+811/1060 	346 kg 	1060 	1250 	150 	5300 	36500 	255 	1244 	1066 	5 	1215 	1095 	4
+811/1120 	410 kg 	1120 	1320 	160 	6000 	41500 	240 	1314 	1126 	5 	1284 	1156 	4
+w w w. a p b - b e a r i n g s . c o m
+vergrössert / detail
+
+-- 31 of 36 --
+- komplette einheit bestehend aus einem axial zylinderrollenkranz (K), einer
+gehäusescheibe (GS) und einer wellenscheibe (WS) /
+complete unit consisting of an axial cylindrical roller cage (K),
+a housing washer (GS) and a shaft washer (WS)
+- entsprechen ISO104, DIN 722 / corresponding to ISO 104, DIN 722
+- käfig materialien: polyamid, stahl oder messing /
+cage materials: polyamide, steel or brass
+- sonderabmessungen auf anfrage lieferbar /
+special dimensions available upon request
+>> 	move 	on
+axial zylinderrollenlager >>>
+axial cylindrical roller bearings
+serie 812xx
+32
+
+-- 32 of 36 --
+
+abmessungen /
+dimensions (mm)
+bezeichnung 	gewicht
+designation 	mass 	d 	D 	T
+1201070024d
+d
+1 	D
+1
+da
+min
+r1,2
+min
+d a
+max
+ra
+max
+tragzahlen /
+load rating
+grenzdrehzahl
+reference speed
+nG min-1
+abmessungen /
+dimensions (mm)
+anschlussmaße /
+abutment dimensions
+81220 	2,35 kg 	100 	150 	38 	344 	1090 	2340 	150 	103 	1,1 	142 	107 	1
+81222 	2,45 kg 	110 	160 	38 	330 	1040 	2170 	160 	113 	1,1 	152 	117 	1
+81224 	2,70 kg 	120 	170 	39 	345 	1125 	2010 	170 	123 	1,1 	162 	127 	1
+81226 	4,20 kg 	130 	190 	45 	491 	1510 	1830 	187 	133 	1,5 	181 	137 	1,5
+81228 	5,07 kg 	140 	200 	46 	492 	1470 	1720 	197 	143 	1,5 	191 	147 	1,
+81230 	7,10 kg 	150 	215 	50 	589 	1943 	1610 	212 	153 	1,5 	211 	158 	1,5
+81232 	7,60 kg 	160 	225 	51 	604 	2036 	1540 	222 	163 	1,5 	220 	168 	1,5
+81234 	9,3 kg 	170 	240 	55 	685 	2342 	1420 	237 	173 	1,5 	235 	180 	1,5
+81236 	9,9 kg 	180 	250 	56 	689 	2443 	1380 	247 	183 	1,5 	245 	190 	1,5
+81238 	12,8 kg 	190 	270 	62 	885 	3010 	1270 	267 	194 	2 	265 	200 	2
+81240 	14,2 kg 	200 	280 	62 	894 	3158 	1230 	277 	204 	2 	275 	210 	2
+81244 	15,3 kg 	220 	300 	63 	937 	3460 	1140 	297 	224 	2 	296 	230 	2
+81248 	26,2 kg 	240 	340 	78 	1375 	5010 	1030 	335 	244 	2,1 	335 	261 	2
+81252 	28,6 kg 	260 	360 	79 	1438 	5386 	970 	355 	264 	2,1 	353 	280 	2
+81256 	31 kg 	280 	380 	80 	1465 	5615 	910 	375 	284 	2 	373 	300 	2
+81260 	48,2 kg 	300 	420 	95 	1620 	7200 	830 	415 	304 	3 	413 	328 	2,5
+81264 	50,1 kg 	320 	440 	95 	1650 	7530 	705 	435 	325 	3 	434 	348 	2,5
+81268 	55,3 kg 	340 	460 	96 	1725 	8165 	693 	455 	345 	3 	452 	367 	2,5
+81272 	68,7 kg 	340 	500 	110 	2255 	10525 	660 	495 	365 	4 	492 	393 	3
+81276 	73,3 kg 	380 	520 	112 	2340 	10935 	640 	515 	385 	4 	511 	413 	3
+81280 	76,6 kg 	400 	540 	112 	2395 	11520 	610 	535 	405 	4 	531 	433 	3
+81284 	109 kg 	420 	580 	130 	2990 	14030 	581 	575 	425 	5 	571 	459 	4
+81288 	113 kg 	440 	600 	130 	3048 	14865 	550 	595 	445 	5 	591 	479 	4
+81292 	118 kg 	460 	620 	130 	3205 	15410 	521 	615 	465 	5 	611 	499 	4
+81296 	135 kg 	480 	650 	135 	3509 	17250 	495 	645 	485 	5 	641 	520 	4
+812/500 	140 kg 	500 	670 	135 	3601 	17940 	487 	665 	505 	5 	661 	540 	4
+812/530 	163 kg 	530 	710 	140 	4080 	20700 	470 	705 	535 	5 	701 	572 	4
+812/560 	196 kg 	560 	750 	150 	4140 	21390 	440 	745 	565 	5 	741 	611 	4
+812/600 	236 kg 	600 	800 	160 	4657 	24380 	415 	795 	605 	5 	789 	651 	4
+812/630 	302 kg 	630 	850 	175 	5235 	27600 	395 	842 	638 	6 	808 	672 	5
+812/670 	342 kg 	670 	900 	180 	6210 	32200 	374 	892 	678 	6 	860 	710 	5
+812/710 	402 kg 	710 	950 	190 	6440 	35075 	352 	942 	718 	6 	905 	855 	5
+812/750 	452 kg 	750 	1000 	195 	7245 	39675 	330 	992 	758 	6 	955 	795 	5
+812/800 	525 kg 	800 	1060 	205 	8165 	44850 	308 	1050 	810 	7,5 	1015 	845 	6
+812/850 	595 kg 	850 	1120 	212 	8970 	50600 	286 	1110 	860 	7,5 	1075 	895 	6
+812/900 	680 kg 	900 	1180 	220 	9200 	52325 	265 	1170 	910 	7,5 	1130 	950 	6
+812/950 	826 kg 	950 	1250 	236 	10925 	62100 	260 	1240 	960 	7,5 	1200 	1000 	6
+812/1000 	990 kg 	1000 	1320 	250 	11098 	64400 	259 	1308 	1012 	9,5 	1260 	1060 	8
+812/1060 	1180 kg 	1060 	1400 	265 	13110 	75325 	241 	1388 	1972 	9,5 	1340 	1120 	8
+dyn. Ca
+kN
+stat. C0r
+kN
+w w w. a p b - b e a r i n g s . c o m
+vergrössert / detail
+
+-- 33 of 36 --
+
+sonderlösungen
+special solutions
+w w w . a p b - b e a r i n g s . c o m
+die APB fertigt für ihre kunden sämtliche versio-
+nen von vollrolligen zylinderrollenlagern auch in
+sonderausführungen.
+APB produces numerous versions of special
+designed full complement cylindrical roller
+bearings.
+folgende abänderungen sind möglich / following
+modifications are possible.
+- veränderung der lagerluftklasse
+(zB. C2, C4, C5, etc...)
+change of clearance class
+(f.e. C2, C4, C5, etc...)
+- wärmestabilisierung des materials (S00-S4)
+thermal stabilization of material (S00-S4)
+- sonderbefettung für zb. hohe/tiefe
+temperaturen, aggressive umwelteinflüsse, etc.
+special greasing for f.e. high / low temperatures,
+aggressive environment applications
+- korrosionsschutz durch chromatieren
+oder brünieren / protection against corrosion
+through chromating or burnishing
+- veränderung von laufgenauigkeiten,
+toleranzen, etc...
+change of running accurancy, tolerances, etc.
+- komplette neukonstruktion - produktion von
+zeichnungeslagern / design of new
+constructions - production of tailor made
+bearings
+haben sie anfragen zu sonderlagern, bzw. zu son-
+derausführungen, welche hier nicht erwähnt wer-
+den, zögern sie bitte nicht, uns zu kontaktieren.
+If you have demands on special bearings, resp. on
+special designs, which are not listed, please do not
+hesitate to contact us.
+
+-- 34 of 36 --
+
+aus erfahrung bestens gerüstet für die zukunft
+based on experience - ready for the future
+w w w . a p b - b e a r i n g s . c o m
+hhaannddeellssüübblliicchhee bbeezz.. 	AAPPBB
+SL01 xxxx 	NNC xxxxV
+SL01 48xx 	NNC 48xxV
+SL01 49xx 	NNC 49xxV
+SL02 xxxx 	NNCL xxxxV
+SL02 48xx 	NNCL 48xxV
+SL02 49xx 	NNCL 49xxV
+SL04 xxxx PP 	NNF xxxx A 2LS V
+SL04 1xx PP 	NNF 1xx A 2LS V
+SL04 2xx PP 	NNF 2xx A 2LS V
+SL04 50xx PP 	NNF 50xx A 2LS V
+SL18 xxxx 	NCF xxxx V
+SL18 18xx 	NCF 18xx V
+SL18 22xx 	NCF 22xx V
+SL18 29xx 	NCF 29xx V
+SL18 30xx 	NCF 30xx V
+SL18 50xx 	NNCF 50xx V
+SL1923xx 	NJG 23xx V
+umschlüsselung / interchange table
+präzisionslager und kombinierte lager
+(AXZN, AXZF, AXSN, AXSF, AXRY...)
+axialzylinderrollenlager (811, 812,...)
+stützrollen (NNTR) , spezielle ausführungen
+grossringlager bis D > 2000 mm
+zeichnungslager, vom einzelstück bis zur serie
+integrierte lösungen + komponenten
+dreh- & schleifteile (innenringe / laufringe etc.)
+more APB products
+precision bearing, combined bearings
+(AXZN, AXZF, AXSN, AXSF, AXRY...)
+thrust cylindrical roller bearings (811.., 812.., …)
+back up roller bearings (NNTR) specialized designs
+large size bearings (up to outer diameter >2000 mm)
+tailor made bearings (according to drawings),
+from single piece to large series
+integrated solutions + components
+turning- & grinding parts (inner rings, ball race rings)
+präzisionlager / precision bearings
+weitere APB produkte
+ssoonnddeerraauussffüühhrruunnggeenn aauuff aannffrraaggee // aavvaaiillaabbllee uuppoonn rreeqquueesstt
+ccoommmmoonn ddeessiiggnnaattiioonn
+
+-- 35 of 36 --
+
+w w w . a p b - b e a r i n g s . c o m
+t e c h n i s c h e r h a n d e l b r u m m e r
+langwieserstr. 134 - 4802 ebensee
+tel.: +43 6133 5016-0 - fax.: +14
+o f f i c e @ t h b . a t - w w w. t h b . a t
+APB ist eine marke der thb gmbh / APB is a brand owned by thb gmbh
+
+-- 36 of 36 --

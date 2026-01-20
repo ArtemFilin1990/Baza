@@ -1,0 +1,25 @@
+# FastAPI и зависимости
+fastapi==0.109.1
+uvicorn[standard]==0.27.0
+pydantic==2.5.3
+pydantic-settings==2.1.0
+
+# База данных
+asyncpg==0.29.0
+sqlalchemy==2.0.25
+
+# Утилиты
+python-multipart==0.0.18
+python-dotenv==1.0.0
+
+# Тестирование
+pytest==7.4.4
+pytest-asyncio==0.23.3
+httpx==0.26.0
+
+# Дополнительно
+aiofiles==23.2.1
+pandas==2.1.4
+openpyxl==3.1.2
+
+# Placeholder - будет дополнено из bearing-api/requirements.txt

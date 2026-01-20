@@ -1,0 +1,28150 @@
+# Каталог подшипников ISB.
+
+**Language:** английский, итальянский о производителе ...
+
+**Size:** 3,5Mb
+
+**Source:** [PDF]()
+
+---
+
+## Content
+
+CATALOGO TECNICO GENERALE
+GENERAL TECHNICAL CATALOGUE
+1.1.08
+CUSCINETTI
+BEARINGS
+®
+
+-- 1 of 146 --
+
+
+
+-- 2 of 146 --
+
+CATALOGO TECNICO GENERALE
+GENERAL TECHNICAL CATALOGUE
+®
+
+-- 3 of 146 --
+
+INDICE
+1 	Classificazione dei cuscinetti .........................................pag. 	I
+1.1 	Scelta del cuscinetto.......................................................pag. 	II
+2 	Coefficiente di carico dinamico .....................................pag. 	III
+2.1 	Coefficiente di carico statico .........................................pag. 	IV
+3 	Durata dei cuscinetti.......................................................pag. 	V
+4 	Limite di velocità ............................................................pag. 	X
+5 	Tolleranze dei cuscinetti.................................................pag. 	XII
+5.1 	Tavole tolleranze cuscinetti ............................................pag. 	XIII
+6 	Giuoco dei cuscinetti......................................................pag. 	XVIII
+6.1 	Tavole giuoco cuscinetti .................................................pag. 	XIX
+7 	Tavole dimensioni raccordo (smusso) ............................pag. 	XXIII
+8 	Lubrificazione ................................................................pag. 	XXV
+9 	Materiale utilizzato per la costruzione dei cuscinetti ......pag. XXVII
+10 	Confezioni - imballi ........................................................pag. XXIX
+11 	Suffissi dei cuscinetti ......................................................pag. XXX
+INDEX
+1 	Classification of bearings ...............................................pag. 	I
+1.1 	Bearing choice ...............................................................pag. 	II
+2 	Dinamic load rating of bearings ....................................pag. 	III
+2.1 	Static load rating of bearings .........................................pag. 	IV
+3 	Bearings life ...................................................................pag. 	V
+4 	Speed limit .....................................................................pag. 	X
+5 	Bearings tolerances........................................................pag. 	XII
+5.1 	Tolerances tables of bearing ..........................................pag. 	XIII
+6 	Radial clearance.............................................................pag. 	XVIII
+6.1 	Clearance tables of bearing ...........................................pag. 	XIX
+7 	Chamfer (radius) tables .................................................pag. 	XXIII
+8 	Lubrication .....................................................................pag. 	XXV
+9 	Bearings material ...........................................................pag. XXVII
+10 	Packing ..........................................................................pag. XXIX
+11 	Bearings suffix................................................................pag. XXX
+
+-- 4 of 146 --
+
+1 Classificazione dei cuscinetti
+Firstly it is very important to stress the
+difference between rolling bearings
+and friction bearings.
+It this catalogue, we only deal in rolling
+bearings.
+It is normal way to subdivide bearings
+in 2 categories:
+– radial bearings
+– axial bearings.
+In the second place, radial bearings
+are subdivided in:
+– radial ball bearings
+– radial roller bearings.
+To axial category belong the following:
+– thrust ball bearings
+– thrust roller bearings.
+All bearings are formed by a series of
+roller or balls, by an outer or lower
+ring and by an inner or higher ring:
+onto these elements, in the majority of
+cases, racing lines are outlined.
+Radial ball bearings can be:
+– deep groove ball bearings, single or
+double row
+– self aligning ball bearings, double
+row.
+Radial roller bearings can be:
+– cylindrical or conical roller bearings
+– self-aligning, barrel bearings.
+Axial bearings can be:
+– single row ball bearings
+– single row tapered roller bearings.
+La prima grande distinzione che si
+deve fare è tra i cuscinetti volventi ed
+i cuscinetti striscianti.
+In questo catalogo tretteremo solo i
+cuscinetti volventi od a rotolamento.
+I cuscinetti si dividono principalmente
+in due grandi categorie:
+– cuscinetti radiali
+– cuscinetti assiali.
+La suddivisione generica all'interno
+della prima categoria è la seguente:
+– cuscinetti radiali a sfere
+– cuscinetti radiali a rulli.
+Alla seconda categoria appartengono
+i:
+– cuscinetti reggispinta a sfere
+– cuscinetti reggispinta a rulli.
+Praticamente tutti i cuscinetti sono
+costituiti, da una serie di corpi volventi,
+da un anello esterno o inferiore e da
+un anello interno o superiore sui quali,
+nella maggior parte dei casi, sono
+ricavate delle piste che guidano i corpi
+volventi.
+I cuscinetti radiali a sfere possono
+essere:
+– rigidi - ad una corona di sfere e a
+due corone di sfere
+– orientabili - a due corone di sfere.
+I cuscinetti radiali a rulli possono
+essere:
+– rigidi - a rulli cilindrici o a rulli conici
+– oscillanti - a rulli a botte.
+I cuscinetti assiali possono essere:
+– ad una corona di sfere
+– ad una corona di rulli conici.
+1 Classification of bearings
+I
+
+-- 5 of 146 --
+
+1.1 Scelta del cuscinetto
+La scelta del cuscinetto è dettata
+principalmente dalle caratteristiche
+di dimensione e di carico a cui il
+cuscinetto è soggetto. Le dimensioni
+ed il carico sono spesso vincolate al
+progetto della macchina nel suo
+insieme e conseguentemente in molti
+casi la scelta è limitata a ristrette
+tipologie.
+Non esistono regole o tabelle precise,
+ma normalmente il cuscinetto a sfere
+sopporta velocità elevate e carichi
+ridotti, mentre il cuscinetto a rulli
+sopporta carichi più elevati ma velocità
+inferiori.
+I limiti di velocità di un cuscinetto
+volvente sono determinati dalla
+temperatura di funzionamento.
+Nella scelta del cuscinetto è
+importante conoscere e considerare i
+seguenti parametri:
+– Gravosità di esercizio
+– Esigenze di durata della macchina
+– Limiti di ingombro del cuscinetto
+– Fattori negativi (vibrazioni, urti,
+calore, sporcizia, rumore accettabile,
+ecc.).
+Scelta delle dimensioni dei
+cuscinetti.
+Le dimensioni di un cuscinetto
+vengono scelte considerando le
+condizioni di carico alle quali verranno
+sottoposti, la durata nominale di
+esercizio ed i prescritti parametri di
+sicurezza d'esercizio.
+Loads and dimensions are the most
+important factors during the choice of
+a bearing.
+These two components are, in the
+majority of cases, bound to the
+machinery's project: the choice is
+therefore restricted to limited cases.
+Rules or exact tables do not exist,
+usually a ball bearing bears high
+speeds and low loads, whereas a roller
+bearing stands lower speeds and
+higher loads.
+Speed limits of a bearing are
+determined by working temperature.
+During the choice of it, the following
+rules have to be followed:
+– Gravity of operation
+– Machinery's duration
+– Encumbrance limit of the bearing
+– Negative factors, such as: vibration,
+collision, heat, dirt, acceptable noise
+and so on.
+Selection of bearing size.
+The size of a bearing is selected by
+considering different factors, such as
+its supposed operational life, loads to
+which it is subjected and prescribed
+operating safety.
+1.1 Choice of a bearing
+II
+
+-- 6 of 146 --
+
+2 Coefficiente di carico
+dinamico di riferimento
+Per calcolare le dimensioni dei
+cuscinetti volventi viene adottato il
+coefficiente di classificazione del
+carico dinamico di riferimento C. Tale
+parametro esprime il carico massimo
+ammissibile del cuscinetto atto a
+fornire una durata a fatica nominale
+pari ad 1.000.000 di giri.
+I coefficienti di carico dinamico di
+riferimento dei cuscinetti ISB sono stati
+determinati in conformità alle norme
+ISO 281.
+Tenendo in considerazione i
+coefficienti di carico dinamico di
+riferimento, viene calcolato il tempo
+di servizio necessario alla comparsa
+di segni di fatica dei materiali,
+determinando su tale base la durata
+teorica.
+In caso di basse velocità di
+rotolamento, di ridotti movimenti
+oscillanti o nelle applicazioni
+stazionarie, viene tenuto in
+considerazione il coefficiente di carico
+statico di riferimento CO.
+Il coefficiente di carico statico di
+riferimento viene definito come il
+carico esplicantesi sul cuscinetto
+stazionario. Corrisponde ad una
+sollecitazione di contatto calcolata tra
+il corpo volvente maggiormente
+caricato e la pista di rotolamento, pari
+a:
+– 4600 N/mm2 per i cuscinetti radiali
+orientabili a sfere.
+– 4200 N/mm2 per gli altri cuscinetti a
+sfere.
+– 4000 N/mm2 per tutti i cuscinetti a
+rulli.
+Tale sollecitazione induce ad una
+deformazione permanente del corpo
+volvente e della pista di rotolomanto,
+pari a circa 1/10000 (0,0001 dw) del
+diametro del corpo volvente. I carichi
+sono di tipo semplice e radiali, per i
+cuscinetti radiali, e di tipo semplice e
+assiali, per i cuscinetti assiali.
+2 Basic load ratings
+To calculate bearings dimensions, the
+basic dynamic load rating "C" is used;
+this factor expresses the admissable
+load suitable to give a basic rating life
+up to 1.000.000 revolutions.
+Basic dynamic and static loads rating
+for ISB bearings have been
+determined in accordance with
+standard ISO 281.
+Considering the basic dynamic load
+rating, is calculated the service time
+until the fatigue of the materials
+appears, determining in this way the
+calculated rating life.
+In the case of low speeds, low
+oscillating movements or stationary
+applications, " CO" basic static load
+rating is considered.
+The basic static load rating is defined
+as the load acting on the stationary
+bearing.
+It corresponds to a calulated contact
+stress between the most heavily
+loaded rolling elements and the
+raceway of:
+– 4600 N/mm2 for self-aligning ball
+bearings.
+– 4200 N/mm2 for all other ball
+bearings.
+– 4000 N/mm2 for all roller bearings.
+This stress produces a permanent
+deformation of both rolling elements
+and raceway, deformation which is
+about 1/10000 (O,0001 dw) of the
+rolling element diameter.
+Loads are pure radial for radial
+bearings and pure axial for thrust
+bearings.
+2.1 Static load rating bearings
+When the bearing is stationary or
+rotates at very slow movements or
+speeds (lower than 10 r/min), basic
+static load is not determined by the
+material fatigue but by permanent
+deformation caused at the rolling
+elements and the raceway contact.
+III
+
+-- 7 of 146 --
+
+2.1 Coefficiente di carico
+statico
+Quando il cuscinetto è stazionario o
+sottoposto a rotazioni o oscillazioni
+particolarmente lente (inferiori a 10
+giri/minuto), il coefficiente di carico
+statico non verrà determinato in
+fuzione alla fatica del materiale, ma in
+base alla deformazione permanente
+indotta in corrispondenza del punto
+di contatto tra il corpo volvente e la
+pista di rotolamento.
+Questo vale anche per i cuscinetti
+volventi sottoposti ad ingenti carichi
+d'urto che si esplichino nel corso di
+un frazione di giro.
+In genere, il valore di carico potrà
+aumentare sino ad equivalere al
+coefficiente di carico statico CO senza
+alterare le caratteristiche operative
+del cuscinetto.
+Si dovrà convertire in carico statico
+equivalente il carico statico combinato
+(carico radiale ed assiale agenti
+simultaneamente). Questo viene
+definito come il carico (radiale per i
+cuscinetti radiali e assiale per i
+cuscinetti assiali) che, se applicato,
+causerebbe nel cuscinetto la stessa
+deformazione permanente inducibile
+da reali condizioni di carico.
+Il carico statico equivalente viene dato
+dalla formula:
+P O = XO Fr + YO Fa, N
+dove:
+P O - consiste nel carico statico
+equivalente, espresso in N;
+Fr - rappresenta la componente radiale
+del carico statico di entità maggiore,
+espressa in N;
+Fa - rappresenta la componente assiale
+del carico statico di entità maggiore,
+espressa in N;
+XO - rappresenta il fattore di carico
+radiale;
+YO - rappresenta il fattore di carico
+assiale.
+The same rule is used for rotating
+bearings standing heavy shock loads
+which act during a fraction of their
+revolution.
+Generally, the value of the load may
+increase up to the value of the basic
+static load CO, without altering the
+bearing operation properties.
+Combined static load (radial and axial
+load acting together on bearing) must
+be converted in quivalent static
+bearing load.
+This is defined as the load (radial for
+radial bearings and axial for thrust
+bearings), which if applied would
+cause the same permanent
+deformation as the real load operating
+upon the bearing.
+P O = XO Fr + YO Fa, N
+where:
+PO - is the equivalent static bearing
+load, N;
+F r - is the radial component of the
+heaviest static load, N;
+F a - is the axial component of the
+heaviest static load, N;
+X O - is the radial load factor of the
+bearing;
+Y O - is the axial load factor of the
+bearing.
+3 Bearing life
+The life of a bearing can be cosidered
+as the number of the revolutions or the
+number of operating hours, that the
+bearing is able to endure before the
+first sign of fatigue appears on one of
+its ring, on the raceway, on the rolling
+elements.
+If we want to consider only the fatigue
+on the bearing operating surfaces, the
+following conditions have to be
+observed:
+a) Forces and loads considered when
+evaluating the bearing, should
+correspond to the real operating
+conditions.
+b) Proper lubrication should be
+IV
+
+-- 8 of 146 --
+
+3 Durata dei cuscinetti
+La durata dei cuscinetti volventi viene
+definita come il numero di giri, o di
+ore di funzionamento, che il cuscinetto
+è in grado di sopportare prima che
+compaiano i primi segni di fatica su
+uno dei suoi anelli, o sulla pista di
+rotolamento o sugli elementi volventi.
+Ove si voglia tenere in considerazione
+solamente la fatica nelle superfici di
+lavoro del cuscinetto, si dovranno
+osservare le seguenti condizioni:
+a. Le forze e le velocità tenute in
+considerazione per la valutazione del
+cuscinetto dovranno corrispondere a
+quelle esplicantesi alle reali condizioni
+di esercizio.
+b. durante l'intero periodo di esercizio
+dovrà essere assicurata un'adeguata
+lubrificazione.
+c. L'esperienza dimostra come il
+cedimento di molti cuscinetti sia da
+attribuirsi a cause diverse dalla fatica,
+quali: scelta di un cuscinetto di tipo
+inadeguato, difetti di funzionamento o
+di lubrificazione, presenza di particelle
+estranee nel cuscinetto, od altro.
+Durata a fatica nominale
+La durata a fatica nominale di un
+singolo cuscinetto, o di una
+campionatura di cuscinetti identici e
+operanti a identiche condizioni di
+esercizio, consiste nella durata di
+esercizio pari almeno ad un grado di
+affidabilità del 90%.
+La durata media di un gruppo di
+cuscinetti è di molto superiore alla
+durata nominale.
+La durata a fatica nominale è espressa
+con L10 (milioni di giri) o L10h (ore di
+esercizio).
+Il valore L10 potrà essere calcolato
+avvalendosi dell'equazione:
+L10 =
+dove:
+L10 - corrispondente alla durata a fatica
+C
+P	( )p
+assured during the entire operating
+period.
+c) Experience showes that the failure
+of many bearings does not depend
+only on fatigue, there are other factors
+besides this such as: selection of an
+inadequate bearing type, improper
+operation or lubrication, outer particles
+in bearings etc.
+Basic rating life
+The basic rating life of a single bearing
+or of a group of identical bearings
+operating under the same conditions,
+is the life corresponding to a reliability
+of 90%.
+The average life of a group of bearings
+is higher than the basic rating life.
+Basic rating life is marked with L10
+(millions of revolutions) or with L10h
+(operating hours).
+L10 can be calculate using the equation
+L10=
+where:
+L10 - is the basic rating life, in millions
+of revolution.
+C - is the basic dynamic load, N
+P - is the equivalent dynamic bearing
+load, N
+p - is the exponent of the life equation
+with the following values
+P3 for ball bearings
+P-10/3 for roller bearings
+For bearings operating hours, can be
+calculated using the equation:
+L 10h=
+where:
+n - is the rotation speed, expresses in
+rotations per minutes.
+Values of the basic rating life L10
+(millions of revolutions) as a function of
+the ratio C/P, can be found in table 2.
+Values of the basic rating life L10h
+(operating hours) as a function of the
+C
+P	( )p
+1.000.000
+n•60
+C
+P	( )p
+V
+
+-- 9 of 146 --
+
+nominale, espressa in milioni di giri;
+C- corrispondente al carico dinamico
+del cuscinetto, espresso in N;
+P - corrispondente al carico dinamico
+equivalente sul cuscinetto, espresso in
+N;
+p - corrispondente all'esponente di
+durata dell'equazione, con i seguenti
+valori:
+P = 3 per i cuscinetti asfere.
+p = 10/3 per i cuscinetti a rulli
+Per i cuscinetti che operino a velocità
+costante, la durata a fatica nominale,
+espressa in ore di funzionamento, potrà
+essere calcolata con la presente
+equazione:
+L10h =
+dove:
+n. corrispondente alla velocità rotativa,
+espressa in giri/minuto.
+La tabella 1 riporta i valori relativi alla
+durata a fatica nominale L10 (in milioni
+di giri) in fuzione al rapporto C/P.
+Le tabella 1.1 e 1.2 riportano,
+rispettivamente per i cuscinetti a sfere
+e per i cuscinetti a rulli, i valori relativi
+alla durata a fatica nominale L10h (in
+ore di esercizio), in funzione al
+rapporto C/P ed alla velocità.
+Nella determinazione delle dimensioni
+del cuscinetto è necesario basare i
+calcoli sulla durata a fatica nominale
+corrispondente all'effettivo impiego.
+Di solito questo dipende dal tipo di
+macchina, dalla durata richiesta e dai
+requisiti inerenti la sicurezza di
+funzionamento.
+ratio C/P and speed can be found in
+table 2.2 for ball bearings and 2.3 for
+roller bearing.
+To determinate bearing size it is
+necessary to base the calculations on
+the rating life corresponding to the
+purpose of operation.
+Usually this depends on type of
+machinery, on the service life and on
+the requirements regarding
+operational safety.
+1.000.000
+n•60
+C
+P	( )p
+VI
+
+-- 10 of 146 --
+
+Rapporto di carico C/P per durata L 10h in milioni di giri
+Load ratio C/P for various lifes values L 10h (milions of revolutions)
+L10h 	Ball
+bearings Roller
+bearings
+0,5
+0,75
+1
+1,5
+2
+3
+4
+5
+6
+8
+10
+12
+14
+16
+18
+20
+25
+30
+35
+40
+45
+50
+60
+70
+80
+90
+100
+120
+140
+160
+180
+200
+220
+240
+260
+280
+300
+320
+340
+360
+380
+400
+420
+440
+460
+480
+500
+550
+0,793
+0,909
+1
+1,14
+1,26
+1,44
+1,59
+1,71
+1,82
+2
+2,15
+2,29
+2,41
+2,52
+2,62
+2,71
+2,92
+3,11
+3,27
+3,42
+3,56
+3,68
+3,91
+4,12
+4,31
+4,48
+4,64
+4,93
+5,19
+5,43
+5,65
+5,85
+6,04
+6,21
+6,38
+6,54
+6,69
+6,84
+6,98
+7,11
+7,24
+7,37
+7,49
+7,61
+7,72
+7,83
+7,94
+8,19
+0,812
+0.917
+1
+1,13
+1,24
+1,39
+1,52
+1,62
+1,71
+1,87
+2
+2,11
+2,21
+2,3
+2,38
+2,46
+2,63
+2,77
+2,91
+3,02
+3,13
+3,23
+3,42
+3,58
+3,72
+3,86
+3,98
+4,2
+4,4
+4,58
+4,75
+4,9
+5,04
+5,18
+5,3
+5,42
+5,54
+5,64
+5,75
+5,85
+5,94
+6,03
+6,12
+6,21
+6,29
+6,37
+6,45
+6,64
+C/P 	L10h 	Ball
+bearings Roller
+bearings
+C/P
+600
+650
+700
+750
+800
+850
+900
+950
+1 000
+1 100
+1 200
+1 300
+1 400
+1 500
+1 600
+1 700
+1 800
+1 900
+2 000
+2 200
+2 400
+2 600
+2 800
+3 000
+3 200
+3 400
+3 600
+3 800
+4 000
+4 500
+5 000
+5 500
+6 000
+6 500
+7 000
+7 500
+8 000
+8 500
+9 000
+9 500
+10 000
+12 000
+14 000
+16 000
+18 000
+20 000
+25 000
+30 000
+8,43
+8,66
+8,88
+9,09
+9,28
+9,47
+9,65
+9,83
+10
+10,3
+10,6
+10,9
+11,2
+11,4
+11,7
+11,9
+12,2
+12,4
+12,6
+13
+13,4
+13,8
+14,1
+14,4
+14,7
+15
+15,3
+15,6
+15,9
+16,5
+17,1
+17,7
+18,2
+18,7
+19,1
+19,6
+20
+20,4
+20,6
+21,2
+21,5
+22,9
+24,1
+25,2
+26,2
+27,1
+29,2
+31,1
+6,81
+6,98
+7,14
+7,29
+7,43
+7,56
+7,7
+7,82
+7,94
+8,17
+8,39
+8,59
+8,79
+8,97
+9,15
+9,31
+9,48
+9,63
+9,78
+10,1
+10,3
+10,6
+10,8
+11
+11,3
+11,5
+11,7
+11,9
+12
+12,5
+12,9
+13,2
+13,6
+13,9
+14,2
+14,5
+14,8
+15,1
+15,4
+15,6
+15,8
+16,7
+17,5
+18,2
+18,9
+19,5
+20,9
+22
+VII
+1-
+
+-- 11 of 146 --
+
+Cuscinetti a sfere - rapporto di carico C/P per durata L10h in ore a diverse velocità (giri/min)
+Ball bearing - load ratio C/P for various basic rating lives L10h (operating hours) at variuous speed n (r/min)
+L10h 	C/P
+when n=
+50 	100 	200 	300 	500 	1 000 	1 500
+100
+500
+1 000
+1 250
+1 600
+2 000
+2 500
+3 200
+4 000
+5 000
+6 300
+8 000
+10 000
+12 500
+16 000
+20 000
+25 000
+32 000
+40 000
+50 000
+63 000
+80 000
+100 000
+200 000
+0,67
+1,14
+1,44
+1,55
+1,69
+1,82
+1,96
+2,13
+2,29
+2,47
+2,66
+2,88
+3,11
+3,35
+3,63
+3,91
+4,22
+4,58
+4,93
+5,31
+5,74
+6,21
+6,69
+8,43
+0,84
+1,44
+1,82
+1,96
+2,13
+2,29
+2,47
+2,68
+2,88
+3,11
+3,36
+3,63
+3,91
+4,22
+4,58
+4,93
+5,31
+5,77
+6,21
+6,69
+7,23
+7,83
+8,43
+10,6
+1,06
+1,82
+2,29
+2,47
+2,68
+2,88
+3,11
+3,37
+3,63
+3,91
+4,23
+4,58
+4,93
+5,31
+5,77
+6,21
+6,69
+7,27
+7,83
+8,43
+9,11
+9,88
+10,6
+13,4
+1,22
+2,08
+2,62
+2,82
+3,07
+3,30
+3,56
+3,86
+4,16
+4,48
+4,84
+5,24
+5,65
+6,08
+4,60
+7,11
+7,66
+8,32
+9,86
+9,65
+10,4
+11,3
+12,2
+15,3
+1,44
+2,47
+3,11
+3,35
+3,63
+3,91
+4,22
+4,58
+4,93
+5,31
+5,74
+6,21
+6,69
+7,21
+7,83
+8,43
+9,09
+9,86
+10,6
+11,4
+12,4
+13,4
+14,4
+18,2
+1,82
+3,11
+3,21
+4,22
+4,58
+4,93
+5,31
+5,77
+6,21
+6,69
+7,23
+7,83
+8,43
+9,09
+9,80
+10,6
+11,4
+12,4
+13,4
+14,4
+15,6
+16,9
+18,2
+22,9
+2,06
+3,56
+4,48
+4,83
+5,24
+5,65
+6,08
+6,60
+7,11
+7,66
+8,28
+8,96
+9,65
+10,4
+11,3
+12,2
+13,1
+14,2
+15,3
+16,5
+17,8
+19,3
+20,8
+26,2
+L10h 	C/P
+when n=
+3 000 	4 000 	5 000 	8 000 	1 0000 	15 000
+100
+500
+1 000
+1 250
+1 600
+2 000
+2 500
+3 200
+4 000
+5 000
+6 300
+8 000
+10 000
+12 500
+16 000
+20 000
+25 000
+32 000
+40 000
+50 000
+63 000
+80 000
+100 000
+200 000
+2,29
+3,91
+4,93
+5,31
+5,77
+6,21
+6,69
+7,27
+7,83
+8,43
+9,11
+9,86
+10,6
+11,4
+12,4
+13,4
+14,4
+15,7
+16,9
+18,2
+19,6
+21,3
+22,9
+28,8
+2,62
+4,48
+5,65
+6,08
+6,60
+7,11
+7,66
+8,32
+8,96
+9,65
+10,4
+11,3
+12,2
+13,1
+14,2
+15,3
+16,5
+17,9
+19,3
+20,8
+22,5
+24,3
+26,2
+33,0
+2,88
+4,93
+6,21
+6,69
+7,27
+7,83
+8,43
+9,16
+9,86
+10,6
+11,5
+12,4
+13,4
+14,4
+15,7
+16,9
+18,2
+19,7
+21,3
+22,9
+24,7
+26,8
+28,8
+36,3
+3,11
+5,31
+6,69
+7,21
+7,83
+8,43
+9,09
+9,86
+10,6
+11,4
+12,4
+13,4
+14,4
+15,5
+16,9
+18,2
+19,6
+21,3
+22,9
+24,7
+26,6
+28,8
+31,3
+39,1
+3,63
+6,21
+7,83
+8,43
+9,16
+9,86
+10,6
+11,5
+12,4
+13,4
+14,5
+15,7
+16,9
+18,2
+19,7
+21,3
+22,9
+24,9
+26,8
+28,8
+31,2
+33,7
+36,3
+45,8
+3,91
+6,69
+8,43
+9,09
+9,86
+10,6
+11,4
+12,4
+13,4
+14,4
+15,6
+16,9
+18,2
+19,6
+21,3
+22,9
+24,7
+26,8
+28,8
+31,1
+33,6
+36,3
+39,1
+49,3
+4,48
+7,66
+9,65
+10,4
+11,3
+12,2
+13,1
+14,2
+15,3
+16,5
+17,8
+19,3
+20,8
+22,4
+24,3
+26,2
+28,2
+30,7
+33,0
+35,6
+38,4
+41,6
+44,8
+56,5
+20 000 	30 000
+4,93
+8,43
+10,6
+11,4
+12,4
+13,4
+14,4
+15,7
+16,9
+18,2
+19,6
+21,3
+22,9
+24,7
+26,8
+28,8
+31,1
+33,7
+36,3
+39,1
+42,3
+45,8
+49,3
+62,1
+5,65
+9,65
+12,2
+13,1
+14,2
+15,3
+16,5
+17,9
+19,3
+20,8
+22,5
+24,3
+26,2
+28,2
+30,7
+33,0
+35,6
+38,6
+41,6
+44,8
+48,4
+52,4
+56,5
+71,1
+VIII
+1.1-
+2 000
+
+-- 12 of 146 --
+
+Cuscinetti a rulli - rapporto di carico C/P per durata L10h in ore a diverse velocità (giri/min)
+Roller bearing - load ratio C/P for various basic rating lives L10h (operating hours) at variuous speed n (r/min)
+L10h 	C/P
+when n=
+50 	100 	200 	300 	500 	1 000 	1 500
+100
+500
+1 000
+1 250
+1 600
+2 000
+2 500
+3 200
+4 000
+5 000
+6 300
+8 000
+10 000
+12 500
+16 000
+20 000
+25 000
+32 000
+40 000
+50 000
+63 000
+80 000
+100 000
+200 000
+0,70
+1,13
+1,39
+1,49
+1,60
+1,71
+1,83
+1,97
+2,11
+2,25
+2,42
+2,59
+2,77
+2,97
+3,19
+3,42
+3,65
+3,93
+4,20
+4,50
+4,82
+5,18
+5,54
+6,81
+0,86
+1,39
+1,71
+1,83
+1,97
+2,11
+2,25
+2,43
+2,59
+2,77
+2,97
+3,19
+3,42
+3,65
+3,93
+4,20
+4,50
+4,84
+5,18
+5,54
+5,93
+6,37
+6,81
+8,39
+1,06
+1,71
+2,11
+2,25
+2,43
+2,59
+2,77
+2,99
+3,19
+3,42
+3,66
+3,93
+4,20
+4,50
+4,84
+5,18
+5,54
+5,96
+6,37
+6,81
+7,30
+7,85
+8,39
+10,3
+1,19
+1,93
+2,38
+2,54
+2,74
+2,93
+3,13
+3,37
+3,61
+3,86
+4,13
+4,44
+4,75
+5,06
+5,47
+5,85
+6,25
+6,73
+7,20
+7,70
+8,25
+8,86
+9,48
+11,7
+1,39
+2,25
+2,77
+2,97
+3,19
+3,42
+3,65
+3,93
+4,20
+4,50
+4,82
+5,18
+5,54
+5,92
+6,37
+6,81
+7,29
+7,85
+8,39
+8,97
+9,61
+10,3
+11,0
+13,6
+1,71
+2,77
+3,42
+3,65
+3,93
+4,20
+4,50
+4,84
+5,18
+5,54
+5,93
+6,37
+6,81
+7,29
+7,85
+8,39
+8,97
+9,66
+10,3
+11,0
+11,8
+12,7
+13,6
+16,7
+1,93
+3,13
+3,86
+4,12
+4,44
+4,75
+5,08
+5,47
+5,85
+6,25
+6,70
+7,20
+7,70
+8,23
+8,86
+9,48
+10,1
+10,9
+11,7
+12,5
+13,4
+14,4
+15,4
+18,9
+L10h 	C/P
+when n=
+3 000 	4 000 	5 000 	8 000 	1 0000 	15 000
+100
+500
+1 000
+1 250
+1 600
+2 000
+2 500
+3 200
+4 000
+5 000
+6 300
+8 000
+10 000
+12 500
+16 000
+20 000
+25 000
+32 000
+40 000
+50 000
+63 000
+80 000
+100 000
+200 000
+2,11
+3,42
+4,20
+4,50
+4,84
+5,18
+5,54
+5,96
+6,37
+6,81
+7,30
+7,85
+8,39
+8,97
+9,66
+10,3
+11,0
+11,9
+12,7
+13,6
+14,6
+15,7
+16,7
+20,6
+2,38
+3,86
+4,75
+5,08
+5,47
+5,85
+6,25
+6,73
+7,20
+7,70
+8,25
+8,86
+9,48
+10,1
+10,9
+11,7
+12,5
+13,4
+14,4
+15,4
+16,5
+17,7
+18,9
+23,3
+2,59
+4,20
+5,18
+5,54
+5,96
+6,37
+6,81
+7,34
+7,85
+8,39
+8,99
+9,66
+10,3
+11,0
+11,9
+12,7
+13,6
+14,6
+15,7
+16,7
+17,9
+19,3
+20,6
+25,4
+2,77
+4,50
+5,54
+5,92
+6,37
+6,81
+7,29
+7,85
+8,39
+8,97
+9,61
+10,3
+11,0
+11,8
+12,7
+13,6
+14,5
+15,7
+16,7
+17,9
+19,2
+20,6
+22,0
+27,1
+3,19
+5,18
+6,37
+6,81
+7,34
+7,85
+8,39
+9,03
+9,66
+10,3
+11,1
+11,9
+12,7
+13,6
+14,6
+15,7
+16,7
+18,0
+19,3
+20,6
+22,1
+23,7
+25,4
+31,2
+3,42
+5,54
+6,81
+7,29
+7,85
+8,39
+8,97
+9,66
+10,3
+11,0
+11,8
+12,7
+13,6
+14,5
+15,7
+16,7
+17,9
+19,3
+20,6
+22,0
+23,6
+25,4
+27,1
+33,4
+3,86
+6,25
+7,70
+8,23
+8,86
+9,48
+10,1
+10,9
+11,7
+12,5
+13,4
+14,4
+15,4
+16,4
+17,7
+18,9
+20,2
+21,8
+23,3
+24,9
+26,7
+28,7
+30,6
+37,7
+20 000 	30 000
+4,20
+6,81
+8,39
+8,97
+9,66
+10,3
+11,0
+11,9
+12,7
+13,5
+14,6
+15,7
+16,7
+17,9
+19,3
+20,6
+22,0
+23,7
+25,4
+27,1
+29,1
+31,2
+33,4
+41,1
+4,75
+7,70
+9,48
+10,1
+10,9
+11,7
+12,5
+13,4
+14,4
+15,4
+16,5
+17,7
+18,9
+20,2
+21,8
+23,3
+24,9
+26,8
+28,7
+30,6
+32,8
+35,3
+37,7
+46,4
+IX
+1.2-
+2 000
+
+-- 13 of 146 --
+
+4 Limite di velocità
+Il limite di velocità può essere definito
+come la velocità di rotazione più
+elevata che un cuscinetto può
+raggiungere in funzione all'impiego,
+senza comprometterne le prestazioni
+e la durata.
+Il limite di velocità dei cuscinetti
+dipende da svariati fattori, quali: tipo
+di cuscinetto, entità di carico, classe
+di tolleranza, configurazione della
+gabbia, gioco di lavoro, lubrificante,
+condizioni di lubrificazione e di
+raffreddamento, ecc.
+In caso di lubrificazione a olio, il limite
+di velocità potrà essere
+approssimativamente determinato, per
+i cuscinetti radiali, in funzione al
+diametro medio del cuscinetto, e, per
+i cuscinetti assiali, in funzione al
+diametro e al carico di montaggio del
+cuscinetto.
+Nelle tabelle di dati caratteristici
+vengono forniti i limiti di velocità
+riferiti sia alla lubrificazione con olio
+che con grasso.
+Ove non siano sufficientemente note
+le condizioni operative dei cuscinetti
+e la qualità del lubrificante, si
+raccomanda che la velocità effettiva
+non superi il 75%dei valori di velocità
+forniti nel presente catalogo.
+In caso di carichi di forte entità, di
+durata nominale inferiore alle 75000
+ore di esercizio e di cuscinetti a
+diametro medio superiore a 100 mm,
+i valori di velocità forniti dal catalogo
+dovranno essere moltiplicati per il
+fattore f.
+In caso di carico combinato, i valori di
+velocità forniti dal catalogo dovranno
+essere moltiplicati per il fattore f1.
+X
+The speed limit can be defined as the
+maximum rotation speed reached by
+a bearing, without compromising its
+performances.
+The speed limit depends on different
+factors, such as: type of bearing,
+magnitude of load, tolerance class,
+cage design, operational clearance,
+lubricant, lubrication and cooling
+conditions, and so on.
+In case of oil lubrication, the bearing
+speed limit can be approximately
+determined for radial bearings, as a
+function of the mean bearing diameter;
+concerning thrust bearings, instead,
+speed limit is determined as a function
+of the dimension and weight of the
+bearing's mounting.
+In bearing tables, the value of speed
+limit are given for both grease and oil
+lubrication.
+In the case of insufficient informations
+about quality of lubrication and
+operating conditions, the effective
+speed is recommended not to exceed
+the 75% of the speed indicated in this
+catalogue.
+In the case of heavy loads, when the
+rating life is shorter than 75000
+operating hours and bearing mean
+diameter is larger than 1000 mm,
+speed limits indicated in this
+catalogue, have to be mul tiplied by
+factor "f".
+If the load is combined, the speed from
+this catalogue have to be multiplied
+by factor "f1".
+4 Speed limit
+
+-- 14 of 146 --
+
+Casi speciali. Basse velocità
+A velocità notevolmente ridotte non si
+potrà formare la pellicola di
+lubrificante elastodinamico tra le
+superfici a contatto del corpo volvente
+e della pista di scorrimento. In tal caso,
+si dovranno impiegare lubrificanti
+provvisti di determinati additivi.
+Condizioni stazionarie
+Nel caso in cui, in seguito al potrarsi
+di condizioni stazionarie, i cuscinetti
+volventi tendano a vibrare, i
+micromovimenti che si verificano in
+corrispondenza delle superfici di
+contatto tra l'elemento volvente e la
+pista di scorrimento potrebbero
+danneggiare queste ultime, con un
+conseguente aumento di livello delle
+vibrazioni e compromissione della
+durata operativa.
+Risulta inoltre preferibile la
+lubrificazione ad olio rispetto a quella
+a grasso.
+XI
+Special case. Low speeds
+At very low speeds it is impossible the
+formation of an elastohydrodinamic
+lubricant film between the rolling
+elements and raceway. Lubrificants
+with special additives should be used
+in such cases.
+Stationary conditions
+If in long term stationary conditions,
+bearings start vibrating, the micro-
+movement at the rolling elements and
+at the raceway contacts produces
+damages on the contact surfaces.
+In this way vibration level is increased
+and the life is shorter.
+Oil lubrication is preferable to grease
+lubrication.
+
+-- 15 of 146 --
+
+5 Tolleranze dei cuscinetti
+Le tolleranze dei cuscinetti sono state
+normalizzate a livello sia nazionale che
+internazionale in conformità alle
+norme ISO.
+I cuscinetti vengono in genere costruiti
+in classe di tolleranze P0. Su richiesta,
+possono inoltre essere costruiti in
+classi di tolleranza P6, P5, P4 e P2.
+Questi ultimi cuscinetti vengono
+impiegati per applicazioni speciali,
+quali guida di alta precisione di alberi
+o altissime velocità di rotolamento.
+Vengono fornite tabelle per le
+tolleranze relative a:
+a- dimensioni dei cuscinetti.
+b- raccordi, mussi di montaggio.
+In accordance with ISO rules bearing
+tolerances have been nationally and
+internationally standardized.
+Bearings are usually manufactured to
+the tolerance class P0.
+Under request they can be supplied
+with P6, P5, P4 and P2 tolerance
+classes.
+These latter bearings are used for
+special applications, such us very high
+speeds or very accurate shaft
+guidance.
+The value of the limit for these
+tolerance classes are given for:
+a- dimensions of bearings.
+b- mounting chamfer.
+5 Bearing tolerances
+XII
+
+-- 16 of 146 --
+
+d 	nominal bore diameter
+dmp 	mean bore diameter
+Vdp 	bore diameter variation
+Vdmp 	mean bore diameter variation
+Δd mp 	deviation of bore diameter from nominal
+value (Δd mp = d mp – d)
+D 	nominal outer diameter
+Dmp 	mean outer diameter
+VDp 	outer diameter variation
+VDmp 	mean outer diameter variation
+Δ Dmp 	deviation of the mean outer diameter from
+nominal value (Δ D mp = D mp – D)
+Kia - Kea 	concentricity radial run out of assembled
+bearing inner and outer ring (run out radial
+precision)
+B 	nominal height of the inner r ing
+C 	nominal height of the outer ring
+Bs - C s 	single height of the inner and outer ring
+Δ Bs - ΔC s 	inner (Δ Bs = Bs – B) and outer (Δ Cs = Cs
+– C) ring single height deviation as regards
+to nominal dimension
+VBs - VCs 	width variation of ring (difference between
+maximum and minimum values of the single
+measurements for inner and outer ring)
+Sd 	side face run out with reference to bore of
+the inner ring
+SD 	variation in inclination of outside cylindrical
+surface to outer ring side face
+Sia - S ea 	revolution flatness of inner or outer ring
+side surface, as regards to the raceway of
+complete bearing (axial precision of
+revolution)
+Ts 	total width of tapered roller bearing
+T1s 	total width of tapered roller bearing, with
+the cone assembled on a sample torque
+T2s 	total width of tapered roller bearing, with
+the torque assembled on a sample cone
+T3s 	single size of thrust ball bearing double
+action height (with swivel plate)
+T4s 	single size of self-aligning thrust roller
+bearing height
+Δ T s - ΔT 1s - ΔT 2s deviation of single measurement
+concerning the width of tapered roller
+bearing, from nominal value (Δ Ts = Ts – T)
+XIII
+Simboli 	Symbols
+d 	diametro nominale del foro
+d mp 	diametro medio del foro
+Vdp 	variazione del diametro del foro
+Vdmp 	variazione del diametro medio del foro
+Δd mp 	scostamento del diametro del foro dal
+valore nominale (Δd mp = d mp – d)
+D 	diametro nominale esterno
+Dmp 	diametro esterno medio
+VDp 	variazione del diametro esterno
+VDmp 	variazione del diametro esterno medio
+Δ Dmp 	scostamento del diametro esterno medio
+dal valore nominale (Δ D mp = D mp – D)
+Kia - K ea 	concentricità di rotazione dell’anello
+interno o esterno nel cuscinetto completo
+(precisione radiale di rotazione)
+B 	misura nominale dell’altezza dell’anello
+interno
+C 	misura nominale dell’altezza dell’anello
+esterno
+B s - C s 	misura singola dell’altezza dell’anello
+interno e dell’anello esterno
+Δ Bs - ΔC s 	scostamento di una singola misura
+d e l l ’ a l t e z z a d e l l ’ a n e l l o i n t e r n o
+(Δ B s = B s – B) o esterno (Δ C s = C s – C)
+rispetto alla dimensione nominale
+VBs - VCs 	variazione della larghezza dell’anello
+(differenza tra i valori massimi e minimi
+delle singole misure dell’anello interno
+ed esterno)
+Sd 	difetto di quadratura delle facciate
+rispetto al foro dell’anello interno
+SD 	variazione dell’inclinazione cilindrica
+esterna rispetto alla superficie laterale
+dell’anello esterno
+Sia - Sea 	planarità di rotazione della superficie
+laterale dell’anello interno o esterno
+rispetto alla pista nel cuscinetto radiale
+completo (precisione assiale di rotazione)
+T s 	larghezza totale di un cuscinetto a rulli
+conici
+T 1s 	larghezza totale del cuscinetto a rulli
+conici, con il cono montato su una coppa
+campione
+T 2s 	larghezza totale del cuscinetto a rulli
+conici, con la coppa montata su un cono
+campione
+T 3s 	singola misura dell’altezza di un cuscinetto
+assiale a sfere a doppio effetto (con piastra
+regolabile)
+T 4s 	singola misura dell’altezza di un cuscinetto
+assiale orientabile a rulli
+Δ T s - ΔT 1s - ΔT 2s scostamento della singola misura della
+larghezza del cuscinetto a rulli conici del
+valore nominale (Δ T s = Ts – T)
+
+-- 17 of 146 --
+
+Tolleranze per i cuscinetti radiali della classe di precisione normale
+(esclusi i cuscinetti a rulli conici) - Tolerances for radial bearings
+normal precision (tapered roller bearings excluded)
+Anello interno - Inner ring
+XIV
+d
+oltre
+over
+2,5
+10
+18
+30
+50
+80
+120
+180
+250
+315
+400
+500
+630
+800
+1 000
+1 250
+1 600
+Vdp
+Serie diametrali
+Diameters series
+10
+18
+30
+50
+80
+120
+180
+250
+315
+400
+500
+630
+800
+1 000
+1 250
+1 600
+2 000
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+-8
+-8
+-10
+-12
+-15
+-20
+-25
+-30
+-35
+-40
+-45
+-50
+-75
+-100
+-125
+-160
+-200
+10
+10
+13
+15
+19
+25
+31
+38
+44
+50
+56
+63
+-
+-
+-
+-
+-
+8
+8
+10
+12
+19
+25
+31
+38
+44
+50
+56
+63
+-
+-
+-
+-
+-
+6
+6
+8
+9
+11
+15
+19
+23
+26
+30
+34
+38
+-
+-
+-
+-
+-
+6
+6
+8
+9
+11
+15
+19
+23
+26
+30
+34
+38
+-
+-
+-
+-
+-
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+-120
+-120
+-120
+-120
+-150
+-200
+-250
+-300
+-350
+-400
+-450
+-500
+-750
+-1 000
+-1 250
+-1 600
+-2 000
+15
+20
+20
+20
+25
+25
+30
+30
+35
+40
+50
+60
+70
+80
+100
+120
+140
+10
+10
+13
+15
+20
+25
+30
+40
+50
+60
+65
+70
+80
+90
+100
+120
+140
+Δdmp
+fino a
+up to 	max 	min 8,9
+max 0,1
+max 2, 3, 4
+max 	max 	max 	min 	max 	max
+Vdmp 	ΔBs 	VBs 	Kia
+: 0,001 mm
+mm. 	mm. 	μm 	μm 	μm 	μm 	μm 	μm 	μm 	μm 	μm 	μm
+D
+oltre
+over
+6
+18
+30
+50
+80
+120
+150
+180
+250
+315
+400
+500
+630
+800
+1 000
+1 250
+1 600
+2 000
+VDp
+Serie diametrali
+Diameters series
+18
+30
+50
+80
+120
+150
+180
+250
+315
+400
+500
+630
+800
+1 000
+1 250
+1 600
+2 000
+2 500
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+-8
+-9
+-11
+-13
+-15
+-18
+-25
+-30
+-35
+-40
+-45
+-50
+-75
+-100
+-125
+-160
+-200
+-250
+10
+12
+14
+16
+19
+23
+31
+38
+44
+50
+56
+63
+94
+125
+-
+-
+-
+-
+8
+9
+11
+13
+19
+23
+31
+38
+44
+50
+56
+63
+94
+125
+-
+-
+-
+-
+6
+7
+8
+10
+11
+14
+19
+23
+26
+30
+34
+38
+55
+75
+-
+-
+-
+-
+6
+7
+8
+10
+11
+14
+19
+23
+26
+30
+34
+38
+55
+75
+-
+-
+-
+-
+10
+12
+16
+20
+26
+30
+38
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+15
+15
+20
+25
+35
+40
+45
+50
+60
+70
+80
+100
+120
+140
+160
+190
+220
+250
+ΔDmp
+fino a
+up to 	max 	min 8,9
+max 0,1
+max 2, 3, 4
+max 	max	max 	max
+VDmp	* Cuscinetti con
+schermi stagni
+Sealed bearings
+Kea
+Anello esterno - Outer ring
+mm. 	mm. 	μm 	μm 	μm 	μm 	μm 	μm 	μm 	μm
+* Applicabile solo ai cuscinetti delle serie diametrali 2,3,4 - Applicable only to bearings 2,3,4 diameter series.
+
+-- 18 of 146 --
+
+XV
+d
+oltre
+over
+2,5
+10
+18
+30
+50
+80
+120
+180
+250
+315
+400
+500
+630
+800
+1 000
+1 250
+1 600
+Vdp
+10
+18
+30
+50
+80
+120
+180
+250
+315
+400
+500
+630
+800
+1 000
+1 250
+1 600
+2 000
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+-8
+-8
+-10
+-12
+-15
+-20
+-25
+-30
+-35
+-40
+-45
+-50
+-75
+-100
+-125
+-160
+-200
+8
+8
+10
+12
+19
+25
+31
+38
+44
+50
+56
+63
+-
+-
+-
+-
+-
+6
+6
+8
+9
+11
+15
+19
+23
+26
+30
+34
+38
+-
+-
+-
+-
+-
+6
+6
+8
+9
+11
+15
+19
+23
+26
+30
+34
+38
+-
+-
+-
+-
+-
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+-120
+-120
+-120
+-120
+-150
+-200
+-250
+-300
+-350
+-400
+-450
+-500
+-750
+-1 000
+-1 250
+-1 600
+-2 000
+15
+20
+20
+20
+25
+25
+30
+30
+35
+40
+50
+60
+70
+80
+100
+120
+140
+10
+10
+13
+15
+20
+25
+30
+40
+50
+60
+65
+70
+80
+90
+100
+120
+140
+Δdmp
+fino a
+up to 	max 	min 	min 	max 	min	max 	max
+: 0,001 mm
+mm. 	mm. 	μm 	μm 	μm 	μm 	μm 	μm 	μm 	μm 	μm 	μm
+Anello interno e larghezza del cuscinetto - Inner ring and bearing width
+max 	max 	max
+Vdmp 	Kia 	Δ Ts 	Δ T1s
+min 	max
+μm 	μm
+Δ T2s
+min
+μm
+10
+18
+30
+50
+80
+120
+180
+250
+315
+400
+500
+630
+800
+1 000
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+18
+30
+50
+80
+120
+180
+250
+315
+400
+500
+630
+800
+1 000
+1 250
+-12
+-12
+-12
+-15
+-20
+-25
+-30
+-35
+-40
+-45
+-50
+-75
+-100
+-125
+12
+12
+12
+15
+20
+25
+30
+35
+40
+45
+50
+75
+100
+-
+9
+9
+9
+11
+15
+19
+23
+26
+30
+34
+38
+56
+75
+-
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+-120
+-120
+-120
+-150
+-200
+-250
+-300
+-350
+-400
+-450
+-500
+-750
+-1 000
+-1 250
+15
+18
+20
+25
+30
+35
+50
+60
+70
+70
+85
+100
+120
+120
++200
++200
++200
++200
++200
++350
++350
++350
++400
++400
++500
++600
++750
++1 000
+0
+0
+0
+0
+-200
+-250
+-250
+-250
+-400
+-400
+-500
+-600
+-750
+-1 000
++100
++100
++100
++100
++100
++150
++150
++150
++200
+-
+-
+-
+-
+-
+0
+0
+0
+0
+-100
+-150
+-150
+-150
+-200
+-
+-
+-
+-
+-
++100
++100
++100
++100
++100
++200
++200
++200
++200
+-
+-
+-
+-
+-
+0
+0
+0
+0
+-100
+-100
+-100
+-100
+-200
+-
+-
+-
+-
+-
+D
+oltre
+over
+2,5
+10
+18
+30
+50
+80
+120
+180
+250
+315
+400
+500
+630
+800
+1 000
+1 250
+1 600
+VDp
+10
+18
+30
+50
+80
+120
+180
+250
+315
+400
+500
+630
+800
+1 000
+1 250
+1 600
+2 000
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+-8
+-8
+-10
+-12
+-15
+-20
+-25
+-30
+-35
+-40
+-45
+-50
+-75
+-100
+-125
+-160
+-200
+8
+8
+10
+12
+19
+25
+31
+38
+44
+50
+56
+63
+-
+-
+-
+-
+-
+6
+6
+8
+9
+11
+15
+19
+23
+26
+30
+34
+38
+-
+-
+-
+-
+-
+6
+6
+8
+9
+11
+15
+19
+23
+26
+30
+34
+38
+-
+-
+-
+-
+-
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+-120
+-120
+-120
+-120
+-150
+-200
+-250
+-300
+-350
+-400
+-450
+-500
+-750
+-1 000
+-1 250
+-1 600
+-2 000
+15
+20
+20
+20
+25
+25
+30
+30
+35
+40
+50
+60
+70
+80
+100
+120
+140
+10
+10
+13
+15
+20
+25
+30
+40
+50
+60
+65
+70
+80
+90
+100
+120
+140
+Δ Dmp
+fino a
+up to 	max 	min
+mm. 	mm. 	μm 	μm 	μm 	μm 	μm
+Anello esterno - Outer ring
+max 	max 	max
+VDmp 	Kea
+18
+30
+50
+80
+120
+150
+180
+250
+315
+400
+500
+630
+800
+1 000
+1 250
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+30
+50
+80
+120
+150
+180
+250
+315
+400
+500
+630
+800
+1 000
+1 250
+1 600
+-12
+-14
+-16
+-18
+-20
+-25
+-30
+-35
+-40
+-45
+-50
+-75
+-100
+-125
+-160
+12
+14
+16
+18
+20
+25
+30
+35
+40
+45
+50
+75
+100
+125
+160
+9
+11
+12
+14
+15
+19
+23
+26
+30
+34
+38
+55
+75
+94
+120
+18
+20
+25
+35
+40
+45
+50
+60
+70
+80
+100
+120
+120
+120
+120
+Tolleranze per i cuscinetti a rulli conici della classe di precisione normale
+Tolerances for conical bearings normal precision
+ΔBs ΔCs
+
+-- 19 of 146 --
+
+XVI
+Fori conici - Conical bore
+Semiangolo del cono a:
+Half angle of cone a:
+a = 2° 23’ 9,4” (conicità 1:12)
+(taper-ratio1:12)
+a = 0° 57’ 17,4” (conicità 1:30)
+(taper-ratio 1:30)
+Diametro maggiore teorico d1:
+Theoretical bigger diameter d1 :
+d1 = d + 1 B (conicità 1:12)
+12 	(taper-ratio1:12)
+d1 = d + 1 B (conicità 1:30)
+30 	(taper-ratio1:30)
+1) Valido in ogni singolo piano radiale del foro - Valid for every radial flat of bore.
+Tolleranze per i fori conici, conicità 1:30
+Tolerances for conical bore, taper-ratio 1:30
+d
+oltre
+over
+80
+120
+180
+250
+315
+400
+500
+630
+800
+120
+180
+250
+315
+400
+500
+630
+800
+1 000
++20
++25
++30
++35
++40
++45
++50
++75
++100
+0
+0
+0
+0
+0
+0
+0
+0
+0
+25
+31
+38
+44
+50
+56
+63
+-
+-
+Δdmp
+fino a
+up to 	max 	min 	max
+Δd1mp	Vdp1)
+Classe di tolleranza Normale
+Normal tolerance class
+-Δdmp
+min
++40
++50
++55
++60
++65
++75
++85
++100
++100
+0
+0
+0
+0
+0
+0
+0
+0
+0
+d
+oltre
+over
+18
+30
+50
+80
+120
+180
+250
+315
+400
+500
+630
+800
+30
+50
+80
+120
+180
+250
+315
+400
+500
+630
+800
+1 000
++21
++25
++30
++35
++40
++46
++52
++57
++63
++70
++80
++90
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
++21
++25
++30
++35
++40
++46
++52
++57
++63
++70
++80
++90
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
++13
++16
++19
++22
++25
++29
++32
++36
++40
++44
++50
++56
+13
+15
+19
+25
+31
+38
+44
+50
+56
+-
+-
+-
+Δdmp
+fino a
+up to 	max 	min 	max 	min 	max	max
+Δd1mp 	-Δdmp	Vdp1) 	dmp
+Classe di tolleranza Normale, P6
+Normal class of tollerance, P6 Classe di tolleranza Normale P5
+Tollerance class P5
+1) Valido in ogni singolo piano radiale del foro - Valid for every radial flat of bore.
+min 	max
+Vdp1)
+max
+Δd1mp
+min
+-Δdmp
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+13
+15
+19
+22
+25
+29
+32
+36
+-
+-
+-
+-
++13
++16
++19
++22
++25
++29
++32
++36
++40
++44
++50
++56
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Tolleranze per i fori conici, conicità 1:12
+Tolerances for conical bore, taper-ratio 1:12 	: 0,001 mm
+mm. 	μm	mm. 	μm 	μm 	μm 	μm 	μm 	μm 	μm 	μm 	μm
+mm. 	μm	mm. 	μm 	μm 	μm 	μm
+
+-- 20 of 146 --
+
+Tolleranze per i cuscinetti assiali
+Tolerances for axial bearings
+Ralla per albero
+Shaft locating washers
+XVII
+Ralla per alloggiamento
+Housing locating washers
+d	
+oltre
+over
+-
+18
+30
+50
+80
+120
+180
+250
+315
+400
+500
+630
+800
+1 000
+18
+30
+50
+80
+120
+180
+250
+315
+400
+500
+630
+800
+1 000
+1 250
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+-8
+-10
+-12
+-15
+-20
+-25
+-30
+-35
+-40
+-45
+-50
+-75
+-100
+-125
+10
+10
+10
+10
+15
+15
+20
+25
+30
+30
+35
+40
+45
+50
+5
+5
+6
+7
+8
+9
+10
+13
+15
+18
+21
+25
+30
+35
+3
+3
+3
+4
+4
+5
+5
+7
+7
+9
+11
+13
+15
+18
+6
+8
+9
+11
+15
+19
+23
+26
+30
+34
+38
+-
+-
+-
+Δdmp	fino a
+up to 	max 	min 	max 	max 	max	max
+Si1) 	Si1)	Vdp 	Si1)
+Classe di tolleranza
+Normale, P6, P5
+Class of tolerance
+normal, P6, P5
+Classe di tolleranza
+Normale P6, 	P5
+Class of tolerance
+normal, P6, 	P5
+*(Se) Stessi valori della relativa ralla per albero (Si)
+*(Se) Same value of relative shaft locating washer (Si)
+1) Valori esclusi per i cuscinetti assiali orientabili a rulli. Per cuscinetti con lo stesso ø esterno
+i valori sono i medesimi sia per cuscinetti a doppio effetto sia a semplice effetto.
+1) These value are not valid for axial roller bearings for bearings having the same outer
+diameter. Value are the same for both double acting and single acting bearings.
+mm. 	μm	mm. 	μm
+18
+30
+50
+80
+120
+180
+250
+315
+400
+500
+630
+800
+1 000
+30
+50
+80
+120
+180
+250
+315
+400
+500
+630
+800
+1 000
+1 250
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+-13
+-16
+-19
+-22
+-25
+-30
+-35
+-40
+-45
+-50
+-75
+-100
+-125
+10
+12
+14
+17
+19
+23
+26
+30
+34
+38
+55
+75
+-
+mm. 	μm	mm. 	μm	μm 	μm 	μm 	μm 	μm
+D	
+oltre
+over
+ΔDmp	fino a
+up to 	max 	min 	max
+*Se
+Classe di tolleranza
+Normale, P6, P5
+Class of tolerance
+normal, P6, P5
+VDp
+d
+oltre
+over
+-
+30
+50
+80
+120
+180
+250
+315
+400
+500
+630
+800
+1 000
+30
+50
+80
+120
+180
+250
+315
+400
+500
+630
+800
+1 000
+1 250
++20
++20
++20
++25
++25
++30
++40
++40
++50
++60
++70
++80
++100
+-250
+-250
+-300
+-300
+-400
+-400
+-400
+-500
+-500
+-600
+-750
+-1 000
+-1 400
+-250
+-250
+-300
+-300
+-400
+-400
+-400
+-500
+-500
+600
+-750
+-1 000
+-1 400
++150
++150
++150
++200
++200
++250
++350
++350
++400
++500
++600
++700
++900
+-400
+-400
+-500
+-500
+-600
+-600
+-700
+-700
+-900
+-1 100
+-1 300
+-1 500
+-1 800
++100
++100
++100
++150
++150
++150
++200
++200
++300
++350
++400
++450
++500
+ΔTs
+fino a
+up to 	max 	min 	min 	max 	min	max
+ΔT1s
+max 	min 	max 	min
++300
++300
++300
++400
++400
++500
++600
++600
++750
++900
++1 100
++1 300
++1 600
++20
++20
++20
++25
++25
++30
++40
++40
++50
++60
++70
++80
++100
+Altezza del cuscinetto - Bearing width
+mm. 	μm	mm. 	μm 	μm 	μm 	μm 	μm 	μm 	μm 	μm 	μm
+-400
+-400
+-500
+-500
+-600
+-600
+-700
+-700
+-900
+-1 100
+-1 300
+-1 500
+-1 800
+-300
+-300
+-400
+-400
+-500
+-500
+-700
+-700
+-900
+-1 200
+-1 400
+-1 800
+-2 400
+ΔT2s 	ΔT3s 	ΔT4s
+
+-- 21 of 146 --
+
+6 Giuoco radiale dei cuscinetti
+a sfere e a rulli
+Uno dei principali fattori di influenza
+sulla durata dei cuscinetti a sfere e a
+rulli consiste nel giuoco radiale,
+determinato come il valore medio di
+varie misure dello spostamento totale
+sul piano perpendicolare all'asse del
+cuscinetto. Tale spostamento è tipico
+di uno degli anelli del cuscinetto (l'altro
+è stazionario) durante il rotolamento
+in varie direzioni angolari, sia rispetto
+all'anello rotante che a quello
+stazionario, e a diverse posizioni
+angolari della serie di sfere o rulli
+rispetto agli anelli stessi. Visti i diversi
+coefficienti di giuoco richiesti alla
+consegna, i cuscinetti radiali vengono
+costruiti secondo vari gruppi di giuoco
+iniziale.
+Di norma, i cuscinetti radiali a sfere e
+a rulli vengono costruiti secondo il
+gruppo a giuoco radiale normale, che,
+ad impieghi comuni alla maggior parte
+dei casi, forniscono parametri
+soddisfacenti di funzionamento. Il
+giuoco radiale viene evidenziato con
+l'aggiunta alla sigla del cuscinetto della
+designazione della classe di precisione
+(C2, C3, C4, C5). Ai cuscinetti costruiti
+con un gioco radiale corrispondente
+al gruppo normale non vengono
+assegnate ulteriori designazioni
+convenzionali. Le tabelle seguenti
+forniscono i valori di gioco radiale.
+One of the most important factor
+influencing the life of a roller or ball
+bearing, is the radial clearance.
+The latter is determined by a mean of
+several measurements of total
+displacement in the plane
+perpendicular to the bearing axle.
+This displacement is typical for one of
+the bearing ring (the other is
+stationary) during its rotation in
+different angular directions, both with
+respect to the rotable ring and the
+stationary one, and a different angular
+positions of the set of balls or rollers
+with respect to the bearing races.
+Because of the different requirements
+concerning the radial clearance,
+bearings are manufactured with
+several initial clearance groups, such
+as additional groups.
+Radial bearings are usually
+manufactured in accordance with the
+normal clearance group: this enables
+a satisfactory functioning of the
+bearing, in the majority of cases.
+Radial clearance is pointed out by
+adding the precision class (C2, C3, C4,
+C5) to bearing group.
+No further conventional designations
+are assigned to normal clearance
+bearings.
+Values of radial clearances are given
+below, see tables.
+6 Radial clearance of ball
+and roller bearings
+XVIII
+
+-- 22 of 146 --
+
+Diametro del foro
+Bore diameter
+Tabella giuoco radiale dei cuscinetti a sfere.
+Tables of radial clearance for ball bearings.
+oltre
+over
+2,5
+10
+18
+24
+30
+40
+50
+65
+80
+100
+120
+140
+160
+180
+200
+225
+250
+280
+315
+355
+400
+450
+500
+560
+630
+710
+800
+10
+18
+24
+30
+40
+50
+65
+80
+100
+120
+140
+160
+180
+200
+225
+250
+280
+315
+355
+400
+450
+500
+560
+630
+710
+800
+900
+0
+0
+0
+1
+1
+1
+1
+1
+1
+2
+2
+2
+2
+2
+2
+2
+2
+3
+3
+3
+5
+5
+10
+10
+10
+10
+20
+7
+9
+10
+11
+11
+11
+15
+15
+18
+20
+23
+23
+25
+30
+35
+40
+45
+55
+55
+65
+80
+90
+100
+110
+120
+130
+150
+C2
+fino a
+up to 	min 	max
+2
+3
+5
+5
+6
+6
+8
+10
+12
+15
+18
+18
+20
+25
+30
+33
+35
+45
+45
+55
+65
+75
+80
+90
+90
+100
+110
+13
+18
+20
+20
+20
+23
+28
+30
+36
+41
+48
+53
+61
+71
+85
+95
+100
+115
+125
+145
+170
+190
+210
+230
+250
+270
+300
+Normale
+Normal
+min 	max
+8
+11
+13
+13
+15
+18
+23
+25
+30
+36
+41
+46
+53
+63
+77
+87
+90
+105
+115
+135
+150
+170
+190
+210
+220
+240
+260
+23
+25
+28
+28
+33
+36
+43
+51
+58
+66
+81
+91
+102
+117
+137
+157
+170
+190
+210
+240
+270
+300
+335
+365
+390
+420
+460
+C3
+min 	max
+14
+18
+20
+23
+28
+30
+38
+46
+53
+61
+71
+81
+91
+107
+127
+147
+157
+175
+195
+225
+250
+280
+310
+340
+360
+390
+420
+29
+33
+36
+41
+46
+51
+61
+71
+84
+97
+114
+130
+147
+163
+195
+225
+245
+270
+300
+340
+380
+420
+475
+525
+570
+620
+680
+C4
+min 	max
+20
+25
+28
+30
+40
+45
+55
+65
+75
+90
+105
+120
+135
+150
+180
+210
+230
+250
+280
+320
+360
+400
+450
+500
+540
+590
+640
+37
+45
+48
+53
+64
+73
+90
+105
+120
+140
+160
+180
+200
+230
+270
+300
+340
+370
+400
+460
+510
+570
+640
+700
+760
+840
+920
+C5
+min 	max
+XIX
+
+-- 23 of 146 --
+
+Diametro del foro
+Bore diameter
+Tabella giuoco radiale dei cuscinetti radiali a rulli cilindrici
+Tables of radial clearance of cylindrical roller bearings
+oltre
+over
+-
+10
+18
+24
+30
+40
+50
+65
+80
+100
+120
+140
+160
+180
+200
+225
+250
+280
+315
+355
+400
+450
+10
+18
+24
+30
+40
+50
+65
+80
+100
+120
+140
+160
+180
+200
+225
+250
+280
+315
+355
+400
+450
+500
+0
+0
+0
+0
+0
+5
+5
+5
+10
+10
+10
+15
+20
+25
+30
+40
+45
+50
+55
+65
+70
+85
+30
+30
+30
+30
+35
+40
+45
+55
+60
+65
+75
+80
+85
+95
+105
+115
+125
+135
+145
+160
+190
+205
+C2
+fino a
+up to 	min 	max
+10
+10
+10
+10
+15
+20
+20
+25
+30
+35
+40
+50
+60
+65
+75
+90
+100
+110
+125
+140
+155
+180
+40
+40
+40
+45
+50
+55
+65
+75
+80
+90
+105
+115
+125
+135
+150
+165
+180
+195
+215
+235
+275
+300
+Normale
+Normal
+min 	max
+25
+25
+25
+30
+35
+40
+45
+55
+65
+80
+90
+100
+110
+125
+140
+155
+175
+195
+215
+245
+270
+300
+55
+55
+55
+65
+70
+75
+90
+105
+115
+135
+155
+165
+175
+195
+215
+230
+255
+280
+305
+340
+390
+420
+C3
+min 	max
+35
+35
+35
+40
+45
+55
+65
+75
+90
+105
+115
+130
+150
+165
+180
+205
+230
+255
+280
+320
+355
+395
+65
+65
+65
+70
+80
+90
+105
+125
+140
+160
+180
+195
+215
+235
+255
+280
+310
+340
+370
+415
+465
+515
+C4
+min 	max
+-
+55
+55
+60
+70
+85
+100
+115
+145
+165
+185
+210
+235
+260
+290
+320
+355
+400
+440
+500
+555
+620
+-
+85
+85
+90
+105
+120
+140
+165
+195
+220
+250
+275
+300
+330
+365
+395
+435
+485
+530
+595
+675
+740
+C5
+min 	max
+XX
+
+-- 24 of 146 --
+
+Diametro del foro
+Bore diameter
+Tabella giuoco interno radiale dei cuscinetti orientabili a rulli
+con foro cilindrico.
+Inner radial clearance for spherical roller bearings
+with cylindrical bore.
+oltre
+over
+18
+24
+30
+40
+50
+65
+80
+100
+120
+140
+160
+180
+200
+225
+250
+280
+315
+355
+400
+450
+500
+560
+630
+710
+24
+30
+40
+50
+65
+80
+100
+120
+140
+160
+180
+200
+225
+250
+280
+315
+355
+400
+450
+500
+560
+630
+710
+800
+10
+15
+15
+20
+20
+30
+35
+40
+50
+60
+65
+70
+80
+90
+100
+110
+120
+130
+140
+140
+150
+170
+190
+210
+20
+25
+30
+35
+40
+50
+60
+75
+95
+110
+120
+130
+140
+150
+170
+190
+200
+220
+240
+260
+280
+310
+350
+390
+Giuoco interno radiale
+Radial inner clearance
+fino a
+up to 	min 	max
+20
+25
+30
+35
+40
+50
+60
+75
+95
+110
+120
+130
+140
+150
+170
+190
+200
+220
+240
+260
+280
+310
+350
+390
+35
+40
+45
+55
+65
+80
+100
+120
+145
+170
+180
+200
+220
+240
+260
+280
+310
+340
+370
+410
+440
+480
+530
+580
+Normale
+Normal
+min 	max
+35
+40
+45
+55
+65
+80
+100
+120
+145
+170
+180
+200
+220
+240
+260
+280
+310
+340
+370
+410
+440
+480
+530
+580
+45
+55
+60
+75
+90
+110
+135
+160
+190
+220
+240
+260
+290
+320
+350
+370
+410
+450
+500
+550
+600
+650
+700
+770
+C3
+min 	max
+45
+55
+60
+75
+90
+110
+135
+160
+190
+220
+240
+260
+290
+320
+350
+370
+410
+450
+500
+550
+600
+650
+700
+770
+60
+75
+80
+100
+120
+145
+180
+210
+240
+280
+310
+340
+380
+420
+460
+500
+550
+600
+660
+720
+780
+850
+920
+1010
+C4
+min 	max
+60
+75
+80
+100
+120
+145
+180
+210
+240
+280
+310
+340
+380
+420
+460
+500
+550
+600
+660
+720
+780
+850
+920
+1010
+75
+95
+100
+125
+150
+180
+225
+260
+300
+350
+390
+430
+470
+520
+570
+630
+690
+750
+820
+900
+1000
+1100
+1190
+1300
+C5
+min 	max
+XXI
+d 	C2
+
+-- 25 of 146 --
+
+Tabella giuoco interno radiale dei cuscinetti orientabili a rulli
+con foro conico.
+Inner radial clearance for spherical roller bearings
+with conical bore.
+24
+30
+40
+50
+65
+80
+100
+120
+140
+160
+180
+200
+225
+250
+280
+315
+355
+400
+450
+500
+560
+630
+710
+800
+30
+40
+50
+65
+80
+100
+120
+140
+160
+180
+200
+225
+250
+280
+315
+355
+400
+450
+500
+560
+630
+710
+800
+900
+20
+25
+30
+40
+50
+55
+65
+80
+90
+100
+110
+120
+140
+150
+170
+190
+210
+230
+260
+290
+320
+350
+390
+440
+30
+35
+45
+55
+70
+80
+100
+120
+130
+140
+160
+180
+200
+220
+240
+270
+300
+330
+370
+410
+460
+510
+570
+640
+30
+35
+45
+55
+70
+80
+100
+120
+130
+140
+160
+180
+200
+220
+240
+270
+300
+330
+370
+410
+460
+510
+570
+640
+40
+50
+60
+75
+95
+110
+135
+160
+180
+200
+220
+250
+270
+300
+330
+360
+400
+440
+490
+540
+600
+670
+750
+840
+40
+50
+60
+75
+95
+110
+135
+160
+180
+200
+220
+250
+270
+300
+330
+360
+400
+440
+490
+540
+600
+670
+750
+840
+55
+65
+80
+95
+120
+140
+170
+200
+230
+260
+290
+320
+350
+390
+430
+470
+520
+570
+630
+680
+760
+850
+960
+1070
+55
+65
+80
+95
+120
+140
+170
+200
+230
+260
+290
+320
+350
+390
+430
+470
+520
+570
+630
+680
+760
+850
+960
+1070
+75
+85
+100
+120
+150
+180
+220
+260
+300
+340
+370
+410
+450
+490
+540
+590
+650
+720
+790
+870
+980
+1090
+1220
+1370
+-
+85
+100
+120
+150
+180
+220
+260
+300
+340
+370
+410
+450
+490
+540
+590
+650
+720
+790
+870
+980
+1090
+1220
+1370
+-
+105
+130
+160
+200
+230
+280
+330
+380
+430
+470
+520
+570
+620
+680
+740
+820
+910
+1000
+1100
+1230
+1360
+1500
+1690
+XXII
+Diametro del foro
+Bore diameter
+oltre
+over
+Giuoco interno radiale
+Radial inner clearance
+fino a
+up to 	min 	max
+Normale
+Normal
+min 	max
+C3
+min 	max
+C4
+min 	max
+C5
+min 	max
+d 	C2
+
+-- 26 of 146 --
+
+Diametro del foro
+Bore diameter
+Tavole dimensioni dei raccordi (smusso)
+Mounting chamfer dimension tolerances
+oltre
+over
+0,1
+0,15
+0,2
+0,3
+0,6
+1
+1,1
+1,5
+2
+2,1
+2,5
+3
+4
+5
+6
+7,5
+9,5
+12
+15
+19
+-
+-
+-
+-
+40
+-
+40
+-
+50
+-
+120
+-
+120
+-
+220
+80
+-
+-
+280
+100
+280
+-
+280
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+40
+-
+40
+-
+50
+-
+120
+-
+120
+-
+80
+-
+220
+100
+280
+-
+280
+-
+280
+-
+-
+-
+-
+-
+-
+-
+-
+-
+0,2
+0,3
+0,5
+0,6
+0,8
+1
+1,3
+1,5
+1,9
+2
+2,5
+2,3
+3
+3
+3,8
+3,5
+3,8
+4
+4,5
+4,5
+5
+5
+5,5
+6,5
+8
+10
+12,5
+15
+18
+21
+25
+Radial bearings
+fino a
+up to 	max
+0,4
+0,6
+0,8
+1
+1
+2
+2
+3
+3
+3,5
+4
+4
+5
+4,5
+6
+5
+6
+6,5
+7
+6
+7
+8
+8
+9
+10
+13
+17
+19
+24
+30
+38
+0,2
+0,3
+0,5
+0,8
+0,8
+1,5
+1,5
+2,2
+2,2
+2,7
+2,7
+3,5
+3,5
+4
+4
+4
+4,5
+4,5
+4,5
+-
+-
+5,5
+5,5
+6,5
+8
+10
+12,5
+15
+18
+21
+25
+Thrust
+bearings
+max
+r1, r 3 = smussi in direzione centrale
+r2, r 4 = smussi in direzione assiale
+r5 min = simbolo limite massimo smussi r1, r2, r3 r4
+r1S max, r3S max = dimensione massima in direzione radiale
+r2S max, r4S max = dimensione massima in direzione assiale
+r1, r3 = chamfer dimension in radial direction
+r 2, r4 = chamfer dimension in axial direction
+r 5 min = general symbol for minimum limit r1, r2, r3 r4
+r1S max, r3S max = maximum dimension in radial direction
+r2S max, r4S max = maximum dimension in axial direction
+Dimensioni limite raccordi per cuscinetti radiali e assiali
+Mounting chamfer dimension limits for radial and thrust bearings
+max
+d 	r1s, r4s r1s, r2s	r1s, r3s	rs min
+1) Solo per d < 30 mm
+1) Only for d < 30 mm
+XXIII
+7-
+
+-- 27 of 146 --
+
+Diametro del foro
+Bore diameter
+Tavole dimensioni dei raccordi (smusso)
+Mounting chamfer dimension tolerances
+oltre
+over
+0,3
+0,6
+1
+1,5
+2
+2,5
+3
+4
+5
+6
+-
+40
+-
+40
+-
+50
+-
+120
+250
+-
+120
+250
+250
+-
+120
+-
+120
+250
+400
+-
+120
+250
+400
+-
+180
+-
+180
+40
+-
+40
+-
+50
+-
+120
+250
+-
+120
+250
+-
+-
+120
+250
+120
+250
+400
+-
+120
+250
+400
+-
+180
+-
+180
+-
+0,7
+0,9
+1,1
+1,3
+1,6
+1,9
+2,3
+2,8
+3,5
+2,8
+3,5
+4
+4,5
+3,5
+4
+4
+4,5
+5
+5,5
+5
+5,5
+6
+6,5
+6,5
+7,5
+7,5
+9
+Radial bearings
+fino a
+up to 	max
+1,4
+1,6
+1,7
+2
+2,5
+3
+3
+3,5
+4
+4
+4,5
+5
+6
+5
+5,5
+5,5
+6,5
+7
+7,5
+7
+7,5
+8
+8,5
+8
+9
+10
+11
+r1, r 3 = smussi in direzione centrale
+r2, r 4 = smussi in direzione assiale
+r5 min = simbolo limite massimo smussi r1, r2, r3 r4
+r1S max, r3S max = dimensione massima in direzione radiale
+r2S max, r4S max = dimensione massima in direzione assiale
+r1, r3 = chamfer dimension in radial direction
+r2, r4 = chamfer dimension in axial direction
+r5 min = general symbol for minimum limit r1, r2, r3 r4
+r1S max, r3S max = maximum dimension in radial direction
+r2S max, r4S max = maximum dimension in axial direction
+Dimensioni limite raccordi per cuscinetti a rulli
+Mounting chamfer dimension limits for tapered roller bearings
+max
+d 	r1s, r4s	r1s, r3s	rs min
+XXIV
+7-
+
+-- 28 of 146 --
+
+8 Lubrificazione dei cuscinetti
+La sicurezza operativa e la durata
+nominale di esercizio dei cuscinetti
+dipendono dal tipo di lubrificante e
+dal metodo di lubrificazione. La
+lubrificazione dei cuscinetti ha le
+seguenti finalità:
+– ridurre, in fase di funzionamento,
+l'attrito tra i corpi volventi, la gabbia
+e le piste di scorrimento;
+– ridurre, entro certi limiti, la
+rumorosità di funzionamento dei
+cuscinetti;
+– assicurare ai cuscinetti protezione
+della corrosione.
+I lubrificanti per cuscinetti dovranno
+rispondere ai seguenti requisiti:
+– risultare stabili a livello sia fisico
+che chimico;
+– risultare privi di corpi estranei
+provenienti dai componenti
+meccanici (quali abrasivi, sostanze
+metalliche, ecc.);
+– presentare un coefficiente minimo
+di attrito;
+– non essere corrosivi;
+– presentare una buona capacità
+lubrificante.
+Per i cuscinetti vengono impiegate due
+categorie di lubrificanti:
+– lubrificanti fluidi (oli);
+– lubrificanti solidi/plastici (grassi).
+Nella scelta del lubrificante il
+coefficiente di viscosità sarà da
+aumentare in misura direttamente
+proporzionale alle dimensioni del
+cuscinetto ed ai valori di carico e di
+temperatura.
+Safe operating life and long rating life
+of a bearing depends on the type of
+lubricant and on the lubrication
+method.
+Bearings lubrication has the following
+purposes:
+– to reduce friction between
+elements, cage and receway during
+operation.
+– to reduce, within certain limits, the
+noise in bearings;
+– to grant anticorrosive protection to
+bearings.
+Lubricants for bearings have to satisfy
+the following requirements:
+– they should have physical and
+chemical stability;
+– they should be free from foreing
+mechanical substances such as
+abrasive, metallic substances and
+so on;
+– they should have a minimal
+coefficient of friction;
+– they should dave a good lubricatign
+capacity.
+Two categories of lubricants are used
+for bearing lubrication:
+– fluid lubricants (oils);
+– plastic lubricants (greases).
+Concerning the choice of a lubricant,
+the viscosity factor must be directly
+and proportionally increased respect
+to bearing size, value of load and
+temperature.
+8 Bearing lubrication
+XXV
+
+-- 29 of 146 --
+
+MARCA E TIPO
+BRAND NAME
+Tabella dei lubrificanti
+Tables of used lubricants
+GRASSO BASE
+BASIC TYPE GREASE
+TEMPERATURA
+DI ESERCIZIO
+OPERATING TEMP. C°
+CARATTERISTICHE
+USES
+Exxon
+Beacon 325
+Exxon
+Andok B
+(Mil-G-18709A)
+Exxon
+Andok C
+G.E.
+Versilube
+G-300
+Mobil 28
+(Mil-G-81322)
+Chevron
+SRI-2
+Shell
+Alvania 2
+Shell
+Dolium R
+KYODO
+SRL
+NIG-ACE
+W
+Mobil HP
+Grasso sintetico
+Synthetic grase
+Grasso da petrolio
+Channeling petrolem
+grease
+Grasso da petrolio
+Channeling petrolem
+grease
+Grasso siliconico
+Silicone grease
+Sintetico
+Synthetic hydrocarbour
+Minerale
+Mineral grease
+Minerale
+Mineral grease
+Da petrolio
+Petroleum grease
+Sintetico
+Synthetic grease
+Sintetico
+Synthetic grease
+Lithio
+Lithium complex
+Grasso generico.
+General purpose grease.
+Eccellente alle alte velocità e bassi
+carichi.
+Excellent high speed, low torque
+qualities.
+Alta scorrevolezza, lunga durata
+Smooth running, long life with
+minimum migration
+Bassa velocità e carico.
+Light loads and moderate speeds.
+A larga banda e buona resistenza
+alle basse temperature
+Wide temperature range, good low
+temperature torque
+Per alte temperature buona
+resistenza all'acqua.
+High temperature range with good
+water resistance
+Lunga durata
+Long life
+Resistente alla corrosione e all'acqua
+Good corrosion resistance and water
+washout properties
+Bassa rumorosità e bassi carichi.
+Low noise and low torque
+applications.
+Bassa rumorosità e bassi carichi.
+Low noise and low torque
+applications.
+Resistente alla corrosione e
+vibrazioni, velocità moderate.
+Vibration, moderate speeds and
+good corrosion resistance
+XXVI
+DuPont
+Krytox 240AC
+(Mil-G-27617)
+Grasso fluorato
+Fluorinated grease
+Alle alte temperature non perde proprietà
+lubrificanti (costo elevato)
+High temperature stability with good
+lubricity properties sand (very high price)
+-55 to +120
+-30 to +100
+-30 to +120
+-80 to +200
+-55 to +180
+-35 to +180
+-35 to +120
+-35 to +290
+-40 to +150
+-40 to +150
+-10 +150
+-30 to +110
+
+-- 30 of 146 --
+
+9 Materiali utilizzati per la
+costruzione dei cuscinetti
+Sia gli anelli che gli elementi rotanti
+dei cuscinetti, sono soggetto ad elevato
+tasso di stress su una superficie di
+contatto molto ristretta, è per questo
+motivo che devono avere un'alta
+resistenza sia all'usura che
+all'affaticamento.
+Sono pertanto principalmente costruiti
+con acciaio - cromo di elevata qualità,
+in accordo con le norme SAE 52100-
+CR6 che riportiamo nella tabella
+seguente, recante indicazione della
+composizione chimica. Su richiesta
+possono essere costruiti anche in
+esecuzione acciaio INOX.
+Composizione chimica dell'acciaio per cuscinetti
+Chemical content of bearing steel
+Stato
+Country Simbolo
+Symbol C
+% Si 	Mn 	P 	S 	Cr 	Ni 	Mo
+Germania
+Germany
+USA
+USA
+Giappone
+Japan
+105Cr4
+100Cr6
+100CrMn6
+E51100
+E52100
+485Gr.5
+SUJ 2
+SUJ 3
+1,00-1,10
+0,90-1,05
+0,90-1,05
+0,98-1,10
+0,98-1,10
+0,98-1,10
+0,95-1,10
+0,95-1,10
+0,15-0,35
+0,15-0,35
+0,50-0,70
+0,20-0,35
+0,20-0,35
+0,20-0,35
+0,15-0,35
+0,40-0,70
+0,25-0,40
+0,25-0,40
+1,00-1,20
+0,25-0,45
+0,25-0,45
+1,05-1,35
+≤0,50
+0,90-1,15
+≤0,030
+≤0,025
+≤0,025
+≤0,025
+≤0,025
+≤0,025
+≤0,025
+≤0,025
+≤0,025
+≤0,025
+≤0,020
+≤0,025
+≤0,025
+≤0,025
+≤0,025
+≤0,025
+0,90-1,15
+1,40-1,65
+1,40-1,65
+0,90-1,15
+1,30-1,60
+1,90-1,40
+1,30-1,80
+0,90-1,20
+-
+-
+-
+≤0,025
+≤0,025
+≤0,025
+≤0,025
+≤0,025
+-
+-
+-
+≤0,08
+≤0,08
+0,45-0,65
+≤0,08
+≤0,08
+XXVII
+Both the rings and the rolling elements
+of the bearings, are subjected to high
+stress on a very small contact surface;
+for this reason they must have a high
+resistance to wear and to fatigue.
+On that account bearings are made of
+very high quality carbon chromium
+steel.
+In accordance with SAE 52100-CR6,
+please find belw table describing
+chemical composition. These bearings
+can be manufactured, under request,
+in stainless steel.
+9 Materials used during the
+construction of bearings
+
+-- 31 of 146 --
+
+Materiale usato per la gabbia
+I tipi di gabbie variano a seconda delle
+condizioni di utilizzo.
+Le più comuni risultano essere le
+gabbie costruite in lamiera di acciaio
+stampato.
+Altri tipi sono prodotti con ottone o,
+nel caso in cui si verifichi
+un'applicazione che comporti alte
+velocità, con resine poliammidiche
+rinforzate.
+Cage materials
+Different types of cages are
+determined by the operating
+conditions.
+The most common are made of pressed
+steel.
+For high speeds applications,
+reinforced polyamid cages are
+manufactured; for other employment
+brass cages are used.
+Trattamento termico
+Solitamenti i cuscinetti sono in grado
+di sopportare temperature massime
+di +120°C.
+Se questo limite viene superato, i
+cuscinetti devono essere assoggettati
+a speciali trattamenti termici.
+I cuscinetti chiusi, tipo 2RS, dovrebbero
+essere utilizzati a temperature massime
+di +80°C.
+Nel caso in cui la temperatura vada al
+di sopra di questo limite, l'efficacia dei
+lubrificanti e delle tenute è molto
+ridotta.
+Heat treatment
+Bearings are usually able to stand a
+maximum temperature of +120°.
+In the case of higher temperature,
+bearings with special heat treatments
+should be used.
+Sealed bearings, 2RS type, should be
+used at operating temperatures up to
++80°.
+If the temperature is higher, the
+efficacy of lubricants and seals is
+considerably reduced.
+XXVIII
+
+-- 32 of 146 --
+
+10 Confezioni - Imballi
+– Confezioni singole.
+Tutti i cuscinetti ISB possono essere
+forniti in confezioni singole, inserite
+in scatole di cartone, incellofanati a
+blocchi o in casse di legno a seconda
+delle dimensioni del cuscinetto.
+– Confezioni industriali.
+Quando i cuscinetti vengono utilizzati
+in grosse quantità sulle linee di
+montaggio possono essere richiesti in
+confezioni industriali e cioè sciolti,
+protetti da fogli di nylon o tubetti di
+plastica, in scatole di cartone che ne
+possono contenere in quantità
+variabile (anche molte centinaia) a
+seconda delle dimensioni del
+cuscinetto.
+– Imballaggio per il trasporto.
+Le scatole dei cuscinetti vengono
+solitamente accatastate su pallets
+reggettati o inserite in grosse casse di
+legno su pallets, per agevolarne il
+trasporto.
+– Single packing
+ISB bearings can be supplied
+individually packed, inserted in carton
+boxes, rolled in cellophane; or in
+wooden cases, depending on bearing
+dimensions.
+– Industrial packing
+This is the case of direct users, where
+bearings are requested in very big
+quantities to use on assembling lines.
+Under request they are delivered loose
+in a box, protected by nylon sheets or
+packed in plastic tubes and inserted
+therefore in carton boxes. These are
+able to contain different quantities,
+even hundreads, depending on
+bearing dimensions.
+– Transport packing
+Bearing boxes are usually piled up on
+bound pallets or inserted in wooden
+cases rested on pallets to get the
+transport operations easier.
+10 Packing
+XXIX
+
+-- 33 of 146 --
+
+11 Suffissi dei cuscinetti
+Z 	schermo in metallo da un lato del cuscinetto
+ZZ 	schermo in metallo da ambo i lati del cuscinetto
+RS 	guarnizione in gomma da un lato del cuscinetto
+2RS guarnizione in gomma da ambo i lati del cuscinetto
+N 	scanalatura sull'anello esterno per anello arresto
+NR scalatura sull'anello esterno completo di anello arresto
+M 	gabbia di ottone
+MA gabbia in ottone centrata sull'anello esterno
+TN gabbia in poliammide rinforzata
+P6 	tolleranza classe ISO 6
+P5 	tolleranza classe ISO 5
+P4 	tolleranza classe ISO 4
+C2 giuoco inferiore al normale
+C3 giuoco superiore al normale
+C4 giuoco superiore al C3
+C5 giuoco superiore al C4
+K 	foro conico
+11 Bearings suffix
+Z 	metal shield at one side of the bearing
+ZZ 	metal shields at both sides of the bearing
+RS 	rubbing seal at one side of the bearing
+2RS rubbing seals at both sides of the bearing
+N 	snap ring groove in outer ring
+NR snap ring groove in outer ring with stop ring
+M 	machined brass cage
+MA machined brass cage centred on the outer ring
+TN reinforced polyamid cage
+P6 	accuracy to ISO tollerance class 6
+P5 	accuracy to ISO tollerance class 5
+P4 	accuracy to ISO tollerance class 4
+C2 radial clearance less than normal
+C3 radial clearance greater than normal
+C4 radial clearance greater than C3
+C5 radial clearance greater than C4
+K 	conical bore
+XXX
+
+-- 34 of 146 --
+
+®
+
+-- 35 of 146 --
+
+600 - 600F
+R 1600 - 3000 ZZ 	2RS
+160, 161, 60, 618, 619,
+62, 622, 623, 63, 64, 630 ZZ 	2RS
+72B, 73B
+70 32B, 33B
+42, 43 32B.ZZ
+33B.ZZ 32B.2RS
+33B.2RS
+QJ2, QJ3
+12, 13
+22, 23 22.2RS
+23.2RS 12K, 13K
+22K, 23K 22K.2RS 	112, 113
+NU10, 19
+2, 22, 23, 3 NJ2, 22
+23, 3 NUP2, 22
+23, 3 N2, 3 	HJ10, 2, 22
+23, 3
+302, 303, 313, 320, 322
+323, 329, 330, 331, 332
+213, 222, 223, 230, 231
+232, 233, 239, 240, 241 213K, 222K, 223K, 230K, 231K,
+232K, 239K, 240K, 241K
+511, 512, 513, 514 	532, 533 	522, 523 	292E, 293E, 294E
+H2, H23, H3, H30, H31, H32
+con ghiera e dispositivo di sicurezza
+Taper adapter with locknut and washers
+MB
+S u r i c h i e s t a f o r n i b i l i i n e s e c u z i o n e I N OX
+Available under request in stainless steel material
+S u r i c h i e s t a f o r n i b i l i i n e s e c u z i o n e I N OX
+(fino a diametro interno 80 mm)
+Available under request in stainless steel material
+(up to 80 mm. inner diam.)
+AH23, AH3, AH30
+AH31, AH32, AHX KM
+
+-- 36 of 146 --
+
+Microcuscinetti radiali a sfere.
+Miniature radial ball bearings.
+Cuscinetti radiali a sfere.
+Radial deep groove ball bearings.
+Cuscinetti a sfere a contatto obliquo, ad una o due corone.
+Angular contact ball bearings, single or double row
+Cuscinetti radiali a sfere a due corone.
+Radial ball bearings, double row.
+Cuscinetti a sfere a quattro contatti.
+Four-point contact ball bearings.
+Cuscinetti radiali orientabili a sfere, con foro cilindrico
+o con foro conico.
+Self-aligning ball bearings with cylindrical or conical bore.
+Cuscinetti a rulli cilindrici, ad una corona.
+Cylindrical roller bearings, single row.
+Cuscinetti a rulli conici, ad una corona.
+Tapered roller bearings, single row.
+Cuscinetti radiali orientabili, a due corone di rulli,
+con foro cilindrico o con foro conico.
+Spherical roller bearings, double row, with cylindrical
+or conical bore.
+Cuscinetti assiali a sfere, a semplice ed a doppio effetto.
+Cuscinetti assiali orientabili a rulli.
+Thrust ball bearings single and double action.
+Self-aligning thrust roller bearings.
+Bussole di trazione. Bussole di pressione. Ghiere di bloccaggio.
+Rosette di sicurezza.
+Taper adapters. Withdrawal sleeves. Locknuts. Washers.
+Cuscinetti per pompe acqua.
+Water pump bearings.
+pag. 	3
+pag. 	8
+pag. 	19
+pag. 	31
+pag. 	35
+pag. 	43
+pag. 	61
+pag. 	69
+pag. 	75
+pag. 	91
+pag. 101
+
+-- 37 of 146 --
+
+
+
+-- 38 of 146 --
+
+Cuscinetti radiali a sfere
+I cuscinetti radiali rigidi a sfere ISB
+hanno gole profonde che permettono
+di sopportare carichi radiali elevati ed
+assiali più limitati, sono adatti a
+sopportare alte velocità e sono costruiti
+in molteplici esecuzioni.
+I cuscinetti radiali ad una corona di
+sfere sono adatti a moltissime
+applicazioni sia per la semplicità
+costruttiva e di impiego, che per
+l'economicità di produzione.
+I cuscinetti radiali a due corone di sfere
+sono simili a quelli ad una corona, però
+con possibilità di sopportare carichi
+più elevati pur mantenendo velocità
+elevate.
+I cuscinetti radiali a sfere sono forniti
+in esecuzione aperta, chiusa con uno
+o due schermi Z in lamierino di acciaio,
+o con uno o due protezioni striscianti
+RS in gomma con rinforzo in lamierino
+di acciaio.
+L'esecuzione aperta è la più semplice
+e comune e viene utilizzata quando il
+cuscinetto può o deve essere
+rilubrificato frequentemente oppure
+è montato in bagno d'olio.
+L'esecuzione con protezione in
+lamierino di acciaio non strisciante,
+che permette elevate velocità senza
+surriscaldamenti, viene utilizzato in
+applicazioni dove non necessita o è
+difficoltosa la lubrificazione, quali
+motori elettrici, elettrodomestici,
+alternatori, ecc. La protezione è
+montata ad incastro sull'anello esterno
+e sfiora l'anello interno senza toccarlo,
+proteggendo le sfere dalla polvere e
+dall'umidità, garantendo una lunga
+durata ed una lubrificazione a lunga
+durata con grasso.
+L'esecuzione con protezione in acciaio
+e gomma strisciante può sopportare
+ISB radial ball bearings are provided
+with deep grooves which enable them
+to bear heavy radial loads and lower
+axial ones, they stand high speeds and
+are manufactured in many different
+executions.
+Single row radial ball bearings adapt
+themselves to many different
+applications, both for their constructive
+simplicity and using facility, and for
+their low production costs.
+Double row radial ball bearings are
+similar to the single ones, they stand
+out from the others owing to their
+ability to bear heavy loads, mantaining
+nevertheless high speeds.
+Radial ball bearings are available in
+open execution, closed with one or two
+steel shields ("Z" or "ZZ" types), closed
+with one or two rubber seals
+strenghtened by an inner steel sheet
+("R" or "2RS" type).
+The open execution is the easiest and
+the most common: this type is
+necessary when the bearing could or
+must be often re-lubricated during its
+life, or when it has to work in oil.
+The shielded execution enables the
+bearing to stand high speeds avoiding
+overheating; this type of bearing is
+necessary when lubrication opeations
+are difficult or even non-existent, for
+instance: electric motors, alternators,
+electrical household. The shield is
+inserted on the outer ring and it's very
+closed to the inner one, but without
+any contact: in this way balls are
+protected from dust and damp, long
+life of bearing is guaranteed as well
+as a long duration of grease
+lubrication.
+On the other side, the sealed execution
+stands lower speeds respect to other
+Radial ball bearings
+1
+
+-- 39 of 146 --
+
+velocità inferiori rispetto alle altre
+forme, però garantisce la tenuta anche
+contro infiltrazione di liquidi ed umidità
+ed è definita a tenuta stagna. La
+protezione è montata ad incastro
+sull'anello esterno e la parte in gomma
+striscia contro l'anello interno
+garantendo la tenuta stagna.
+Per particolari esigenze, dettate da
+applicazioni gravose o di precisione,
+si ricorre ad esecuzioni con giuoco
+minorato o maggiorato (C2, C3, C4,
+C5), o tolleranze ristrette (P6, P5, P4),
+o con una scanalatura radiale
+sull'anello esterno (N, NR) nella quale
+è possibile inserire un anello di
+arresto, che mantiene bloccato il
+cuscinetto nella sua sede di montaggio,
+semplificando la progettazione e la
+manutenzione della macchina.
+I cuscinetti radiali a sfere vengono
+forniti con gabbie in lamiera di acciaio
+stampato, oppure per prestazioni più
+elevate con gabbie in ottone.
+Per velocità molto elevate vengono
+utilizzate gabbie in poliammide
+rinforzata che esercitano minor attrito
+e di conseguenza minor calore,
+aumentando le prestazioni.
+types but it guarantees against liquid
+infiltrations and it is therefore called
+wateright.
+For particular requirements, such as
+heavy applications or precision ones,
+we resort to increased or decreased
+radial clearance (C2, C3, C4, C5), or
+to limited tolerances (P6, P5, P4).
+In other cases they are provided with
+a deep groove on the outer ring (N,
+NR), in which it is possible to insert a
+stop-ring, semplifying therefore the
+design and the maintenance of the
+machinery.
+Radial ball bearings can be
+manufactured with pressed steel cages
+or, for special applications, with brass
+cages.
+For high speed polyamid cages are
+utilized: performances are at the top
+thanks to a lower friction and
+consequently a lower heat.
+2
+
+-- 40 of 146 --
+
+Dimensioni
+Dimensions
+Serie 600 F 600 L
+600 F 600 L series
+d
+Z 	ZZ
+RS 	2RS
+1
+1
+1.5
+1.5
+1.5
+2
+2
+2
+2.5
+2.5
+2.5
+3
+3
+3
+3
+3
+4
+4
+4
+4
+4
+4
+4
+4
+4
+5
+5
+5
+5
+5
+5
+5
+5
+5
+D 	B 	C
+Flangia
+Flange
+Aperto
+Open
+Df 	Wf
+Raccordo
+Radius
+r
+Coeff. di carico
+Load rating
+N/LBS
+Dinam 	stat.
+C 	CO
+Sfere
+Balls Sigla cuscinetto
+Designation bearing
+No. 	Size
+3
+4
+4
+5
+6
+5
+6
+7
+6
+7
+8
+6
+7
+8
+9
+10
+7
+8
+9
+10
+11
+11
+12
+13
+16
+8
+9
+10
+11
+11
+13
+14
+16
+19
+1
+1.6
+1.2
+2
+2.5
+1.5
+2.3
+2.8
+1.8
+2.5
+2.8
+2
+2
+3
+3
+4
+2
+2
+2.5
+3
+3.5
+4
+4
+5
+5
+2
+2.5
+3
+3
+4
+4
+5
+5
+6
+1.5
+2.3
+2
+2.6
+3
+2.3
+3
+3.5
+2.6
+3.5
+4
+2.5
+3
+4
+5
+4
+2.5
+3
+4
+4
+-
+4
+4
+5
+5
+2.5
+3
+4
+5
+-
+4
+5
+5
+6
+3.8
+5
+5
+6.5
+7.5
+6.1
+7.5
+8.5
+7.1
+8.5
+9.5
+7.2
+8.1
+9.5
+10.5
+11.5
+8.2
+9;2
+10.3
+11.2
+-
+12.5
+13.5
+15
+-
+9.2
+-
+-
+12.5
+-
+15
+16
+18
+-
+0.3
+0.6
+0.4
+0.6
+0.6
+0.5
+0.6
+0.7
+0.5
+0.7
+0.7
+0.6
+0.5
+0.7
+0.7
+1.0
+0.6
+0.6
+0.6
+0.6
+-
+1.0
+1.0
+1.0
+-
+0.6
+-
+-
+0.8
+-
+1.0
+1.0
+1.0
+-
+0.05
+0.05
+0.05
+0.05
+0.05
+0.1
+0.1
+0.15
+0.15
+0.15
+0.15
+0.05
+0.15
+0.15
+0.15
+0.15
+0.1
+0.1
+0.15
+0.15
+0.1
+0.15
+0.2
+0.2
+0.2
+0.08
+0.1
+0.1
+0.2
+0.15
+0.2
+0.2
+0.3
+0.3
+14
+24
+20
+29
+55
+29
+55
+66
+35
+66
+64
+35
+66
+64
+99
+99
+57.2
+88
+99
+99
+123
+123
+167
+224
+300
+61.6
+112.2
+115
+123
+123
+187
+229
+300
+400
+4
+9
+7
+11
+22
+11
+22
+29
+14
+29
+24
+14
+29
+24
+42
+42
+24.2
+33
+42
+42
+57
+57
+77
+108
+140
+30.8
+46.2
+55
+57
+57
+90
+110
+140
+190
+7
+6
+7
+7
+6
+7
+6
+7
+8
+7
+6
+8
+7
+6
+7
+7
+11
+7
+7
+8
+8
+9
+7
+6
+8
+13
+10
+8
+9
+8
+8
+7
+8
+6
+0.5
+0.794
+0.635
+0.794
+1.19
+0.794
+1.19
+1.19
+0.794
+1.19
+1.588
+0.794
+1.19
+1.588
+1.588
+1.588
+0.794
+1.191
+1.588
+1.588
+1.588
+1.588
+2.0
+2.381
+2.381
+0.794
+1.191
+1.588
+1.588
+1.588
+2.0
+2.381
+2;381
+3.969
+681
+691
+681.5
+691.5
+601.5
+682
+692
+602
+682.5
+692.5
+602.5
+673
+683
+693
+603
+623
+674
+-
+684
+-
+-
+694
+604
+624
+634
+675
+-
+-
+685
+-
+695
+605
+625
+635
+L310
+-
+L415
+-
+-
+L520
+-
+-
+L625
+-
+-
+L630
+L730
+-
+-
+-
+L740
+L840
+L940
+L1040
+L1140W3.5
+-
+-
+-
+-
+L850
+L950
+L1050
+L1150
+L1150w4
+-
+-
+-
+-
+CW 	NMB
+C: larghezza con schermi
+C: width shielded and sealed
+3
+Su richiesta fornibili in esecuzione INOX
+Available under request in stainless steel material
+
+-- 41 of 146 --
+
+6
+6
+6
+6
+6
+6
+6
+6.35
+6.35
+7
+7
+7
+7
+7
+7
+8
+8
+8
+8
+8
+8
+9
+9
+9
+9
+10
+10
+10
+10
+12
+13
+15
+17
+19
+19
+19
+22
+11
+13
+14
+17
+19
+22
+12
+14
+16
+19
+22
+24
+17
+20
+24
+26
+19
+19
+20
+2.5
+3
+3.5
+5
+6
+6
+6
+6
+7
+2.5
+3
+3.5
+5
+6
+7
+2.5
+3.5
+4
+6
+7
+8
+4
+6
+7
+8
+5
+6
+5
+3
+4
+5
+5
+6
+6
+6
+6
+7
+3
+3
+5
+5
+6
+7
+3.5
+4
+5
+6
+7
+8
+5
+6
+7
+8
+5
+-
+-
+11.2
+13.2
+15
+17
+19
+22
+22
+22
+-
+12.2
+14.2
+16
+19
+22
+-
+13.2
+15.6
+18
+22
+25
+-
+19
+-
+-
+-
+-
+-
+-
+0.6
+0.6
+1.0
+1.2
+1.2
+1.5
+1.5
+1.5
+-
+0.6
+0.6
+1.0
+1.2
+1.5
+-
+0.6
+0.8
+1.0
+1.5
+1.5
+-
+1.0
+-
+-
+-
+-
+-
+-
+0.1
+0.15
+0.2
+0.2
+0.3
+0.3
+0.3
+0.3
+0.3
+0.1
+0.15
+0.2
+0.2
+0.3
+0.3
+0.1
+0.15
+0.3
+0.3
+0.3
+0.3
+0.2
+0.3
+0.3
+0.3
+0.3
+0.3
+0.3
+123
+187
+187
+300
+300
+400
+380
+400
+580
+101.2
+198
+202
+235
+385
+580
+114.4
+198
+310
+285
+580
+580
+310
+310
+580
+790
+310
+310
+310
+57
+81.4
+90
+140
+140
+190
+180
+190
+290
+46.2
+88
+103
+120
+180
+290
+57.2
+88
+160
+145
+290
+290
+160
+160
+290
+400
+160
+160
+160
+9
+10
+8
+8
+8
+6
+7
+6
+7
+9
+11
+9
+7
+6
+7
+11
+11
+9
+7
+7
+7
+9
+9
+7
+7
+9
+9
+9
+1.191
+1.588
+2.0
+2.381
+2.381
+3.969
+3.5
+3.969
+3.969
+1.191
+1.588
+2.0
+3.0
+3.969
+3.969
+1.191
+1.588
+2.381
+3.5
+3.969
+3.969
+2.381
+2.381
+3.969
+4.763
+2.381
+2.381
+2.381
+676
+-
+686
+696
+606
+626
+626
+626-4
+627-4
+677
+-
+687
+697
+607
+627
+678
+-
+688
+698
+608
+628
+689
+699
+609
+629
+-
+-
+-
+L1060
+L1260
+L1360
+-
+-
+-
+-
+-
+-
+L1170
+L1370
+L1470
+-
+-
+-
+L1280
+L1480
+L1680
+-
+-
+-
+L1790
+L2090
+-
+-
+L1910
+L1910W6
+L2010
+Dimensioni
+Dimensions
+Serie 600 F 600 L
+600 F 600 L series
+d
+Z 	ZZ
+RS 	2RS
+D 	B 	C
+Flangia
+Flange
+Aperto
+Open
+Df 	Wf
+Raccordo
+Radius
+r
+Coeff. di carico
+Load rating
+N/LBS
+Dinam 	stat.
+C 	CO
+Sfere
+Balls Sigla cuscinetto
+Designation bearing
+No. 	Size 	CW 	NMB
+C: larghezza con schermi
+C: width shielded and sealed
+4
+Su richiesta fornibili in esecuzione INOX
+Available under request in stainless steel material
+
+-- 42 of 146 --
+
+Dimensioni - Dimensions
+Serie R in pollici
+R inche series
+d
+Z 	ZZ(77R)
+RS 	2RS(99R)
+1.016
+1.191
+1;397
+1.984
+2.381
+2.381
+3.175
+3.175
+3.175
+3.175
+3.175
+3.969
+4.763
+4.763
+4.763
+4.763
+6.350
+6.350
+6.350
+6.350
+9.525
+12.700
+11.113
+15.875
+19.050
+15.875
+D 	B
+Flangia-Flange
+inch Raccordo
+Radius
+inch
+r
+Coeff. di raccordo
+Load rating
+Dinam 	stat.
+Df 	Wf
+Sfere
+Balls
+No. 	mm
+Size
+.0400
+.0469
+.0550
+.0781
+.0937
+.0937
+.1250
+1.250
+1.250
+1.250
+1.250
+1.562
+.1875
+.1875
+.1875
+.1875
+.2500
+.2500
+.2500
+.2500
+.3750
+.5000
+.4375
+.6250
+.7500
+.6250
+3.175
+3.969
+4.673
+6.350
+4.763
+7.938
+6.350
+7.938
+9.525
+9.525
+12.700
+7.938
+7.938
+9;525
+12.700
+12.700
+9.525
+12.700
+15.875
+19.050
+22.225
+28.575
+28.575
+34.925
+41.275
+34.925
+.1250
+.1562
+.1875
+.2500
+1.875
+.3125
+.2500
+.3125
+.3750
+.3750
+.5000
+.3125
+.3125
+.3750
+.5000
+.5000
+.3750
+.5000
+.6250
+.7500
+.8750
+1.1250
+1.1250
+1.3750
+1.6250
+1.3750
+1.19
+1.59
+1.96
+2.38
+1.59
+2.78
+2.38
+2.78
+2.78
+3.97
+4.37
+2.78
+2.78
+3.18
+3.97
+4.98
+3.18
+4.76
+4.98
+5.56
+5.56
+6.35
+6.35
+7.14
+7.94
+-
+.0469
+.0625
+.0781
+.0937
+.0625
+.1094
+.0937
+.1094
+.1094
+.1562
+.1719
+.1094
+.1094
+.1250
+.1562
+.1960
+.1250
+.1250
+.1960
+.2188
+.2188
+.2500
+.2500
+.2812
+.3125
+-
+-
+2.38
+2.78
+3.57
+2.38
+3.57
+2.78
+3.57
+3.57
+3.97
+4.37
+3.18
+3.18
+3.18
+4.98
+4.98
+3.18
+4.76
+4.98
+7.14
+7.14
+7.94
+-
+8.73
+11.11
+11
+-
+.0937
+.1094
+.1400
+.0937
+.1406
+.1094
+.1406
+.1406
+.1562
+.1719
+.1250
+.1250
+.1250
+.1960
+.1960
+.1250
+.1875
+.1960
+.2812
+.2812
+.3125
+-
+.3438
+.4375
+.4331
+-
+.203
+.234
+.296
+.234
+.359
+.296
+.359
+.422
+.440
+-
+.359
+.359
+.422
+.565
+-
+.422
+.547
+.690
+-
+.969
+.225
+-
+-
+-
+-
+-
+.013
+.023
+.023
+.018
+.023
+.023
+.023
+.023
+.030
+-
+.023
+.023
+.023
+.042
+-
+0.23
+.023
+.042
+-
+.062
+.062
+-
+-
+-
+-
+.004
+.004
+.004
+.004
+.004
+.006
+.004
+.004
+.006
+.012
+.012
+.004
+.004
+.004
+.012
+.012
+.004
+.006
+.012
+.016
+.016
+.016
+.016
+.031
+.031
+.031
+11
+15
+26
+35
+22
+64
+35
+64
+73
+73
+73
+2
+42
+81
+147
+147
+42
+123
+167
+403
+575
+880
+880
+1036
+1630
+1036
+3
+6
+10
+13
+8
+24
+13
+24
+29
+29
+29
+18
+18
+33
+64
+64
+20
+55
+77
+196
+304
+505
+505
+624
+1000
+624
+C: larghezza con schermi
+C: width shielded and sealed
+-
+-
+-
+-
+-
+-
+-
+-
+-
+7
+6
+-
+-
+-
+6
+-
+-
+8
+8
+6
+7
+8
+8
+8
+9
+8
+-
+-
+-
+-
+-
+-
+-
+-
+-
+1.588
+2.381
+-
+-
+-
+2.381
+-
+-
+1.588
+2.381
+3.696
+3.696
+4.763
+4.763
+5.953
+6.35
+5.953
+C 	CO	mm 	inch 	mm 	inch 	mm 	inch 	mm 	inch
+Aperto-Open Schermato-Shielded
+Sigla
+cuscinetto
+Designation
+bearing
+R09
+R0
+R1
+R1-4
+R133
+R1-5
+R144
+R2-5
+R2-6
+R2
+R2A
+R155
+R156
+R166
+R3
+R3A
+R168
+R188
+R4
+R4A
+R6
+R8
+R8-7
+R10
+R12
+9960H
+5
+Su richiesta fornibili in esecuzione INOX
+Available under request in stainless steel material
+
+-- 43 of 146 --
+
+Serie 1600 in pollici
+Inch 1600 series
+Z 	ZZ
+RS 	2RS
+1601
+1602
+1603
+1604
+1605
+1606
+1607
+1614
+1615
+1616
+1620
+1621
+1622
+1623
+1628
+1630
+1633
+1635
+4.763
+6.350
+7.938
+9.525
+7.938
+9.325
+11.113
+9.525
+11.113
+12.700
+11.113
+12.700
+14.288
+15.875
+15.875
+19.050
+15.875
+19.050
+.1875
+.2500
+.3125
+.3750
+.3125
+.3750
+.4375
+.3750
+.4375
+.5000
+.4375
+.5000
+.5625
+.6250
+.6250
+.7500
+.6250
+.7500
+17.463
+17.463
+22.225
+22.225
+23.019
+23.019
+23.019
+28.575
+28.575
+28.575
+34.925
+34.925
+34.925
+34.925
+41.275
+41.275
+44.450
+44.450
+.6875
+.6875
+.8750
+.8750
+.9062
+.9062
+.9062
+1.1250
+1.1250
+1.1250
+1.3750
+1.3750
+1.3750
+1.3750
+1.6250
+1.6250
+1.7500
+1.7500
+*6.350
+*6.350
+▲7.144
+▲7.144
+7.938
+7.938
+7.938
+9.525
+9.525
+9.525
+11.113
+11.113
+11.113
+11.113
+12.700
+12.700
+12.700
+12.700
+.2500
+.2500
+.2812
+.2812
+.3125
+.3125
+.3125
+.3750
+.3750
+.3750
+.4375
+.4375
+.4375
+.4375
+.5000
+.5000
+.5000
+.5000
+.012
+.012
+.012
+.015
+.012
+.015
+.015
+.025
+.025
+.025
+.025
+.025
+.025
+.025
+.025
+.025
+.025
+.025
+340
+340
+573
+573
+573
+573
+800
+882
+882
+882
+1323
+1323
+1323
+1323
+1627
+1627
+1627
+1627
+163
+163
+302
+302
+302
+302
+436
+505
+505
+505
+781
+781
+781
+781
+1001
+1001
+1001
+1001
+6
+6
+7
+7
+7
+7
+7
+8
+8
+8
+10
+10
+10
+10
+9
+9
+9
+9
+3.969
+3.969
+3.969
+3.969
+3.969
+3.969
+3.969
+4.763
+4.763
+4.763
+4.763
+4.763
+4.763
+4.763
+6.35
+6.35
+6.35
+6.35
+*Width RS & 2RS = 5/16 inch - 7.938 mm - ▲Width RS & 2RS = 11/32 inch. - 8.731 mm
+Dimensioni - Dimensions
+d 	D 	B
+Raccordo
+Radius
+inch
+Coeff. di carico
+Load rating
+N/LBS
+Dinam 	stat.
+Sfere
+Balls
+No. 	mm
+Size
+C 	CO	mm 	inch 	mm 	inch 	mm 	inch
+Sigla
+cuscinetto
+Designation
+bearing
+6
+Su richiesta fornibili in esecuzione INOX
+Available under request in stainless steel material
+
+-- 44 of 146 --
+
+Serie 3000 in pollici
+Inch 3000 series
+Z 	ZZ
+RS 	2RS
+3020
+3021
+3022
+3023
+2028
+3030
+3033
+11.112
+12.700
+14.288
+15.875
+15.875
+19.050
+15.875
+7/16
+1/2
+9/16
+5/8
+5/8
+3/4
+5/8
++0.005
+-0.000
++0.005
+-0.000
++0.005
+-0.000
++0.005
+-0.000
++0.005
+-0.000
++0.005
+-0.000
++0.005
+-0.000
+34.925
+34.925
+34.925
+34.925
+41.275
+41.275
+44.450
++0.0000
+-0.005
++0.0000
+-0.005
++0.0000
+-0.005
++0.0000
+-0.005
++0.0000
+-0.005
++0.0000
+-0.005
++0.0000
+-0.005
+7/16
+7/16
+7/16
+7/16
+1/2
+1/2
+1/2
++0.005
+-0.005
++0.005
+-0.005
++0.005
+-0.005
++0.005
+-0.005
++0.005
+-0.005
++0.005
+-0.005
++0.005
+-0.005
+0.80
+0.80
+0.80
+0.80
+0.80
+0.80
+0.80
+1/32
+1/32
+1/32
+1/32
+1/32
+1/32
+1/32
+Dimensioni - Dimensions
+d 	D 	B
+Raccordo
+Radius
+inch
+mm 	inch	mm 	inch 	mm 	inch 	mm 	inch
+Sigla
+cuscinetto
+Designation
+bearing
+1-3/8
+1-3/8
+1-3/8
+1-3/8
+1-5/8
+1-5/8
+1-3/4
+11.112
+11.112
+11.112
+11.112
+12.700
+12.700
+12.700
+Tolleranze 	Tolleranze 	Tolleranze
+7
+Su richiesta fornibili in esecuzione INOX
+Available under request in stainless steel material
+
+-- 45 of 146 --
+
+Cuscinetti radiali ad una corona di sfere
+Radial deep groove ball bearings, single row
+d 	3-12 mm
+3
+4
+5
+6
+7
+8
+9
+10
+12
+10
+9
+12
+13
+16
+11
+16
+19
+13
+19
+14
+19
+22
+16
+22
+17
+24
+26
+19
+22
+26
+28
+30
+35
+21
+24
+28
+30
+32
+37
+4
+2,5
+4
+5
+5
+3
+5
+6
+3,5
+6
+3,5
+6
+7
+4
+7
+4
+7
+8
+5
+6
+8
+8
+9
+11
+5
+6
+8
+8
+10
+12
+488
+540
+806
+975
+1 110
+637
+1 110
+1 720
+884
+1 720
+956
+1 720
+3 250
+1 330
+3 250
+1 430
+3 710
+4 620
+1 380
+1 950
+4 620
+4 620
+5 070
+8 060
+1 430
+2 250
+5 070
+5 070
+6 890
+9 750
+146
+180
+280
+305
+380
+255
+380
+620
+345
+620
+400
+620
+1 370
+570
+1 370
+640
+1 660
+1 960
+585
+750
+1 960
+1 960
+2 360
+3 400
+670
+980
+2 360
+2 360
+3 100
+4 150
+60 000
+63 000
+53 000
+48 000
+43 000
+53 000
+43 000
+36 000
+48 000
+36 000
+45 000
+38 000
+32 000
+40 000
+36 000
+38 000
+32 000
+28 000
+36 000
+34 000
+30 000
+28 000
+24 000
+20 000
+32 000
+30 000
+26 000
+26 000
+22 000
+19 000
+70 000
+75 000
+63 000
+56 000
+50 000
+63 000
+50 000
+43 000
+56 000
+43 000
+53 000
+45 000
+38 000
+48 000
+43 000
+45 000
+38 000
+34 000
+43 000
+40 000
+36 000
+34 000
+30 000
+26 000
+38 000
+36 000
+32 000
+32 000
+28 000
+24 000
+0,0015
+0,0007
+0,0022
+0,0031
+0,0054
+0,0012
+0,0050
+0,0090
+0,0020
+0,0084
+0,0022
+0,0075
+0,013
+0,0030
+0,012
+0,0034
+0,014
+0,020
+0,0055
+0,010
+0,019
+0,022
+0,032
+0,053
+0,0063
+0,011
+0,022
+0,023
+0,037
+0,060
+* SOLO IN ESECUZIONE APERTA - * AVAILABLE ONLY OPEN TYPE
+623
+618/4
+604
+624
+634
+618/5
+625
+635
+618/6
+626
+618/7
+607
+627
+618/8
+608
+618/9
+609
+629
+61800
+61900
+6000
+16100
+6200
+6300
+61801
+61901
+6001
+16101
+6201
+6301
+Dimensioni
+Dimensions
+mm
+d 	D 	B
+Coefficente di carico
+Load rating
+N
+Velocità limite
+Speed limit
+Lubrificazione
+grasso 	olio
+grease 	oil
+Tipo aperto
+Open type
+Peso
+Weight
+kg
+Sigla
+cuscinetto
+Designation
+bearing	dinam. 	stat.
+C 	C0
+*
+*
+Z 	ZZ 	RS 	2RS 	N 	NR
+8
+Su richiesta fornibili in esecuzione INOX fino a diametro interno 80 mm.
+Available under request in stainless steel material up to 80 mm. inner diam.
+
+-- 46 of 146 --
+
+15
+17
+20
+25
+30
+24
+28
+32
+32
+35
+42
+26
+30
+35
+35
+40
+47
+62
+32
+37
+42
+42
+47
+52
+72
+37
+42
+47
+47
+52
+62
+80
+42
+47
+55
+55
+62
+72
+90
+5
+7
+8
+9
+11
+13
+5
+7
+8
+10
+12
+14
+17
+7
+9
+8
+12
+14
+15
+19
+7
+9
+8
+12
+15
+17
+21
+7
+9
+9
+13
+16
+19
+23
+1 560
+4 030
+5 590
+5 590
+7 800
+11 400
+1 680
+4 360
+6 050
+6 050
+9 560
+13 500
+22 900
+2 700
+6 370
+6 890
+9 360
+12 700
+15 900
+30 700
+4 360
+6 630
+7 610
+11 200
+14 000
+22 500
+35 800
+4 490
+7 280
+11 200
+13 300
+19 500
+28 100
+43 600
+800
+2 040
+2 850
+2 850
+3 750
+5 400
+930
+2 320
+3 250
+3 250
+4 750
+6 550
+10 800
+1 500
+3 650
+4 050
+5 000
+6 550
+7 800
+15 000
+2 600
+4 000
+4 750
+6 550
+7 800
+11 600
+19 300
+2 900
+4 550
+7 350
+8 300
+11 200
+16 000
+23 600
+28 000
+24 000
+22 000
+22 000
+19 000
+17 000
+24 000
+22 000
+19 000
+19 000
+17 000
+16 000
+12 000
+19 000
+18 000
+17 000
+17 000
+15 000
+13 000
+10 000
+17 000
+16 000
+14 000
+15 000
+12 000
+11 000
+9 000
+15 000
+14 000
+12 000
+12 000
+10 000
+9 000
+8 500
+34 000
+30 000
+28 000
+28 000
+24 000
+20 000
+30 000
+28 000
+24 000
+24 000
+20 000
+19 000
+15 000
+24 000
+22 000
+20 000
+20 000
+18 000
+16 000
+13 000
+20 000
+19 000
+17 000
+18 000
+15 000
+14 000
+11 000
+18 000
+17 000
+15 000
+15 000
+13 000
+11 000
+10 000
+0,0074
+0,016
+0,025
+0,030
+0,045
+0,082
+0,0082
+0,018
+0,032
+0,039
+0,065
+0,12
+0,27
+0,018
+0,038
+0,050
+0,069
+0,11
+0,14
+0,40
+0,022
+0,045
+0,060
+0,080
+0,13
+0,23
+0,53
+0,027
+0,051
+0,085
+0,12
+0,20
+0,35
+0,74
+61802
+61902
+16002
+6002
+6202
+6302
+61803
+61903
+16003
+6003
+6203
+6303
+6403
+61804
+61904
+16004
+6004
+6204
+6304
+6404
+61805
+61905
+16005
+6005
+6205
+6305
+6405
+61806
+61906
+16006
+6006
+6206
+6306
+6406
+*
+*
+*
+*
+*
+*
+*
+*
+*
+Cuscinetti radiali ad una corona di sfere
+Radial deep groove ball bearings, single row
+d 	15-30 mm
+Dimensioni
+Dimensions
+mm
+d 	D 	B
+Coefficente di carico
+Load rating
+N
+Velocità limite
+Speed limit
+Lubrificazione
+grasso 	olio
+grease 	oil
+Tipo aperto
+Open type
+Peso
+Weight
+kg
+Sigla
+cuscinetto
+Designation
+bearing	dinam. 	stat.
+C 	C0
+Z 	ZZ 	RS 	2RS 	N 	NR
+* SOLO IN ESECUZIONE APERTA - * AVAILABLE ONLY OPEN TYPE
+9
+Su richiesta fornibili in esecuzione INOX fino a diametro interno 80 mm.
+Available under request in stainless steel material up to 80 mm. inner diam.
+
+-- 47 of 146 --
+
+35
+40
+45
+50
+55
+47
+55
+62
+62
+72
+80
+100
+52
+62
+68
+68
+80
+90
+110
+58
+68
+75
+75
+85
+100
+120
+65
+72
+80
+80
+90
+110
+130
+72
+80
+90
+90
+100
+120
+140
+7
+10
+9
+14
+17
+21
+25
+7
+12
+9
+15
+18
+23
+27
+7
+12
+10
+16
+19
+25
+29
+7
+12
+10
+16
+20
+27
+31
+9
+13
+11
+18
+21
+29
+33
+4 750
+9 560
+12 400
+15 900
+25 500
+33 200
+55 300
+4 940
+13 800
+13 300
+16 800
+30 700
+41 000
+63 700
+6 050
+14 000
+15 600
+20 800
+33 200
+52 700
+76 100
+6 240
+14 600
+16 300
+21 600
+35 100
+61 800
+87 100
+8 320
+15 900
+19 500
+28 100
+43 600
+71 500
+99 500
+3 200
+6 200
+8 150
+10 200
+15 300
+19 000
+31 000
+3 450
+9 300
+9 150
+11 600
+19 000
+24 000
+36 500
+4 300
+9 800
+10 800
+14 600
+21 600
+31 500
+45 000
+4 750
+10 400
+11 400
+16 000
+23 200
+38 000
+52 000
+6 200
+11 400
+14 000
+21 200
+29 000
+45 000
+62 000
+13 000
+11 000
+10 000
+10 000
+9 000
+8 500
+7 000
+11 000
+10 000
+9 500
+9 500
+8 500
+7 500
+6 700
+9 500
+9 000
+9 000
+9 000
+7 500
+6 700
+6 000
+9 000
+8 500
+8 500
+8 500
+7 000
+6 300
+5 300
+8 500
+8 000
+7 500
+7 500
+6 300
+5 600
+5 000
+16 000
+14 000
+13 000
+13 000
+11 000
+10 000
+8 500
+14 000
+13 000
+12 000
+12 000
+10 000
+9 000
+8 000
+12 000
+11 000
+11 000
+11 000
+9 000
+8 000
+7 000
+11 000
+10 000
+10 000
+10 000
+8 500
+7 500
+6 300
+10 000
+9 500
+9 000
+9 000
+7 500
+6 700
+6 000
+0,030
+0,080
+0,11
+0,16
+0,29
+0,46
+0,95
+0,034
+0,12
+0,13
+0,19
+0,37
+0,63
+1,25
+0,040
+0,14
+0,17
+0,25
+0,41
+0,83
+1,55
+0,052
+0,14
+0,18
+0,26
+0,46
+1,05
+1,90
+0,083
+0,19
+0,26
+0,39
+0,61
+1,35
+2,30
+61807
+61907
+16007
+6007
+6207
+6307
+6407
+61808
+61908
+16008
+6008
+6208
+6308
+6408
+61809
+61909
+16009
+6009
+6209
+6309
+6409
+61810
+61910
+16010
+6010
+6210
+6310
+6410
+61811
+61911
+16011
+6011
+6211
+6311
+6411
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+Cuscinetti radiali ad una corona di sfere
+Radial deep groove ball bearings, single row
+d 	35-55 mm
+Dimensioni
+Dimensions
+mm
+d 	D 	B
+Coefficente di carico
+Load rating
+N
+Velocità limite
+Speed limit
+Lubrificazione
+grasso 	olio
+grease 	oil
+Tipo aperto
+Open type
+Peso
+Weight
+kg
+Sigla
+cuscinetto
+Designation
+bearing	dinam. 	stat.
+C 	C0
+Z 	ZZ 	RS 	2RS 	N 	NR
+* SOLO IN ESECUZIONE APERTA - * AVAILABLE ONLY OPEN TYPE
+10
+Su richiesta fornibili in esecuzione INOX fino a diametro interno 80 mm.
+Available under request in stainless steel material up to 80 mm. inner diam.
+
+-- 48 of 146 --
+
+60
+65
+70
+75
+80
+78
+85
+95
+95
+110
+130
+150
+85
+90
+100
+100
+120
+140
+160
+90
+100
+110
+110
+125
+150
+180
+95
+105
+115
+115
+130
+160
+190
+100
+110
+125
+125
+140
+170
+200
+10
+13
+11
+18
+22
+31
+35
+10
+13
+11
+18
+23
+33
+37
+10
+16
+13
+20
+24
+35
+42
+10
+16
+13
+20
+25
+37
+45
+10
+16
+14
+22
+26
+39
+48
+8 710
+16 500
+19 900
+29 600
+47 500
+81 900
+108 000
+11 700
+17 400
+21 200
+30 700
+55 900
+92 300
+119 000
+12 100
+23 800
+28 100
+37 700
+60 500
+104 000
+143 000
+12 500
+24 200
+28 600
+39 700
+66 300
+114 000
+153 000
+12 400
+25 100
+33 200
+47 500
+70 200
+124 000
+163 000
+6 700
+12 000
+15 000
+23 200
+32 500
+52 000
+69 500
+9 150
+13 400
+16 600
+25 000
+40 500
+60 000
+78 000
+10 000
+18 300
+25 000
+31 000
+45 000
+68 000
+104 000
+10 800
+19 300
+27 000
+33 500
+49 000
+76 500
+114 000
+10 800
+20 400
+31 500
+40 000
+55 000
+86 500
+125 000
+7 500
+7 500
+6 700
+6 700
+6 000
+5 000
+4 800
+7 000
+6 700
+6 300
+6 300
+5 300
+4 800
+4 500
+6 700
+6 300
+6 000
+6 000
+5 000
+4 500
+3 800
+6 300
+6 000
+5 600
+5 600
+4 800
+4 300
+3 600
+6 000
+5 600
+5 300
+5 300
+4 500
+3 800
+3 400
+9 000
+9 000
+8 000
+8 000
+7 000
+6 000
+5 600
+8 500
+8 000
+7 500
+7 500
+6 300
+5 600
+5 300
+8 000
+7 500
+7 000
+7 000
+6 000
+5 300
+4 500
+7 500
+7 000
+6 700
+6 700
+5 600
+5 000
+4 300
+7 000
+6 700
+6 300
+6 300
+5 300
+4 500
+4 000
+0,11
+0,20
+0,28
+0,42
+0,78
+1,70
+2,75
+0,13
+0,22
+0,30
+0,44
+0,99
+2,10
+3,30
+0,14
+0,35
+0,43
+0,60
+1,05
+2,50
+4,85
+0,15
+0,37
+0,46
+0,64
+1,20
+3,00
+6,80
+0,15
+0,40
+0,60
+0,85
+1,40
+3,60
+8,00
+61812
+61912
+16012
+6012
+6212
+6312
+6412
+61813
+61913
+16013
+6013
+6213
+6313
+6413
+61814
+61914
+16014
+6014
+6214
+6314
+6414
+61815
+61915
+16015
+6015
+6215
+6315
+6415
+61816
+61916
+16016
+6016
+6216
+6316
+6416
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+Cuscinetti radiali ad una corona di sfere
+Radial deep groove ball bearings, single row
+d 	60-80 mm
+Dimensioni
+Dimensions
+mm
+d 	D 	B
+Coefficente di carico
+Load rating
+N
+Velocità limite
+Speed limit
+Lubrificazione
+grasso 	olio
+grease 	oil
+Tipo aperto
+Open type
+Peso
+Weight
+kg
+Sigla
+cuscinetto
+Designation
+bearing	dinam. 	stat.
+C 	C0
+Z 	ZZ 	RS 	2RS 	N 	NR
+* SOLO IN ESECUZIONE APERTA - * AVAILABLE ONLY OPEN TYPE
+11
+Su richiesta fornibili in esecuzione INOX fino a diametro interno 80 mm.
+Available under request in stainless steel material up to 80 mm. inner diam.
+
+-- 49 of 146 --
+
+85
+90
+95
+100
+105
+110
+120
+130
+130
+150
+180
+210
+115
+125
+140
+140
+160
+190
+225
+120
+130
+145
+145
+170
+200
+125
+140
+150
+150
+180
+215
+130
+145
+160
+160
+190
+225
+13
+18
+14
+22
+28
+41
+52
+13
+18
+16
+24
+30
+43
+54
+13
+18
+16
+24
+32
+45
+13
+20
+16
+24
+34
+47
+13
+20
+18
+26
+36
+49
+19 500
+31 900
+33 800
+49 400
+83 200
+133 000
+174 000
+19 500
+33 200
+41 600
+58 500
+95 600
+143 000
+186 000
+19 900
+33 800
+42 300
+60 500
+108 000
+153 000
+19 900
+42 300
+44 200
+60 500
+124 000
+174 000
+20 800
+44 200
+52 000
+72 800
+133 000
+182 000
+16 600
+30 000
+33 500
+43 000
+64 000
+96 500
+137 000
+17 000
+31 500
+39 000
+50 000
+73 500
+108 000
+150 000
+17 600
+33 500
+41 500
+54 000
+81 500
+118 000
+18 300
+41 500
+44 000
+54 000
+93 000
+140 000
+19 600
+44 000
+51 000
+65 500
+104 000
+153 000
+5 300
+5 300
+5 000
+5 000
+4 300
+3 600
+3 200
+5 300
+5 000
+4 800
+4 800
+3 800
+3 400
+3 000
+5 000
+4 800
+4 500
+4 500
+3 600
+3 200
+4 800
+4 500
+4 300
+4 300
+3 400
+3 000
+4 500
+4 300
+4 000
+4 000
+3 200
+2 800
+6 300
+6 300
+6 000
+6 000
+5 000
+4 300
+3 800
+6 300
+6 000
+5 600
+5 600
+4 500
+4 000
+3 600
+6 000
+5 600
+5 300
+5 300
+4 300
+3 800
+5 600
+5 300
+5 000
+5 000
+4 000
+3 600
+5 300
+5 000
+4 800
+4 800
+3 800
+3 400
+0,27
+0,55
+0,63
+0,89
+1,80
+4 25
+9,50
+0,28
+0,59
+0,85
+1,15
+2,15
+4,90
+11,5
+0,30
+0,61
+0,89
+1,20
+2,60
+5,65
+0,31
+0,83
+0,91
+1,25
+3,15
+7,00
+0,32
+0,87
+1,20
+1,60
+3,70
+8,25
+61817
+61917
+16017
+6017
+6217
+6317
+6417
+61818
+61918
+16018
+6018
+6218
+6318
+6418
+61819
+61919
+16019
+6019
+6219
+6319
+61820
+61920
+16020
+6020
+6220
+6320
+61821
+61921
+16021
+6021
+6221
+6321
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+Cuscinetti radiali ad una corona di sfere
+Radial deep groove ball bearings, single row
+d 	85-105 mm
+Dimensioni
+Dimensions
+mm
+d 	D 	B
+Coefficente di carico
+Load rating
+N
+Velocità limite
+Speed limit
+Lubrificazione
+grasso 	olio
+grease 	oil
+Tipo aperto
+Open type
+Peso
+Weight
+kg
+Sigla
+cuscinetto
+Designation
+bearing	dinam. 	stat.
+C 	C0
+Z 	ZZ 	RS 	2RS 	N 	NR
+* SOLO IN ESECUZIONE APERTA - * AVAILABLE ONLY OPEN TYPE
+12
+
+-- 50 of 146 --
+
+110
+120
+130
+140
+150
+160
+140
+150
+170
+170
+200
+240
+150
+165
+180
+180
+215
+260
+165
+180
+200
+200
+230
+280
+175
+190
+210
+210
+250
+300
+190
+210
+225
+225
+270
+320
+200
+220
+240
+240
+290
+340
+16
+20
+19
+28
+38
+50
+16
+22
+19
+28
+40
+55
+18
+24
+22
+33
+40
+58
+18
+24
+22
+33
+42
+62
+20
+28
+24
+35
+45
+65
+20
+28
+25
+38
+48
+68
+28 100
+43 600
+57 200
+81 900
+143 000
+203 000
+29 100
+55 300
+60 500
+85 200
+146 000
+208 000
+37 700
+65 000
+79 300
+106 000
+156 000
+229 000
+39 000
+66 300
+80 600
+111 000
+165 000
+251 000
+48 800
+88 400
+92 300
+125 000
+174 000
+276 000
+49 400
+92 300
+99 500
+143 000
+186 000
+276 000
+26 000
+45 000
+57 000
+73 500
+118 000
+180 000
+28 000
+57 000
+64 000
+80 000
+118 000
+186 000
+43 000
+67 000
+81 500
+100 000
+132 000
+216 000
+46 500
+72 000
+86 500
+108 000
+150 000
+245 000
+61 000
+93 000
+98 000
+125 000
+166 000
+285 000
+64 000
+98 000
+108 000
+143 000
+186 000
+285 000
+4 300
+4 000
+3 800
+3 800
+3 000
+2 600
+3 800
+3 600
+3 400
+3 400
+2 800
+2 400
+3 600
+3 400
+3 200
+3 200
+2 600
+2 200
+3 400
+3 200
+3 000
+3 000
+2 400
+2 000
+3 000
+2 800
+2 600
+2 600
+2 000
+1 900
+2 800
+2 600
+2 400
+2 400
+1 900
+1 800
+5 000
+4 800
+4 500
+4 500
+3 600
+3 200
+4 500
+4 300
+4 000
+4 000
+3 400
+3 000
+4 300
+4 000
+3 800
+3 800
+3 200
+2 800
+4 000
+3 800
+3 600
+3 600
+3 000
+2 600
+3 600
+3 400
+3 200
+3 200
+2 600
+2 400
+3 400
+3 200
+3 000
+3 000
+2 400
+2 200
+0,60
+0,90
+1,45
+1,95
+4,35
+9,55
+0,65
+1,20
+1,60
+2,05
+5,15
+14,5
+0,93
+1,60
+2,35
+3,15
+5,80
+18,0
+0,99
+1,70
+2,50
+3,35
+7,45
+22,0
+1,40
+3,05
+3,15
+4,80
+9,40
+26,0
+1,45
+3,25
+3,70
+5,90
+14,5
+29,0
+61822
+61922
+16022
+6022
+6222
+6322
+61824
+61924
+16024
+6024
+6224
+6324
+61826
+61926
+16026
+6026
+6226
+6326
+61828
+61928
+16028
+6028
+6228
+6328
+61830
+61930
+16030
+6030
+6230
+6330
+61832
+61932
+16032
+6032
+6232
+6332
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+Cuscinetti radiali ad una corona di sfere
+Radial deep groove ball bearings, single row
+d 	110-160 mm
+Dimensioni
+Dimensions
+mm
+d 	D 	B
+Coefficente di carico
+Load rating
+N
+Velocità limite
+Speed limit
+Lubrificazione
+grasso 	olio
+grease 	oil
+Tipo aperto
+Open type
+Peso
+Weight
+kg
+Sigla
+cuscinetto
+Designation
+bearing	dinam. 	stat.
+C 	C0
+Z 	ZZ 	RS 	2RS 	N 	NR
+* SOLO IN ESECUZIONE APERTA - * AVAILABLE ONLY OPEN TYPE
+13
+
+-- 51 of 146 --
+
+170
+180
+260
+260
+310
+360
+280
+280
+320
+28
+42
+52
+72
+31
+46
+52
+119 000
+168 000
+212 000
+312 000
+138 000
+190 000
+229 000
+129 000
+173 000
+224 000
+340 000
+146 000
+200 000
+240 000
+2 200
+2 200
+1 900
+1 700
+2 000
+2 000
+1 800
+2 800
+2 800
+2 400
+2 000
+2 600
+2 600
+2 200
+5,00
+7,90
+17,5
+34,5
+6,60
+10,5
+18,5
+16034
+6034
+6234
+6334
+16036
+6036
+6236
+Cuscinetti radiali ad una corona di sfere
+Radial deep groove ball bearings, single row
+d 	170-180 mm
+Dimensioni
+Dimensions
+mm
+d 	D 	B
+Coefficente di carico
+Load rating
+N
+Velocità limite
+Speed limit
+Lubrificazione
+grasso 	olio
+grease 	oil
+Tipo aperto
+Open type
+Peso
+Weight
+kg
+Sigla
+cuscinetto
+Designation
+bearing	dinam. 	stat.
+C 	C0
+14
+
+-- 52 of 146 --
+
+Cuscinetti radiali a sfere serie larga ad una corona,
+con tenute 2RS
+Large radial ball bearings, single row, with 2RS seals
+d 	8-40 mm
+8
+10
+12
+15
+17
+20
+25
+30
+35
+40
+22
+26
+30
+35
+28
+32
+37
+32
+35
+42
+35
+40
+47
+42
+47
+52
+47
+52
+62
+55
+62
+72
+62
+72
+80
+68
+80
+90
+11
+12
+14
+17
+12
+14
+17
+13
+14
+17
+14
+16
+19
+16
+18
+21
+16
+18
+24
+19
+20
+27
+20
+23
+31
+21
+23
+33
+3 250
+4 620
+5 070
+8 060
+5 070
+6 890
+9 750
+5 590
+7 800
+11 400
+6 050
+9 560
+13 500
+9 360
+12 700
+15 900
+11 200
+14 000
+22 500
+13 300
+19 500
+28 100
+15 900
+25 500
+33 200
+16 800
+30 700
+41 000
+1 370
+1 960
+2 360
+3 400
+2 360
+3 100
+4 150
+2 850
+3 750
+5 400
+3 250
+4 750
+6 550
+5 000
+6 550
+7 800
+6 550
+7 800
+11 600
+8 300
+11 200
+16 000
+10 200
+15 300
+19 000
+11 600
+19 000
+24 000
+20 000
+19 000
+17 000
+15 000
+17 000
+15 000
+14 000
+14 000
+13 000
+12 000
+13 000
+12 000
+11 000
+11 000
+10 000
+9 500
+9 500
+8 500
+7 500
+8 000
+7 500
+6 300
+7 000
+6 300
+6 000
+6 300
+5 600
+5 000
+0,016
+0,025
+0,040
+0,060
+0,029
+0,045
+0,070
+0,039
+0,054
+0,110
+0,052
+0,083
+0,15
+0,086
+0,13
+0,20
+0,10
+0,15
+0,32
+0,16
+0,24
+0,48
+0,21
+0,37
+0,66
+0,26
+0,44
+0,89
+630/8-2RS1
+63000-2RS1
+62200-2RS1
+62300-2RS1
+63001-2RS1
+62201-2RS1
+62301-2RS1
+63002-2RS1
+62202-2RS1
+62302-2RS1
+63003-2RS
+62203-2RS
+62303-2RS
+63004-2RS
+62204-2RS
+62304-2RS
+63005-2RS
+62205-2RS
+62305-2RS
+63006-2RS
+62206-2RS
+62306-2RS
+63007-2RS
+62207-2RS
+62307-2RS
+63008-2RS
+62208-2RS
+62308-2RS
+Dimensioni
+Dimensions
+mm
+d 	D 	B
+Coefficente di carico
+Load rating
+N
+Velocità limite
+Speed limit Peso
+Weight
+kg
+Sigla
+cuscinetto
+Designation
+bearing	dinam. 	stat.
+C 	C0
+RS 	2RS
+15
+Su richiesta fornibili in esecuzione INOX
+Available under request in stainless steel material
+
+-- 53 of 146 --
+
+45
+50
+55
+60
+75
+85
+100
+80
+90
+110
+100
+120
+110
+130
+23
+23
+36
+23
+23
+40
+25
+43
+28
+46
+20 800
+33 200
+52 700
+21 600
+35 100
+61 800
+43 600
+71 500
+47 500
+81 900
+14 600
+21 600
+31 500
+16 000
+23 200
+38 000
+29 000
+45 000
+32 500
+52 000
+5 600
+5 000
+4 500
+5 000
+4 800
+4 300
+4 300
+3 800
+4 000
+3 400
+0,34
+0,48
+1,15
+0,37
+0,52
+1,55
+0,70
+1,95
+0,97
+2,50
+63009-2RS
+62209-2RS
+62309-2RS
+63010-2RS
+62210-2RS
+62310-2RS
+62211-2RS
+62311-2RS
+62212-2RS
+62312-2RS
+Cuscinetti radiali a sfere serie larga ad una corona,
+con tenute 2RS
+Large radial ball bearings, single row, with 2RS seals
+d 	45-60 mm
+Dimensioni
+Dimensions
+mm
+d 	D 	B
+Coefficente di carico
+Load rating
+N
+Velocità limite
+Speed limit Peso
+Weight
+kg
+Sigla
+cuscinetto
+Designation
+bearing	dinam. 	stat.
+C 	C0
+RS 	2RS
+16
+Su richiesta fornibili in esecuzione INOX
+Available under request in stainless steel material
+
+-- 54 of 146 --
+
+®
+
+-- 55 of 146 --
+
+
+
+-- 56 of 146 --
+
+Cuscinetti radiali a sfere a
+contatto obliquo ad una corona
+I cuscinetti ad una corona di sfere a
+contatto obliquo sono studiati e
+realizzati per sopportare carichi radiali
+ed assiali. Hanno un angolo di contatto
+di 40°, perciò trasmettono elevati
+carichi assiali. Gli anelli hanno una
+forma particolare: sono costruiti con
+un lato della gola basso ed uno alto e
+sono montati in contrapposizione;
+questo agevola l'introduzione di un
+maggior numero di sfere e un
+appoggio laterale alle sfere,
+aumentando così il carico assiale che
+deve però essere applicato in una sola
+direzione altrimenti il cuscinetto si
+scompone. Per aumentare le
+prestazioni i cuscinetti devono essere
+montati in coppia in tandem per
+aumentare il già notevole coefficiente
+di carico, oppure contrapposti per
+poter sopportare carichi assiali in
+entrambe le direzioni.
+Il disallineamento comporta aumento
+di rumorosità e diminuzione di durata.
+I cuscinetti sono forniti con gabbie in
+lamierino stampato di acciaio, in
+ottone, o in poliammide rinforzata.
+Single row angular contact bearings
+are studied and manufactured to stand
+axial and radial loads.
+They have a contact angle =40°,
+therefore able to bear heavy loads.
+Rings have a special shape: their
+grooves are low from one side and righ
+from the other, they are mounted in
+opposition; this allows the insertion of
+a greater number of balls and a side
+support to balls, increasing therefore
+the axial load which must be applied
+in a single direction to avoid
+dismounting of the bearing.
+To increase bearings' performances
+they have to be mounted paired in
+tandem: rating load is in this way
+considerably increased.
+They can also be mounted in
+opposition: in this way they stand axial
+loads in both directions.
+Misalignment produces increasement
+of noiseness and shorter life of the
+bearing.
+Single row angular contact ball
+bearings, are fitted with pressed sheet
+steel cages, brass cages or reinforced
+polyamid cages.
+Single row angular
+contact bearings
+19
+
+-- 57 of 146 --
+
+Cuscinetti radiali a sfere a
+contatto obliquo a due corone
+I cuscinetti a contatto obliquo a due
+corone di sfere equivalgono
+costruttivamente a due cuscinetti ad
+una corona di sfere accoppiati ad O,
+ma con minor ingombro, sopportano
+carichi radiali ed assiali molto elevati
+in entrambe le direzioni. Alcuni tipi
+hanno il taglio per l'introduzione delle
+sfere e devono essere montati con il
+carico assiale maggiore agente sul lato
+dove non c'è il taglio sfera. Hanno un
+angolo di contatto inferiore a quelli ad
+un solo giro di sfere. Questi cuscinetti
+non sono scomponibili e non sono
+adatti a sopportare montaggi con
+albero disallineato. Sono forniti in
+esecuzione aperta ed in esecuzione
+con chermi di protezione Z e con
+guarnizioni striscianti RS a tenuta
+stagna, sono tutti lubrificati con grasso.
+La gabbia può essere in lamierino
+stampato di acciaio, o in ottone
+massiccio, o in poliammide rinforzata.
+Double row angular contact ball
+bearing are equivalent to two single
+angular contact ball bearings paired
+at O, with less overall dimensions; these
+bearings can take up heavy radial and
+axial loads in both directions.
+Some types are predisposed with a
+slot used for the insertion of balls and
+have to be assembled with the higher
+axial load acting on the side without
+slot.
+Their contact angle is lower recpect
+to the one of the single row angular
+bearings; these are not dismountable
+and unable to be mounted with a
+misaligned shaft.
+They are manufactured in different
+versions: open type, shielded type ("Z"
+or "ZZ") or sealed type ("RS" or "2RS"
+watertight version); all version are
+lubricated with grease.
+Cages are available made of pressed
+sheet steel, of brass and of reinforced
+polyamid.
+Double row angular
+contact ball bearings
+20
+
+-- 58 of 146 --
+
+Dimensioni
+Dimensions
+d 	D 	B
+Coefficente di carico
+Load rating
+dinam. 	stat.
+C 	C0
+Peso
+Weight
+kg
+Sigla
+cuscinetto
+Destination
+bearing
+Cuscinetti a sfere a contatto obliquo
+Angular contact ball bearings
+d 	10-75 mm
+10
+12
+15
+17
+20
+25
+30
+35
+40
+45
+50
+55
+60
+65
+70
+75
+26
+28
+32
+35
+42
+47
+55
+62
+68
+75
+80
+90
+95
+100
+110
+115
+8
+8
+9
+10
+12
+12
+13
+14
+15
+16
+16
+18
+18
+18
+20
+20
+4 650
+5 050
+5 800
+7 150
+9 700
+10 700
+13 900
+17 500
+18 800
+22 300
+23 700
+31 000
+32 000
+33 500
+42 500
+43 500
+2 070
+2 470
+3 150
+3 850
+5 600
+6 850
+9 450
+12 500
+14 500
+17 700
+20 100
+23 600
+28 100
+31 500
+39 500
+41 500
+0,023
+0,025
+0,035
+0,046
+0,08
+0,093
+0,135
+0,18
+0,222
+0,262
+0,305
+0,447
+0,478
+0,509
+0,705
+0,745
+7000
+7001
+7002
+7003
+7004
+7005
+7006
+7007
+7008
+7009
+7010
+7011
+7012
+7013
+7014
+7015
+Velocità limite
+Speed limit
+Lubrificazione
+grasso 	olio
+grease 	oil
+28 000
+25 000
+22 000
+19 000
+17 000
+14 000
+12 000
+11 000
+9 600
+8 700
+7 900
+7 100
+6 600
+6 100
+5 700
+5 300
+37 000
+33 000
+29 000
+26 000
+23 000
+19 000
+16 000
+14 000
+13 000
+12 000
+10 000
+9 500
+8 800
+8 100
+7 600
+7 100
+21
+
+-- 59 of 146 --
+
+Dimensioni
+Dimensions
+mm
+d 	D 	B
+Coefficente di carico
+Load rating
+N
+dinam. 	stat.
+C 	C0
+Peso
+Weight
+kg
+Sigla
+cuscinetto
+Designation
+bearing
+Dimensioni
+Dimensions
+mm
+a
+Cuscinetti a sfere a contatto obliquo
+Angular contact ball bearings
+d 	10-65 mm
+10
+12
+15
+17
+20
+25
+30
+35
+40
+45
+50
+55
+60
+65
+30
+32
+37
+35
+42
+40
+47
+47
+52
+52
+62
+62
+72
+72
+80
+80
+90
+85
+100
+90
+110
+100
+120
+110
+130
+120
+140
+9
+10
+12
+11
+13
+12
+14
+14
+15
+15
+17
+16
+19
+17
+21
+18
+23
+19
+25
+20
+27
+21
+29
+22
+31
+23
+33
+7 020
+7 610
+10 600
+8 840
+13 000
+11 100
+15 900
+14 000
+19 000
+15 600
+26 000
+23 800
+34 500
+30 700
+39 000
+36 400
+49 400
+37 700
+60 500
+39 000
+74 100
+48 800
+85 200
+57 200
+95 600
+66 300
+108 000
+3 350
+3 800
+5 000
+4 800
+6 700
+6 100
+8 300
+8 300
+10 400
+10 200
+15 600
+15 600
+21 200
+20 800
+24 500
+26 000
+33 500
+28 000
+41 500
+30 500
+51 000
+38 000
+60 000
+45 500
+69 500
+54 000
+80 000
+19 000
+18 000
+17 000
+17 000
+15 000
+15 000
+13 000
+12 000
+11 000
+10 000
+9 000
+8 500
+8 000
+8 000
+7 500
+7 000
+6 700
+6 700
+6 000
+6 000
+5 300
+5 600
+4 800
+5 000
+4 500
+4 500
+4 300
+28 000
+26 000
+24 000
+24 000
+20 000
+20 000
+18 000
+17 000
+16 000
+15 000
+13 000
+12 000
+11 000
+11 000
+10 000
+9 500
+9 000
+9 000
+8 000
+8 000
+7 000
+7 500
+6 300
+6 700
+6 000
+6 000
+5 600
+7200 B
+7201 B
+7301 B
+7202 B
+7302 B
+7203 B
+7303 B
+7204 B
+7304 B
+7205 B
+7305 B
+7206 B
+7306 B
+7207 B
+7307 B
+7208 B
+7308 B
+7209 B
+7309 B
+7210 B
+7310 B
+7211 B
+7311 B
+7212 B
+7312 B
+7213 B
+7313 B
+13
+14
+16
+16
+19
+18
+20
+21
+23
+24
+27
+27
+31
+31
+35
+34
+39
+37
+43
+39
+47
+43
+51
+47
+55
+50
+60
+Velocità limite
+Speed limit
+Lubrificazione
+grasso 	olio
+grease 	oil
+0,030
+0,036
+0,060
+0,045
+0,080
+0,065
+0,11
+0,11
+0,14
+0,13
+0,23
+0,20
+0,34
+0,28
+0,45
+0,37
+0,63
+0,42
+0,85
+0,47
+1,10
+0,62
+1,40
+0,80
+1,75
+1,00
+2,15
+22
+
+-- 60 of 146 --
+
+70
+75
+80
+85
+90
+95
+100
+105
+110
+120
+130
+125
+150
+130
+160
+140
+170
+150
+180
+160
+190
+170
+200
+180
+215
+190
+225
+200
+240
+215
+260
+230
+280
+24
+35
+25
+37
+26
+39
+28
+41
+30
+43
+32
+45
+34
+47
+36
+49
+38
+50
+40
+55
+40
+58
+71 500
+119 000
+72 800
+133 000
+83 200
+143 000
+95 600
+153 000
+108 000
+165 000
+124 000
+178 000
+135 000
+203 000
+148 000
+212 000
+163 000
+225 000
+165 000
+238 000
+186 000
+251 000
+60 000
+90 000
+64 000
+106 000
+73 500
+118 000
+83 000
+132 000
+96 500
+146 000
+108 000
+163 000
+122 000
+190 000
+137 000
+208 000
+153 000
+224 000
+163 000
+250 000
+193 000
+270 000
+5 600
+5 000
+5 600
+4 800
+5 000
+4 500
+4 800
+4 300
+4 500
+4 000
+4 300
+3 800
+4 000
+3 600
+3 800
+3 400
+3 600
+3 200
+3 200
+2 800
+2 800
+2 600
+1,10
+2,65
+1,20
+3,20
+1,45
+3,80
+1,85
+4,45
+2,30
+5,20
+2,70
+6,05
+3,30
+7,50
+3,95
+8,55
+4,60
+10,0
+6,10
+14,5
+6,95
+17,5
+7214 B
+7314 B
+7215 B
+7315 B
+7216 B
+7316 B
+7217 B
+7317 B
+7218 B
+7318 B
+7219 B
+7319 B
+7220 B
+7320 B
+7221 B
+7321 B
+7222 B
+7322 B
+7224 B
+7324 B
+7226 B
+7326 B
+53
+64
+56
+68
+59
+72
+63
+76
+67
+80
+72
+84
+76
+90
+80
+94
+84
+99
+90
+107
+96
+115
+4 300
+3 800
+4 300
+3 600
+3 800
+3 400
+3 600
+3 200
+3 400
+3 000
+3 200
+2 800
+3 000
+2 600
+2 800
+2 400
+2 600
+2 200
+2 200
+1 900
+1 900
+1 800
+Dimensioni
+Dimensions
+mm
+d 	D 	B
+Coefficente di carico
+Load rating
+N
+dinam. 	stat.
+C 	C0
+Peso
+Weight
+kg
+Sigla
+cuscinetto
+Designation
+bearing
+Dimensioni
+Dimensions
+mm
+a
+Cuscinetti a sfere a contatto obliquo
+Angular contact ball bearings
+d 	70-130 mm
+Velocità limite
+Speed limit
+Lubrificazione
+grasso 	olio
+grease 	oil
+23
+
+-- 61 of 146 --
+
+Cuscinetti a sfere a contatto obliquo, a due corone
+Angular contact ball bearings, double row
+d 	10-65 mm
+10
+12
+15
+17
+20
+25
+30
+35
+40
+45
+50
+55
+60
+65
+30
+32
+35
+42
+40
+47
+47
+52
+52
+62
+62
+72
+72
+80
+80
+90
+85
+100
+90
+110
+100
+120
+110
+130
+120
+140
+14
+15,9
+15,9
+19
+17,5
+22,2
+20,6
+22,2
+20,6
+25,4
+23,8
+30,2
+27
+34,9
+30,2
+36,5
+30,2
+39,7
+30,2
+44,4
+33,3
+49,2
+36,5
+54
+38,1
+58,7
+7 410
+10 100
+11 200
+15 100
+14 000
+21 200
+18 600
+22 100
+20 300
+31 200
+28 100
+41 000
+37 100
+48 800
+44 900
+59 200
+47 500
+72 100
+47 500
+88 000
+57 200
+95 200
+72 100
+112 000
+78 100
+128 000
+4 300
+5 600
+6 800
+9 150
+8 650
+12 500
+12 000
+14 300
+14 000
+20 800
+20 000
+28 500
+27 500
+34 000
+33 500
+43 000
+38 000
+73 500
+39 000
+96 500
+67 000
+108 000
+85 000
+127 000
+95 000
+150 000
+0,051
+0,058
+0,066
+0,13
+0,096
+0,18
+0,16
+0,22
+0,18
+0,35
+0,29
+0,53
+0,44
+0,73
+0,58
+0,95
+0,63
+1,40
+0,66
+1,95
+1,05
+2,55
+1,40
+3,25
+1,75
+4,10
+3200
+3201
+3202
+3302
+3203
+3303
+3204
+3304
+3205
+3305
+3206
+3306
+3207
+3307
+3208
+3308
+3209
+3309
+3210
+3310
+3211
+3311
+3212
+3312
+3213
+3313
+18
+20
+22
+26
+25
+29
+30
+32
+33
+38
+38
+44
+45
+49
+49
+56
+52
+64
+56
+73
+64
+80
+71
+86
+76
+94
+16 000
+15 000
+12 000
+10 000
+10 000
+9 500
+9 000
+8 500
+8 000
+7 500
+7 000
+6 300
+6 000
+5 600
+5 600
+5 000
+5 000
+4 500
+4 800
+4 000
+4 300
+3 800
+3 800
+3 400
+3 600
+3 200
+22 000
+20 000
+17 000
+15 000
+15 000
+14 000
+13 000
+12 000
+11 000
+10 000
+9 500
+8 500
+8 000
+7 500
+7 500
+6 700
+6 700
+6 000
+6 300
+5 300
+5 600
+5 000
+5 000
+4 500
+4 800
+4 300
+Dimensioni
+Dimensions
+mm
+d 	D 	B
+Coefficente di carico
+Load rating
+N
+dinam. 	stat.
+C 	C0
+Peso
+Weight
+kg
+Sigla
+cuscinetto
+Designation
+bearing
+Dimensioni
+Dimensions
+mm
+a
+Velocità limite
+Speed limit
+Lubrificazione
+grasso 	olio
+grease 	oil
+24
+
+-- 62 of 146 --
+
+70
+75
+80
+85
+90
+95
+100
+125
+150
+130
+160
+140
+170
+150
+160
+170
+180
+39,7
+63,5
+41,3
+68,3
+44,4
+68,3
+49,2
+52,4
+55,6
+60,3
+76 500
+147 000
+84 200
+157 000
+101 000
+176 000
+110 000
+128 000
+147 000
+157 000
+98 000
+173 000
+110 000
+186 000
+134 000
+212 000
+146 000
+173 000
+204 000
+220 000
+1,90
+5,05
+2,10
+6,15
+2,65
+6,95
+3,40
+4,15
+5,00
+6,10
+3214
+3314
+3215
+3315
+3216
+3316
+3217
+3218
+3219
+3220
+81
+101
+84
+107
+91
+112
+97
+104
+111
+118
+3 200
+2 800
+3 200
+2 600
+2 800
+2 400
+2 600
+2 400
+2 200
+2 000
+4 300
+3 800
+4 300
+3 600
+3 800
+3 400
+3 600
+3 400
+3 200
+3 000
+Cuscinetti a sfere a contatto obliquo, a due corone
+Angular contact ball bearings, double row
+d 	70-100 mm
+Dimensioni
+Dimensions
+mm
+d 	D 	B
+Coefficente di carico
+Load rating
+N
+dinam. 	stat.
+C 	C0
+Peso
+Weight
+kg
+Sigla
+cuscinetto
+Designation
+bearing
+Dimensioni
+Dimensions
+mm
+a
+Velocità limite
+Speed limit
+Lubrificazione
+grasso 	olio
+grease 	oil
+25
+
+-- 63 of 146 --
+
+10
+12
+15
+17
+20
+25
+30
+35
+40
+45
+50
+30
+32
+35
+42
+40
+47
+47
+52
+52
+62
+62
+72
+72
+80
+80
+90
+85
+90
+14
+15,9
+15,9
+19
+17,5
+22,2
+20,6
+22,2
+20,6
+25,4
+23,8
+30,2
+27
+34,9
+30,2
+36,5
+30,2
+30,2
+7 410
+10 100
+11 200
+15 100
+14 000
+21 200
+18 600
+22 100
+20 300
+31 200
+28 100
+41 000
+37 100
+48 800
+44 900
+59 200
+47 500
+47 500
+4 300
+5 600
+6 800
+9 150
+8 650
+12 500
+12 000
+14 300
+14 000
+20 800
+20 000
+28 500
+27 5000
+34 000
+33 500
+43 000
+38 000
+39 000
+0,051
+0,058
+0,066
+0,13
+0,096
+0,18
+0,16
+0,22
+0,18
+0,35
+0,29
+0,53
+0,44
+0,73
+0,58
+0,95
+0,63
+0,66
+18
+20
+22
+26
+25
+29
+30
+32
+33
+38
+38
+44
+45
+49
+49
+56
+52
+56
+12 500
+12 000
+9 600
+8 000
+8 000
+7 600
+7 200
+6 800
+6 400
+6 000
+5 600
+5 000
+4 800
+4 500
+4 500
+4 000
+4 000
+4 000
+16 000
+15 000
+12 000
+10 000
+10 000
+9 500
+9 000
+8 500
+8 000
+7 500
+7 000
+6 300
+6 000
+5 600
+5 600
+5 000
+5 000
+5 000
+Cuscinetti a sfere a contatto obliquo, a due corone,
+con schermi ZZ
+Angular contact ball bearings, double row; ZZ shielded
+d 	10-50 mm
+Dimensioni
+Dimensions
+mm
+d 	D 	B
+Coefficente di carico
+Load rating
+N
+dinam. 	stat.
+C 	C0
+Peso
+Weight
+kg
+Sigla
+cuscinetto
+Designation
+bearing
+Dimensioni
+Dimensions
+mm
+a
+Velocità limite
+Speed limit
+Lubrificazione
+grasso 	olio
+grease 	oil
+3200-ZZ
+3201-ZZ
+3202-ZZ
+3302-ZZ
+3203-ZZ
+3303-ZZ
+3204-ZZ
+3304-ZZ
+3205-ZZ
+3305-ZZ
+3206-ZZ
+3306-ZZ
+3207-ZZ
+3307-ZZ
+3208-ZZ
+3308-ZZ
+3209-ZZ
+3210-ZZ
+26
+
+-- 64 of 146 --
+
+10
+12
+15
+17
+20
+25
+30
+35
+40
+45
+50
+30
+32
+35
+42
+40
+47
+47
+52
+52
+62
+62
+72
+72
+80
+80
+90
+85
+90
+14
+15,9
+15,9
+19
+17,5
+22,2
+20,6
+22,2
+20,6
+25,4
+23,8
+30,2
+27
+34,9
+30,2
+36,5
+30,2
+30,2
+7 410
+10 100
+11 200
+15 100
+14 000
+21 200
+18 600
+22 100
+20 300
+31 200
+28 100
+41 000
+37 100
+48 800
+44 900
+59 200
+47 500
+47 500
+4 300
+5 600
+6 800
+9 150
+8 650
+12 500
+12 000
+14 300
+14 000
+20 800
+20 000
+28 500
+27 500
+34 000
+33 500
+43 000
+38 000
+39 000
+0,051
+0,058
+0,066
+0,13
+0,096
+0,18
+0,16
+0,22
+0,18
+0,35
+0,29
+0,53
+0,44
+0,73
+0,59
+0,95
+0,63
+0,66
+3200-2RS
+3201-2RS
+3202-2RS
+3302-2RS
+3203-2RS
+3303-2RS
+3204-2RS
+3304-2RS
+3205-2RS
+3305-2RS
+3206-2RS
+3306-2RS
+3207-2RS
+3307-2RS
+3208-2RS
+3308-2RS
+3209-2RS
+3210-2RS
+18
+20
+22
+26
+25
+29
+30
+32
+33
+32
+38
+44
+45
+49
+49
+56
+52
+56
+16 000
+15 000
+12 000
+10 000
+10 000
+9 500
+9 000
+8 500
+8 000
+7 500
+7 000
+6 300
+6 000
+5 600
+5 600
+5 000
+5 000
+4 800
+Cuscinetti a sfere a contatto obliquo, a due corone,
+con tenute 2RS
+Angular contact ball bearings, double row; 2RS sealed
+d 	10-50 mm
+Dimensioni
+Dimensions
+mm
+d 	D 	B
+Coefficente di carico
+Load rating
+N
+dinam. 	stat.
+C 	C0
+Peso
+Weight
+kg
+Sigla
+cuscinetto
+Designation
+bearing
+Dimensioni
+Dimensions
+mm
+a
+Velocità
+limite
+Speed
+limit
+27
+
+-- 65 of 146 --
+
+Cuscinetti radiali a sfere a due corone
+Radial ball bearings, double row
+d 	10-65 mm
+10
+12
+15
+17
+20
+25
+30
+35
+40
+45
+50
+55
+60
+65
+30
+32
+37
+35
+42
+40
+47
+47
+52
+52
+62
+62
+72
+72
+80
+80
+90
+85
+100
+90
+110
+100
+120
+110
+130
+120
+140
+14
+14
+17
+14
+17
+16
+19
+18
+21
+18
+24
+20
+27
+23
+31
+23
+33
+23
+36
+23
+40
+25
+43
+28
+46
+31
+48
+9 230
+10 600
+13 000
+11 900
+14 800
+14 800
+19 500
+17 800
+23 400
+19 000
+31 900
+26 000
+41 000
+35 100
+50 700
+37 100
+55 900
+39 000
+68 900
+41 000
+81 900
+44 900
+97 500
+57 200
+112 000
+67 600
+121 000
+5 200
+6 200
+7 800
+7 500
+9 500
+9 500
+13 200
+12 500
+16 000
+14 600
+22 400
+20 800
+30 000
+28 500
+38 000
+32 500
+45 000
+36 000
+56 000
+40 000
+69 500
+44 000
+83 000
+55 000
+98 000
+67 000
+106 000
+18 000
+17 000
+15 000
+14 000
+12 000
+12 000
+10 000
+10 000
+9 500
+9 000
+8 500
+8 000
+7 000
+6 700
+6 300
+6 000
+5 600
+5 600
+5 000
+5 000
+4 500
+4 800
+4 300
+4 500
+3 800
+4 000
+3 600
+22 000
+20 000
+18 000
+17 000
+15 000
+15 000
+13 000
+13 000
+12 000
+11 000
+10 000
+9 500
+8 500
+8 000
+7 500
+7 000
+6 700
+6 700
+6 000
+6 000
+5 300
+5 600
+5 000
+5 300
+4 500
+4 800
+4 300
+4200
+4201
+4301
+4202
+4302
+4203
+4303
+4204
+4304
+4205
+4305
+4206
+4306
+4207
+4307
+4208
+4308
+4209
+4309
+4210
+4310
+4211
+4311
+4212
+4312
+4213
+4313
+0,049
+0,053
+0,092
+0,059
+0,12
+0,090
+0,16
+0,14
+0,21
+0,16
+0,34
+0,26
+0,50
+0,40
+0,69
+0,50
+0,95
+0,54
+1,25
+0,58
+1,70
+0,80
+2,15
+1,10
+2,65
+1,45
+3,25
+Dimensioni
+Dimensions
+mm
+d 	D 	B
+Coefficente di carico
+Load rating
+N
+Velocità limit
+Speed limit
+Lubrificazione
+grasso 	olio
+grease 	oil
+Peso
+Weight
+kg
+Sigla
+cuscinetto
+Designation
+bearing	dinam. 	stat.
+C 	C0
+28
+
+-- 66 of 146 --
+
+70
+75
+80
+85
+90
+125
+150
+130
+140
+150
+160
+31
+51
+31
+33
+36
+40
+70 200
+138 000
+72 800
+80 600
+93 600
+112 000
+73 500
+125 000
+80 000
+90 000
+102 000
+122 000
+3 400
+3 200
+3 400
+3 200
+3 000
+2 800
+4214
+4314
+4215
+4216
+4217
+4218
+4 300
+3 800
+4 000
+3 800
+3 600
+3 400
+Cuscinetti radiali a sfere a due corone
+Radial ball bearings, double row
+d 	70-90 mm
+Dimensioni
+Dimensions
+mm
+d 	D 	B
+Coefficente di carico
+Load rating
+N
+Velocità limit
+Speed limit
+Lubrificazione
+grasso 	olio
+grease 	oil
+Peso
+Weight
+kg
+Sigla
+cuscinetto
+Designation
+bearing	dinam. 	stat.
+C 	C0
+1,50
+3,95
+1,60
+2,00
+2,55
+3,20
+29
+
+-- 67 of 146 --
+
+
+
+-- 68 of 146 --
+
+Cuscinetti a sfere
+a quattro contatti
+I cuscinetti a sfere a quattro contatti
+sono cuscinetti obliqui ad un giro di
+sfere con piste studiate per sopportare
+carichi assiali elevati in entrambe le
+direzioni a velocità elevate.
+L'anello interno è diviso in due parti
+per consentire l'introduzione di un
+elevato numero di sfere, permettendo
+così maggior carico, il cuscinetto può
+essere anche montato con solo metà
+anello interno.
+L'angolo di contatto è di 35°.
+Le sfere sono guidate sull'anello
+esterno da gabbie in ottone, o in
+poliammide rinforzata.
+31
+Four-point contact bearings are single
+angolar contact ball bearings with
+special receway studied to stand heavy
+loads in both directions and high
+speeds.
+These bearings have a two-part inner
+ring which allows both the possibility
+of introducing a large number of balls
+and the capacity of standing heavy
+loads.
+Four-point contact ball bearing can
+also be assembled with only an inner
+semi-ring.
+Contact angle is 35°.
+Balls are rolling on the outer ring by
+brass cages or reinforced polyamid.
+Four-point contact
+ball bearings
+
+-- 69 of 146 --
+
+Cuscinetti a sfere a quattro contatti
+Four-point contact ball bearings
+d 	17-85 mm
+17
+20
+25
+30
+35
+40
+45
+50
+55
+60
+65
+70
+75
+80
+85
+12
+14
+15
+15
+16
+19
+17
+21
+18
+23
+19
+25
+20
+27
+21
+29
+22
+31
+23
+33
+24
+35
+25
+37
+26
+39
+28
+41
+20
+22
+25
+27
+32
+36
+37
+40
+42
+46
+46
+51
+49
+56
+54
+61
+60
+67
+65
+72
+68
+77
+72
+82
+77
+88
+83
+93
+15 900
+23 400
+29 600
+25 100
+35 100
+49 400
+46 200
+59 200
+52 700
+71 500
+58 500
+93 600
+61 800
+111 000
+79 300
+127 000
+92 300
+146 000
+104 000
+165 000
+114 000
+186 000
+117 000
+199 000
+138 000
+216 000
+148 000
+234 000
+10 600
+15 000
+20 000
+20 000
+28 500
+39 000
+39 000
+46 500
+45 000
+58 500
+51 000
+76 500
+56 000
+91 500
+76 500
+108 000
+88 500
+125 000
+104 000
+146 000
+114 000
+166 000
+122 000
+186 000
+146 000
+208 000
+160 000
+236 000
+14 000
+12 000
+10 000
+9 500
+8 500
+7 500
+7 500
+7 000
+6 700
+6 300
+6 300
+5 600
+5 600
+5 000
+5 300
+4 500
+4 800
+4 300
+4 300
+4 000
+4 300
+3 600
+4 000
+3 400
+3 600
+3 200
+3 400
+3 000
+19 000
+17 000
+15 000
+14 000
+12 000
+10 000
+10 000
+9 500
+9 000
+8 500
+8 500
+7 500
+7 500
+6 700
+7 000
+6 000
+6 300
+5 600
+5 600
+5 300
+5 600
+4 800
+5 300
+4 500
+4 800
+4 300
+4 500
+4 000
+0,082
+0,14
+0,18
+0,16
+0,24
+0,42
+0,35
+0,57
+0,45
+0,78
+0,52
+1,05
+0,59
+1,35
+0,77
+1,75
+0,99
+2,15
+1,20
+2,70
+1,30
+3,15
+1,45
+3,90
+1,85
+4,60
+2,25
+5,45
+QJ 203
+QJ 303
+QJ 304
+QJ 205
+QJ 206
+QJ 306
+QJ 207
+QJ 307
+QJ 208
+QJ 308
+QJ 209
+QJ 309
+QJ 210
+QJ 310
+QJ 211
+QJ 311
+QJ 212
+QJ 312
+QJ 213
+QJ 313
+QJ 214
+QJ 314
+QJ 215
+QJ 315
+QJ 216
+QJ 316
+QJ 217
+QJ 317
+Dimensioni
+Dimensions
+mm
+Coefficente di carico
+Load rating
+N
+Velocità limite
+Speed limit
+Lubrificazione
+grasso 	olio
+grease 	oil
+Tipo aperto
+Open type
+Peso
+Weight
+kg
+Sigla
+cuscinetto
+Designation
+bearing	dinam. 	stat.
+C 	C0	d 	D 	B 	a
+40
+47
+52
+52
+62
+72
+72
+80
+80
+90
+85
+100
+90
+110
+100
+120
+110
+130
+120
+140
+125
+150
+130
+160
+140
+170
+150
+180
+32
+
+-- 70 of 146 --
+
+Cuscinetti a sfere a quattro contatti
+Four-point contact ball bearings
+d 	90-150 mm
+90
+95
+100
+110
+120
+130
+140
+150
+30
+43
+32
+45
+34
+47
+38
+50
+40
+55
+40
+58
+42
+62
+45
+65
+88
+98
+93
+103
+98
+110
+109
+123
+117
+133
+126
+144
+137
+154
+147
+165
+174 000
+265 000
+199 000
+286 000
+225 000
+307 000
+265 000
+364 000
+286 000
+390 000
+296 000
+423 000
+325 000
+468 000
+338 000
+494 000
+186 000
+285 000
+212 000
+315 000
+240 000
+340 000
+305 000
+430 000
+340 000
+490 000
+365 000
+560 000
+440 000
+640 000
+465 000
+710 000
+3 200
+2 800
+3 000
+2 600
+2 800
+2 400
+2 400
+2 000
+2 200
+1 900
+1 900
+1 800
+1 800
+1 700
+1 700
+1 600
+4 300
+3 800
+4 000
+3 600
+3 800
+3 400
+3 400
+3 000
+3 200
+2 800
+2 800
+2 600
+2 600
+2 400
+2 400
+2 200
+2,75
+6,45
+3,35
+7,45
+4,05
+9,30
+5,60
+12,5
+6,95
+16,0
+7,75
+19,5
+9,85
+24,0
+12,5
+29,0
+QJ 218
+QJ 318
+QJ 219
+QJ 319
+QJ 220
+QJ 320
+QJ 222
+QJ 322
+QJ 224
+QJ 324
+QJ 226
+QJ 326
+QJ 228
+QJ 328
+QJ 230
+QJ 330
+Dimensioni
+Dimensions
+mm
+Coefficente di carico
+Load rating
+N
+Velocità limite
+Speed limit
+Lubrificazione
+grasso 	olio
+grease 	oil
+Tipo aperto
+Open type
+Peso
+Weight
+kg
+Sigla
+cuscinetto
+Designation
+bearing	dinam. 	stat.
+C 	C0	d 	D 	B 	a
+160
+190
+170
+200
+180
+215
+200
+240
+215
+260
+230
+280
+250
+300
+270
+320
+33
+
+-- 71 of 146 --
+
+
+
+-- 72 of 146 --
+
+Cuscinetti radiali orientabili
+a sfere, con foro cilindrico
+o con foro conico
+I cuscinetti orientabili a sfere sono
+dotati di due corone di sfere inserite
+nelle piste ricavate sull'anello interno
+e di un anello esterno con pista sferica,
+che consente il montaggio del
+cuscinetto su albero disallineato
+rispetto alla sede. Il disallineamento
+può essere causato da particolari
+esigenze di progettazione, da errori
+di montaggio, o da flessioni dell'albero.
+I cuscinetti orientabili a due corone
+sono utilizzati nelle applicazioni nelle
+quali, a parità di dimensioni rispetto
+alla forma base, devono sopportare
+carichi più elevati; per carichi molto
+elevati si consiglia l'uso dei cuscinetti
+a rulli. Possono avere gabbia in
+poliammide rinforzata, in ottone, in
+lamierino di acciaio sagomato. Possono
+essere forniti in forma aperta o con
+protezione strisciante a tenuta stagna
+2RS. Sopportano un disallineamento
+di circa 4° nella esecuzione aperta e
+circa 2° nella esecuzione 2RS a tenuta
+stagna. Sono disponibili con foro
+cilindrico e con foro conico che
+permette rapidità di montaggio sugli
+alberi mediante l'utilizzo delle bussole
+di serraggio (bussole di trazione e
+bussole di pressione).
+Self-aligning bearings are provided
+with double row of balls inserted inside
+the groove of the inner ring and with
+an outer sphered ring.
+This peculiar feature enables to mount
+the bearings onto a misaligned shaft
+relative to the housing.
+This misalignment can be caused by
+erros in mounting, particular design
+requirements, or shaft bending.
+Double row self-aligning bearings are
+used in the case of heavier loads to
+bear (same dimensions respect to
+basic form).
+We recommend the use of roller
+bearings, instead, when loads are very
+high to stand.
+Double row self-aligning bearings can
+be fitted with reinforced polyamid
+cages, brass or pressed sheet of steel
+cages.
+These bearings are available in two
+versions: the open type and the sealed
+ones (2RS watertight).
+The open version stands a
+misalignment up to 4°, the watertight
+2RS, instead, up to 2° (more or less).
+They are manufactured with cylindrical
+or tapered bore, the latter enables
+assembling rapidity thanks to the use
+of sleeves (taper adapter and
+withdrawal sleeves).
+Self-aligning ball bearings,
+with cylindrical or conical
+bore
+35
+
+-- 73 of 146 --
+
+Cuscinetti orientabili
+radiali a sfere
+Self-aligning radial
+ball bearings
+d 	5-25 mm
+5
+6
+7
+8
+9
+10
+12
+15
+17
+20
+25
+19
+19
+22
+22
+26
+30
+30
+32
+32
+37
+37
+35
+35
+42
+42
+40
+40
+47
+47
+47
+47
+52
+52
+52
+52
+62
+62
+6
+6
+7
+7
+8
+9
+14
+10
+14
+12
+17
+11
+14
+13
+17
+12
+16
+14
+19
+14
+18
+15
+21
+15
+18
+17
+24
+2 510
+2 510
+2 650
+2 650
+3 900
+5 530
+8 060
+6 240
+8 520
+9 360
+11 700
+7 410
+8 710
+10 800
+11 900
+8 840
+10 600
+12 700
+14 600
+12 700
+16 800
+14 300
+18 200
+14 300
+16 800
+19 000
+24 200
+480
+480
+560
+560
+815
+1 180
+1 730
+1 430
+1 900
+2 160
+2 700
+1 760
+2 040
+2 600
+2 900
+2 200
+2 550
+3 400
+3 550
+3 400
+4 150
+4 000
+4 750
+4 000
+4 400
+5 400
+6 550
+32 000
+32 000
+30 000
+30 000
+26 000
+24 000
+22 000
+22 000
+20 000
+18 000
+17 000
+19 000
+18 000
+17 000
+15 000
+18 000
+17 000
+14 000
+13 000
+15 000
+14 000
+12 000
+11 000
+13 000
+11 000
+9 500
+9 500
+38 000
+38 000
+36 000
+36 000
+32 000
+30 000
+28 000
+28 000
+26 000
+22 000
+20 000
+24 000
+22 000
+20 000
+18 000
+22 000
+20 000
+17 000
+16 000
+18 000
+17 000
+15 000
+14 000
+16 000
+14 000
+12 000
+12 000
+0,009
+0,009
+0,014
+0,014
+0,022
+0,034
+0,047
+0,040
+0,053
+0,067
+0,095
+0,049
+0,060
+0,094
+0,11
+0,073
+0,088
+0,13
+0,16
+0,12
+0,14
+0,16
+0,21
+0,14
+0,16
+0,26
+0,34
+135
+126
+127
+108
+129
+1200
+2200
+1201
+2201
+1301
+2301
+1202
+2202
+1302
+2302
+1203
+2203
+1303
+2303
+1204
+2204
+1304
+2304
+1205
+2205
+1305
+2305
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+1204 K
+-
+1304 K
+-
+1205 K
+2205 K
+1305 K
+2305 K
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+H 204
+-
+H 304
+-
+H 205
+H 305
+H 305
+H 2305
+Cuscinetti orientabili
+a sfere con bussola
+di trazione
+Self-aligning ball bearings
+with taper adapter
+Foro cilindrico
+Coefficente di carico
+Load rating
+N
+Velocità limite
+Speed limit
+Lubrificazione
+grasso 	olio
+grease 	oil
+Peso
+Weight
+kg 	Con foro
+cilindrico
+Cylindrical
+bore
+dinam. 	stat.
+C 	C0
+Con foro
+conico
+Conical
+bore
+Bussola
+di trazione
+Taper
+adapter
+Conicità 1:12
+Cuscinetto completo di bussola
+Dimensioni
+Dimensions
+mm
+d 	D 	B
+Sigla cuscinetto
+Designation bearing
+36
+
+-- 74 of 146 --
+
+30
+35
+40
+45
+50
+55
+60
+65
+62
+62
+72
+72
+72
+72
+80
+80
+80
+80
+90
+90
+85
+85
+100
+100
+90
+90
+110
+110
+100
+100
+120
+120
+110
+110
+130
+130
+120
+120
+140
+140
+16
+20
+19
+27
+17
+23
+21
+31
+18
+23
+23
+33
+19
+23
+25
+36
+20
+23
+27
+40
+21
+25
+29
+43
+22
+28
+31
+46
+23
+31
+33
+48
+15 600
+23 800
+22 500
+31 200
+19 000
+30 700
+26 500
+39 700
+19 000
+31 900
+33 800
+54 000
+22 900
+32 500
+39 000
+63 700
+26 500
+33 800
+43 600
+63 700
+27 600
+39 000
+50 700
+76 100
+31 200
+48 800
+58 500
+87 100
+35 100
+57 200
+65 000
+95 600
+4 650
+6 700
+6 800
+8 800
+6 000
+8 800
+8 500
+11 200
+6 950
+10 000
+11 200
+16 000
+7 800
+10 600
+13 400
+19 300
+9 150
+11 200
+14 000
+20 000
+10 600
+13 400
+18 000
+24 000
+12 200
+17 000
+22 000
+28 500
+14 000
+20 000
+25 500
+32 500
+10 000
+9 500
+9 000
+8 500
+9 000
+8 500
+7 500
+7 000
+8 500
+7 500
+6 700
+6 300
+7 500
+7 000
+6 300
+5 600
+7 000
+6 300
+5 600
+5 300
+6 300
+6 000
+5 000
+4 800
+5 600
+5 300
+4 500
+4 500
+5 300
+5 000
+4 300
+4 000
+13 000
+12 000
+11 000
+10 000
+11 000
+10 000
+9 000
+8 500
+10 000
+9 000
+8 000
+7 500
+9 000
+8 500
+7 500
+6 700
+8 500
+7 500
+6 700
+6 300
+7 500
+7 000
+6 000
+5 600
+6 700
+6 300
+5 300
+5 300
+6 300
+6 000
+5 000
+4 800
+0,22
+0,26
+0,39
+0,50
+0,32
+0,40
+0,51
+0,68
+0,42
+0,51
+0,72
+0,93
+0,47
+0,55
+0,96
+1,25
+0,53
+0,60
+1,20
+1,65
+0,71
+0,81
+1,60
+2,10
+0,90
+1,10
+1,95
+2,60
+1,15
+1,45
+2,45
+3,25
+1206
+2206
+1306
+2306
+1207
+2207
+1307
+2307
+1208
+2208
+1308
+2308
+1209
+2209
+1309
+2309
+1210
+2210
+1310
+2310
+1211
+2211
+1311
+2311
+1212
+2212
+1312
+2312
+1213
+2213
+1313
+2313
+H 206
+H 306
+H 306
+H 2306
+H 207
+H 307
+H 307
+H 2307
+H 208
+H 308
+H 308
+H 2308
+H 209
+H 309
+H 309
+H 2309
+H 210
+H 310
+H 310
+H 2310
+H 211
+H 311
+H 311
+H 2311
+H 212
+H 312
+H 312
+H 2312
+H 213
+H 313
+H 313
+H 2313
+1206 K
+2206 K
+1306 K
+2306 K
+1207 K
+2207 K
+1307 K
+2307 K
+1208 K
+2208 K
+1308 K
+2308 K
+1209 K
+2209 K
+1309 K
+2309 K
+1210 K
+2210 K
+1310 K
+2310 K
+1211 K
+2211 K
+1311 K
+2311 K
+1212 K
+2212 K
+1312 K
+2312 K
+1213 K
+2213 K
+1313 K
+2313 K
+Cuscinetti orientabili
+radiali a sfere
+Self-aligning radial
+ball bearings
+d 	30-65 mm
+Cuscinetti orientabili
+a sfere con bussola
+di trazione
+Self-aligning ball bearings
+with taper adapter
+Foro cilindrico
+Coefficente di carico
+Load rating
+N
+Velocità limite
+Speed limit
+Lubrificazione
+grasso 	olio
+grease 	oil
+Peso
+Weight
+kg 	Con foro
+cilindrico
+Cylindrical
+bore
+dinam. 	stat.
+C 	C0
+Con foro
+conico
+Conical
+bore
+Bussola
+di trazione
+Taper
+adapter
+Conicità 1:12
+Cuscinetto completo di bussola
+Dimensioni
+Dimensions
+mm
+d 	D 	B
+Sigla cuscinetto
+Designation bearing
+37
+
+-- 75 of 146 --
+
+70
+75
+80
+85
+90
+95
+100
+25
+125
+150
+150
+130
+130
+160
+160
+140
+140
+170
+170
+150
+150
+180
+180
+160
+160
+190
+190
+170
+170
+200
+200
+180
+180
+215
+215
+24
+31
+35
+51
+25
+31
+37
+55
+26
+33
+39
+58
+28
+36
+41
+60
+30
+40
+43
+64
+32
+43
+45
+67
+34
+46
+47
+73
+34 500
+44 200
+74 100
+111 000
+39 000
+44 200
+79 300
+124 000
+39 700
+65 000
+88 400
+135 000
+48 800
+58 500
+97 500
+140 000
+57 200
+70 200
+117 000
+153 000
+63 700
+83 200
+133 000
+165 000
+68 900
+97 500
+143 000
+190 000
+13 700
+17 000
+27 500
+37 500
+15 600
+18 000
+30 000
+43 000
+17 000
+25 500
+33 500
+49 000
+20 800
+23 600
+38 000
+51 000
+23 600
+28 500
+44 000
+57 000
+27 000
+34 500
+51 000
+64 000
+30 000
+40 500
+57 000
+80 000
+5 000
+4 800
+4 000
+3 800
+4 800
+4 500
+3 800
+3 400
+4 500
+4 000
+3 600
+3 200
+4 000
+3 800
+3 400
+3 000
+3 800
+3 600
+3 200
+2 800
+3 600
+3 400
+3 000
+2 600
+3 400
+3 200
+2 800
+2 400
+6 000
+5 600
+4 800
+4 500
+5 600
+5 300
+4 500
+4 000
+5 300
+4 800
+4 300
+3 800
+4 800
+4 500
+4 000
+3 600
+4 500
+4 300
+3 800
+3 400
+4 300
+4 000
+3 600
+3 200
+4 000
+3 800
+3 400
+3 000
+1,25
+1,50
+3,00
+3,90
+1,35
+1,60
+3,55
+4,70
+1,65
+2,00
+4,20
+6,10
+2,05
+2,50
+5,00
+7,05
+2,50
+3,40
+5,80
+8,45
+3,10
+4,10
+6,70
+9,80
+3,70
+5,00
+8,30
+12,5
+1214
+2214
+1314
+2314
+1215
+2215
+1315
+2315
+1216
+2216
+1316
+2316
+1217
+2217
+1317
+2317
+1218
+2218
+1318
+2318
+1219
+2219
+1319
+2319
+1220
+2220
+1320
+2320
+H 214
+H 314
+H 314
+H 2314
+H 215
+H 315
+H 315
+H 2315
+H 216
+H 316
+H 316
+H 2316
+H 217
+H 317
+H 317
+H 2317
+H 218
+H 318
+H 318
+H 2318
+H 219
+H 319
+H 319
+H 2319
+H 220
+H 320
+H 320
+H 2320
+1214 K
+2214 K
+1314 K
+2314 K
+1215 K
+2215 K
+1315 K
+2315 K
+1216 K
+2216 K
+1316 K
+2316 K
+1217 K
+2217 K
+1317 K
+2317 K
+1218 K
+2218 K
+1318 K
+2318 K
+1219 K
+2219 K
+1319 K
+2319 K
+1220 K
+2220 K
+1320 K
+2320 K
+Cuscinetti orientabili
+a sfere
+Self-aligning radial
+ball bearings
+d 	70-100 mm
+Cuscinetti orientabili
+a sfere con bussola
+di trazione
+Self-aligning ball bearings
+with taper adapter
+Foro cilindrico
+Coefficente di carico
+Load rating
+N
+Velocità limite
+Speed limit
+Lubrificazione
+grasso 	olio
+grease 	oil
+Peso
+Weight
+kg 	Con foro
+cilindrico
+Cylindrical
+bore
+dinam. 	stat.
+C 	C0
+Con foro
+conico
+Conical
+bore
+Bussola
+di trazione
+Taper
+adapter
+Conicità 1:12
+Cuscinetto completo di bussola
+Dimensioni
+Dimensions
+mm
+d 	D 	B
+Sigla cuscinetto
+Designation bearing
+38
+
+-- 76 of 146 --
+
+Cuscinetti orientabili a sfere con tenute 2RS
+Self-aligning ball bearings, with 2RS seals
+d 	10-70 mm
+10
+12
+15
+17
+20
+25
+30
+35
+40
+45
+50
+55
+60
+65
+70
+30
+32
+35
+42
+40
+47
+47
+52
+52
+62
+62
+72
+72
+80
+80
+90
+85
+100
+90
+110
+100
+110
+120
+125
+14
+14
+14
+17
+16
+19
+18
+21
+18
+24
+20
+27
+23
+31
+23
+33
+23
+36
+23
+40
+25
+28
+31
+31
+5 530
+6 240
+7 410
+10 800
+8 840
+12 700
+12 700
+14 300
+14 300
+19 000
+15 600
+22 500
+19 000
+26 500
+19 900
+33 800
+22 900
+39 000
+22 900
+43 600
+27 600
+31 200
+35 100
+34 500
+1 180
+1 430
+1 760
+2 600
+2 200
+3 400
+3 400
+4 000
+4 000
+5 400
+4 650
+6 800
+6 000
+8 500
+6 950
+11 200
+7 800
+13 400
+8 150
+14 000
+10 600
+12 200
+14 000
+13 700
+17 000
+16 000
+14 000
+12 000
+12 000
+11 000
+10 000
+9 500
+9 000
+7 500
+7 500
+6 700
+6 300
+5 600
+5 600
+5 000
+5 300
+4 500
+4 800
+4 000
+4 300
+3 800
+3 600
+3 400
+0,048
+0,053
+0,058
+0,11
+0,089
+0,16
+0,14
+0,21
+0,16
+0,34
+0,26
+0,51
+0,41
+0,70
+0,50
+0,96
+0,53
+1,30
+0,57
+1,65
+0,79
+1,05
+1,40
+1,50
+2200-2RS
+2201-2RS
+2202-2RS
+2302-2RS
+2203-2RS
+2303-2RS
+2204-2RS
+2304-2RS
+2205-2RS
+2305-2RS
+2206-2RS
+2306-2RS
+2207-2RS
+2307-2RS
+2208-2RS
+2308-2RS
+2209-2RS
+2309-2RS
+2210-2RS
+2310-2RS
+2211
+2212
+2213
+2214
+-
+-
+-
+-
+-
+-
+-
+-
+2205-2RSK
+-
+2206-2RSK
+-
+2207-2RSK
+-
+2208-2RSK
+-
+2209-2RSK
+-
+2210-2RSK
+-
+2211-2RSK
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+H305
+-
+H306
+-
+H307
+-
+H308
+-
+H309
+-
+H310
+-
+H311
+-
+-
+-
+Foro cilindrico
+Cylindrical bore
+Coefficente di carico
+Load rating
+N
+Velocità
+limite
+Speed
+limit
+Peso
+Weight
+kg 	Con foro
+cilindrico
+Cylindrical
+bore
+dinam. 	stat.
+C 	C0
+Con foro
+conico
+Conical
+bore
+Bussola
+di trazione
+Taper
+adapter
+Dimensioni
+Dimensions
+mm
+d 	D 	B
+Sigla cuscinetto
+Designation bearing
+39
+Foro conico
+Conical bore
+B
+d	D
+B
+d	D
+
+-- 77 of 146 --
+
+Dimensioni
+Dimensions
+mm
+d 	D 	B
+Coefficente di carico
+Load rating
+N
+dinam. 	stat.
+C 	C0
+Peso
+Weight
+kg
+Sigla
+cuscinetto
+Designation
+bearing
+Cuscinetti orientabili a sfere con anello interno largo
+Self-aligning ball bearings with large inner ring
+d 	20-60 mm
+20
+25
+30
+35
+40
+45
+50
+60
+47
+52
+62
+62
+72
+72
+80
+80
+90
+85
+90
+110
+110
+14
+15
+17
+16
+19
+17
+21
+18
+23
+19
+20
+27
+22
+12 700
+14 300
+19 000
+15 600
+22 500
+19 000
+26 500
+19 900
+33 800
+22 900
+26 500
+43 600
+31 200
+3 400
+4 000
+5 400
+4 650
+6 800
+6 000
+8 500
+6 950
+11 200
+7 800
+9 150
+14 000
+12 200
+9 000
+8 000
+6 700
+6 700
+5 600
+5 600
+5 000
+5 000
+4 500
+4 500
+4 300
+3 600
+3 400
+0,18
+0,22
+0,41
+0,35
+0,61
+0,54
+0,81
+0,72
+1,10
+0,77
+0,85
+1,70
+1,50
+11204
+11205
+11305
+11206
+11306
+11207
+11307
+11208
+11308
+11209
+11210
+11310
+11212
+Dimensioni
+Dimensions
+mm
+d2
+≈
+28,9
+33,3
+38
+40,1
+45
+47
+51,7
+54
+61,4
+57,7
+61,7
+70,3
+78
+40
+44
+48
+48
+52
+52
+56
+56
+58
+58
+58
+62
+62
+C
+Velocità
+limite
+Speed
+limit
+40
+Cuscinetti fabbricati con tolleranza J7 sul diametro interno.
+Bearings manufactured with “J7” tolerance on inner diameter.
+
+-- 78 of 146 --
+
+
+
+-- 79 of 146 --
+
+
+
+-- 80 of 146 --
+
+Cuscinetti a rulli cilindrici
+I cuscinetti ad un giro di rulli cilindrici
+sono costruiti in pù versioni e sono
+sempre scomponibili per facilitarne il
+montaggio, hanno i rulli con relativa
+gabbia che possono essere guidati
+sull'anello interno oppure sull'anello
+esterno. L'anello del cuscinetto che
+guida i rulli è munito di orli, mentre
+l'altro anello non ha orli ed è sfilabile.
+I cuscinetti e rulli hanno elevata
+capacità di carico radiale e sono in
+grado di raggiungere alte velocità.
+I cuscinetti del tipo NU hanno due orli
+sull'anello esterno e nessun orlo
+sull'anello interno che è sfilabile. I
+cuscinetti del tipo NU possono essere
+integrati con un anello di
+spalleggiamento HJ in modo da
+sopportare carichi assiali in una
+direzione.
+I cuscinetti del tipo N ha due orli
+sull'anello interno e nessuno orlo
+sull'anello esterno che è sfilabile.
+I cuscinetti del tipo NJ hanno due orli
+sull'anello esterno ed un orlo sull'anello
+interno in modo da sopportare carichi
+assiali in una direzione. I cuscinetti del
+tipo NJ possono essere integrati con
+un anello di spalleggiamento HJ e
+possono sopportare carichi assiali in
+entrambe le direzioni.
+I cuscinetti del tipo NUP hanno due
+orli sull'anello esterno, un orlo
+sull'anello interno con un anello
+riportato in appoggio sull'altro lato, in
+modo da sopportare carichi assiali in
+entrambe le direzioni.
+I cuscinetti a rulli cilindrici sono
+prodotti con gabbie in poliammide
+rinforzata, o in ottone massiccio, o
+stampate in lamiera di acciaio.
+43
+Single row roller bearings are
+manufactured in many different
+versions and are always dismountable
+to make easier assembling operations:
+their rollers and cages can be driven
+on the outer or inner ring.
+The bearing's ring driving the rollers,
+is fitted with edges, whereas the other
+ring has no edges and is extractable.
+Cylindrical roller bearings bear heavy
+loads and can take up very high
+speeds.
+"NU" bearings have two egdes placed
+on the outer ring and no one on the
+inner ring which is extractable. These
+bearings can be completed with an
+"HJ" ring in this way they stand a single
+direction axial loads.
+"N" bearings have two edges on the
+inner ring and no one on the outer ring
+which is extractable.
+"NJ" bearings have two edges on the
+outer ring and one on the inner ring,
+to stand single direction axial loads.
+These bearings can be completed with
+an "HJ" ring in this way they stand axial
+loads in both directions.
+"NUP" bearings have two edges on the
+outer ring, one edge on the inner ring
+with another ring leant on the other
+side: they stand therefore axial loads
+in both directions.
+Cylindrical roller bearings are
+produced with reinforced polyamide
+cages, brass cages or pressed sheet
+steel.
+Cylindrical roller bearings
+
+-- 81 of 146 --
+
+Cuscinetti a rulli cilindrici ad una corona
+Cylindrical roller bearings, single row
+d 	15-20 mm
+15
+17
+20
+35
+35
+42
+42
+40
+40
+40
+40
+40
+40
+40
+47
+47
+47
+47
+47
+47
+47
+47
+47
+47
+52
+52
+52
+52
+52
+52
+52
+11
+11
+13
+13
+12
+12
+12
+12
+16
+16
+16
+14
+14
+14
+14
+14
+14
+14
+14
+18
+18
+15
+15
+15
+15
+21
+21
+21
+12 500
+12 500
+19 400
+19 400
+17 200
+17 200
+17 200
+17 200
+23 800
+23 800
+23 800
+24 600
+24 600
+24 600
+24 600
+25 100
+25 100
+25 100
+25 100
+29 700
+29 700
+30 800
+30 800
+30 800
+30 800
+41 300
+41 300
+41 300
+10 200
+10 200
+15 300
+15 300
+14 300
+14 300
+14 300
+14 300
+21 600
+21 600
+21 600
+20 400
+20 400
+20 400
+20 400
+22 000
+22 000
+22 000
+22 000
+27 500
+27 500
+26 000
+26 000
+26 000
+26 000
+38 000
+38 000
+38 000
+0,047
+0,049
+0,086
+0,088
+0,068
+0,070
+0,073
+0,066
+0,092
+0,095
+0,097
+0,12
+0,12
+0,13
+0,13
+0,11
+0,11
+0,12
+0,11
+0,14
+0,14
+0,15
+0,15
+0,16
+0,15
+0,21
+0,22
+0,22
+NU 202
+NJ 202
+NU 302
+NJ 302
+NU 203
+NJ 203
+NUP 203
+NU 203
+NU 2203
+NJ 2203
+NUP 2203
+NU 303
+NJ 303
+NUP 303
+N 303
+NU 204
+NJ 204
+NUP 204
+N 204
+NU 2204
+NJ 2204
+NU 304
+NJ 304
+NUP 304
+N 304
+NU 2304
+NJ 2304
+NUP 2304
+18 000
+18 000
+16 000
+16 000
+16 000
+16 000
+16 000
+16 000
+16 000
+16 000
+16 000
+14 000
+14 000
+14 000
+14 000
+13 000
+13 000
+13 000
+13 000
+13 000
+13 000
+12 000
+12 000
+12 000
+12 000
+11 000
+11 000
+11 000
+22 000
+22 000
+19 000
+19 000
+19 000
+19 000
+19 000
+19 000
+19 000
+19 000
+19 000
+17 000
+17 000
+17 000
+17 000
+16 000
+16 000
+16 000
+16 000
+16 000
+16 000
+15 000
+15 000
+15 000
+15 000
+14 000
+14 000
+14 000
+HJ 202
+-
+HJ 302
+-
+HJ 203
+-
+-
+-
+HJ 2203
+-
+-
+HJ 303
+-
+-
+-
+HJ 204
+-
+-
+-
+HJ 2204
+-
+HJ 304
+-
+-
+-
+HJ 2304
+-
+-
+Dimensioni
+Dimensions
+mm
+d 	D 	B
+Coefficente di carico
+Load rating
+N
+dinam. 	stat.
+C 	C0
+Peso
+Weight
+kg
+Sigla
+cuscinetto
+Designation
+bearing
+Sigla
+anello
+Designation
+ring
+Velocità limite
+Speed limit
+Lubrificazione
+grasso 	olio
+grease 	oil
+NU 	NJ 	NUP 	N
+44
+
+-- 82 of 146 --
+
+25
+30
+47
+52
+52
+52
+52
+52
+52
+52
+62
+62
+62
+62
+62
+62
+62
+55
+62
+62
+62
+62
+62
+62
+62
+62
+72
+72
+72
+72
+72
+72
+72
+12
+15
+15
+15
+15
+18
+18
+18
+17
+17
+17
+17
+24
+24
+24
+13
+16
+16
+16
+16
+20
+20
+20
+20
+19
+19
+19
+19
+27
+27
+27
+13 200
+28 600
+28 600
+28 600
+28 600
+34 100
+34 100
+34 100
+40 200
+40 200
+40 200
+40 200
+56 100
+56 100
+56 100
+17 500
+38 000
+38 000
+38 000
+38 000
+48 400
+48 400
+48 400
+48 400
+51 200
+51 200
+51 200
+51 200
+73 700
+73 700
+73 700
+14 200
+27 000
+27 000
+27 000
+27 000
+34 000
+34 000
+34 000
+36 500
+36 500
+36 500
+36 500
+55 000
+55 000
+55 000
+17 900
+36 500
+36 500
+36 500
+36 500
+49 000
+49 000
+49 000
+49 000
+48 000
+48 000
+48 000
+48 000
+75 000
+75 000
+75 000
+0,084
+0,13
+0,14
+0,14
+0,13
+0,16
+0,17
+0,17
+0,24
+0,25
+0,25
+0,24
+0,35
+0,36
+0,38
+0,12
+0,20
+0,21
+0,22
+0,20
+0,26
+0,27
+0,27
+0,26
+0,36
+0,37
+0,38
+0,36
+0,53
+0,54
+0,55
+NU 1005
+NU 205
+NJ 205
+NUP 205
+N 205
+NU 2205
+NJ 2205
+NUP 2205
+NU 305
+NJ 305
+NUP 305
+N 305
+NU 2305
+NJ 2305
+NUP 2305
+NU 1006
+NU 206
+NJ 206
+NUP 206
+N 206
+NU 2206
+NJ 2206
+NUP 2206
+N 2206
+NU 306
+NJ 306
+NUP 306
+N 306
+NU 2306
+NJ 2306
+NUP 2306
+15 000
+11 000
+11 000
+11 000
+11 000
+11 000
+11 000
+11 000
+9 500
+9 500
+9 500
+9 500
+9 000
+9 000
+9 000
+12 000
+9 500
+9 500
+9 500
+9 500
+9 500
+9 500
+9 500
+9 500
+9 000
+9 000
+9 000
+9 000
+8 000
+8 000
+8 000
+18 000
+14 000
+14 000
+14 000
+14 000
+14 000
+14 000
+14 000
+12 000
+12 000
+12 000
+12 000
+11 000
+11 000
+11 000
+15 000
+12 000
+12 000
+12 000
+12 000
+12 000
+12 000
+12 000
+12 000
+11 000
+11 000
+11 000
+11 000
+9 500
+9 500
+9 500
+-
+HJ 205
+-
+-
+-
+HJ 2205
+-
+-
+HJ 305
+-
+-
+-
+HJ 3205
+-
+-
+-
+HJ 206
+-
+-
+-
+HJ 2206
+-
+-
+-
+HJ 306
+-
+-
+-
+HJ 2306
+-
+-
+Cuscinetti a rulli cilindrici ad una corona
+Cylindrical roller bearings, single row
+d 	25-30 mm
+Dimensioni
+Dimensions
+mm
+d 	D 	B
+Coefficente di carico
+Load rating
+N
+dinam. 	stat.
+C 	C0
+Peso
+Weight
+kg
+Sigla
+cuscinetto
+Designation
+bearing
+Sigla
+anello
+Designation
+ring
+Velocità limite
+Speed limit
+Lubrificazione
+grasso 	olio
+grease 	oil
+NU 	NJ 	NUP 	N
+45
+
+-- 83 of 146 --
+
+30
+35
+40
+90
+90
+62
+72
+72
+72
+72
+72
+72
+72
+72
+80
+80
+80
+80
+80
+80
+80
+100
+100
+100
+68
+80
+80
+80
+80
+80
+80
+80
+80
+23
+23
+14
+17
+17
+17
+17
+23
+23
+23
+23
+21
+21
+21
+21
+31
+31
+31
+25
+25
+25
+15
+18
+18
+18
+18
+23
+23
+23
+23
+60 500
+60 500
+35 800
+48 400
+48 400
+48 400
+48 400
+59 400
+59 400
+59 400
+59 400
+64 400
+64 400
+64 400
+64 400
+91 300
+91 300
+91 300
+76 500
+76 500
+76 500
+25 100
+53 900
+53 900
+53 900
+53 900
+70 400
+70 400
+70 400
+70 400
+53 000
+53 000
+38 000
+48 000
+48 000
+48 000
+48 000
+63 000
+63 000
+63 000
+63 000
+63 000
+63 000
+63 000
+63 000
+98 000
+98 000
+98 000
+69 500
+69 500
+69 500
+26 000
+53 000
+53 000
+53 000
+53 000
+75 000
+75 000
+75 000
+75 000
+0,75
+0,77
+0,16
+0,30
+0,31
+0,31
+0,30
+0,40
+0,41
+0,42
+0,40
+0,48
+0,49
+0,51
+0,48
+0,72
+0,73
+0,75
+1,00
+1,05
+1,05
+0,22
+0,37
+0,38
+0,40
+0,37
+0,49
+0,50
+0,51
+0,49
+NU 406
+NJ 406
+NU 1007
+NU 207
+NJ 207
+NUP 207
+N 207
+NU 2207
+NJ 2207
+NUP 2207
+N 2207
+NU 307
+NJ 307
+NUP 307
+N 307
+NU 2307
+NJ 2307
+NUP 2307
+NU 407
+NJ 407
+NUP 407
+NU 1008
+NU 208
+NJ 208
+NUP 208
+N 208
+NU 2208
+NJ 2208
+NUP 2208
+N 2208
+7 500
+7 500
+10 000
+8 500
+8 500
+8 500
+8 500
+8 500
+8 500
+8 500
+8 500
+8 000
+8 000
+8 000
+8 000
+7 000
+7 000
+7 000
+6 700
+6 700
+6 700
+9 500
+7 500
+7 500
+7 500
+7 500
+7 500
+7 500
+7 500
+7 500
+9 000
+9 000
+13 000
+10 000
+10 000
+10 000
+10 000
+10 000
+10 000
+10 000
+10 000
+9 500
+9 500
+9 500
+9 500
+8 500
+8 500
+8 500
+8 000
+8 000
+8 000
+12 000
+9 000
+9 000
+9 000
+9 000
+9 000
+9 000
+9 000
+9 000
+HJ 406
+-
+-
+HJ 207
+-
+-
+-
+HJ 2207
+-
+-
+-
+HJ 307
+-
+-
+-
+HJ 2307
+-
+-
+HJ 407
+-
+-
+-
+HJ 208
+-
+-
+-
+HJ 2208
+-
+-
+-
+Cuscinetti a rulli cilindrici ad una corona
+Cylindrical roller bearings, single row
+d 	30-40 mm
+Dimensioni
+Dimensions
+mm
+d 	D 	B
+Coefficente di carico
+Load rating
+N
+dinam. 	stat.
+C 	C0
+Peso
+Weight
+kg
+Sigla
+cuscinetto
+Designation
+bearing
+Sigla
+anello
+Designation
+ring
+Velocità limite
+Speed limit
+Lubrificazione
+grasso 	olio
+grease 	oil
+NU 	NJ 	NUP 	N
+46
+
+-- 84 of 146 --
+
+40
+45
+90
+90
+90
+90
+90
+90
+90
+110
+110
+110
+75
+85
+85
+85
+85
+85
+85
+85
+85
+100
+100
+100
+100
+100
+100
+100
+120
+120
+120
+23
+23
+23
+23
+33
+33
+33
+27
+27
+27
+16
+19
+19
+19
+19
+23
+23
+23
+23
+25
+25
+25
+25
+36
+36
+36
+29
+29
+29
+80 900
+80 900
+80 900
+80 900
+112 000
+112 000
+112 000
+96 800
+96 800
+96 800
+44 600
+60 500
+60 500
+60 500
+60 500
+73 700
+73 700
+73 700
+73 700
+99 000
+99 000
+99 000
+99 000
+138 000
+138 000
+138 000
+106 000
+106 000
+106 000
+78 000
+78 000
+78 000
+78 000
+120 000
+120 000
+120 000
+90 000
+90 000
+90 000
+52 000
+64 000
+64 000
+64 000
+64 000
+81 500
+81 500
+81 500
+81 500
+100 000
+100 000
+100 000
+100 000
+153 000
+153 000
+153 000
+102 000
+102 000
+102 000
+0,65
+0,67
+0,68
+0,64
+0,94
+0,96
+0,98
+1,30
+1,30
+1,35
+0,26
+0,43
+0,44
+0,45
+0,43
+0,52
+0,54
+0,55
+0,52
+0,90
+0,92
+0,95
+0,88
+1,30
+1,30
+1,35
+1,65
+1,65
+1,70
+NU 308
+NJ 308
+NUP 308
+N 308
+NU 2308
+NJ 2308
+NUP 2308
+NU 408
+NJ 408
+NUP 408
+NU 1009
+NU 209
+NJ 209
+NUP 209
+N 209
+NU 2209
+NJ 2209
+NUP 2209
+N 2209
+NU 309
+NJ 309
+NUP 309
+N 309
+NU 2309
+NJ 2309
+NUP 2309
+NU 409
+NJ 409
+NUP 409
+6 700
+6 700
+6 700
+6 700
+6 300
+6 300
+6 300
+6 000
+6 000
+6 000
+9 000
+6 700
+6 700
+6 700
+6 700
+6 700
+6 700
+6 700
+6 700
+6 300
+6 300
+6 300
+6 300
+5 600
+5 600
+5 600
+5 600
+5 600
+5 600
+8 000
+8 000
+8 000
+8 000
+7 500
+7 500
+7 500
+7 000
+7 000
+7 000
+11 000
+8 000
+8 000
+8 000
+8 000
+8 000
+8 000
+8 000
+8 000
+7 500
+7 500
+7 500
+7 500
+6 700
+6 700
+6 700
+6 700
+6 700
+6 700
+HJ 308
+-
+-
+-
+HJ 2308
+-
+-
+HJ 408
+-
+-
+-
+HJ 209
+-
+-
+-
+HJ 2209
+-
+-
+-
+HJ 309
+-
+-
+-
+HJ 2309
+-
+-
+HJ 409
+-
+-
+Cuscinetti a rulli cilindrici ad una corona
+Cylindrical roller bearings, single row
+d 	40-45 mm
+Dimensioni
+Dimensions
+mm
+d 	D 	B
+Coefficente di carico
+Load rating
+N
+dinam. 	stat.
+C 	C0
+Peso
+Weight
+kg
+Sigla
+cuscinetto
+Designation
+bearing
+Sigla
+anello
+Designation
+ring
+Velocità limite
+Speed limit
+Lubrificazione
+grasso 	olio
+grease 	oil
+NU 	NJ 	NUP 	N
+47
+
+-- 85 of 146 --
+
+50
+55
+80
+90
+90
+90
+90
+90
+90
+90
+110
+110
+110
+110
+110
+110
+110
+130
+130
+90
+100
+100
+100
+100
+100
+100
+100
+100
+120
+120
+120
+120
+16
+20
+20
+20
+20
+23
+23
+23
+27
+27
+27
+27
+40
+40
+40
+31
+31
+18
+21
+21
+21
+21
+25
+25
+25
+25
+29
+29
+29
+29
+30 800
+64 400
+64 400
+64 400
+64 400
+78 100
+78 100
+78 100
+110 000
+110 000
+110 000
+110 000
+161 000
+161 000
+161 000
+130 000
+130 000
+57 200
+84 200
+84 200
+84 200
+84 200
+99 000
+99 000
+99 000
+99 000
+138 000
+138 000
+138 000
+138 000
+34 500
+69 500
+69 500
+69 500
+69 500
+88 000
+88 000
+88 000
+112 000
+112 000
+112 000
+112 000
+186 000
+186 000
+186 000
+127 000
+127 000
+69 500
+95 000
+95 000
+95 000
+95 000
+118 000
+118 000
+118 000
+118 000
+143 000
+143 000
+143 000
+143 000
+0,31
+0,48
+0,49
+0,51
+0,48
+0,56
+0,58
+0,59
+1,15
+1,15
+1,20
+1,15
+1,70
+1,75
+1,80
+2,00
+2,05
+0,40
+0,66
+0,67
+0,69
+0,66
+0,79
+0,81
+0,82
+0,79
+1,45
+1,50
+1,55
+1,45
+NU 1010
+NU 210
+NJ 210
+NUP 210
+N 210
+NU 2210
+NJ 2210
+NUP 2210
+NU 310
+NJ 310
+NUP 310
+N 310
+NU 2310
+NJ 2310
+NUP 2310
+NU 410
+NJ 410
+NU 1011
+NU 211
+NJ 211
+NUP 211
+N 211
+NU 2211
+NJ 2211
+NUP 2211
+N 2211
+NU 311
+NJ 311
+NUP 311
+N 311
+8 500
+6 300
+6 300
+6 300
+6 300
+6 300
+6 300
+6 300
+5 000
+5 000
+5 000
+5 000
+5 000
+5 000
+5 000
+5 000
+5 000
+7 000
+6 000
+6 000
+6 000
+6 000
+6 000
+6 000
+6 000
+6 000
+4 800
+4 800
+4 800
+4 800
+10 000
+7 500
+7 500
+7 500
+7 500
+7 500
+7 500
+7 500
+6 000
+6 000
+6 000
+6 000
+6 000
+6 000
+6 000
+6 000
+6 000
+8 500
+7 000
+7 000
+7 000
+7 000
+7 000
+7 000
+7 000
+7 000
+5 600
+5 600
+5 600
+5 600
+-
+HJ 210
+-
+-
+-
+HJ 2210
+-
+-
+-
+HJ 310
+-
+-
+HJ 2310
+-
+-
+HJ 410
+-
+HJ 1011
+HJ 211
+-
+-
+-
+HJ 2211
+-
+-
+-
+HJ 311
+-
+-
+-
+Cuscinetti a rulli cilindrici ad una corona
+Cylindrical roller bearings, single row
+d 	50-55 mm
+Dimensioni
+Dimensions
+mm
+d 	D 	B
+Coefficente di carico
+Load rating
+N
+dinam. 	stat.
+C 	C0
+Peso
+Weight
+kg
+Sigla
+cuscinetto
+Designation
+bearing
+Sigla
+anello
+Designation
+ring
+Velocità limite
+Speed limit
+Lubrificazione
+grasso 	olio
+grease 	oil
+NU 	NJ 	NUP 	N
+48
+
+-- 86 of 146 --
+
+55
+60
+65
+120
+120
+120
+140
+140
+140
+95
+110
+110
+110
+110
+110
+110
+110
+110
+130
+130
+130
+130
+130
+130
+130
+150
+150
+150
+100
+120
+120
+120
+120
+43
+43
+43
+33
+33
+33
+18
+22
+22
+22
+22
+28
+28
+28
+28
+31
+31
+31
+31
+46
+46
+46
+35
+35
+35
+18
+23
+23
+23
+23
+201 000
+201 000
+201 000
+142 000
+142 000
+142 000
+37 400
+93 500
+93 500
+93 500
+93 500
+128 000
+128 000
+128 000
+128 000
+151 000
+151 000
+151 000
+151 000
+224 000
+224 000
+224 000
+168 000
+168 000
+168 000
+38 000
+106 000
+106 000
+106 000
+106 000
+232 000
+232 000
+232 000
+140 000
+140 000
+140 000
+44 000
+102 000
+102 000
+102 000
+102 000
+153 000
+153 000
+153 000
+153 000
+160 000
+160 000
+160 000
+160 000
+265 000
+265 000
+265 000
+173 000
+173 000
+173 000
+46 500
+118 000
+118 000
+118 000
+118 000
+2,20
+2,25
+2,30
+2,50
+2,55
+2,60
+0,48
+0,81
+0,83
+0,86
+0,81
+1,10
+1,10
+1,15
+1,10
+1,80
+1,90
+1,95
+1,80
+2,75
+2,80
+2,85
+3,00
+3,10
+3,15
+0,51
+1,05
+1,05
+1,10
+1,05
+NU 2311
+NJ 2311
+NUP 2311
+NU 411
+NJ 411
+NUP 411
+NU 1012
+NU 212
+NJ 212
+NUP 212
+N 212
+NU 2212
+NJ 2212
+NUP 2212
+N 2212
+NU 312
+NJ 312
+NUP 312
+N 312
+NU 2312
+NJ 2312
+NUP 2312
+NU 412
+NJ 412
+NUP 412
+NU 1013
+NU 213
+NJ 213
+NUP 213
+N 213
+4 800
+4 800
+4 800
+4 800
+4 800
+4 800
+6 700
+5 300
+5 300
+5 300
+5 300
+5 300
+5 300
+5 300
+5 300
+4 300
+4 300
+4 300
+4 300
+4 300
+4 300
+4 300
+4 300
+4 300
+4 300
+6 300
+4 800
+4 800
+4 800
+4 800
+5 600
+5 600
+5 600
+5 600
+5 600
+5 600
+8 000
+6 300
+6 300
+6 300
+6 300
+6 300
+6 300
+6 300
+6 300
+5 000
+5 000
+5 000
+5 000
+5 000
+5 000
+5 000
+5 000
+5 000
+5 000
+7 500
+5 600
+5 600
+5 600
+5 600
+HJ 2311
+-
+-
+HJ 411
+-
+-
+-
+HJ 212
+-
+-
+-
+HJ 212
+-
+-
+-
+HJ 312
+-
+-
+-
+HJ 2312
+-
+-
+HJ 412
+-
+-
+-
+HJ 213
+-
+-
+-
+Cuscinetti a rulli cilindrici ad una corona
+Cylindrical roller bearings, single row
+d 	55-65 mm
+Dimensioni
+Dimensions
+mm
+d 	D 	B
+Coefficente di carico
+Load rating
+N
+dinam. 	stat.
+C 	C0
+Peso
+Weight
+kg
+Sigla
+cuscinetto
+Designation
+bearing
+Sigla
+anello
+Designation
+ring
+Velocità limite
+Speed limit
+Lubrificazione
+grasso 	olio
+grease 	oil
+NU 	NJ 	NUP 	N
+49
+
+-- 87 of 146 --
+
+65
+70
+120
+120
+120
+140
+140
+140
+140
+140
+140
+140
+160
+160
+110
+125
+125
+125
+125
+125
+125
+125
+150
+150
+150
+150
+150
+150
+150
+180
+180
+31
+31
+31
+33
+33
+33
+33
+48
+48
+48
+37
+37
+20
+24
+24
+24
+24
+31
+31
+31
+35
+35
+35
+35
+51
+51
+51
+42
+42
+147 000
+147 000
+147 000
+183 000
+183 000
+183 000
+183 000
+251 000
+251 000
+251 000
+183 000
+183 000
+56 100
+119 000
+119 000
+119 000
+119 000
+154 000
+154 000
+154 000
+205 000
+205 000
+205 000
+205 000
+275 000
+275 000
+275 000
+229 000
+229 000
+180 000
+180 000
+180 000
+196 000
+196 000
+196 000
+196 000
+290 000
+290 000
+290 000
+190 000
+190 000
+67 200
+137 000
+137 000
+137 000
+137 000
+193 000
+193 000
+193 000
+228 000
+228 000
+228 000
+228 000
+325 000
+325 000
+325 000
+240 000
+240 000
+1,40
+1,45
+1,50
+2,25
+2,30
+2,35
+2,25
+3,30
+3,35
+3,45
+3,60
+3,65
+0,70
+1,15
+1,15
+1,20
+1,15
+1,50
+1,55
+1,55
+2,75
+2,80
+2,85
+2,75
+4,00
+4,05
+4,15
+5,25
+5,35
+NU 2213
+NJ 2213
+NUP 2213
+NU 313
+NJ 313
+NUP 313
+N 313
+NU 2313
+NJ 2313
+NUP 2313
+NU 413
+NJ 413
+NU 1014
+NU 214
+NJ 214
+NUP 214
+N 214
+NU 2214
+NJ 2214
+NUP 2214
+NU 314
+NJ 314
+NUP 314
+N 314
+NU 2314
+NJ 2314
+NUP 2314
+NU 414
+NJ 414
+4 800
+4 800
+4 800
+4 000
+4 000
+4 000
+4 000
+4 000
+4 000
+4 000
+4 000
+4 000
+6 000
+4 500
+4 500
+4 500
+4 500
+4 500
+4 500
+4 500
+3 600
+3 600
+3 600
+3 600
+3 600
+3 600
+3 600
+3 600
+3 600
+5 600
+5 600
+5 600
+4 800
+4 800
+4 800
+4 800
+4 800
+4 800
+4 800
+4 800
+4 800
+7 000
+5 300
+5 300
+5 300
+5 300
+5 300
+5 300
+5 300
+4 300
+4 300
+4 300
+4 300
+4 300
+4 300
+4 300
+4 300
+4 300
+HJ 2213
+-
+-
+HJ 313
+-
+-
+-
+HJ 2313
+-
+-
+HJ 413
+-
+-
+HJ 214
+-
+-
+-
+HJ 2214
+-
+-
+HJ 314
+-
+-
+-
+HJ 2314
+-
+-
+HJ 414
+-
+Cuscinetti a rulli cilindrici ad una corona
+Cylindrical roller bearings, single row
+d 	65-70 mm
+Dimensioni
+Dimensions
+mm
+d 	D 	B
+Coefficente di carico
+Load rating
+N
+dinam. 	stat.
+C 	C0
+Peso
+Weight
+kg
+Sigla
+cuscinetto
+Designation
+bearing
+Sigla
+anello
+Designation
+ring
+Velocità limite
+Speed limit
+Lubrificazione
+grasso 	olio
+grease 	oil
+NU 	NJ 	NUP 	N
+50
+
+-- 88 of 146 --
+
+75
+80
+115
+130
+130
+130
+130
+130
+130
+130
+160
+160
+160
+160
+160
+160
+160
+190
+190
+125
+140
+140
+140
+140
+140
+140
+140
+170
+170
+170
+170
+20
+25
+25
+25
+25
+31
+31
+31
+37
+37
+37
+37
+55
+55
+55
+45
+45
+22
+26
+26
+26
+26
+33
+33
+33
+39
+39
+39
+39
+58 300
+130 000
+130 000
+130 000
+130 000
+161 000
+161 000
+161 000
+242 000
+242 000
+242 000
+242 000
+330 000
+330 000
+330 000
+264 000
+264 000
+66 000
+138 000
+138 000
+138 000
+138 000
+187 000
+187 000
+187 000
+260 000
+260 000
+260 000
+260 000
+71 000
+156 000
+156 000
+156 000
+156 000
+208 000
+208 000
+208 000
+265 000
+265 000
+265 000
+265 000
+400 000
+400 000
+400 000
+280 000
+280 000
+81 500
+166 000
+166 000
+166 000
+166 000
+245 000
+245 000
+245 000
+290 000
+290 000
+290 000
+290 000
+0,74
+1,25
+1,30
+1,30
+1,25
+1,60
+1,60
+1,65
+3,30
+3,35
+3,45
+3,30
+4,90
+5,00
+5,10
+6,25
+6,40
+0,99
+1,50
+1,55
+1,60
+1,50
+2,00
+2,05
+2,05
+3,95
+4,00
+4,10
+3,90
+NU 1015
+NU 215
+NJ 215
+NUP 215
+N 215
+NU 2215
+NJ 2215
+NUP 2215
+NU 315
+NJ 315
+NUP 315
+N 315
+NU 2315
+NJ 2315
+NUP 2315
+NU 415
+NJ 415
+NU 1016
+NU 216
+NJ 216
+NUP 216
+N 216
+NU 2216
+NJ 2216
+NUP 2216
+NU 316
+NJ 316
+NUP 316
+N 316
+5 600
+4 500
+4 500
+4 500
+4 500
+4 500
+4 500
+4 500
+3 400
+3 400
+3 400
+3 400
+3 400
+3 400
+3 400
+3 400
+3 400
+5 300
+4 000
+4 000
+4 000
+4 000
+4 000
+4 000
+4 000
+3 200
+3 200
+3 200
+3 200
+6 700
+5 300
+5 300
+5 300
+5 300
+5 300
+5 300
+5 300
+4 000
+4 000
+4 000
+4 000
+4 000
+4 000
+4 000
+4 000
+4 000
+6 300
+4 800
+4 800
+4 800
+4 800
+4 800
+4 800
+4 800
+3 800
+3 800
+3 800
+3 800
+-
+HJ 215
+-
+-
+-
+HJ 2215
+-
+-
+HJ 315
+-
+-
+-
+HJ 2315
+-
+-
+HJ 415
+-
+-
+HJ 216
+-
+-
+-
+HJ 216
+-
+-
+HJ 316
+-
+-
+-
+Cuscinetti a rulli cilindrici ad una corona
+Cylindrical roller bearings, single row
+d 	75-80 mm
+Dimensioni
+Dimensions
+mm
+d 	D 	B
+Coefficente di carico
+Load rating
+N
+dinam. 	stat.
+C 	C0
+Peso
+Weight
+kg
+Sigla
+cuscinetto
+Designation
+bearing
+Sigla
+anello
+Designation
+ring
+Velocità limite
+Speed limit
+Lubrificazione
+grasso 	olio
+grease 	oil
+NU 	NJ 	NUP 	N
+51
+
+-- 89 of 146 --
+
+80
+85
+90
+170
+170
+170
+200
+200
+130
+150
+150
+150
+150
+150
+150
+150
+180
+180
+180
+180
+180
+180
+180
+210
+210
+140
+160
+160
+160
+160
+58
+58
+58
+48
+48
+22
+28
+28
+28
+28
+36
+36
+36
+41
+41
+41
+41
+60
+60
+60
+52
+52
+24
+30
+30
+30
+30
+358 000
+358 000
+358 000
+303 000
+303 000
+68 200
+165 000
+165 000
+165 000
+165 000
+216 000
+216 000
+216 000
+297 000
+297 000
+297 000
+297 000
+396 000
+396 000
+396 000
+319 000
+319 000
+80 900
+183 000
+183 000
+183 000
+183 000
+440 000
+440 000
+440 000
+320 000
+320 000
+86 500
+200 000
+200 000
+200 000
+200 000
+280 000
+280 000
+280 000
+335 000
+335 000
+335 000
+335 000
+490 000
+490 000
+490 000
+335 000
+335 000
+104 000
+220 000
+220 000
+220 000
+220 000
+5,85
+5,95
+6,10
+7,30
+7,45
+1,05
+1,90
+1,95
+2,00
+1,90
+2,45
+2,55
+2,55
+4,70
+4,80
+4,90
+4,70
+6,85
+7,00
+7,15
+8,70
+8,90
+1,35
+2,35
+2,40
+2,45
+2,35
+NU 2316
+NJ 2316
+NUP 2316
+NU 416
+NJ 416
+NU 1017
+NU 217
+NJ 217
+NUP 217
+N 217
+NU 2217
+NJ 2217
+NUP 2217
+NU 317
+NJ 317
+NUP 317
+N 317
+NU 2317
+NJ 2317
+NUP 2317
+NU 417
+NJ 417
+NU 1018
+NU 218
+NJ 218
+NUP 218
+N 218
+3 200
+3 200
+3 200
+3 200
+3 200
+5 000
+3 800
+3 800
+3 800
+3 800
+3 800
+3 800
+3 800
+3 000
+3 000
+3 000
+3 000
+3 000
+3 000
+3 000
+3 000
+3 000
+4 800
+3 600
+3 600
+3 600
+3 600
+3 800
+3 800
+3 800
+3 800
+3 800
+6 000
+4 500
+4 500
+4 500
+4 500
+4 500
+4 500
+4 500
+3 600
+3 600
+3 600
+3 600
+3 600
+3 600
+3 600
+3 600
+3 600
+5 600
+4 300
+4 300
+4 300
+4 300
+HJ 2316
+-
+-
+HJ 416
+-
+-
+HJ 217
+-
+-
+-
+HJ 217
+-
+-
+HJ 317
+-
+-
+-
+HJ 2317
+-
+-
+HJ 417
+-
+-
+HJ 218
+-
+-
+-
+Cuscinetti a rulli cilindrici ad una corona
+Cylindrical roller bearings, single row
+d 	80-90 mm
+Dimensioni
+Dimensions
+mm
+d 	D 	B
+Coefficente di carico
+Load rating
+N
+dinam. 	stat.
+C 	C0
+Peso
+Weight
+kg
+Sigla
+cuscinetto
+Designation
+bearing
+Sigla
+anello
+Designation
+ring
+Velocità limite
+Speed limit
+Lubrificazione
+grasso 	olio
+grease 	oil
+NU 	NJ 	NUP 	N
+52
+
+-- 90 of 146 --
+
+90
+95
+160
+160
+160
+190
+190
+190
+190
+190
+190
+190
+225
+225
+145
+170
+170
+170
+170
+170
+170
+170
+170
+200
+200
+200
+200
+200
+200
+240
+240
+40
+40
+40
+43
+43
+43
+43
+64
+64
+64
+54
+54
+24
+32
+32
+32
+32
+43
+43
+43
+43
+45
+45
+45
+67
+67
+67
+55
+55
+242 000
+242 000
+242 000
+319 000
+319 000
+319 000
+319 000
+440 000
+440 000
+440 000
+380 000
+380 000
+84 200
+220 000
+220 000
+220 000
+220 000
+286 000
+286 000
+286 000
+286 000
+341 000
+341 000
+341 000
+468 000
+468 000
+468 000
+413 000
+413 000
+315 000
+315 000
+315 000
+360 000
+360 000
+360 000
+360 000
+540 000
+540 000
+540 000
+415 000
+415 000
+110 000
+265 000
+265 000
+265 000
+265 000
+375 000
+375 000
+375 000
+375 000
+390 000
+390 000
+390 000
+585 000
+585 000
+585 000
+455 000
+455 000
+3,15
+3,20
+3,30
+5,45
+5,55
+5,65
+5,40
+8,00
+8,15
+8,30
+10,5
+10,5
+1,40
+2,85
+2,90
+3,00
+2,85
+3,85
+3,95
+4,00
+3,85
+6,25
+6,45
+6,25
+9,35
+9,55
+9,75
+13,5
+13,5
+NU 2218
+NJ 2218
+NUP 2218
+NU 318
+NJ 318
+NUP 318
+N 318
+NU 2318
+NJ 2318
+NUP 2318
+NU 418
+NJ 418
+NU 1019
+NU 219
+NJ 219
+NUP 219
+N 219
+NU 2219
+NJ 2219
+NUP 2219
+N 2219
+NU 319
+NJ 319
+N 319
+NU 2319
+NJ 2319
+NUP 2319
+NU 419
+NJ 419
+3 600
+3 600
+3 600
+2 800
+2 800
+2 800
+2 800
+2 800
+2 800
+2 800
+2 800
+2 800
+4 500
+3 400
+3 400
+3 400
+3 400
+3 400
+3 400
+3 400
+3 400
+2 600
+2 600
+2 600
+2 600
+2 600
+2 600
+2 600
+2 600
+4 300
+4 300
+4 300
+3 400
+3 400
+3 400
+3 400
+3 400
+3 400
+3 400
+3 400
+3 400
+5 300
+4 000
+4 000
+4 000
+4 000
+4 000
+4 000
+4 000
+4 000
+3 200
+3 200
+3 200
+3 200
+3 200
+3 200
+3 200
+3 200
+HJ 2218
+-
+-
+HJ 318
+-
+-
+-
+HJ 2318
+-
+-
+HJ 418
+-
+-
+HJ 219
+-
+-
+-
+HJ 2219
+-
+-
+-
+HJ 319
+-
+-
+HJ 2319
+-
+-
+HJ 419
+-
+Cuscinetti a rulli cilindrici ad una corona
+Cylindrical roller bearings, single row
+d 	90-95 mm
+Dimensioni
+Dimensions
+mm
+d 	D 	B
+Coefficente di carico
+Load rating
+N
+dinam. 	stat.
+C 	C0
+Peso
+Weight
+kg
+Sigla
+cuscinetto
+Designation
+bearing
+Sigla
+anello
+Designation
+ring
+Velocità limite
+Speed limit
+Lubrificazione
+grasso 	olio
+grease 	oil
+NU 	NJ 	NUP 	N
+53
+
+-- 91 of 146 --
+
+100
+105
+150
+180
+180
+180
+180
+180
+180
+180
+215
+215
+215
+215
+215
+215
+215
+250
+250
+160
+190
+190
+190
+190
+225
+225
+225
+24
+34
+34
+34
+34
+46
+46
+46
+47
+47
+47
+47
+73
+73
+73
+58
+58
+26
+36
+36
+36
+36
+49
+49
+49
+85 800
+251 000
+251 000
+251 000
+251 000
+336 000
+336 000
+336 000
+391 000
+391 000
+391 000
+391 000
+583 000
+583 000
+583 000
+429 000
+429 000
+101 000
+264 000
+264 000
+264 000
+264 000
+440 000
+440 000
+440 000
+114 000
+305 000
+305 000
+305 000
+305 000
+450 000
+450 000
+450 000
+440 000
+440 000
+440 000
+440 000
+735 000
+735 000
+735 000
+475 000
+475 000
+137 000
+315 000
+315 000
+315 000
+315 000
+500 000
+500 000
+500 000
+1,45
+3,45
+3,50
+3,60
+3,45
+4,75
+4,80
+4,90
+7,60
+7,80
+7,95
+7,55
+12,0
+12,0
+12,5
+14,0
+14,0
+1,85
+4,00
+4,10
+4,20
+3,95
+8,80
+8,95
+8,65
+NU 1020
+NU 220
+NJ 220
+NUP 220
+N 220
+NU 2220
+NJ 2220
+NUP 2220
+NU 320
+NJ 320
+NUP 320
+N 320
+NU 2320
+NJ 2320
+NUP 2320
+NU 420
+NJ 420
+NU 1021
+NU 221
+NJ 221
+NUP 221
+N 221
+NU 321
+NJ 321
+N 321
+4 300
+3 200
+3 200
+3 200
+3 200
+3 200
+3 200
+3 200
+2 400
+2 400
+2 400
+2 400
+2 400
+2 400
+2 400
+2 400
+2 400
+4 000
+3 000
+3 000
+3 000
+3 000
+2 200
+2 200
+2 200
+5 000
+3 800
+3 800
+3 800
+3 800
+3 800
+3 800
+3 800
+3 000
+3 000
+3 000
+3 000
+3 000
+3 000
+3 000
+3 000
+3 000
+4 800
+3 600
+3 600
+3 600
+3 600
+2 800
+2 800
+2 800
+-
+HJ 220
+-
+-
+-
+HJ 2220
+-
+-
+HJ 320
+-
+-
+-
+HJ 2320
+-
+-
+HJ 420
+-
+-
+HJ 221
+-
+-
+-
+HJ 321
+-
+-
+Cuscinetti a rulli cilindrici ad una corona
+Cylindrical roller bearings, single row
+d 	100-105 mm
+Dimensioni
+Dimensions
+mm
+d 	D 	B
+Coefficente di carico
+Load rating
+N
+dinam. 	stat.
+C 	C0
+Peso
+Weight
+kg
+Sigla
+cuscinetto
+Designation
+bearing
+Sigla
+anello
+Designation
+ring
+Velocità limite
+Speed limit
+Lubrificazione
+grasso 	olio
+grease 	oil
+NU 	NJ 	NUP 	N
+54
+
+-- 92 of 146 --
+
+110
+120
+170
+200
+200
+200
+200
+200
+200
+200
+240
+240
+240
+240
+240
+240
+240
+180
+215
+215
+215
+215
+215
+215
+215
+260
+260
+260
+260
+28
+38
+38
+38
+38
+53
+53
+53
+50
+50
+50
+50
+80
+80
+80
+28
+40
+40
+40
+40
+58
+58
+58
+55
+55
+55
+55
+128 000
+292 000
+292 000
+292 000
+292 000
+380 000
+380 000
+380 000
+468 000
+468 000
+468 000
+468 000
+682 000
+682 000
+682 000
+134 000
+341 000
+341 000
+341 000
+341 000
+457 000
+457 000
+457 000
+539 000
+539 000
+539 000
+539 000
+166 000
+365 000
+365 000
+365 000
+365 000
+520 000
+520 000
+520 000
+540 000
+540 000
+540 000
+540 000
+900 000
+900 000
+900 000
+183 000
+430 000
+430 000
+430 000
+430 000
+630 000
+630 000
+630 000
+620 000
+620 000
+620 000
+620 000
+2,30
+4,80
+4,90
+5,00
+4,80
+6,70
+6,85
+7,00
+10,5
+10,5
+11,0
+10,5
+17,0
+17,0
+17,5
+2,45
+5,75
+5,85
+6,00
+5,70
+8,30
+8,50
+8,65
+13,5
+13,5
+14,0
+13,0
+NU 1022
+NU 222
+NJ 222
+NUP 222
+N 222
+NU 2222
+NJ 2222
+NUP 2222
+NU 322
+NJ 322
+NUP 322
+N 322
+NU 2322
+NJ 2322
+NUP 2322
+NU 1024
+NU 224
+NJ 224
+NUP 224
+N 224
+NU 2224
+NJ 2224
+NUP 2224
+NU 324
+NJ 324
+NUP 324
+N 324
+3 800
+2 800
+2 800
+2 800
+2 800
+2 800
+2 800
+2 800
+2 000
+2 000
+2 000
+2 000
+2 000
+2 000
+2 000
+3 400
+2 400
+2 400
+2 400
+2 400
+2 400
+2 400
+2 400
+1 900
+1 900
+1 900
+1 900
+4 500
+3 400
+3 400
+3 400
+3 400
+3 400
+3 400
+3 400
+2 600
+2 600
+2 600
+2 600
+2 600
+2 600
+2 600
+4 000
+3 000
+3 000
+3 000
+3 000
+3 000
+3 000
+3 000
+2 400
+2 400
+2 400
+2 400
+-
+HJ 222
+-
+-
+-
+HJ 2222
+-
+-
+HJ 322
+-
+-
+-
+HJ 2322
+-
+-
+-
+HJ 224
+-
+-
+-
+HJ 2224
+-
+-
+HJ 324
+-
+-
+-
+Cuscinetti a rulli cilindrici ad una corona
+Cylindrical roller bearings, single row
+d 	110-120 mm
+Dimensioni
+Dimensions
+mm
+d 	D 	B
+Coefficente di carico
+Load rating
+N
+dinam. 	stat.
+C 	C0
+Peso
+Weight
+kg
+Sigla
+cuscinetto
+Designation
+bearing
+Sigla
+anello
+Designation
+ring
+Velocità limite
+Speed limit
+Lubrificazione
+grasso 	olio
+grease 	oil
+NU 	NJ 	NUP 	N
+55
+
+-- 93 of 146 --
+
+120
+130
+140
+260
+260
+260
+200
+230
+230
+230
+230
+230
+230
+230
+280
+280
+280
+280
+280
+280
+280
+210
+250
+250
+250
+250
+250
+250
+250
+86
+86
+86
+33
+40
+40
+40
+40
+64
+64
+64
+58
+58
+58
+58
+93
+93
+93
+33
+42
+42
+42
+42
+68
+68
+68
+792 000
+792 000
+792 000
+165 000
+358 000
+358 000
+358 000
+358 000
+528 000
+528 000
+528 000
+627 000
+627 000
+627 000
+627 000
+935 000
+935 000
+935 000
+172 000
+391 000
+391 000
+391 000
+308 000
+572 000
+572 000
+572 000
+1 040 000
+1 040 000
+1 040 000
+224 000
+455 000
+455 000
+455 000
+455 000
+735 000
+735 000
+735 000
+750 000
+750 000
+750 000
+750 000
+1 250 000
+1 250 000
+1 250 000
+245 000
+510 000
+510 000
+510 000
+400 000
+830 000
+830 000
+830 000
+24,0
+24,5
+25,0
+3,75
+6,45
+6,60
+6,70
+6,45
+10,5
+10,5
+11,0
+18,5
+19,0
+19,5
+18,5
+30,0
+30,5
+31,0
+4,00
+8,30
+8,50
+8,65
+8,30
+13,5
+13,5
+14,0
+NU 2324
+NJ 2324
+NUP 2324
+NU 1026
+NU 226
+NJ 226
+NUP 226
+N 226
+NU 2226
+NJ 2226
+NUP 2226
+NU 326
+NJ 326
+NUP 326
+N 326
+NU 2326
+NJ 2326
+NUP 2326
+NU 1028
+NU 228
+NJ 228
+NUP 228
+N 228
+NU 2228
+NJ 2228
+NUP 2228
+1 900
+1 900
+1 900
+3 200
+2 200
+2 200
+2 200
+2 200
+2 200
+2 200
+2 200
+1 800
+1 800
+1 800
+1 800
+1 800
+1 800
+1 800
+3 000
+2 000
+2 000
+2 000
+2 400
+2 000
+2 000
+2 000
+2 400
+2 400
+2 400
+3 800
+2 800
+2 800
+2 800
+2 800
+2 800
+2 800
+2 800
+2 200
+2 200
+2 200
+2 200
+2 200
+2 200
+2 200
+3 600
+2 600
+2 600
+2 600
+3 000
+2 600
+2 600
+2 600
+HJ 2324
+-
+-
+-
+HJ 226
+-
+-
+-
+HJ 2226
+-
+-
+HJ 326
+-
+-
+-
+HJ 2326
+-
+-
+-
+HJ 228
+-
+-
+-
+HJ 2228
+-
+-
+Cuscinetti a rulli cilindrici ad una corona
+Cylindrical roller bearings, single row
+d 	120-140 mm
+Dimensioni
+Dimensions
+mm
+d 	D 	B
+Coefficente di carico
+Load rating
+N
+dinam. 	stat.
+C 	C0
+Peso
+Weight
+kg
+Sigla
+cuscinetto
+Designation
+bearing
+Sigla
+anello
+Designation
+ring
+Velocità limite
+Speed limit
+Lubrificazione
+grasso 	olio
+grease 	oil
+NU 	NJ 	NUP 	N
+56
+
+-- 94 of 146 --
+
+140
+150
+160
+300
+300
+300
+300
+300
+300
+225
+270
+270
+270
+270
+270
+270
+320
+320
+320
+320
+320
+320
+240
+290
+290
+290
+290
+290
+340
+340
+62
+62
+62
+62
+102
+102
+35
+45
+45
+45
+45
+73
+73
+65
+65
+65
+108
+108
+108
+38
+48
+48
+48
+80
+80
+68
+68
+682 000
+682 000
+682 000
+594 000
+1 050 000
+1 050 000
+194 000
+446 000
+446 000
+446 000
+358 000
+627 000
+627 000
+781 000
+781 000
+781 000
+1 190 000
+1 190 000
+1 190 000
+229 000
+501 000
+501 000
+501 000
+809 000
+809 000
+880 000
+880 000
+830 000
+830 000
+830 000
+710 000
+1 430 000
+1 430 000
+275 000
+600 000
+600 000
+600 000
+465 000
+930 000
+930 000
+965 000
+965 000
+965 000
+1 630 000
+1 630 000
+1 630 000
+325 000
+680 000
+680 000
+680 000
+1 200 000
+1 200 000
+1 080 000
+1 080 000
+22,5
+23,0
+23,5
+20,0
+37,0
+37,5
+4,85
+10,5
+10,5
+10,5
+10,5
+19,0
+19,5
+27,5
+28,0
+28,5
+45,0
+46,0
+46,5
+5,95
+15,0
+15,0
+15,5
+24,0
+24,5
+32,5
+33,0
+NU 328
+NJ 328
+NUP 328
+N 328
+NU 2328
+NJ 2328
+NU 1030
+NU 230
+NJ 230
+NUP 230
+N 230
+NU 2230
+NJ 2230
+NU 330
+NJ 330
+N 330
+NU 2330
+NJ 2330
+NUP 2330
+NU 1032
+NU 232
+NJ 232
+NUP 232
+NU 2232
+NJ 2232
+NU 332
+NJ 332
+1 800
+1 800
+1 800
+1 900
+1 800
+1 800
+2 600
+1 900
+1 900
+1 900
+2 000
+1 900
+1 900
+1 700
+1 700
+1 700
+1 700
+1 700
+1 700
+2 400
+1 800
+1 800
+1 800
+1 800
+1 800
+1 500
+1 500
+2 200
+2 200
+2 200
+2 400
+2 200
+2 200
+3 200
+2 400
+2 400
+2 400
+2 600
+2 400
+2 400
+2 000
+2 000
+2 000
+2 000
+2 000
+2 000
+3 000
+2 200
+2 200
+2 200
+2 200
+2 200
+1 800
+1 800
+-
+HJ 328
+-
+-
+-
+HJ 2328
+-
+-
+HJ 230
+-
+-
+-
+HJ 2230
+-
+HJ 330
+-
+-
+HJ 2330
+-
+-
+-
+HJ 232
+-
+-
+HJ 2232
+-
+HJ 332
+Cuscinetti a rulli cilindrici ad una corona
+Cylindrical roller bearings, single row
+d 	140-160 mm
+Dimensioni
+Dimensions
+mm
+d 	D 	B
+Coefficente di carico
+Load rating
+N
+dinam. 	stat.
+C 	C0
+Peso
+Weight
+kg
+Sigla
+cuscinetto
+Designation
+bearing
+Sigla
+anello
+Designation
+ring
+Velocità limite
+Speed limit
+Lubrificazione
+grasso 	olio
+grease 	oil
+NU 	NJ 	NUP 	N
+57
+
+-- 95 of 146 --
+
+160
+170
+180
+190
+340
+260
+310
+310
+310
+360
+360
+280
+320
+320
+320
+320
+380
+380
+290
+340
+340
+340
+114
+42
+52
+52
+86
+72
+120
+46
+52
+52
+86
+86
+75
+126
+46
+55
+55
+92
+1 320 000
+275 000
+616 000
+616 000
+968 000
+809 000
+1 230 000
+336 000
+627 000
+627 000
+1 010 000
+1 010 000
+913 000
+1 400 000
+347 000
+693 000
+693 000
+1 100 000
+1 860 000
+400 000
+815 000
+815 000
+1 430 000
+1 040 000
+1 800 000
+475 000
+850 000
+850 000
+1 500 000
+1 500 000
+1 180 000
+2 040 000
+500 000
+965 000
+965 000
+1 660 000
+1 800
+2 800
+2 200
+2 200
+2 200
+1 900
+1 700
+2 600
+2 000
+2 000
+2 000
+2 000
+1 800
+1 600
+2 600
+1 900
+1 900
+1 900
+NU 2332
+NU 1034
+NU 234
+NJ 234
+NU 2234
+NU 334
+NU 2334
+NU 1036
+NU 236
+NJ 236
+NU 2236
+NJ 2236
+NU 336
+NU 2336
+NU 1038
+NU 238
+NJ 238
+NU 2238
+1 500
+2 200
+1 800
+1 800
+1 800
+1 600
+1 400
+2 000
+1 700
+1 700
+1 700
+1 700
+1 500
+1 300
+2 000
+1 600
+1 600
+1 600
+53,0
+7,90
+19,0
+19,5
+30,0
+38,5
+63,0
+10,5
+19,5
+20,0
+31,5
+31,5
+42,5
+73,0
+10,0
+23,5
+24,5
+39,0
+Cuscinetti a rulli cilindrici ad una corona
+Cylindrical roller bearings, single row
+d 	160-190 mm
+Dimensioni
+Dimensions
+mm
+d 	D 	B
+Coefficente di carico
+Load rating
+N
+dinam. 	stat.
+C 	C0
+Peso
+Weight
+kg
+Sigla
+cuscinetto
+Designation
+bearing
+Sigla
+anello
+Designation
+ring
+Velocità limite
+Speed limit
+Lubrificazione
+grasso 	olio
+grease 	oil
+HJ 2332
+HJ 1034
+HJ 234
+-
+HJ 2234
+HJ 334
+HJ 2334
+HJ 1036
+HJ 236
+-
+HJ 2236
+-
+HJ 336
+HJ 2336
+HJ 238
+HJ 238
+-
+NJ 2238
+NU 	NJ 	NUP 	N
+58
+
+-- 96 of 146 --
+
+200
+220
+240
+310
+360
+360
+360
+360
+420
+420
+340
+400
+400
+400
+360
+51
+58
+58
+58
+98
+80
+138
+56
+65
+65
+65
+56
+380 000
+765 000
+765 000
+765 000
+1 230 000
+990 000
+2 050 000
+495 000
+765 000
+765 000
+765 000
+523 000
+570 000
+1 060 000
+1 060 000
+1 060 000
+1 900 000
+1 320 000
+2 850 000
+735 000
+1 080 000
+1 080 000
+1 080 000
+800 000
+14,0
+28,5
+29,0
+27,5
+46,0
+56,0
+96,0
+18,5
+38,5
+39,0
+39,5
+20,0
+NU 1040
+NU 240
+NJ 240
+NUP 240
+NU 2240
+NU 340
+NU 2340
+NU 1044
+NU 244
+NJ 244
+NUP 244
+NU 1048
+1 900
+1 500
+1 500
+1 500
+1 500
+1 300
+1 200
+1 800
+1 500
+1 500
+1 500
+1 700
+2 400
+1 800
+1 800
+1 800
+1 800
+1 600
+1 500
+2 200
+1 800
+1 800
+1 800
+2 000
+Cuscinetti a rulli cilindrici ad una corona
+Cylindrical roller bearings, single row
+d 	200-240 mm
+Dimensioni
+Dimensions
+mm
+d 	D 	B
+Coefficente di carico
+Load rating
+N
+dinam. 	stat.
+C 	C0
+Peso
+Weight
+kg
+Sigla
+cuscinetto
+Designation
+bearing
+Sigla
+anello
+Designation
+ring
+Velocità limite
+Speed limit
+Lubrificazione
+grasso 	olio
+grease 	oil
+HJ 1040
+HJ 240
+HJ 240
+-
+HJ 2240
+HJ 340
+-
+HJ 1044
+HJ 244
+HJ 244
+-
+HJ 1048
+NU 	NJ 	NUP 	N
+59
+
+-- 97 of 146 --
+
+
+
+-- 98 of 146 --
+
+Cuscinetti a rulli conici
+I cuscinetti a rulli conici sono
+scomponibili e l'anello interno, insieme
+alla gabbia completa di rulli, possono
+essere montati separatamente
+dall'anello esterno. Hanno piste
+coniche sia sull'anello interno che su
+quello esterno e pure i rulli sono
+conici, possono sopportare
+congiuntamente carichi assiali e
+radiali, ma solo in una direzione, per
+sopportare carichi in entrambe le
+direzioni devono essere montati
+abbinati contrapposti. I cuscinetti a
+rulli conici hanno di norma la gabbia
+stampata in lamiera di acciaio, ma
+possono essere forniti anche con
+gabbia in poliammide rinforzata.
+I cuscinetti a rulli conici possono
+raggiungere velocità elevate.
+61
+Tapered roller bearings
+Tapered roller bearings are
+dismountable and the inner ring,
+together with the cage completed of
+rollers, can be separately assembled
+from the outer ring.
+Rolling elements have a conical form
+as long as the receway on the outer
+and inner ring.
+They can bear axial and radial loads
+but only in a single direction: to stand
+loads in both directions they have to
+be assembled coupled and in
+opposition.
+Tapered roller bearings are normally
+fitted with pressed steel sheet cages,
+reinforced polyamid is also available.
+Tapared roller bearings bear high
+speeds.
+
+-- 99 of 146 --
+
+Dimensioni
+Dimensions
+mm
+Coefficente di carico
+Load rating
+N
+dinam. 	stat.
+C 	C0
+Sigla
+cuscinetto
+Designation
+bearing
+Cuscinetti a rulli conici ad una corona
+Tapered roller bearings, single row
+d 	15-35 mm
+15
+17
+20
+22
+25
+28
+30
+32
+35
+42
+40
+47
+47
+42
+47
+52
+52
+44
+47
+52
+52
+52
+62
+62
+62
+52
+58
+55
+62
+62
+62
+72
+72
+72
+58
+62
+72
+72
+72
+14,25
+13,25
+15,25
+20,25
+15
+15,25
+16,25
+22,25
+15
+15
+16,25
+19,25
+22
+18,25
+18,25
+25,25
+16
+20,25
+17
+17,25
+21,25
+25
+20,75
+20,75
+28,75
+17
+18
+18,25
+24,25
+28
+22 400
+19 000
+28 100
+34 700
+24 200
+27 500
+34 100
+44 000
+25 100
+27 000
+30 800
+35 800
+47 300
+44 600
+38 000
+60 500
+31 900
+41 800
+35 800
+40 200
+50 100
+64 400
+56 100
+47 300
+76 500
+36 900
+42 900
+51 200
+66 000
+84 200
+20 000
+18 600
+25 000
+33 500
+27 000
+28 000
+32 500
+45 500
+29 000
+32 500
+33 500
+44 000
+56 000
+43 000
+40 000
+63 000
+38 000
+50 000
+44 000
+44 000
+57 000
+76 500
+56 000
+50 000
+85 000
+46 500
+54 000
+56 000
+78 000
+106 000
+30302
+30203
+30303
+32303
+32004
+30204
+30304
+32304
+320/22
+32005
+30205
+32205
+33205
+30305
+31305
+32305
+320/28
+322/28
+32006
+30206
+32206
+33206
+30306
+31306
+32306
+320/32
+32007
+30207
+32207
+33207
+Velocità limite
+Speed limit
+Lubrificazione
+grasso 	olio
+grease 	oil
+9 000
+9 000
+8 500
+8 500
+8 500
+8 000
+8 000
+7 500
+8 000
+8 000
+7 500
+7 000
+6 700
+6 700
+5 600
+6 000
+7 000
+6 300
+6 700
+6 300
+6 300
+5 600
+5 600
+5 000
+5 300
+6 300
+6 000
+5 300
+5 300
+4 800
+0,095
+0,075
+0,13
+0,17
+0,097
+0,12
+0,17
+0,23
+0,10
+0,11
+0,15
+0,19
+0,23
+0,26
+0,26
+0,36
+0,15
+0,25
+0,17
+0,23
+0,28
+0,37
+0,39
+0,39
+0,55
+0,19
+0,22
+0,32
+0,43
+0,56
+13 000
+13 000
+12 000
+11 000
+12 000
+11 000
+11 000
+10 000
+11 000
+11 000
+10 000
+9 500
+9 000
+9 000
+7 500
+8 000
+9 500
+8 500
+9 000
+8 500
+8 500
+7 500
+7 500
+6 700
+7 000
+8 500
+8 000
+7 000
+7 000
+6 300
+Peso
+Weight
+kg
+B 	C
+13
+12
+14
+19
+15
+14
+15
+21
+15
+15
+15
+18
+22
+17
+17
+24
+16
+19
+17
+16
+20
+25
+19
+19
+27
+17
+18
+17
+23
+28
+11
+11
+12
+16
+12
+12
+13
+18
+11,5
+11,5
+13
+15
+18
+15
+13
+20
+12
+16
+13
+14
+17
+19,5
+16
+14
+23
+13
+14
+15
+19
+22
+T	D	d
+62
+
+-- 100 of 146 --
+
+35
+40
+45
+50
+55
+80
+80
+80
+68
+75
+80
+80
+80
+90
+90
+90
+75
+80
+85
+85
+85
+100
+100
+100
+80
+80
+85
+90
+90
+90
+110
+110
+110
+90
+90
+95
+100
+100
+100
+22,75
+22,75
+32,75
+19
+26
+19,75
+24,75
+32
+25,25
+25,25
+35,25
+20
+26
+20,75
+24,75
+32
+27,25
+27,25
+38,25
+20
+24
+26
+21,75
+24,75
+32
+29,25
+29,25
+42,25
+23
+27
+30
+22,75
+26,75
+35
+72 100
+61 600
+95 200
+52 800
+79 200
+61 600
+74 800
+105 000
+85 800
+73 700
+117 000
+58 300
+84 200
+66 000
+80 900
+108 000
+108 000
+91 300
+140 000
+60 500
+69 300
+85 800
+76 500
+82 500
+114 000
+125 000
+106 000
+172 000
+80 900
+89 700
+110 000
+89 700
+106 000
+138 000
+73 500
+67 000
+106 000
+71 000
+104 000
+68 000
+86 500
+132 000
+95 000
+81 500
+140 000
+80 000
+114 000
+76 500
+98 000
+143 000
+120 000
+102 000
+170 000
+88 000
+102 000
+122 000
+91 500
+100 000
+160 000
+140 000
+120 000
+212 000
+116 000
+137 000
+156 000
+106 000
+129 000
+190 000
+30307
+31307
+32307
+32008
+33108
+30208
+32208
+33208
+30308
+31308
+32308
+32009
+33109
+30209
+32209
+33209
+30309
+31309
+32309
+32010
+33010
+33110
+30210
+32210
+33210
+30310
+31310
+32310
+32011
+33011
+33111
+30211
+32211
+33211
+5 000
+4 500
+4 800
+5 300
+5 000
+4 800
+4 800
+4 300
+4 500
+4 000
+4 000
+4 800
+4 500
+4 500
+4 500
+4 000
+4 000
+3 400
+3 600
+4 500
+4 500
+4 300
+4 300
+4 300
+3 800
+3 600
+3 200
+3 200
+4 000
+4 000
+3 800
+3 800
+3 800
+3 400
+0,52
+0,52
+0,73
+0,27
+0,51
+0,42
+0,53
+0,77
+0,72
+0,72
+1,00
+0,34
+0,56
+0,48
+0,58
+0,82
+0,97
+0,95
+1,35
+0,37
+0,45
+0,59
+0,54
+0,61
+0,90
+1,25
+1,20
+1,80
+0,55
+0,67
+0,86
+0,70
+0,83
+1,20
+6 700
+6 000
+6 300
+7 000
+6 700
+6 300
+6 300
+5 600
+6 000
+5 300
+5 300
+6 300
+6 000
+6 000
+6 000
+5 300
+5 300
+4 500
+4 800
+6 000
+6 000
+5 600
+5 600
+5 600
+5 000
+4 800
+4 300
+4 300
+5 300
+5 300
+5 000
+5 000
+5 000
+4 500
+21
+21
+31
+19
+26
+18
+23
+32
+23
+23
+33
+20
+26
+19
+23
+32
+25
+25
+36
+20
+24
+26
+20
+23
+32
+27
+27
+40
+23
+27
+30
+21
+25
+35
+18
+15
+25
+14,5
+20,5
+16
+19
+25
+20
+17
+27
+15,5
+20,5
+16
+19
+25
+22
+18
+30
+15,5
+19
+20
+17
+19
+24,5
+23
+19
+33
+17,5
+21
+23
+18
+21
+27
+Dimensioni
+Dimensions
+mm
+Coefficente di carico
+Load rating
+N
+dinam. 	stat.
+C 	C0
+Sigla
+cuscinetto
+Designation
+bearing
+Cuscinetti a rulli conici ad una corona
+Tapered roller bearings, single row
+d 	35-55 mm
+Velocità limite
+Speed limit
+Lubrificazione
+grasso 	olio
+grease 	oil
+Peso
+Weight
+kg
+B 	C	T	D	d
+63
+
+-- 101 of 146 --
+
+55
+60
+65
+70
+75
+100
+120
+120
+120
+95
+95
+100
+110
+110
+110
+130
+130
+130
+100
+100
+110
+120
+120
+120
+140
+140
+140
+110
+110
+120
+125
+125
+125
+150
+150
+150
+115
+115
+125
+130
+130
+35
+31,5
+31,5
+45,5
+23
+27
+30
+23,75
+29,75
+38
+33,5
+33,5
+48,5
+23
+27
+34
+24,75
+32,75
+41
+36
+36
+51
+25
+31
+37
+26,25
+33,25
+41
+38
+38
+54
+25
+31
+37
+27,25
+33,25
+138 000
+142 000
+121 000
+198 000
+82 500
+91 300
+117 000
+99 000
+125 000
+168 000
+168 000
+145 000
+229 000
+84 200
+96 800
+142 000
+114 000
+151 000
+194 000
+194 000
+165 000
+264 000
+101 000
+130 000
+172 000
+125 000
+157 000
+201 000
+220 000
+187 000
+297 000
+106 000
+134 000
+176 000
+140 000
+161 000
+190 000
+163 000
+137 000
+250 000
+122 000
+143 000
+170 000
+114 000
+160 000
+236 000
+196 000
+166 000
+290 000
+127 000
+156 000
+208 000
+134 000
+193 000
+270 000
+228 000
+193 000
+335 000
+153 000
+196 000
+250 000
+156 000
+208 000
+285 000
+260 000
+220 000
+380 000
+163 000
+228 000
+265 000
+176 000
+212 000
+33211
+30311
+31311
+32311
+32012
+33012
+33112
+30212
+32212
+33212
+30312
+31312
+32312
+32013
+33013
+33113
+30213
+32213
+33213
+30313
+31313
+32313
+32014
+33014
+33114
+30214
+32214
+33214
+30314
+31314
+32314
+32015
+33015
+33115
+30215
+32215
+3 400
+3 200
+2 800
+3 000
+3 800
+3 800
+3 600
+3 400
+3 400
+3 000
+3 000
+2 600
+2 600
+3 400
+3 400
+3 200
+3 000
+3 000
+2 800
+2 600
+2 200
+2 400
+3 200
+3 200
+3 000
+3 000
+2 800
+2 600
+2 400
+2 000
+2 200
+3 000
+3 000
+2 800
+2 800
+2 600
+1,20
+1,55
+1,55
+2,30
+0,59
+0,71
+0,92
+0,88
+1,15
+1,60
+1,95
+1,90
+2,85
+0,63
+0,78
+1,30
+1,15
+1,50
+2,05
+2,40
+2,35
+3,45
+0,84
+1,10
+1,70
+1,25
+1,60
+2,10
+2,90
+2,95
+4,30
+0,90
+1,15
+1,80
+1,40
+1,70
+4 500
+4 300
+3 800
+4 000
+5 000
+5 000
+4 800
+4 500
+4 500
+4 000
+4 000
+3 600
+3 600
+4 500
+4 500
+4 300
+4 000
+4 000
+3 800
+3 600
+3 200
+3 400
+4 300
+4 300
+4 000
+4 000
+3 800
+3 600
+3 400
+3 000
+3 200
+4 000
+4 000
+3 800
+3 800
+3 600
+35
+29
+29
+43
+23
+27
+30
+22
+28
+38
+31
+31
+46
+23
+27
+34
+23
+31
+41
+33
+33
+48
+25
+31
+37
+24
+31
+41
+35
+35
+51
+25
+31
+37
+25
+31
+27
+25
+21
+35
+17,5
+21
+23
+19
+24
+29
+26
+22
+37
+17,5
+21
+26,5
+20
+27
+32
+28
+23
+39
+19
+25,5
+29
+21
+27
+32
+30
+25
+42
+19
+25,5
+29
+22
+27
+Dimensioni
+Dimensions
+mm
+Coefficente di carico
+Load rating
+N
+dinam. 	stat.
+C 	C0
+Sigla
+cuscinetto
+Designation
+bearing
+Cuscinetti a rulli conici ad una corona
+Tapered roller bearings, single row
+d 	55-75 mm
+Velocità limite
+Speed limit
+Lubrificazione
+grasso 	olio
+grease 	oil
+Peso
+Weight
+kg
+B 	C	T	D	d
+64
+
+-- 102 of 146 --
+
+75
+80
+85
+90
+95
+130
+160
+160
+160
+125
+125
+130
+140
+140
+140
+170
+170
+170
+130
+130
+140
+150
+150
+150
+180
+180
+180
+140
+140
+150
+160
+160
+190
+190
+190
+145
+145
+170
+170
+200
+200
+200
+41
+40
+40
+58
+29
+36
+37
+28,25
+32,25
+46
+42,5
+42,5
+61,5
+29
+36
+41
+30,5
+38,5
+49
+44,5
+44,5
+63,5
+32
+39
+45
+32,5
+42,5
+46,5
+46,5
+67,5
+32
+39
+34,5
+45,5
+49,5
+49,5
+71,5
+209 000
+246 000
+209 000
+336 000
+138 000
+168 000
+179 000
+151 000
+187 000
+251 000
+270 000
+224 000
+380 000
+140 000
+183 000
+220 000
+176 000
+212 000
+286 000
+303 000
+242 000
+402 000
+168 000
+216 000
+251 000
+194 000
+251 000
+330 000
+264 000
+457 000
+168 000
+220 000
+216 000
+281 000
+330 000
+292 000
+501 000
+300 000
+290 000
+245 000
+440 000
+216 000
+285 000
+280 000
+183 000
+245 000
+375 000
+320 000
+265 000
+500 000
+224 000
+310 000
+340 000
+220 000
+285 000
+430 000
+365 000
+285 000
+530 000
+270 000
+355 000
+390 000
+245 000
+340 000
+400 000
+315 000
+610 000
+270 000
+375 000
+275 000
+390 000
+390 000
+355 000
+670 000
+33215
+30315
+31315
+32315
+32016
+33016
+33116
+30216
+32216
+33216
+30316
+31316
+32316
+32017
+33017
+33117
+30217
+32217
+33217
+30317
+31317
+32317
+32018
+33018
+33118
+30218
+32218
+30318
+31318
+32318
+32019
+33019
+30219
+32219
+30319
+31319
+32319
+2 400
+2 200
+1 900
+2 000
+2 600
+2 600
+2 600
+2 400
+2 400
+2 200
+2 000
+1 900
+1 900
+2 400
+2 600
+2 400
+2 200
+2 200
+2 000
+1 900
+1 800
+1 800
+2 200
+2 200
+2 000
+2 000
+2 000
+1 800
+1 700
+1 700
+2 200
+2 200
+1 900
+1 900
+1 800
+1 700
+1 700
+2,25
+3,45
+3,50
+5,20
+1,30
+1,65
+1,90
+1,60
+2,05
+2,90
+4,10
+4,05
+6,20
+1,35
+1,75
+2,45
+2,05
+2,60
+3,70
+4,85
+4,60
+6,85
+1,75
+2,20
+3,10
+2,55
+3,35
+5,65
+5,90
+8,40
+1,80
+2,30
+3,00
+4,05
+6,70
+6,95
+11,0
+3 400
+3 200
+2 800
+3 000
+3 600
+3 600
+3 600
+3 400
+3 400
+3 200
+3 000
+2 800
+2 800
+3 400
+3 600
+3 400
+3 200
+3 200
+3 000
+2 800
+2 600
+2 600
+3 200
+3 200
+3 000
+3 000
+3 000
+2 600
+2 400
+2 400
+3 200
+3 200
+2 800
+2 800
+2 600
+2 400
+2 400
+41
+37
+37
+55
+29
+36
+37
+26
+33
+46
+39
+39
+58
+29
+36
+41
+28
+36
+49
+41
+41
+60
+32
+39
+45
+30
+40
+43
+43
+64
+32
+39
+32
+43
+45
+45
+67
+31
+31
+26
+45
+22
+29,5
+29
+22
+28
+35
+33
+27
+48
+22
+29,5
+32
+24
+30
+37
+34
+28
+49
+24
+32,5
+35
+26
+34
+36
+30
+53
+24
+32,5
+27
+37
+38
+32
+55
+Dimensioni
+Dimensions
+mm
+Coefficente di carico
+Load rating
+N
+dinam. 	stat.
+C 	C0
+Sigla
+cuscinetto
+Designation
+bearing
+Cuscinetti a rulli conici ad una corona
+Tapered roller bearings, single row
+d 	75-95 mm
+Velocità limite
+Speed limit
+Lubrificazione
+grasso 	olio
+grease 	oil
+Peso
+Weight
+kg
+B 	C	T	D	d
+65
+
+-- 103 of 146 --
+
+100
+105
+110
+120
+130
+140
+150
+160
+150
+150
+180
+180
+180
+215
+215
+215
+160
+160
+190
+190
+225
+170
+170
+180
+200
+200
+240
+240
+180
+180
+215
+215
+260
+260
+200
+230
+230
+210
+250
+250
+225
+270
+270
+240
+290
+290
+32
+39
+37
+49
+63
+51,5
+56,5
+77,5
+35
+43
+39
+53
+81,5
+38
+47
+56
+41
+56
+54,5
+84,5
+38
+48
+43,5
+61,5
+59,5
+90,5
+45
+43,75
+67,75
+45
+45,75
+71,75
+48
+49
+77
+51
+52
+84
+172 000
+224 000
+246 000
+319 000
+429 000
+402 000
+374 000
+572 000
+201 000
+246 000
+270 000
+358 000
+605 000
+233 000
+281 000
+369 000
+308 000
+402 000
+473 000
+627 000
+242 000
+292 000
+341 000
+468 000
+561 000
+792 000
+314 000
+369 000
+550 000
+330 000
+418 000
+644 000
+369 000
+429 000
+737 000
+429 000
+528 000
+880 000
+280 000
+390 000
+320 000
+440 000
+655 000
+490 000
+465 000
+780 000
+335 000
+430 000
+355 000
+510 000
+815 000
+390 000
+500 000
+630 000
+405 000
+570 000
+585 000
+830 000
+415 000
+540 000
+465 000
+695 000
+710 000
+1 120 000
+540 000
+490 000
+830 000
+585 000
+570 000
+1 000 000
+655 000
+560 000
+1 140 000
+780 000
+735 000
+1 400 000
+32020
+33020
+30220
+32220
+33220
+30320
+31320
+32320
+32021
+33021
+30221
+32221
+32321
+32022
+33022
+33122
+30222
+32222
+30322
+32322
+32024
+33024
+30224
+32224
+30324
+32324
+32026
+30226
+32226
+32028
+30228
+32228
+32030
+30230
+32230
+32032
+30232
+32232
+2 000
+2 000
+1 900
+1 800
+1 700
+1 700
+1 600
+1 600
+1 900
+1 900
+1 800
+1 800
+1 500
+1 800
+1 800
+1 800
+1 700
+1 700
+6 600
+1 400
+1 700
+1 800
+1 600
+1 600
+1 500
+1 300
+1 600
+1 500
+1 500
+1 600
+1 400
+1 400
+1 500
+1 300
+1 200
+1 300
+1 100
+1 100
+1,90
+2,40
+3,65
+4,90
+6,95
+8,05
+8,60
+12,5
+2,40
+3,05
+4,25
+6,00
+14,5
+3,05
+3,85
+5,55
+5,10
+7,10
+11,0
+17,0
+3,25
+4,20
+6,15
+9,15
+14,0
+21,5
+4,95
+7,60
+11,5
+5,25
+8,65
+14,5
+6,35
+11,0
+17,5
+7,75
+13,0
+25,5
+3 000
+3 000
+2 800
+2 600
+2 400
+2 400
+2 200
+2 200
+2 800
+2 800
+2 600
+2 600
+2 000
+2 600
+2 600
+2 600
+2 400
+2 400
+2 200
+1 900
+2 400
+2 600
+2 200
+2 200
+2 000
+1 800
+2 200
+2 000
+2 000
+2 200
+1 900
+1 900
+2 000
+1 800
+1 700
+1 800
+1 600
+1 600
+32
+39
+34
+46
+63
+47
+51
+73
+35
+43
+36
+50
+77
+38
+47
+56
+38
+53
+50
+80
+38
+48
+40
+58
+55
+86
+45
+40
+64
+45
+42
+68
+48
+45
+73
+51
+48
+80
+24
+32,5
+29
+39
+48
+39
+35
+60
+26
+34
+30
+43
+63
+29
+37
+43
+32
+46
+42
+65
+29
+38
+34
+50
+46
+69
+34
+34
+54
+34
+36
+58
+36
+38
+60
+38
+40
+67
+Dimensioni
+Dimensions
+mm
+Coefficente di carico
+Load rating
+N
+dinam. 	stat.
+C 	C0
+Sigla
+cuscinetto
+Designation
+bearing
+Cuscinetti a rulli conici ad una corona
+Tapered roller bearings, single row
+d 	100-160 mm
+Velocità limite
+Speed limit
+Lubrificazione
+grasso 	olio
+grease 	oil
+Peso
+Weight
+kg
+B 	C	T	D	d
+66
+
+-- 104 of 146 --
+
+170
+180
+190
+200
+220
+240
+260
+310
+280
+290
+310
+340
+360
+57
+91
+64
+64
+70
+76
+76
+512 000
+1 010 000
+644 000
+660 000
+748 000
+897 000
+935 000
+915 000
+1 630 000
+1 160 000
+1 200 000
+1 370 000
+1 660 000
+1 800 000
+32034
+32234
+32036
+32038
+32040
+32044
+32048
+1 200
+1 000
+1 100
+1 000
+950
+900
+850
+10,5
+28,5
+14,5
+15,0
+19,5
+25,5
+27,5
+1 700
+1 500
+1 600
+1 500
+1 400
+1 300
+1 200
+57
+86
+64
+64
+70
+76
+76
+43
+71
+48
+48
+53
+57
+57
+Dimensioni
+Dimensions
+mm
+Coefficente di carico
+Load rating
+N
+dinam. 	stat.
+C 	C0
+Sigla
+cuscinetto
+Designation
+bearing
+Cuscinetti a rulli conici ad una corona
+Tapered roller bearings, single row
+d 	170-240 mm
+Velocità limite
+Speed limit
+Lubrificazione
+grasso 	olio
+grease 	oil
+Peso
+Weight
+kg
+B 	C	T	D	d
+67
+
+-- 105 of 146 --
+
+
+
+-- 106 of 146 --
+
+Cuscinetti radiali orientabili
+a due corone di rulli, con foro
+cilindrico o con foro conico
+I cuscinetti radiali oscillanti hanno due
+corone di rulli guidati sull'anello
+interno ed un anello esterno ad unica
+pista sferica. Le piste dell'anello
+interno sono disposte ad angolo acuto
+rispetto l'asse del cuscinetto, i rulli di
+forma a botte, l'anello esterno
+orientabile. I cuscinetti oscillanti sono
+dotati di gran numero di rulli e
+sopportano grossi carichi sia radiali
+che assiali ed anche un leggero
+disallineamento determinato da
+difficoltà di progettazione, errori di
+montaggio, o flessione dell'albero.
+Per particolari esigenze e gravose
+applicazione e per migliorare la
+lubrificazione possono essere forniti
+con una scanalatura circonferenziale
+sull'albero esterno con fori di
+lubrificazione.
+I cuscinetti a rulli a botte sono costruiti
+con gabbie che possono essere in
+lamiera stampata di acciaio, o in ottone
+massiccio, o in poliammide rinforzata,
+e sono guidate sull'anello interno.
+I cuscinetti rulli a botte possono avere
+il foro cilindrico oppure conico. Nel
+caso del foro conico il montaggio
+avviene sull'albero con bloccaggio
+mediante bussole di trazione o di
+pressione, per maggiori informazioni
+sulle bussole si rinvia parte del
+presente catalogo che tratta delle
+bussole.
+69
+Spherical roller bearings are
+manufactured with double row of
+rollers driven on the inner ring and
+have an outer ring with a single
+spherical groove.
+Inner grooves are disposed like an
+acute angle considering the axle of
+the bearing, rollers have a barrel
+shape, outer ring is orientable.
+These bearings are fitted with large
+number of rollers and stand very heavy
+axial and radial loads, they can also
+bear a light misalignment created by
+difficulty in design, mounting errors,
+shaft bending.
+For special requirements, heavy
+applications and to improve
+lubrication, spherical roller bearings
+are provided with a groove and
+lubrication bores fitted on the outer
+ring.
+Bearings with barrel rollers are
+manufactured with cages made of
+pressed sheet steel, brass, reinforced
+polyamid, driven on the inner ring.
+These bearings can have a cylindrical
+or conical bore.
+Tapared roller bearings are mounted
+on the shaft by using adapter or
+withdrawal sleeves.
+To have more informations about
+sleeves, see appropriate section of this
+catalogue.
+Double row spherical
+roller bearings, with
+cylindrical or conical bore
+
+-- 107 of 146 --
+
+Cuscinetti orientabili a rulli con scanalature e fori
+di lubrificazione
+Self aligning roller bearing with lubrication groove
+and holes in the outher ring
+d 	20-70 mm
+20
+25
+30
+35
+40
+45
+50
+55
+60
+65
+70
+52
+52
+62
+62
+72
+72
+80
+80
+90
+90
+85
+100
+100
+90
+110
+110
+100
+120
+120
+110
+130
+130
+120
+140
+140
+125
+150
+150
+15
+18
+17
+20
+19
+23
+21
+23
+23
+33
+23
+25
+36
+23
+27
+40
+25
+29
+43
+28
+31
+46
+31
+33
+48
+31
+35
+51
+30 500
+35 700
+41 400
+48 900
+55 200
+67 300
+65 600
+73 600
+82 800
+115 000
+77 100
+101 000
+138 000
+84 500
+120 000
+176 000
+99 500
+138 000
+199 000
+122 000
+161 000
+235 000
+148 000
+184 000
+253 000
+148 000
+207 000
+311 000
+8 000
+8 500
+6 700
+7 500
+6 000
+6 300
+5 300
+6 000
+4 500
+4 500
+5 300
+4 300
+3 800
+5 000
+3 600
+3 400
+4 500
+3 400
+3 200
+4 000
+3 000
+3 000
+3 800
+2 800
+2 600
+3 600
+2 600
+2 400
+21304
+22205
+21305
+22206
+21306
+22207
+21307
+22208
+21308
+22308
+22209
+21309
+22309
+22210
+21310
+22310
+22211
+21311
+22311
+22212
+21312
+22312
+22213
+21313
+22313
+22214
+21314
+22314
+-
+22205-K
+-
+22206-K
+-
+22207-K
+-
+22208-K
+21308-K
+22308-K
+22209-K
+21309-K
+22309-K
+22210-K
+21310-K
+22310-K
+22211-K
+21311-K
+22311-K
+22212 K
+21312 K
+22312 K
+22213 K
+21313 K
+22313 K
+22214 K
+21314 K
+22314 K
+0,16
+0,18
+0,25
+0,28
+0,38
+0,43
+0,51
+0,52
+0,71
+1,00
+0,56
+0,95
+1,35
+0,60
+1,20
+1,85
+0,82
+1,60
+2,35
+1,10
+1,95
+2,95
+1,45
+2,45
+3,55
+1,55
+3,00
+4,30
+-
+H 305
+-
+H 306
+-
+H 307
+-
+H 308
+H 308
+H 2308
+H 309
+H 309
+H 2309
+H 310
+H 310
+H 2310
+H 311
+H 311
+H 2311
+H 312
+H312
+H2312
+H 313
+H313
+H2313
+H 314
+H314
+H2314
+Dimensioni
+Dimensions
+mm
+d 	D 	B
+Coefficente di carico
+Load rating
+N
+dinam. 	stat.
+C 	C0
+Peso
+Weight
+kg 	Foro
+cilindrico
+Cylindrical
+bore
+Sigla bussola
+di trazione
+Designation
+taper adapter
+Velocità limite
+Speed limit
+Lubrificazione
+grasso 	olio
+grease 	oil
+Foro
+conico
+Conical
+bore
+Sigla cuscinetto
+Designation bearing
+10 000
+11 000
+8 500
+9 500
+7 500
+8 000
+6 700
+7 500
+5 600
+5 600
+6 700
+5 300
+4 800
+6 300
+4 800
+4 300
+5 600
+4 300
+4 000
+5 000
+3 800
+3 800
+4 800
+3 600
+3 400
+4 500
+3 400
+3 200
+35 500
+38 700
+45 000
+52 000
+61 000
+73 500
+72 000
+81 500
+98 000
+122 000
+88 000
+114 000
+160 000
+100 000
+140 000
+200 000
+118 000
+163 000
+232 000
+146 000
+200 000
+280 000
+183 000
+240 000
+300 000
+186 000
+260 000
+380 000
+Foro cilindrico 	Foro conico
+70
+
+-- 108 of 146 --
+
+75
+80
+85
+90
+95
+100
+110
+120
+130
+160
+160
+140
+170
+170
+150
+180
+180
+160
+160
+190
+190
+170
+200
+200
+180
+180
+215
+215
+170
+180
+200
+200
+240
+180
+200
+215
+215
+260
+31
+37
+55
+33
+39
+58
+36
+41
+60
+40
+52,4
+43
+64
+43
+45
+67
+46
+60,3
+47
+73
+45
+56
+53
+69,8
+80
+46
+62
+58
+76
+86
+158 000
+235 000
+345 000
+176 000
+258 000
+374 000
+210 000
+293 000
+420 000
+253 000
+311 000
+322 000
+477 000
+282 000
+351 000
+518 000
+311 000
+414 000
+385 000
+610 000
+267 000
+374 000
+408 000
+518 000
+725 000
+305 000
+449 000
+466 000
+610 000
+845 000
+208 000
+300 000
+430 000
+228 000
+335 000
+455 000
+270 000
+375 000
+520 000
+340 000
+440 000
+425 000
+610 000
+375 000
+480 000
+670 000
+415 000
+600 000
+530 000
+800 000
+440 000
+585 000
+560 000
+765 000
+965 000
+510 000
+695 000
+670 000
+930 000
+1 120 000
+22215
+21315
+22315
+22216
+21316
+22316
+22217
+21317
+22317
+22218
+23218
+21318
+22318
+22219
+21319
+22319
+22220
+23220
+21320
+22320
+23022
+23122
+22222
+23222
+22322
+23024
+23124
+22224
+23224
+22324
+22215 K
+21315 K
+22315 K
+22216 K
+21316 K
+22316 K
+22217 K
+21317 K
+22317 K
+22218 K
+23218 K
+21318 K
+22318 K
+22219 K
+21319 K
+22319 K
+22220 K
+23220 K
+21320 K
+22320 K
+23022 K
+23122 K
+22222 K
+23222 K
+22322 K
+23024 K
+23124 K
+22224 K
+23224 K
+22324 K
+3 400
+2 400
+2 200
+3 200
+2 200
+2 000
+3 000
+2 000
+1 900
+2 600
+1 900
+1 900
+1 800
+2 400
+1 800
+1 800
+2 200
+1 700
+1 700
+1 700
+2 200
+1 900
+2 000
+1 600
+1 600
+2 000
+1 800
+1 900
+1 500
+1 400
+1,65
+3,55
+5,25
+2,05
+4,20
+6,20
+2,55
+5,00
+7,25
+3,40
+4,60
+5,80
+8,60
+4,00
+7,15
+10,0
+4,85
+6,70
+8,80
+13,0
+3,75
+5,55
+7,00
+9,70
+18,0
+4,20
+7,80
+8,70
+12,0
+22,0
+4 300
+3 200
+3 000
+4 000
+3 000
+2 800
+3 800
+2 800
+2 600
+3 400
+2 600
+2 600
+2 400
+3 200
+2 400
+2 400
+3 000
+2 200
+2 200
+2 200
+3 000
+2 600
+2 800
+2 000
+2 000
+2 800
+2 400
+2 600
+1 900
+1 800
+H 315
+H315
+H2315
+H 316
+H316
+H2316
+H 317
+H317
+H2317
+H 318
+H 2318
+H 318
+H 2318
+H 319
+H 319
+H 2319
+H 320
+H 2320
+H 320
+H 2320
+H 322
+H 3122
+H 232
+H 2322
+H 2322
+H 3024
+H 3124
+H 3124
+H 2324
+H 2324
+Cuscinetti orientabili a rulli con scanalature e fori
+di lubrificazione
+Self aligning roller bearing with lubrication groove
+and holes in the outher ring
+d 	75-120 mm
+Dimensioni
+Dimensions
+mm
+d 	D 	B
+Coefficente di carico
+Load rating
+N
+dinam. 	stat.
+C 	C0
+Peso
+Weight
+kg 	Foro
+cilindrico
+Cylindrical
+bore
+Sigla bussola
+di trazione
+Designation
+taper adapter
+Velocità limite
+Speed limit
+Lubrificazione
+grasso 	olio
+grease 	oil
+Foro
+conico
+Conical
+bore
+Sigla cuscinetto
+Designation bearing
+Foro cilindrico 	Foro conico
+71
+
+-- 109 of 146 --
+
+130
+140
+150
+160
+170
+180
+190
+200
+210
+230
+230
+280
+210
+225
+250
+250
+300
+225
+250
+270
+270
+320
+240
+270
+290
+290
+340
+260
+280
+310
+310
+360
+280
+300
+320
+320
+380
+290
+320
+340
+340
+400
+52
+64
+64
+80
+93
+53
+68
+68
+88
+102
+56
+80
+73
+96
+108
+60
+86
+80
+104
+114
+67
+88
+86
+110
+120
+74
+96
+86
+112
+126
+75
+104
+92
+120
+132
+374 000
+489 000
+546 000
+690 000
+978 000
+397 000
+546 000
+610 000
+799 000
+1 130 000
+437 000
+725 000
+736 000
+937 000
+1 270 000
+506 000
+845 000
+863 000
+1 070 000
+1 380 000
+621 000
+897 000
+978 000
+1 220 000
+1 540 000
+725 000
+1 050 000
+1 010 000
+1 290 000
+1 730 000
+753 000
+1 200 000
+1 110 000
+1 460 000
+1 870 000
+610 000
+780 000
+800 000
+1 060 000
+1 320 000
+680 000
+900 000
+900 000
+1 250 000
+1 560 000
+750 000
+1 200 000
+1 080 000
+1 460 000
+1 760 000
+880 000
+1 370 000
+1 290 000
+1 660 000
+1 960 000
+1 060 000
+1 500 000
+1 460 000
+1 930 000
+2 160 000
+1 250 000
+1 760 000
+1 560 000
+2 120 000
+2 450 000
+1 340 000
+2 080 000
+1 700 000
+2 400 000
+2 650 000
+23026
+23126
+22226
+23226
+22326
+23028
+23128
+22228
+23228
+22328
+23030
+23130
+22230
+23230
+22330
+23032
+23132
+22232
+23232
+22332
+23034
+23134
+22234
+23234
+22334
+23036
+23136
+22236
+23236
+22336
+23038
+23138
+22238
+23238
+22338
+23026 K
+23126 K
+22226 K
+23226 K
+22326 K
+23028 K
+23128 K
+22228 K
+23228 K
+22328 K
+23030 K
+23130 K
+22230 K
+23230 K
+22330 K
+23032 K
+23132 K
+22232 K
+23232 K
+22332 K
+23034 K
+23134 K
+22234 K
+23234 K
+22334 K
+23036 K
+23136 K
+22236 K
+23236 K
+22336 K
+23038 K
+23138 K
+22238 K
+23238 K
+22338 K
+1 900
+1 700
+1 800
+1 300
+1 300
+1 800
+1 600
+1 700
+1 200
+1 100
+1 700
+1 400
+1 600
+1 100
+1 000
+1 700
+1 300
+1 500
+1 000
+950
+1 600
+1 200
+1 300
+950
+950
+1 400
+1 100
+1 300
+900
+900
+1 300
+1 000
+1 200
+850
+850
+6,10
+8,55
+11,0
+14,0
+28,5
+6,55
+10,5
+14,0
+18,5
+34,5
+7,95
+16,0
+18,0
+24,0
+41,5
+9,70
+20,5
+22,5
+30,0
+50,0
+13,0
+21,5
+28,5
+36,5
+58,5
+17,0
+27,5
+29,5
+39,0
+69,0
+18,0
+34,5
+36,5
+47,5
+80,0
+2 600
+2 200
+2 400
+1 700
+1 700
+2 400
+2 000
+2 200
+1 600
+1 500
+2 200
+1 800
+2 000
+1 500
+1 400
+2 200
+1 700
+1 900
+1 400
+1 300
+2 000
+1 600
+1 700
+1 300
+1 300
+1 800
+1 500
+1 700
+1 200
+1 200
+1 700
+1 400
+1 600
+1 100
+1 100
+H 3026
+H 3126
+H 3126
+H 3126
+H 2326
+H 3028
+H 3128
+H 3128
+H 2328
+H 2328
+H 3030
+H 3130
+H 3130
+H 2330
+H 2330
+H 3032
+H 3132
+H 3132
+H 2332
+H 2332
+H 3034
+H 3134
+H 3134
+H 2334
+H 2334
+H 3036
+H 3136
+H 3136
+H 2336
+H 2336
+H 3038
+H 3138
+H 3138
+H 2338
+H 2338
+Cuscinetti orientabili a rulli con scanalature e fori
+di lubrificazione
+Self aligning roller bearing with lubrication groove
+and holes in the outher ring
+d 	130-190 mm
+Dimensioni
+Dimensions
+mm
+d 	D 	B
+Coefficente di carico
+Load rating
+N
+dinam. 	stat.
+C 	C0
+Peso
+Weight
+kg 	Foro
+cilindrico
+Cylindrical
+bore
+Sigla bussola
+di trazione
+Designation
+taper adapter
+Velocità limite
+Speed limit
+Lubrificazione
+grasso 	olio
+grease 	oil
+Foro
+conico
+Conical
+bore
+Sigla cuscinetto
+Designation bearing
+Foro cilindrico 	Foro conico
+72
+
+-- 110 of 146 --
+
+200
+220
+240
+260
+280
+300
+310
+340
+360
+360
+420
+340
+370
+400
+400
+460
+360
+400
+440
+440
+500
+400
+440
+480
+480
+540
+420
+460
+500
+500
+580
+460
+500
+540
+540
+82
+112
+98
+128
+138
+90
+120
+108
+144
+145
+92
+128
+120
+160
+155
+104
+144
+130
+174
+165
+106
+146
+130
+176
+175
+118
+160
+140
+192
+880 000
+1 380 000
+1 270 000
+1 610 000
+2 020 000
+1 050 000
+1 580 000
+1 520 000
+2 070 000
+2 350 000
+1 130 000
+1 790 000
+1 910 000
+2 530 000
+2 670 000
+1 400 000
+2 220 000
+2 300 000
+2 820 000
+3 050 000
+1 520 000
+2 300 000
+2 350 000
+2 820 000
+3 450 000
+1 840 000
+2 820 000
+2 760 000
+3 340 000
+1 530 000
+2 360 000
+1 930 000
+2 700 000
+2 900 000
+1 860 000
+2 750 000
+2 360 000
+3 450 000
+3 450 000
+2 080 000
+3 200 000
+3 000 000
+4 300 000
+4 000 000
+2 550 000
+3 900 000
+3 550 000
+4 750 000
+4 550 000
+2 850 000
+4 250 000
+3 750 000
+4 900 000
+5 200 000
+3 450 000
+5 100 000
+4 250 000
+5 850 000
+23040
+23140
+22240
+23240
+22340
+23044
+23144
+22244
+23244
+22344
+23048
+23148
+22248
+23248
+22348
+23052
+23152
+22252
+23252
+22352
+23056
+23156
+22256
+23256
+22356
+23060
+23160
+22260
+23260
+23040 K
+23140 K
+22240 K
+23240 K
+22340 K
+23044 K
+23144 K
+22244 K
+23244 K
+22344 K
+23048 K
+23148 K
+22248 K
+23248 K
+22348 K
+23052 K
+23152 K
+22252 K
+23252 K
+22352 K
+23056 K
+23156 K
+22256 K
+23256 K
+22356 K
+23060 K
+23160 K
+22260 K
+23260 K
+1 200
+950
+1 100
+850
+850
+1 100
+900
+950
+750
+750
+1 000
+850
+900
+670
+670
+900
+800
+850
+630
+630
+850
+750
+800
+600
+600
+800
+670
+750
+530
+23,0
+42,5
+43,5
+57,0
+92,5
+30,5
+53,0
+60,5
+79,5
+12,0
+33,5
+65,5
+83,0
+110
+155
+48,5
+90,5
+110
+140
+190
+52,5
+97,0
+115
+150
+235
+71,5
+125
+145
+190
+1 600
+1 300
+1 500
+1 100
+1 100
+1 500
+1 200
+1 300
+950
+950
+1 400
+1 100
+1 200
+850
+850
+1 200
+1 000
+1 100
+800
+800
+1 100
+950
+1 000
+750
+750
+1 000
+850
+950
+670
+H 3040
+H 3140
+H 3140
+H 2340
+H 2340
+H 3044
+H 3144
+H 3144
+H 2344
+H 2344
+H 3048
+H 3148
+H 3148
+H 2348
+H 2348
+H 3052
+H 3152
+H 3152
+H 2352
+H 2352
+H 3056
+H 3156
+H 3156
+H 2356
+H 2356
+H 3060
+H 3160
+H 3160
+H 3260
+Cuscinetti orientabili a rulli con scanalature e fori
+di lubrificazione
+Self aligning roller bearing with lubrication groove
+and holes in the outher ring
+d 	200-300 mm
+Dimensioni
+Dimensions
+mm
+d 	D 	B
+Coefficente di carico
+Load rating
+N
+dinam. 	stat.
+C 	C0
+Peso
+Weight
+kg 	Foro
+cilindrico
+Cylindrical
+bore
+Sigla bussola
+di trazione
+Designation
+taper adapter
+Velocità limite
+Speed limit
+Lubrificazione
+grasso 	olio
+grease 	oil
+Foro
+conico
+Conical
+bore
+Sigla cuscinetto
+Designation bearing
+Foro cilindrico 	Foro conico
+73
+
+-- 111 of 146 --
+
+
+
+-- 112 of 146 --
+
+Cuscinetti assiali a sfere
+I cuscinetti assiali a sfere possono
+sopportare elevati carichi assiali in
+una sola direzione, non sopportano
+carichi radiali. Possono essere a
+semplice o a doppio effetto.
+I cuscinetti assiali a semplice effetto
+sopportano carichi in una direzione,
+sono costiuiti da un anello o ralla con
+gola per le sfere e da un'altro anello o
+ralla con un'altra gola; le sfere sono
+guidate da gabbie stampate in lamiera
+di acciaio. Una delle ralle può avere la
+superficie di appoggio piana o sferica.
+I cuscinetti con ralla sferica vengono
+montati con una piastra di orientabilità
+anch'essa con una superficie sferica
+che compensa il disallineamento di
+progettazione o di montaggio. La
+piastra di orientabilità è fornita a parte,
+a richiesta. I cuscinetti sono
+scomponibili.
+I cuscinetti assiali a doppio effetto
+sopportano carichi assiali in entrambe
+le direzioni, sono costituiti da due anelli
+o ralle esterne con gole per le sfere e
+da un anello o ralla interna con gole
+da ambo i lati; le sfere sono guidate
+da gabbie stampate in lamiera di
+acciaio. Le gabbie, le sfere e le ralle
+esterne sono le stesse utilizzate per i
+cuscinetti assiali a semplice effetto.
+Una delle ralle esterne può avere la
+superficie piana o sferica. I cuscinetti
+con ralle sferiche più le piastre di
+orientabilità sono utilizzati quando gli
+alberi e le sedi sono disallineate. Le
+piasre di orientabilità sono fornite a
+parte, a richiesta. I cuscinetti sono
+scomponibili.
+75
+Thrust ball bearings
+Thrust ball bearings take up heavy
+axial loads in a single direction, they
+do not stand radial loads.
+They are manufactured in two versions:
+single or double effect.
+Single effect thrust ball bearings stand
+single direction axial loads: they are
+formed by a ring or washer with
+groove for balls and by another ring
+or washer with another groove, balls
+are diven from pressed sheet stell
+cages.
+One of these washers can have a
+spherical or flat surface.
+Bearings with spherical ring are
+mounted with a self-aligning plate: this
+plate has a spherical surface which
+balances the misalignment of design
+or mounting.
+Self-aligning plate is supplied only
+under request.
+These bearings are dismountable.
+Double effect thrust ball bearings
+stand axial loads in both directions,
+they consist in two rings or outer
+washers fitted with grooves for balls
+and in an inner ring or washer
+provided with grooves on both sides;
+balls are diven from pressed sheet
+steel cages.
+Cages, balls, outer rings are the same
+as the one used for single effect thrust
+ball bearings.
+One of the outer ring can have a
+spherical or flat surface.
+When shafts and housings are
+misaligned, bearings with spherical
+rings and self-aligning plates are used.
+Thrust ball bearings are dismountable.
+
+-- 113 of 146 --
+
+Dimensioni
+Dimensions
+mm
+Coefficente di carico
+Load rating
+N
+dinam. 	stat.
+C 	C0
+Sigla
+cuscinetto
+Designation
+bearing
+Velocità limite
+Speed limit
+Lubrificazione
+grasso 	olio
+grease 	oil
+Peso
+Weight
+kg
+Cuscinetti assiali a sfere a semplice effetto
+Single acting thrust ball bearings
+d 	10-45 mm
+10
+12
+15
+17
+20
+25
+30
+35
+40
+45
+24
+26
+26
+28
+28
+32
+30
+35
+35
+40
+42
+47
+52
+60
+47
+52
+60
+70
+52
+62
+68
+80
+60
+68
+78
+90
+65
+73
+85
+100
+9
+11
+9
+11
+9
+12
+9
+12
+10
+14
+11
+15
+18
+24
+11
+16
+21
+28
+12
+18
+24
+32
+13
+19
+26
+36
+14
+20
+28
+39
+9 950
+12 700
+10 400
+13 300
+9 360
+16 500
+9 750
+17 200
+12 700
+22 500
+15 900
+27 600
+34 500
+55 300
+16 800
+25 500
+37 700
+72 800
+17 400
+35 100
+49 400
+87 100
+23 400
+46 800
+61 800
+112 000
+24 200
+39 000
+76 100
+130 000
+14 000
+17 000
+15 300
+19 000
+14 000
+25 000
+15 300
+27 500
+20 800
+37 500
+29 000
+50 000
+55 000
+90 000
+33 500
+47 500
+65 500
+125 000
+37 500
+67 000
+88 000
+156 000
+50 000
+98 000
+112 000
+204 000
+57 000
+80 000
+140 000
+240 000
+51100
+51200
+51101
+51201
+51102
+51202
+51103
+51203
+51104
+51204
+51105
+51205
+51305
+51405
+51106
+51206
+51306
+51406
+51107
+51207
+51307
+51407
+51108
+51208
+51308
+51408
+51109
+51209
+51309
+51409
+7 000
+6 000
+6 700
+6 000
+6 300
+5 300
+6 300
+5 000
+5 600
+4 500
+4 800
+4 000
+3 400
+2 600
+4 500
+3 600
+2 800
+2 000
+4 300
+3 000
+2 400
+1 800
+3 800
+2 800
+2 000
+1 700
+3 400
+2 600
+1 900
+1 600
+0,020
+0,031
+0,022
+0,034
+0,023
+0,046
+0,025
+0,053
+0,038
+0,083
+0,056
+0,11
+0,17
+0,34
+0,063
+0,13
+0,26
+0,52
+0,080
+0,22
+0,38
+0,76
+0,12
+0,28
+0,53
+1,10
+0,14
+0,30
+0,66
+1,40
+9 500
+8 000
+9 000
+8 000
+8 500
+7 000
+8 500
+6 700
+7 500
+6 000
+6 300
+5 300
+4 500
+3 600
+6 000
+4 800
+3 800
+3 000
+5 600
+4 000
+3 400
+2 600
+5 000
+3 800
+3 000
+2 400
+4 500
+3 600
+2 800
+2 200
+d1 	D1
+24
+26
+26
+28
+28
+32
+30
+35
+35
+40
+42
+47
+52
+60
+47
+52
+60
+70
+52
+62
+68
+80
+60
+68
+78
+90
+65
+73
+85
+100
+11
+12
+13
+14
+16
+17
+18
+19
+21
+22
+26
+27
+27
+27
+32
+32
+32
+32
+37
+37
+37
+37
+42
+42
+42
+42
+47
+47
+47
+47
+H	D	d
+76
+
+-- 114 of 146 --
+
+50
+55
+60
+65
+70
+75
+80
+85
+70
+78
+95
+110
+78
+90
+105
+120
+85
+95
+110
+130
+90
+100
+115
+140
+95
+105
+125
+150
+100
+110
+135
+160
+105
+115
+140
+170
+110
+125
+150
+180
+14
+22
+31
+43
+16
+25
+35
+48
+17
+26
+35
+51
+18
+27
+36
+56
+18
+27
+40
+60
+19
+27
+44
+65
+19
+28
+44
+68
+19
+31
+49
+72
+25 500
+49 400
+88 400
+159 000
+30 700
+61 800
+104 000
+178 000
+36 400
+62 400
+101 000
+199 000
+37 100
+63 700
+106 000
+216 000
+37 700
+65 000
+135 000
+234 000
+44 200
+67 600
+163 000
+251 000
+44 900
+76 100
+159 000
+270 000
+46 200
+97 500
+190 000
+286 000
+63 000
+106 000
+173 000
+310 000
+78 000
+134 000
+208 000
+360 000
+93 000
+140 000
+208 000
+400 000
+98 000
+150 000
+220 000
+450 000
+104 000
+160 000
+300 000
+500 000
+137 000
+170 000
+360 000
+560 000
+140 000
+190 000
+360 000
+620 000
+150 000
+250 000
+425 000
+680 000
+51110
+51210
+51310
+51410
+51111
+51211
+51311
+51411
+51112
+51212
+51312
+51412
+51113
+51213
+51313
+51413
+51114
+51214
+51314
+51414
+51115
+51215
+51315
+51415
+51116
+51216
+51316
+51416
+51117
+51217
+51317
+51417
+3 200
+2 400
+1 800
+1 500
+2 800
+1 900
+1 600
+1 300
+2 600
+1 900
+1 600
+1 100
+2 400
+1 800
+1 500
+1 000
+2 400
+1 800
+1 400
+950
+2 200
+1 700
+1 200
+900
+2 000
+1 700
+1 200
+850
+2 000
+1 600
+1 100
+850
+0,16
+0,37
+0,94
+2,00
+0,23
+0,59
+1,30
+2,55
+0,20
+0,65
+1,35
+3,10
+0,33
+0,78
+1,50
+4,00
+0,35
+0,79
+2,00
+5,00
+0,40
+0,83
+2,60
+6,75
+0,42
+0,91
+2,70
+7,95
+0,44
+1,20
+3,55
+9,45
+4 300
+3 400
+2 600
+2 000
+3 800
+2 800
+2 200
+1 800
+3 600
+2 800
+2 200
+1 600
+3 400
+2 600
+2 000
+1 500
+3 400
+2 600
+1 900
+1 400
+3 200
+2 400
+1 700
+1 200
+3 000
+2 400
+1 700
+1 200
+3 000
+2 200
+1 600
+1 200
+70
+78
+95
+110
+78
+90
+105
+120
+85
+95
+110
+130
+90
+100
+115
+140
+95
+105
+125
+150
+100
+110
+135
+160
+105
+115
+140
+170
+110
+125
+150
+177
+52
+52
+52
+52
+57
+57
+57
+57
+62
+62
+62
+62
+67
+67
+67
+68
+72
+72
+72
+73
+77
+77
+77
+78
+82
+82
+82
+83
+87
+88
+88
+88
+Dimensioni
+Dimensions
+mm
+Coefficente di carico
+Load rating
+N
+dinam. 	stat.
+C 	C0
+Sigla
+cuscinetto
+Designation
+bearing
+Velocità limite
+Speed limit
+Lubrificazione
+grasso 	olio
+grease 	oil
+Peso
+Weight
+kg
+Cuscinetti assiali a sfere a semplice effetto
+Single acting thrust ball bearings
+d 	50-85 mm
+d1 	D1	H	D	d
+77
+
+-- 115 of 146 --
+
+90
+100
+110
+120
+130
+140
+150
+160
+170
+180
+190
+120
+135
+155
+190
+135
+150
+170
+210
+145
+160
+190
+155
+170
+210
+170
+190
+225
+180
+200
+240
+190
+215
+200
+225
+215
+240
+225
+250
+240
+270
+22
+35
+50
+77
+25
+38
+55
+85
+25
+38
+63
+25
+39
+70
+30
+45
+75
+31
+46
+80
+31
+50
+31
+51
+34
+55
+34
+56
+37
+62
+59 200
+119 000
+195 000
+307 000
+85 200
+124 000
+229 000
+371 000
+87 100
+130 000
+276 000
+88 400
+140 000
+325 000
+111 000
+186 000
+358 000
+111 000
+190 000
+397 000
+111 000
+238 000
+112 000
+242 000
+133 000
+286 000
+135 000
+296 000
+172 000
+332 000
+190 000
+300 000
+465 000
+750 000
+270 000
+320 000
+560 000
+965 000
+290 000
+360 000
+720 000
+310 000
+400 000
+915 000
+390 000
+540 000
+1 060 000
+400 000
+570 000
+1 220 000
+400 000
+735 000
+425 000
+780 000
+500 000
+930 000
+530 000
+1 000 000
+655 000
+1 160 000
+51118
+51218
+51318
+51418
+51120
+51220
+51320
+51420
+51122
+51222
+51322
+51124
+51224
+51324
+51126
+51226
+51326
+51128
+51228
+51328
+51130
+51230
+51132
+51232
+51134
+51234
+51136
+51236
+51138
+51238
+1 800
+1 500
+1 000
+800
+1 700
+1 300
+950
+700
+1 600
+1 200
+850
+1 600
+1 100
+800
+1 400
+950
+750
+1 300
+950
+700
+1 200
+900
+1 200
+850
+1 100
+800
+1 000
+800
+950
+750
+0,67
+1,70
+3,80
+11,0
+0,97
+2,20
+4,95
+15,0
+1,05
+2,40
+7,85
+1,15
+2,65
+11,0
+1,85
+4,00
+13,0
+2,05
+4,35
+15,5
+2,20
+6,10
+2,35
+6,55
+3,30
+8,15
+3,50
+8,60
+4,05
+12,0
+2 600
+2 000
+1 500
+1 100
+2 400
+1 800
+1 400
+950
+2 200
+1 700
+1 200
+2 200
+1 600
+1 100
+1 900
+1 400
+1 000
+1 800
+1 400
+950
+1 700
+1 300
+1 700
+1 200
+1 600
+1 100
+1 500
+1 100
+1 400
+1 000
+120
+135
+155
+187
+135
+150
+170
+205
+145
+160
+187
+155
+170
+205
+170
+187
+220
+178
+197
+235
+188
+212
+198
+222
+213
+237
+222
+245
+237
+265
+92
+93
+93
+93
+102
+103
+103
+103
+112
+113
+113
+122
+123
+123
+132
+133
+134
+142
+143
+144
+152
+153
+162
+163
+172
+173
+183
+183
+193
+194
+Dimensioni
+Dimensions
+mm
+Coefficente di carico
+Load rating
+N
+dinam. 	stat.
+C 	C0
+Sigla
+cuscinetto
+Designation
+bearing
+Velocità limite
+Speed limit
+Lubrificazione
+grasso 	olio
+grease 	oil
+Peso
+Weight
+kg
+Cuscinetti assiali a sfere a semplice effetto
+Single acting thrust ball bearings
+d 	90-190 mm
+d1 	D1	H	D	d
+78
+
+-- 116 of 146 --
+
+200
+220
+240
+260
+250
+280
+270
+300
+300
+320
+37
+62
+37
+63
+45
+45
+168 000
+338 000
+178 000
+351 000
+234 000
+238 000
+655 000
+1 220 000
+735 000
+1 320 000
+965 000
+1 020 000
+51140
+51240
+51144
+51244
+51148
+51152
+950
+750
+900
+700
+800
+800
+4,25
+12,0
+4,60
+13,0
+7,55
+8,10
+1 400
+1 000
+1 300
+950
+1 100
+1 100
+247
+275
+267
+295
+297
+317
+203
+204
+223
+224
+243
+263
+Dimensioni
+Dimensions
+mm
+Coefficente di carico
+Load rating
+N
+dinam. 	stat.
+C 	C0
+Sigla
+cuscinetto
+Designation
+bearing
+Velocità limite
+Speed limit
+Lubrificazione
+grasso 	olio
+grease 	oil
+Peso
+Weight
+kg
+Cuscinetti assiali a sfere a semplice effetto
+Single acting thrust ball bearings
+d 	200-260 mm
+d1 	D1	H	D	d
+79
+
+-- 117 of 146 --
+
+Dimensioni
+Dimensions
+mm
+Coefficente di carico
+Load rating
+N
+dinam. 	stat.
+C 	C0
+Cuscinetti assiali a sfere a semplice effetto,
+con ralla esterna sferica
+Single acting thrust ball bearings with outer
+spherical ring
+d 	20-70 mm
+20
+25
+30
+35
+40
+45
+50
+55
+60
+65
+70
+40
+47
+52
+60
+62
+68
+68
+78
+90
+73
+85
+100
+78
+95
+110
+90
+105
+95
+110
+130
+100
+115
+105
+125
+150
+14,7
+16,7
+17,8
+22,6
+19,9
+25,6
+20,3
+28,5
+38,2
+21,3
+30,1
+42,4
+23,5
+34,4
+45,6
+27,3
+39,3
+28
+38,3
+54
+28,7
+39,4
+28,8
+44,2
+63,6
+22 500
+27 600
+25 500
+37 700
+35 100
+49 400
+46 800
+61 800
+112 000
+39 000
+76 100
+130 000
+49 400
+88 400
+159 000
+61 800
+104 000
+62 400
+101 000
+199 000
+63 700
+106 000
+65 000
+135 000
+234 000
+37 500
+50 000
+47 500
+65 500
+67 000
+88 000
+98 000
+112 000
+204 000
+80 000
+140 000
+240 000
+106 000
+173 000
+310 000
+134 000
+208 000
+140 000
+208 000
+400 000
+150 000
+220 000
+160 000
+300 000
+500 000
+D1 	D2
+22
+27
+32
+32
+37
+37
+42
+42
+42
+47
+47
+47
+52
+52
+52
+57
+57
+62
+62
+62
+67
+67
+72
+72
+73
+30
+36
+42
+45
+48
+52
+55
+60
+65
+60
+65
+72
+62
+72
+80
+72
+80
+78
+85
+95
+82
+90
+88
+98
+110
+H	D	d 	D3
+42
+50
+55
+62
+65
+72
+72
+82
+95
+78
+90
+105
+82
+100
+115
+95
+110
+100
+115
+135
+105
+120
+110
+130
+155
+5
+5,5
+5,5
+7
+7
+7,5
+7
+8,5
+12
+7,5
+10
+12,5
+7,5
+11
+14
+9
+11,5
+9
+11,5
+16
+9
+12,5
+9
+13
+19,5
+C 	H1
+17
+19
+20
+25
+22
+28
+23
+31
+42
+24
+33
+46
+26
+37
+50
+30
+42
+31
+42
+58
+32
+43
+32
+48
+69
+36
+40
+45
+50
+50
+56
+56
+64
+72
+56
+64
+80
+64
+72
+90
+72
+80
+82
+90
+100
+80
+90
+80
+100
+112
+R
+18
+19
+22
+22
+24
+24
+28,5
+28
+26
+26
+25
+29
+32,5
+28
+35
+35
+30
+32,5
+41
+34
+40
+38,5
+38
+43
+34
+s
+80
+
+-- 118 of 146 --
+
+53204
+53205
+53206
+53306
+53207
+53307
+53208
+53308
+53408
+53209
+53309
+53409
+53210
+53310
+53410
+53211
+53311
+53212
+53312
+53412
+53213
+53313
+53214
+53314
+53414
+Velocità limite
+Speed limit
+Lubrificazione
+grasso 	olio
+grease 	oil
+4 500
+4 000
+3 600
+2 800
+3 000
+2 400
+2 800
+2 000
+1 700
+2 600
+1 900
+1 600
+2 400
+1 800
+1 500
+1 900
+1 600
+1 900
+1 600
+1 100
+1 800
+1 500
+1 800
+1 400
+950
+0,082
+0,12
+0,14
+0,27
+0,22
+0,38
+0,28
+0,55
+1,10
+0,30
+0,66
+1,45
+0,37
+0,97
+1,90
+0,60
+1,40
+0,66
+1,40
+3,10
+0,73
+1,55
+0,78
+2,10
+5,50
+6 000
+5 300
+4 800
+3 800
+4 000
+3 400
+3 800
+3 000
+2 400
+3 600
+2 800
+2 000
+3 400
+2 600
+2 000
+2 800
+2 200
+2 800
+2 200
+1 600
+2 600
+2 000
+2 600
+1 900
+1 400
+Peso
+Weight
+kg
+Sigla
+Cuscinetto
+Designation
+bearing
+Sigla
+ralla
+Designation
+ring
+U 204
+U 205
+U 206
+U 306
+U 207
+U 307
+U 208
+U 308
+U 408
+U 209
+U 309
+U 409
+U 210
+U 310
+U 410
+U 211
+U 311
+U 212
+U 312
+U 412
+U 213
+U 313
+U 214
+U 314
+U 414
+81
+
+-- 119 of 146 --
+
+75
+80
+85
+90
+100
+110
+110
+135
+160
+115
+140
+170
+125
+150
+135
+155
+190
+150
+170
+210
+160
+190
+28,3
+48,1
+69
+29,5
+47,6
+72,2
+33,1
+53,1
+38,5
+54,6
+81,2
+40,9
+59,2
+90
+40,2
+67,2
+67 600
+163 000
+251 000
+76 100
+159 000
+270 000
+97 500
+190 000
+119 000
+195 000
+307 000
+124 000
+229 000
+371 000
+130 000
+276 000
+170 000
+360 000
+560 000
+190 000
+360 000
+620 000
+250 000
+425 000
+300 000
+465 000
+750 000
+320 000
+560 000
+965 000
+360 000
+720 000
+77
+77
+78
+82
+82
+83
+88
+88
+93
+93
+93
+103
+103
+103
+113
+113
+92
+105
+115
+98
+110
+125
+105
+115
+110
+120
+140
+125
+135
+155
+135
+150
+115
+140
+165
+120
+145
+175
+130
+155
+140
+160
+195
+155
+175
+220
+165
+195
+9,5
+15
+21
+10
+15
+22
+11
+17,5
+13,5
+18
+25,5
+14
+18
+27
+14
+20,5
+32
+52
+75
+33
+52
+78
+37
+58
+42
+59
+88
+45
+64
+98
+45
+72
+90
+100
+125
+90
+112
+125
+100
+112
+100
+112
+140
+112
+125
+160
+125
+140
+49
+37
+42
+46
+50
+36
+52
+43
+45
+40
+40
+52
+46
+50
+65
+51
+Cuscinetti assiali a sfere a semplice effetto,
+con ralla esterna sferica
+Single acting thrust ball bearings with outer
+spherical ring
+d 	75-110 mm
+Dimensioni
+Dimensions
+mm
+Coefficente di carico
+Load rating
+N
+dinam. 	stat.
+C 	C0	D1 	D2	H	D	d 	D3 	C 	H1 	R 	s
+82
+
+-- 120 of 146 --
+
+53215
+53315
+53415
+53216
+53316
+53416
+53217
+53317
+53218
+53318
+53418
+53220
+53320
+53420
+53222
+53322
+1 700
+1 200
+900
+1 700
+1 200
+850
+1 600
+1 100
+1 500
+1 000
+800
+1 300
+950
+700
+1 200
+850
+0,81
+2,65
+6,85
+0,90
+2,75
+8,00
+1,20
+3,55
+1,70
+3,85
+11,0
+2,20
+5,00
+15,0
+2,35
+7,80
+2 400
+1 700
+1 300
+2 400
+1 700
+1 200
+2 200
+1 600
+2 000
+1 500
+1 100
+1 800
+1 400
+950
+1 700
+1 200
+U 215
+U 315
+U 415
+U 216
+U 316
+U 416
+U 217
+U 317
+U 218
+U 318
+U 418
+U 220
+U 320
+U 420
+U 222
+U 322
+Velocità limite
+Speed limit
+Lubrificazione
+grasso 	olio
+grease 	oil
+Peso
+Weight
+kg
+Sigla
+Cuscinetto
+Designation
+bearing
+Sigla
+ralla
+Designation
+ring
+83
+
+-- 121 of 146 --
+
+Dimensioni
+Dimensions
+mm
+Coefficente di carico
+Load rating
+N
+dinam. 	stat.
+C 	C0
+Sigla
+Cuscinetto
+Designation
+bearing
+Cuscinetti assiali a sfere a doppio effetto
+Double acting thrust ball bearings
+d 	10-65 mm
+10
+15
+20
+25
+30
+35
+40
+45
+50
+55
+60
+65
+32
+40
+47
+52
+52
+60
+62
+68
+68
+78
+73
+85
+78
+95
+90
+105
+95
+110
+100
+115
+125
+110
+135
+115
+140
+22
+26
+28
+34
+29
+38
+34
+36
+44
+49
+37
+52
+39
+58
+45
+64
+46
+64
+47
+65
+72
+47
+79
+48
+79
+16 500
+22 500
+27 600
+34 500
+25 500
+37 700
+35 100
+46 800
+49 400
+61 800
+39 000
+76 100
+49 400
+88 400
+61 800
+104 000
+62 400
+101 000
+63 700
+106 000
+135 000
+67 700
+163 000
+76 100
+159 000
+25 000
+37 500
+50 000
+55 000
+47 500
+65 500
+67 000
+98 000
+88 000
+112 000
+80 000
+140 000
+106 000
+173 000
+134 000
+208 000
+140 000
+208 000
+150 000
+220 000
+300 000
+170 000
+360 000
+190 000
+360 000
+52202
+52204
+52205
+52305
+52206
+52306
+52207
+52208
+52307
+52308
+52209
+52309
+52210
+52310
+52211
+52311
+52212
+52312
+52213
+52313
+52314
+52215
+52315
+52216
+52316
+Velocità limite
+Speed limit
+Lubrificazione
+grasso 	olio
+grease 	oil
+5 300
+4 500
+4 000
+3 400
+3 600
+2 800
+3 000
+2 800
+2 400
+2 000
+2 600
+1 900
+2 400
+1 800
+1 900
+1 600
+1 900
+1 600
+1 800
+1 500
+1 400
+1 700
+1 200
+1 700
+1 200
+0,081
+0,15
+0,22
+0,33
+0,25
+0,47
+0,41
+0,55
+0,68
+1,05
+0,60
+1,25
+0,71
+1,75
+1,10
+2,40
+1,20
+2,55
+1,35
+2,75
+3,65
+1,55
+4,80
+1,70
+4,94
+7 000
+6 000
+5 300
+4 500
+4 800
+3 800
+4 000
+3 800
+3 400
+3 000
+3 600
+2 800
+3 400
+2 600
+2 800
+2 200
+2 800
+2 200
+2 600
+2 000
+1 900
+2 400
+1 700
+2 400
+1 700
+Peso
+Weight
+kg
+D1 	B
+17
+22
+27
+27
+32
+32
+37
+42
+37
+42
+47
+47
+52
+52
+57
+57
+62
+62
+67
+67
+72
+77
+77
+82
+82
+5
+6
+7
+8
+7
+9
+8
+9
+10
+12
+9
+12
+9
+14
+10
+15
+10
+15
+10
+15
+16
+10
+18
+10
+18
+H	D	d
+84
+
+-- 122 of 146 --
+
+70
+75
+85
+95
+100
+110
+120
+130
+125
+135
+150
+160
+170
+190
+200
+215
+55
+62
+67
+67
+68
+80
+81
+89
+97 500
+119 000
+124 000
+130 000
+140 000
+186 000
+190 000
+238 000
+250 000
+300 000
+320 000
+360 000
+400 000
+540 000
+570 000
+735 000
+52217
+52218
+52220
+52222
+52224
+52226
+52228
+52230
+1 600
+1 500
+1 300
+1 200
+1 100
+950
+950
+900
+2,40
+3,20
+4,20
+4,65
+5,25
+8,00
+8,65
+11,5
+2 200
+2 000
+1 800
+1 700
+1 600
+1 400
+1 400
+1 300
+88
+93
+103
+113
+123
+133
+143
+153
+12
+14
+15
+15
+15
+18
+18
+20
+Dimensioni
+Dimensions
+mm
+Coefficente di carico
+Load rating
+N
+dinam. 	stat.
+C 	C0
+Sigla
+Cuscinetto
+Designation
+bearing
+Cuscinetti assiali a sfere a doppio effetto
+Double acting thrust ball bearings
+d 	70-130 mm
+Velocità limite
+Speed limit
+Lubrificazione
+grasso 	olio
+grease 	oil
+Peso
+Weight
+kg
+D1 	B	H	D	d
+85
+
+-- 123 of 146 --
+
+Dimensioni
+Dimensions
+mm
+Coefficente di carico
+Load rating
+N
+dinam. 	stat.
+C 	C0
+Cuscinetti assiali orientabili a rulli
+Self-aligning thrust roller bearings
+d 	60-170 mm
+60
+65
+70
+75
+80
+85
+90
+100
+110
+120
+130
+140
+150
+160
+170
+130
+140
+150
+160
+170
+150
+180
+155
+190
+170
+210
+190
+230
+210
+250
+225
+270
+240
+280
+215
+250
+300
+225
+270
+320
+240
+280
+340
+42
+45
+48
+51
+54
+39
+58
+39
+60
+42
+67
+48
+73
+54
+78
+58
+85
+60
+85
+39
+60
+90
+39
+67
+95
+42
+67
+103
+345 000
+397 000
+449 000
+518 000
+575 000
+334 000
+633 000
+345 000
+702 000
+408 000
+863 000
+535 000
+1 010 000
+656 000
+1 170 000
+753 000
+1 380 000
+845 000
+1 400 000
+345 000
+863 000
+1 610 000
+357 000
+1 010 000
+1 790 000
+408 000
+1 050 000
+2 020 000
+915 000
+1 080 000
+1 250 000
+1 430 000
+1 630 000
+1 060 000
+1 800 000
+1 080 000
+2 000 000
+1 290 000
+2 500 000
+1 730 000
+3 000 000
+2 120 000
+3 450 000
+2 500 000
+4 050 000
+2 850 000
+4 300 000
+1 370 000
+2 850 000
+5 100 000
+1 460 000
+3 450 000
+5 600 000
+1 660 000
+3 550 000
+6 550 000
+D1 	B
+85,5
+91,5
+99
+105,5
+112,5
+109,5
+121
+115
+127,5
+127,5
+141,5
+140
+155,3
+154,5
+171
+165,5
+184,5
+177
+194,5
+177
+190
+207,5
+188
+203
+223,5
+201
+215
+236
+27
+29,5
+31
+33,5
+35
+24,5
+37
+24,5
+39
+26,2
+43
+30,3
+47
+34
+50,5
+36,7
+54
+38,5
+54
+11
+38
+58
+11
+42
+60,5
+13
+42,2
+65,5
+H	D	d
+Velocità limite
+Speed limit
+Lubrificazione
+grasso 	olio
+grease 	oil
+1 800
+1 700
+1 600
+1 600
+1 500
+1 600
+1 300
+1 600
+1 300
+1 500
+1 100
+1 300
+950
+1 100
+900
+1 000
+850
+950
+850
+-
+950
+800
+-
+850
+750
+-
+850
+700
+2 600
+2 400
+2 200
+2 200
+2 000
+2 200
+1 800
+2 200
+1 800
+2 000
+1 600
+1 800
+1 400
+1 600
+1 300
+1 500
+1 200
+1 400
+1 200
+1 800
+1 400
+1 100
+1 700
+1 200
+1 000
+1 600
+1 200
+950
+B1
+36,7
+39,8
+41
+45,7
+48,1
+33,8
+51,1
+34,5
+54
+36,3
+57,3
+41,7
+64,7
+48,2
+70,3
+50,6
+76
+54
+75,6
+37
+54,9
+80,8
+37
+60
+84,3
+40
+61,1
+91,2
+21
+22
+23,8
+24,5
+26,5
+20
+28
+19,5
+28,5
+20,5
+32
+24,8
+34,7
+27
+36,5
+30,1
+40,9
+30
+41
+20
+28
+43,4
+20
+33
+45,5
+22
+30,5
+50
+C 	s
+38
+42
+44
+47
+50
+50
+54
+53
+56
+58
+62
+64
+69
+70
+74
+76
+81
+82
+86
+80
+87
+92
+87
+92
+99
+93
+96
+104
+86
+
+-- 124 of 146 --
+
+29412
+29413
+29414
+29415
+29416
+29317
+29417
+29318
+29418
+29320
+29420
+29322
+29422
+29324
+29424
+29326
+29426
+29328
+29428
+29230
+29330
+29430
+29232
+29332
+29432
+29234
+29334
+29434
+2,60
+3,20
+3,90
+4,70
+5,60
+2,75
+6,75
+2,85
+7,75
+3,65
+10,5
+5,30
+13,5
+7,35
+17,5
+9,00
+22,0
+10,5
+23,0
+4,55
+11,0
+28,0
+4,80
+14,5
+33,5
+5,95
+15,5
+44,5
+Peso
+Weight
+kg
+Sigla
+Cuscinetto
+Designation
+bearing
+87
+
+-- 125 of 146 --
+
+180
+190
+200
+220
+240
+260
+280
+300
+250
+300
+360
+270
+320
+380
+280
+340
+400
+300
+360
+420
+340
+380
+440
+360
+420
+480
+380
+440
+520
+420
+480
+540
+42
+73
+109
+48
+78
+115
+48
+85
+122
+48
+85
+122
+60
+85
+122
+60
+95
+132
+60
+95
+145
+73
+109
+145
+420 000
+1 240 000
+2 250 000
+518 000
+1 400 000
+2 480 000
+535 000
+1 610 000
+2 760 000
+546 000
+1 730 000
+2 880 000
+799 000
+1 790 000
+2 990 000
+817 000
+2 220 000
+3 510 000
+863 000
+2 190 000
+4 310 000
+1 070 000
+2 670 000
+4 370 000
+1 760 000
+4 300 000
+7 350 000
+2 200 000
+4 750 000
+8 000 000
+2 280 000
+5 500 000
+9 000 000
+2 400 000
+6 300 000
+9 650 000
+3 450 000
+6 550 000
+10 200 000
+3 650 000
+8 300 000
+12 900 000
+4 000 000
+8 650 000
+15 300 000
+4 800 000
+10 600 000
+16 600 000
+211
+227
+250
+226
+243,5
+264,5
+236
+257
+277,5
+254
+273,5
+300
+283
+295,5
+322
+302
+324
+346
+323
+343
+372
+353
+372
+392
+14
+46
+69,5
+14
+49
+73
+15
+53,5
+77
+15
+55
+77
+19
+54
+76
+19
+61
+86
+19
+62
+95
+21
+70
+95
+-
+800
+670
+-
+750
+630
+-
+700
+600
+-
+700
+560
+-
+670
+560
+-
+600
+500
+-
+600
+480
+-
+530
+450
+1 600
+1 100
+900
+1 400
+1 000
+850
+1 400
+950
+800
+1 300
+950
+750
+1 100
+900
+750
+1 100
+800
+670
+1 000
+800
+630
+900
+700
+600
+40
+66,2
+96,4
+45
+71,3
+101
+45
+76,7
+107,1
+45
+77,7
+107,4
+57
+77,8
+107,1
+57
+86,6
+119
+57
+86,7
+129,9
+69
+98,9
+130,3
+21
+35,5
+53
+25,5
+36
+55,5
+24
+40
+59,4
+24
+41
+58,5
+30
+40,5
+59
+30
+46
+63
+30
+45,5
+70
+38
+51
+70,5
+97
+103
+110
+103
+110
+117
+108
+116
+122
+117
+125
+132
+130
+135
+142
+139
+148
+154
+150
+158
+166
+162
+168
+175
+Dimensioni
+Dimensions
+mm
+Coefficente di carico
+Load rating
+N
+dinam. 	stat.
+C 	C0
+Cuscinetti assiali orientabili a rulli
+Self-aligning thrust roller bearings
+d 	180-300 mm
+D1 	B	H	D	d
+Velocità limite
+Speed limit
+Lubrificazione
+grasso 	olio
+grease 	oil	B1 	C 	s
+88
+
+-- 126 of 146 --
+
+29236
+29336
+29436
+29238
+29338
+29438
+29240
+29340
+29440
+29244
+29344
+29444
+29248
+29348
+29448
+29252
+29352
+29452
+29256
+29356
+29456
+29260
+29360
+29460
+6,25
+19,5
+52,5
+8,70
+23,5
+60,5
+8,90
+29,5
+72,0
+10,0
+33,5
+75,0
+16,5
+35,5
+80,0
+18,5
+53,0
+135
+19,5
+53,0
+135
+30,5
+75,0
+140
+Peso
+Weight
+kg
+Sigla
+Cuscinetto
+Designation
+bearing
+89
+
+-- 127 of 146 --
+
+
+
+-- 128 of 146 --
+
+Bussole di trazione
+Bussole di pressione
+Ghiere di bloccaggio KM
+Rosette di sicurezza MB
+Le bussole di trazione e di pressione
+sono accessori utilizzati per il
+bloccaggio dei cuscinetti a foro conico
+sugli alberi cilindrici, hanno forma
+tronco conica e sono tagliate
+longitudinalmente per adattarsi alle
+dimensioni del foro dei cuscinetti;
+normalmente hanno conicità 1:12.
+– Le bussole di trazione sono fornite
+complete di ghiera e rosetta, sono le
+più usate, facilitano il montaggio e lo
+smontaggio dei cuscinetti dall'albero
+e semplificano la progettazione e la
+manutenzione delle macchine.
+Ammettono tolleranze meno ristrette
+tra l'albero e il cuscinetto.
+– Le bussole di pressione sono di
+impiego più limitato perchè più
+difficoltose da montare, non sono
+fornite con la ghiera di smontaggio.
+I cuscinetti montati su bussole di
+pressione devono essere appoggiati
+ad uno spalleggiamento fisso ricavato
+sull'albero , in seguito viene inserita
+la bussola e pressata entro il foro
+conico del cuscinetto.
+Both taper adapter and withdrawal
+sleeves are accessories used to block
+tapered bore bearings on cylindrical
+shafts.
+They have a conical form and are
+lenghtwise cut to adapt themselves to
+bearing dimensions bore; normally
+they have a 1:12 conicity.
+Adapter sleeves are supplied
+complete of locknut and locking
+washer: this type is the most popular
+and enable easier operations of
+mounting and dismounting bearings
+from the shaft.
+They also simplify machinery's design
+and allow narrow tolerances between
+the bearing and the shaft.
+Withdrawal sleeves, instead, have a
+limited use: in fact they are more diffult
+to mount and are supplied without
+dismounting locknut.
+Bearings mounted on withdrawal
+sleeves, have to be leant to a fixed step
+placed on the shaft: later the sleeve is
+inserted and pressed inside the conical
+bore of the bearing.
+Taper adapters
+Withdrawal sleeves
+Locknuts KM
+Washers MB
+91
+
+-- 129 of 146 --
+
+Dimensioni
+Dimensions
+mm
+Peso
+Weight
+kg
+M 20x1
+M 20x1
+M 25x1,5
+M 25x1,5
+M 25x1,5
+M 30x1,5
+M 30x1,5
+M 30x1,5
+M 35x1,5
+M 35x1,5
+M 35x1,5
+M 40x1,5
+M 40x1,5
+M 40x1,5
+M 45x1,5
+M 45x1,5
+M 45x1,5
+M 50x1,5
+M 50x1,5
+M 50x1,5
+M 55x2
+M 55x2
+M 55x2
+M 60x2
+M 60x2
+M 60x2
+M 65x2
+M 65x2
+M 65x2
+M 70x2
+M 70x2
+20
+25
+30
+35
+40
+45
+50
+55
+60
+65
+70
+d
+32
+32
+38
+38
+38
+45
+45
+45
+52
+52
+52
+58
+58
+58
+65
+65
+65
+70
+70
+70
+75
+75
+75
+80
+80
+80
+85
+85
+85
+92
+92
+d3
+24
+28
+26
+29
+35
+27
+31
+38
+29
+35
+43
+31
+36
+46
+33
+39
+50
+35
+42
+55
+37
+45
+59
+38
+47
+62
+40
+50
+65
+52
+68
+B1
+7
+7
+8
+8
+8
+8
+8
+8
+9
+9
+9
+10
+10
+10
+11
+11
+11
+12
+12
+12
+12,5
+12,5
+12,5
+13
+13
+13
+14
+14
+14
+14
+14
+B2
+0,036
+0,040
+0,064
+0,071
+0,085
+0,086
+0,095
+0,11
+0,12
+0,14
+0,16
+0,16
+0,17
+0,22
+0,21
+0,23
+0,27
+0,24
+0,27
+0,34
+0,28
+0,32
+0,39
+0,31
+0,36
+0,45
+0,36
+0,42
+0,52
+0,67
+0,88
+G
+KM 4
+KM 4
+KM 5
+KM 5
+KM 5
+KM 6
+KM 6
+KM 6
+KM 7
+KM 7
+KM 7
+KM 8
+KM 8
+KM 8
+KM 9
+KM 9
+KM 9
+KM 10
+KM 10
+KM 10
+KM 11
+KM 11
+KM 11
+KM 12
+KM 12
+KM 12
+KM 13
+KM 13
+KM 13
+KM 14
+KM 14
+H 204
+H 304
+H 205
+H 305
+H 2305
+H 206
+H 306
+H 2306
+H 207
+H 307
+H 2307
+H 208
+H 308
+H 2308
+H 209
+H 309
+H 2309
+H 210
+H 310
+H 2310
+H 211
+H 311
+H 2311
+H 212
+H 312
+H 2312
+H 213
+H 313
+H 2313
+H 314
+H 2314
+MB 4
+MB 4
+MB 5
+MB 5
+MB 5
+MB 6
+MB 6
+MB 6
+MB 7
+MB 7
+MB 7
+MB 8
+MB 8
+MB 8
+MB 9
+MB 9
+MB 9
+MB 10
+MB 10
+MB 10
+MB 11
+MB 11
+MB 11
+MB 12
+MB 12
+MB 12
+MB 13
+MB 13
+MB 13
+MB 14
+MB 14
+Sigla-Designation
+Dispositivo
+di sicurezza
+Washer
+Bussole di trazione
+Taper adapters
+d1 	17-60 mm
+17
+20
+25
+30
+35
+40
+45
+50
+55
+60
+d1
+Ghiera di
+bloccaggio
+Locknut
+Bussola di trazione con
+ghiera e dispositivo
+di sicurezza
+Taper adapter with
+locknut and washer
+92
+
+-- 130 of 146 --
+
+M 75x2
+M 75x2
+M 75x2
+M 80x2
+M 80x2
+M 80x2
+M 85x2
+M 85x2
+M 85x2
+M 90x2
+M 90x2
+M 90x2
+M 95x2
+M 95x2
+M 95x2
+M 100x2
+M 100x2
+M 100x2
+M 105x2
+M 105x2
+M 110x2
+M 110x2
+M 110x2
+M 110x2
+M 120x2
+M 120x2
+M 120x2
+M 130x2
+M 130x2
+M 130x2
+75
+80
+85
+90
+95
+100
+105
+110
+120
+130
+98
+98
+98
+105
+105
+105
+110
+110
+110
+120
+120
+120
+125
+125
+125
+130
+130
+130
+140
+140
+145
+145
+145
+145
+145
+155
+155
+155
+165
+165
+43
+55
+73
+46
+59
+78
+50
+63
+82
+52
+65
+86
+55
+68
+90
+58
+71
+97
+60
+74
+63
+77
+81
+105
+72
+88
+112
+80
+92
+121
+15
+15
+15
+17
+17
+17
+18
+18
+18
+18
+18
+18
+19
+19
+19
+20
+20
+20
+20
+20
+21
+21
+21
+21
+22
+22
+22
+23
+23
+23
+0,66
+0,78
+1,10
+0,81
+0,95
+1,20
+0,94
+1,10
+1,35
+1,10
+1,30
+1,60
+1,25
+1,40
+1,80
+1,40
+1,60
+2,00
+1,60
+1,85
+1,80
+2,05
+2,10
+2,75
+1,80
+2,50
+3,00
+2,80
+3,45
+4,45
+KM 15
+KM 15
+KM 15
+KM 16
+KM 16
+KM 16
+KM 17
+KM 17
+KM 17
+KM 18
+KM 18
+KM 18
+KM 19
+KM 19
+KM 19
+KM 20
+KM 20
+KM 20
+KM 21
+KM 21
+KM 22
+KM 22
+KM 22
+KM 22
+KML 24
+KM 24
+KM 24
+KML 26
+KM 26
+KM 26
+H 215
+H 315
+H 2315
+H 216
+H 316
+H 2316
+H 217
+H 317
+H 2317
+H 218
+H 318
+H 2318
+H 219
+H 319
+H 2319
+H 220
+H 320
+H 2320
+H 221
+H 321
+H 222
+H 322
+H 3122
+H 2322
+H 3024
+H 3124
+H 2324
+H 3026
+H 3126
+H 2326
+MB 15
+MB 15
+MB 15
+MB 16
+MB 16
+MB 16
+MB 17
+MB 17
+MB 17
+MB 18
+MB 18
+MB 18
+MB 19
+MB 19
+MB 19
+MB 20
+MB 20
+MB 20
+MB 21
+MB 21
+MB 22
+MB 22
+MB 22
+MB 22
+MBL 24
+MB 24
+MB 24
+MBL 26
+MB 26
+MB 26
+65
+70
+75
+80
+85
+90
+95
+100
+110
+115
+Bussole di trazione
+Taper adapters
+d1 	65-115 mm
+Dimensioni
+Dimensions
+mm
+Peso
+Weight
+kg
+d 	d3 	B1 	B2 	G
+Sigla-Designation
+Dispositivo
+di sicurezza
+Washer	d1
+Ghiera di
+bloccaggio
+Locknut
+Bussola di trazione con
+ghiera e dispositivo
+di sicurezza
+Taper adapter with
+locknut and washer
+93
+
+-- 131 of 146 --
+
+M 140x2
+M 140x2
+M 140x2
+M 150x2
+M 150x2
+M 150x2
+M 160x3
+M 160x3
+M 160x3
+M 170x3
+M 170x3
+M 170x3
+M 180x3
+M 180x3
+M 180x3
+M 190x3
+M 190x3
+M 190x3
+M 200x3
+M 200x3
+M 200x3
+140
+150
+160
+170
+180
+190
+200
+165
+180
+180
+180
+195
+195
+190
+210
+210
+200
+220
+220
+210
+230
+230
+220
+240
+240
+240
+250
+250
+82
+97
+131
+87
+111
+139
+93
+119
+147
+101
+122
+154
+109
+131
+161
+112
+141
+169
+120
+150
+176
+24
+24
+24
+26
+26
+26
+27,5
+28
+28
+28,5
+29
+29
+29,5
+30
+30
+30,5
+31
+31
+31,5
+32
+32
+3,05
+4,10
+5,40
+3,75
+5,25
+6,40
+5,10
+7,25
+8,80
+5,80
+8,10
+9,90
+6,70
+9,15
+11,0
+7,25
+10,5
+12,0
+8,90
+12,0
+13,5
+KML 28
+KM 28
+KM 28
+KML 30
+KM 30
+KM 30
+KML 32
+KM 32
+KM 32
+KML 34
+KM 34
+KM 34
+KML 36
+KM 36
+KM 36
+KML 38
+KM 38
+KM 38
+KML 40
+KM 40
+KM 40
+H 3028
+H 3128
+H 2328
+H 3030
+H 3130
+H 2330
+H 3032
+H 3132
+H 2332
+H 3034
+H 3134
+H 2334
+H 3036
+H 3136
+H 2336
+H 3038
+H 3138
+H 2338
+H 3040
+H 3140
+H 2340
+MBL 28
+MB 28
+MB 28
+MBL 30
+MB 30
+MB 30
+MBL 32
+MB 32
+MB 32
+MBL 34
+MB 34
+MB 34
+MBL 36
+MB 36
+MB 36
+MBL 38
+MB 38
+MB 38
+MBL 40
+MB 40
+MB 40
+125
+135
+140
+150
+160
+170
+180
+Bussole di trazione
+Taper adapters
+d1 	125-180 mm
+Dimensioni
+Dimensions
+mm
+Peso
+Weight
+kg
+d 	d3 	B1 	B2 	G
+Sigla-Designation
+Dispositivo
+di sicurezza
+Washer	d1
+Ghiera di
+bloccaggio
+Locknut
+Bussola di trazione con
+ghiera e dispositivo
+di sicurezza
+Taper adapter with
+locknut and washer
+94
+
+-- 132 of 146 --
+
+Dimensioni
+Dimensions
+mm
+Peso
+Weight
+kg
+Ghiere di bloccaggio M 10 x 0,75 - M 100 x 2
+Lock nuts
+M 10x0,75
+M 12x1
+M 15x1
+M 17x1
+M 20x1
+M 25x1,5
+M 30x1,5
+M 35x1,5
+M 40x1,5
+M 45x1,5
+M 50x1,5
+M 55x2
+M 60x2
+M 65x2
+M 70x2
+M 75x2
+M 80x2
+M 85x2
+M 90x2
+M 95x2
+M 100x2
+13,5
+17
+21
+24
+26
+32
+38
+44
+50
+56
+61
+67
+73
+79
+85
+90
+95
+102
+108
+113
+120
+d1	G
+18
+22
+25
+28
+32
+38
+45
+52
+58
+65
+70
+75
+80
+85
+92
+98
+105
+110
+120
+125
+130
+d3
+4
+4
+5
+5
+6
+7
+7
+8
+9
+10
+11
+11
+11
+12
+12
+13
+15
+16
+16
+17
+18
+B
+3
+3
+4
+4
+4
+5
+5
+5
+6
+6
+6
+7
+7
+7
+8
+8
+8
+8
+10
+10
+10
+b
+2
+2
+2
+2
+2
+2
+2
+2
+2,5
+2,5
+2,5
+3
+3
+3
+3,5
+3,5
+3,5
+3,5
+4
+4
+4
+h
+0,006
+0,008
+0,012
+0,012
+0,020
+0,028
+0,038
+0,058
+0,078
+0,11
+0,14
+0,15
+0,16
+0,19
+0,22
+0,27
+0,36
+0,42
+0,51
+0,58
+0,68
+KM 0
+KM 1
+KM 2
+KM 3
+KM 4
+KM 5
+KM 6
+KM 7
+KM 8
+KM 9
+KM 10
+KM 11
+KM 12
+KM 13
+KM 14
+KM 15
+KM 16
+KM 17
+KM 18
+KM 19
+KM 20
+MB 0
+MB 1
+MB 2
+MB 3
+MB 4
+MB 5
+MB 6
+MB 7
+MB 8
+MB 9
+MB 10
+MB 11
+MB 12
+MB 13
+MB 14
+MB 15
+MB 16
+MB 17
+MB 18
+MB 19
+MB 20
+Sigla
+Ghiera di
+bloccaggio
+Designation
+Locknut
+Sigla
+Rosetta
+di sicurezza
+Desgnation
+Washer
+95
+
+-- 133 of 146 --
+
+M 105x2
+M 110x2
+M 115x2
+M 120x2
+M 125x2
+M 130x2
+M 135x2
+M 140x2
+M 145x2
+M 150x2
+M 155x3
+M 160x3
+M 165x3
+M 170x3
+M 180x3
+M 190x3
+M 200x3
+126
+133
+137
+138
+148
+149
+160
+160
+171
+171
+182
+182
+193
+193
+203
+214
+226
+140
+145
+150
+155
+160
+165
+175
+180
+190
+195
+200
+210
+210
+220
+230
+240
+250
+18
+19
+19
+20
+21
+21
+22
+22
+24
+24
+25
+25
+26
+26
+27
+28
+29
+12
+12
+12
+12
+12
+12
+14
+14
+14
+14
+16
+16
+16
+16
+18
+18
+18
+5
+5
+5
+5
+5
+5
+6
+6
+6
+6
+7
+7
+7
+7
+8
+8
+8
+0,81
+0,89
+0,91
+0,98
+1,10
+1,20
+1,40
+1,40
+1,85
+1,85
+2,05
+2,25
+2,30
+2,55
+2,70
+3,00
+3,30
+KM 21
+KM 22
+KM 23
+KM 24
+KM 25
+KM 26
+KM 27
+KM 28
+KM 29
+KM 30
+KM 31
+KM 32
+KM 33
+KM 34
+KM 36
+KM 38
+KM 40
+MB 21
+MB 22
+MB 23
+MB 24
+MB 25
+MB 26
+MB 27
+MB 28
+MB 29
+MB 30
+MB 31
+MB 32
+MB 33
+MB 34
+MB 36
+MB 38
+MB 40
+Dimensioni
+Dimensions
+mm
+Peso
+Weight
+kg
+Ghiere di bloccaggio M 105 x 2 - M 200 x 3
+Lock nuts
+d1	G 	d3 	B 	b 	h
+Sigla
+Ghiera di
+bloccaggio
+Designation
+Locknut
+Sigla
+Rosetta
+di sicurezza
+Desgnation
+Washer
+96
+
+-- 134 of 146 --
+
+Dimensioni
+Dimensions
+mm
+Peso
+Weight
+g
+10
+12
+15
+17
+20
+25
+30
+35
+40
+45
+50
+55
+60
+65
+70
+75
+80
+85
+90
+95
+100
+105
+110
+115
+120
+125
+d1	d 	d2 	B 	f 	M
+Sigla
+Desi-
+gnation
+Rosette di sicurezza
+Washers
+d 	10-280 mm
+13,5
+17
+21
+24
+26
+32
+38
+44
+50
+56
+61
+67
+73
+79
+85
+90
+95
+102
+108
+113
+120
+126
+133
+137
+138
+148
+21
+25
+28
+32
+36
+42
+49
+57
+62
+69
+74
+81
+86
+92
+98
+104
+112
+119
+126
+133
+142
+145
+154
+159
+164
+170
+1
+1
+1
+1
+1
+1,25
+1,25
+1,25
+1,25
+1,25
+1,25
+1,5
+1,5
+1,5
+1,5
+1,5
+1,75
+1,75
+1,75
+1,75
+1,75
+1,75
+1,75
+2
+2
+2
+3
+3
+4
+4
+4
+5
+5
+6
+6
+6
+6
+8
+8
+8
+8
+8
+10
+10
+10
+10
+12
+12
+12
+12
+14
+14
+8,5
+10,5
+13,5
+15,5
+18,5
+23
+27,5
+32,5
+37,5
+42,5
+47,5
+52,5
+57,5
+62,5
+66,5
+71,5
+76,5
+81,5
+86,5
+91,5
+96,5
+100,5
+105,5
+110,5
+115
+120
+1,0
+2,0
+3,0
+3,0
+4,0
+6,0
+8,0
+11
+13
+15
+16
+22
+24
+30
+32
+35
+46
+53
+61
+66
+77
+83
+91
+107
+108
+115
+MB0
+MB1
+MB2
+MB3
+MB4
+MB5
+MB6
+MB7
+MB8
+MB9
+MB10
+MB11
+MB12
+MB13
+MB14
+MB15
+MB16
+MB17
+MB18
+MB19
+MB20
+MB21
+MB22
+MB23
+MB24
+MB25
+Dimensioni
+Dimensions
+mm
+Peso
+Weight
+g
+130
+135
+140
+145
+150
+155
+160
+165
+170
+180
+190
+200
+220
+240
+260
+280
+d1	d 	d2 	B 	f 	M
+Sigla
+Desi-
+gnation
+149
+160
+160
+172
+171
+182
+182
+193
+193
+203
+214
+226
+250
+270
+300
+320
+175
+185
+192
+202
+205
+212
+217
+222
+232
+242
+252
+262
+292
+312
+342
+362
+2
+2
+2
+2
+2
+2,5
+2,5
+2,5
+2,5
+2,5
+2,5
+2,5
+3
+3
+3
+3
+14
+14
+16
+16
+16
+16
+18
+18
+18
+20
+20
+20
+24
+24
+28
+28
+125
+130
+135
+140
+145
+147,5
+154
+157,5
+164
+174
+184
+194
+213
+233
+253
+273
+115
+140
+135
+165
+180
+200
+215
+240
+240
+260
+260
+280
+350
+450
+650
+1 050
+MB26
+MB27
+MB28
+MB29
+MB30
+MB31
+MB32
+MB33
+MB34
+MB36
+MB38
+MB40
+MB44
+MB48
+MB52
+MB56
+97
+
+-- 135 of 146 --
+
+Dimensioni
+Dimensions
+mm
+Peso
+Weight
+kg
+6
+7
+6
+7
+7
+9
+7
+10
+8
+11
+8
+12
+8
+12
+8
+12
+8
+12
+9
+13
+9
+10
+14
+10
+16
+40
+45
+50
+55
+60
+65
+70
+75
+80
+85
+90
+95
+d
+29
+40
+31
+44
+35
+50
+37
+54
+40
+58
+42
+61
+43
+64
+45
+68
+48
+71
+52
+74
+53
+63
+79
+57
+85
+B1
+32
+43
+34
+47
+38
+53
+40
+57
+43
+61
+45
+64
+47
+68
+49
+72
+52
+75
+56
+78
+57
+67
+83
+61
+89
+B2
+M 45x1,5
+M 45x1,5
+M 50x1,5
+M 50x1,5
+M 55x2
+M 55x2
+M 60x2
+M 60x2
+M 65x2
+M 65x2
+M 75x2
+M 75x2
+M 80x2
+M 80x2
+M 85x2
+M 85x2
+M 90x2
+M 90x2
+M 95x2
+M 95x2
+M 100x2
+M 100x2
+M 100x2
+M 105x2
+M 105x2
+G
+0,090
+0,13
+0,12
+0,16
+0,13
+0,19
+0,16
+0,26
+0,19
+0,30
+0,25
+0,39
+0,29
+0,45
+0,32
+0,53
+0,37
+0,57
+0,43
+0,65
+0,46
+0,57
+0,76
+0,54
+0,90
+G1
+KM 9
+KM 9
+KM 10
+KM 10
+KM 11
+KM 11
+KM 12
+KM 12
+KM 13
+KM 13
+KM 15
+KM 15
+KM 16
+KM 16
+KM 17
+KM 17
+KM 18
+KM 18
+KM 19
+KM 19
+KM 20
+KM 20
+KM 20
+KM 21
+KM 21
+AH 308
+AH 2308
+AH 309
+AH 2309
+AHX 310
+AHX 2310
+AHX 311
+AHX 2311
+AHX 312
+AHX 2312
+AH 313
+AH 2313
+AH 314
+AHX 2314
+AH 315
+AHX 2315
+AH 316
+AHX 2316
+AHX 317
+AHX 2317
+AHX 318
+AHX 3218
+AHX 2318
+AHX 319
+AHX 2319
+Sigla
+Bussola
+pressione
+Designation
+withdrawal
+sleeves
+Bussole di pressione
+Withdrawal sleeves
+d1 	35-90 mm
+35
+40
+45
+50
+55
+60
+65
+70
+75
+80
+85
+90
+d1
+Ghiera di
+smontaggio
+Dismantling
+nut
+1)
+98 	1) Larghezza bussola prima del pressaggio nel foro interno del cuscinetto
+1) Width of taper adapter, before being pressed inside inner bore of bearing
+
+-- 136 of 146 --
+
+10
+11
+11
+16
+11
+11
+16
+13
+12
+13
+17
+14
+12
+15
+19
+14
+14
+15
+20
+15
+15
+17
+24
+16
+16
+20
+24
+17
+16
+24
+24
+17
+17
+19
+24
+26
+100
+110
+120
+130
+140
+150
+160
+170
+180
+59
+64
+73
+90
+68
+82
+98
+60
+75
+90
+105
+67
+78
+98
+115
+68
+83
+104
+125
+72
+96
+114
+135
+77
+103
+124
+140
+85
+104
+134
+146
+92
+105
+116
+140
+154
+63
+68
+77
+94
+72
+86
+102
+64
+79
+94
+109
+71
+82
+102
+119
+73
+88
+109
+130
+77
+101
+119
+140
+82
+108
+130
+146
+90
+109
+140
+152
+90
+110
+122
+146
+160
+M 110x2
+M 110x2
+M 110x2
+M 110x2
+M 120x2
+M 125x2
+M 125x2
+M 130x2
+M 130x2
+M 135x2
+M 135x2
+M 140x2
+M 140x2
+M 145x2
+M 145x2
+M 150x2
+M 150x2
+M 155x2
+M 155x2
+M 160x3
+M 165x3
+M 165x3
+M 165x3
+M 170x3
+M 180x3
+M 180x3
+M 180x3
+M 180x3
+M 190x3
+M 190x3
+M 190x3
+M 190x3
+M 200x3
+M 200x3
+M 200x3
+M 200x3
+0,58
+0,66
+0,76
+1,00
+0,76
+1,05
+1,35
+0,73
+0,94
+1,30
+1,65
+0,91
+1,10
+1,55
+2,00
+1,00
+1,30
+1,85
+2,35
+1,15
+1,80
+2,20
+2,80
+2,05
+3,20
+4,00
+4,65
+2,40
+3,45
+4,80
+5,25
+2,80
+3,75
+4,25
+5,25
+6,05
+KM 22
+KM 22
+KM 22
+KM 22
+KM 24
+KM 25
+KM 25
+KM 26
+KM 26
+KM 27
+KM 27
+KM 28
+KM 28
+KM 29
+KM 29
+KM 30
+KM 30
+KM 31
+KM 31
+KM 32
+KM 33
+KM 33
+KM 33
+KM 34
+KM 36
+KM 36
+KM 36
+KM 36
+KM 38
+KM 38
+KM 38
+KM 38
+KM 40
+KM 40
+KM 40
+KM 40
+AHX 320
+AHX 3120
+AHX 3220
+AHX 2320
+AHX 3122
+AHX 3222
+AHX 2322
+AHX 3024
+AHX 3124
+AHX 3224
+AHX 2324
+AHX 3026
+AHX 3126
+AHX 3226
+AHX 2326
+AHX 3028
+AHX 3128
+AHX 3228
+AHX 2328
+AHX 3030
+AHX 3130
+AHX 3230
+AHX 2330
+AH 3032
+AH 3132
+AH 3232
+AH 2332
+AH 3034
+AH 3134
+AH 3234
+AH 2334
+AH 3036
+AH 2236
+AH 3136
+AH 3236
+AH 2336
+95
+105
+115
+125
+135
+145
+150
+160
+170
+Dimensioni
+Dimensions
+mm
+Peso
+Weight
+kg
+d 	B1 	B2 	G 	G1
+Sigla
+Bussola
+pressione
+Designation
+withdrawal
+sleeves
+Bussole di pressione
+Withdrawal sleeves
+d1 	95-170 mm
+d1
+Ghiera di
+smontaggio
+Dismantling
+nut
+1)
+99	1) Larghezza bussola prima del pressaggio nel foro interno del cuscinetto
+1) Width of taper adapter, before being pressed inside inner bore of bearing
+
+-- 137 of 146 --
+
+
+
+-- 138 of 146 --
+
+Cuscinetti per pompe acqua
+I cuscinetti per pompe acqua, sono
+progettualmente semplici ed
+economici e concepiti per l'utilizzo
+nell'industria motoristica (motori auto,
+autocarri, trattori, motori marini),
+hanno due giri di sfere oppure uno di
+sfere e uno di rulli e sono distanti tra
+loro per dare maggior durata e
+sopportare carichi radiali maggiori.
+Al posto dell'anello interno è utilizzato
+un albero, sporgente da ambo i lati,
+sul quale viene montato da un lato la
+puleggia di trascinamento e dall'altro
+la girante della pompa.
+Il cuscinetto è prelubrificato con grasso
+e a protezione stagna, che ne
+garantiscono l'esenzione da
+manutenzione, ed è costruito con
+speciale trattamento termico.
+Le tolleranze sono quelle riportate sul
+disegno. Il giuoco è C3 per garantire
+maggior durata. Il carico dinamico e
+statico è calcolabile come
+l'assemblaggio di due cuscinetti a un
+giro di sfere.
+101
+Water pump bearings
+Water pump bearings, are
+conceptually easy and cheap: they are
+designed for motor industry (engine
+cars, propelling motors, lorries,
+tractors and so on); they can be
+manufactured with double row of balls
+or with a row of balls and a row of
+rollers.
+They are distant, in order to have a
+longer life and be more resistant to
+heavy loads.
+Instead of an inner ring, a shaft is used
+that puts out on both sides and onto
+which a carrying pulley and a rotor
+pump is mounted, one per each side.
+The bearing is pre-lubricated with
+grease, and sealed (2RS watertight
+version): these conditions guarantee
+the free maintenace of it; it is made of
+chrome-steel for bearings and
+subjected to special heat treatments.
+For tolerances, see technical drawing.
+C3 clearance is to guarantee longer
+life.
+Dynamic and static load rating are
+calculated by the assembly of 2 single
+row ball bearings.
+
+-- 139 of 146 --
+
+Interpellateci per applicazioni speciali. Qui sotto trovate alcuni esempi di alberi
+in esecuzione speciale.
+Consult us when special shaft desings are needed. Some examples of specially
+shaped shafts are given below:
+Esempi di applicazioni dei cuscinetti.
+Some examples of water pump bearings' application.
+Pompa acqua per auto.
+Water pump for automobile.
+Pompa acqua per motociclo.
+Water pump for motocycle.
+Ruota per macchina
+agricola.
+Wheel for
+farm machines.
+D-0,015
+B±0,38
+d-0,013
+C-0,15
+F±0,25
+D-0,013
+	d-0,013
+1ˆ
+102
+
+-- 140 of 146 --
+
+* Per diversi diametri degli alberi sono usati i simboli A1 - A2.
+Per diverse dimensioni e strutture degli alberi sono usati i simboli K1 - K2.
+T = Albero filettato.
+R = Albero forato.
+N = Albero zigrinato.
+F = Terminale dell'albero piatto.
+**B = Cuscinetto a due giri di sfere.
+R = Cuscinetto combinato a un giro di sfere e uno di rulli.
+* Different shaft diameter use the symbol A1 - A2.
+Different dimensions of structure for integral shaft use K1 - K2.
+T = Thread on shaft.
+R = Hole in shaft.
+N = Knurl on shaft.
+F = Flat milled on shaft.
+**B = Ball-ball type.
+R = Ball-roller type.
+Dimensioni di serie dei cuscinetti per pompe acqua:
+Water pumps bearings dimension series:
+Dimensioni - Dimensions (mm) 	Dimensioni - Dimensions (mm)
+Diametro esterno
+Outside diameter Diametro esterno
+Outside diameter
+Diametro albero
+Shaft diameter Diametro albero
+Shaft diameter
+26
+28
+30
+30
+30
+30
+35
+35
+38,1
+41
+42
+47,625
+12
+17,2
+15
+15,918
+16
+17,2
+17,5
+18
+18,961
+22
+22
+25,4
+Struttura della sigla del cuscinetto:
+Water pump bearing number structure:
+W 	X 	XX 	XX 	XXX
+Tipo cuscinetto
+Water pump bearing mark
+** Numero serie struttura di base
+** Basic structural serial number
+Diametro nominale albero
+Shaft nominal diameter
+Diametro nominale esterno
+Nominal outside diameter
+Lunghezza nominale albero
+Nominal outside lenght
+* Codice addizzionale
+* Additional code number
+103
+
+-- 141 of 146 --
+
+Dimensioni
+Dimensions
+D 	C 	d 	B 	F
+ISB 	FAG
+26
+26
+26
+26
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+38.1
+38.1
+38.1
+38.1
+38.1
+38.1
+38.1
+38.1
+12
+12
+12
+12
+15.918
+15.918
+15.918
+15.918
+15.918
+15.918
+15.918
+15.918
+15.918
+15.918
+15.918
+15.918
+15.918
+15.918
+15.918
+15.918
+15.918
+15.918
+15.918
+15.918
+15.918
+15.918
+15.918
+15.918
+15.918
+15.918
+15.918
+15.918
+15.918
+15.918
+15.918
+15.918
+15.918
+15.918
+15.918
+15.918
+18.961
+18.961
+18.961
+18.961
+18.961
+18.961
+18.961
+18.961
+89.5
+94.5
+105.5
+103.5
+73.4
+82.6
+110.5
+103.2
+111.5
+127.8
+108.7
+101.2
+111.8
+120.6
+105.2
+127.8
+121.6
+113.1
+114.3
+154.0
+193.3
+150.0
+119.9
+119.1
+133.1
+125.0
+136.4
+142.9
+122.2
+132.1
+134.0
+132.2
+135.3
+135.7
+138.1
+161.9
+146.2
+159.5
+123.4
+142.0
+144.5
+132.1
+134.1
+141.7
+143.3
+139.7
+152.4
+165.1
+16.5
+21.5
+16.5
+21.5
+4.0
+4.0
+19.5
+23.4
+23.8
+25.8
+27.3
+27.5
+29.2
+29.5
+30.1
+31.0
+31.4
+31.7
+32.0
+34.0
+35.1
+35.1
+36.6
+37.3
+38.7
+39.0
+39.0
+40.0
+40.2
+40.2
+42.6
+50.4
+50.8
+52.4
+58.3
+58.3
+61.7
+76.2
+40.6
+52.6
+29.0
+29.8
+30.3
+31.8
+35.3
+35.6
+35.6
+35.6
+WB1226090
+WB1226095
+WB1226106
+WB1226104
+WB1630073
+WB1630083
+WB1630111
+WB1630103
+WB1630112
+WB1630128
+WB1630109
+WB1630101
+WB1630112K
+WB1630121
+WB1630105
+WB1630128K
+WB1630122K
+WB1630113
+WB1630114
+WB1630154
+WB1630139
+WB1630150
+WB1630120
+WB1630119
+WB1630133
+WB1630125
+WB1630136
+WB1630143
+WB1630122K
+WB1630132
+WB1630134
+WB1630132
+WB1630135
+EN1630136
+WB1630138
+WB1630162
+WB1630146
+WB1630160
+WB1630123
+WB1630142
+WB1938145
+WB1938132
+WB1938134
+WB1938142
+WB1938143
+WB1938140
+WB1938152
+WB1938165
+W2289
+W2325
+W2435
+W24061
+W2439
+W2503
+W2428.1
+W2398
+W2440.4
+W2476
+W2414.4
+W3503.5
+W2478.1
+W2445
+W2450.2
+W2606
+W2548.1
+W2590.2
+W2472
+W2468
+W2524.1
+W2492
+W2537
+W2562
+W3481.6
+W3520.1
+W2527
+W2520
+W2532
+W2534.1
+W2543
+W2637
+W2575.2
+W2628.1
+WK2568
+WK2520
+WK2559.2
+WK2564
+WK2550
+WK2600
+WK2560.2
+39
+39
+39
+39
+38.89
+38.89
+38.89
+38.89
+38.89
+38.89
+38.89
+38.89
+38.89
+38.89
+38.89
+38.89
+38.89
+38.89
+38.89
+38.89
+38.89
+38.89
+38.89
+38.89
+38.89
+38.89
+38.89
+38.89
+38.89
+38.89
+38.89
+38.89
+38.89
+38.89
+38.89
+38.89
+38.89
+38.89
+38.89
+38.89
+54.00
+54.00
+54.00
+54.00
+54.00
+54.00
+54.00
+54.00
+104
+Cuscinetti per pompe acqua
+Water pump bearings
+
+-- 142 of 146 --
+
+Note
+
+-- 143 of 146 --
+
+Note
+
+-- 144 of 146 --
+
+©Copyright ISB®
+È vietata la riproduzione anche parziale
+del contenuto di questo Catalogo Tecnico.
+Non si possono accettare responsabilità
+per eventuali errori od omissioni.
+Le misure non sono impegnative.
+Marchio registrato Italia-UE.
+T h e rep ro d u c t i o n , ev e n p a r t i a l ,
+of the contained concer ning this
+Technical Catalogue, is forbidden. Liability
+for possible errors and/or omissions
+are not accepted. Sizes are not binding.
+TM Registered in Italy-UE
+
+-- 145 of 146 --
+
+®
+CUSCINETTI
+BEARINGS
+1.1.08 ©Copyright ®
+79991000
+
+-- 146 of 146 --
+

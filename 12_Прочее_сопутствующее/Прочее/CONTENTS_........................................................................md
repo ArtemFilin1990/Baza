@@ -1,0 +1,46642 @@
+---
+
+CONTENTS .......................................................................................................... i
+FBJ BEARINGS ................................................................................................... ii
+SECTION 1.  Engineering Data
+1.
+Introduction to Rolling Bearings ...............................................................01
+2.
+Calculation of Service Life ....................................................................... 03
+3.
+Tolerances ................................................................................................12
+4.
+Fits ............................................................................................................21
+5.
+Clearance ................................................................................................ 24
+6.
+Speed and High Temperature Suitability ..................................................30
+7.
+Lubrication and Storage ...........................................................................30
+8.
+Mounting and Dismounting ...................................................................... 34
+SECTION 2.  Bearing Tables
+1.
+Miniature Bearings ...................................................................................45
+2.
+Deep Groove Ball Bearings, Single Row ................................................. 53
+3.
+Deep Groove Ball Bearings, Double Row ................................................60
+4.
+Self Aligning Ball Bearings .......................................................................62
+5.
+Angular Contact Ball Bearings, Single Row .............................................63
+6.
+Angular Contact Ball Bearings, Double Row ........................................... 65
+7.
+Thrust Ball Bearings .................................................................................67
+8.
+Spherical Roller Thrust Bearings ..............................................................73
+9.
+Tapered Roller Bearings, Metric ...............................................................74
+10.
+Tapered Roller Bearings, Inch ..................................................................80
+11.
+Spherical Roller Bearings .......................................................................102
+12.
+Spherical Plain Bearings ........................................................................105
+13.
+Bearing Units and Ball Bearings for Bearing Units .................................115
+14.
+Adapter Sleeves .....................................................................................135
+15.
+Bearings and Housings Matching Table .................................................137
+16.
+Plummer Blocks .....................................................................................138
+17.
+mm-inch conversion table ......................................................................140
+18.
+Conversion Guide .................................................................................. 141
+i
+
+---
+
+        Beaings International
+FBJ took over FKC’s more than 50 year’s accumulation of technology
+and know-how. FBJ is proud of the production of clutch release bearings
+and wheel bearings especially, and special bearings will be designed
+and manufactured in accordance with customers’ request.
+Since 1950, our experience in bearing manufacturing has been kept
+us as a leading bearing manufacture. Our position of leadership is
+maintained through the application of advanced technologies, significant
+investment in tooling for machining, grinding, assembly and testing,
+and process control systems.
+The reputation FBJ has achieved for quality, cost – effective products
+has earned us the confidence of customers throughout the world. We
+are committed to the research and development of new materials,
+innovative high performance bearings, and continuous improvement
+of exiting products.
+In today’s competitive business climate, performance is what sets apart.
+From bearing design to delivery of a quality product, on-time, at a
+competitive price, FBJ is committed to being the bearing supplier of
+choice.
+Products
+FBJ bearings support automotive, industrial and agricultural market
+providing superior quality products with most competitive pricing.
+Origin Equipment Manufacturer (OEM) is also our specialties.
+Networks
+FBJ networks over Japan, Singapore, Asia Pacific, Africa continent
+and Central & South America.
+SME Business Program
+Working with FBJ franchising program, besides transferring bearing’s
+know-how, we support Small & Medium Enterprise (SME) to establish
+Business Operation Unit (BOU).
+BOU is competent to enhance their business by on-line accessing our
+multi million dollars inventory, placing orders on website that provide
+Just In Time (JIT) services, generating higher revenue in the most
+efficient and effective inventory.
+ii
+
+---
+
+iii
+To know more about this franchising program, Kindly send email to:
+fc@fbj-bearings.com
+Integrity
+FBJ continually wishes to expand our distribution networks in potential
+countries. Kindly email to distribution@fbj-bearings.com for more information.
+FBJ welcomes all inquiries and potential, we hope to receive your valuable
+inquiry and comments to sales@fbj-bearings.com
+Sincerely Yours,
+The Management of FBJ International
+
+---
+
+Rolling Bearings
+1. Introduction to 
+Rolling Bearings 
+1.1 Construction 
+Most rolling bearings consist of an inner ring and 
+an outer ring, rolling elements (either balls or rollers) 
+and a retainer (cage). The cage separates the 
+rolling elements at regular intervals holds them in 
+place within the inner and outer raceways, and 
+allows them to rotate freely. (fig 1.1-1.8) 
+Rolling elements come in two basic shapes: ball 
+or rollers. Rollers come in four basic types: 
+cylindrical, needle, tapered, and spherical. 
+Balls geometrically contact the raceway surfaces 
+of the inner and outer rings at points, while the 
+contact surface of rollers is a line contact. 
+Theoretically, rolling bearings are so constructed 
+as to allow the rolling elements to rotate orbitally 
+while also rotating on their own axes at the same 
+time. 
+While the rolling elements and the bearing rings 
+take any load applied to the bearings (at the contact 
+point between the rolling elements and raceway 
+surfaces), the case takes no direct load. It only 
+serves to hold the rolling element at equal distances 
+from each other and prevent them from falling out. 
+1.2 Classification 
+Rolling bearings fall into two main classifications: 
+ball bearings and roller bearings. Ball bearings are 
+Classified according to their bearing ring 
+configurations: deep groove, angular contact and 
+thrust types. Roller bearings on the other hand are 
+classified according to the shape of the rollers: 
+cylindrical, needle, taper and spherical. 
+1.3 Characteristics 
+Rolling bearings come in many shapes and 
+varieties, each with its own distinctive features. 
+However, when compared with sliding bearings, in 
+rolling bearings the starting friction coefficient is lower 
+and only a litte difference between this and the 
+dynamic friction coefficient is produced. They are 
+internationally standardized, interchangeable and 
+readily obtainable. Lubrication is easy and 
+consumption is low. 
+Deep groove Ball Bearing
+Fig. 1.1
+Cylindrical Roller Bearing
+Fig. 1.3
+Tapered Roller Bearing
+Fig. 1.5
+Thrust Ball Bearing 
+Fig. 1.7 
+1 
+Angular contact Ball Bearing
+Fig. 1.2
+Needle Roller Bearing
+Fig. 1.4
+Spherical Roller Bearing
+Fig. 1.6
+Spherical Thrust Roller Bearings
+Fig. 1.8
+
+---
+
+Rolling Bearings
+Ball bearings and roller bearings 
+When comparing ball and roller bearings of the same 
+dimensions, ball bearings exhibit a lower frictional 
+resistance and lower face run-out in rotation than roller 
+bearings. 
+This makes them more suitable for use in 
+applications which require high speed, high precision, 
+low torque and low vibration. Conversely, roller 
+bearings have a larger load carrying capacity which 
+makes them more suitable for applications requiring 
+long life and endurance for heavy loads and shock 
+loads.
+ Radial and thrust bearings 
+Most of rolling bearings can carry both radial and 
+axial loads at the same time. 
+Bearings with a contact angle of less than 45º have 
+a much greater radial load capacity an classified as 
+radial bearings. Bearings which have a contact angle 
+over 45º have a greater axial load capacity and are 
+classified as thrust bearings. There are also bearings 
+classified as complex bearings which combine the 
+loading characteristics of both radial and thrust 
+bearings. 
+2 
+
+---
+
+Rolling Bearings
+2. Calculation of Service Life
+To select an appropriate rolling contact bearing, 
+it is necessary to know operating conditions, i.e., 
+the magnitude and the direction of loads, the nature 
+of loading applied, rotational speeds of one, or both, 
+rings, the required service life, the working 
+temperature of the bearing unit, and other 
+requirements dependable on th structureal features 
+of the machine in question. 
+The beaing service life, is understood to mean 
+the time expressed in total number of revolutions 
+made by one of the bearing rings relative to the 
+other rings, before fatigue failure sets in at one of 
+the rings or any other rolling elements. It can be 
+expressed in million of revolutions or operating 
+hours. The basic rated resource (i.e., the estimated 
+service life) means the operating life of a batch of 
+bearings wherein not less than 90% of identical 
+bearings would operate without any indication of 
+fatigue failure on their bearing surfaces under 
+similar loads and rotational speeds. The main 
+certified characteristic of a bearing - the basic 
+dynamic load-carrying rating, denoted with symbol 
+C,-is a load to be sustained by a rolling contact 
+bearing over the time it makes one million 
+revolutions. Depending on the bearing design, the 
+dynamic load-carrying capacity of bearings as 
+estimated in accordance with the ISO 
+Recommendations on Rolling Bearings, is given in 
+Tables of the present Catalogue. 
+The relationship between the basic rated 
+resource, the dynamic load-carrying capacity rating, 
+and the load acting on the bearing at a rotational 
+speed of n>20 min-1 is calculated with the formula: 
+C–r
+L10 = ( )
+p 
+million rotations ....... 2.1
+P 
+Where 
+L10 – is the basic rated resource, in 
+million of revolutions; 
+Cr – is the basic dynamic load-carrying 
+capacity rating, N; 
+P – is the equivalent dynamic load, N; 
+P – is the exponent of a power, for ball 
+bearings: P = 3; 
+10
+for roller bearings P = –3 
+The basic rated resource is mainly expressed in 
+operating hours: 
+1000000
+Cr
+–––––––– 
+P– 
+....... 2.2
+L10h = 
+60n 
+( )
+p 
+, hour 
+where 
+L10 – is the basic rated resource, hour; 
+P – the rotational frequency, min-1 
+For vehicles, the basic rated resource of hub bearings 
+is sometimes more convenient to express in total 
+kilometers running: 
+π D1
+L10S = –––– L10
+1000 
+Where 
+L10S – is the basic rated resource, million 
+kilometers (mln.km); 
+D1 – is the wheel diameter in meters, m. 
+Under normal operating conditions, the basic rated 
+resource calculated at 90% reliability level (L10 ) satisfies 
+the majority of cases of bearings employment, since 
+actually attainable life is more than calculated one, 
+Also, at 50% reliability the serviice life (L50 ) is, as a 
+rule, five times as that of the basic rated resource (L10 ). 
+To imporve the compactness of bearing units and to 
+reduce their weight, it is not recommended to 
+overestimate the basic rated resource. However, in a 
+number of technical fields another level of reliability is 
+required. Besides, due to the extensive research and 
+development activity, it has been found that the 
+conditions of lubrication greatly affect the bearing 
+service life. Hence, ISO has introduced a notation of 
+basic rated resource, the formula of which is o fthe 
+following form: 
+Cr
+Lna = a1a2a3 P– or
+( )
+p 
+....... 2.3
+Lna = a1a2a3L10, 
+Where Lna – is the adjusted rated resource/million 
+revolutions, Factor n means the difference between 
+the given reliability and 100% level (e.g., at 95% 
+reliability, Lna = L5a ); 
+a1 – is the reliability factor; 
+a2 – is the material factor; 
+a3 – is the operating conditions factor. 
+For the generally adopted 90% reliability, as well as 
+for proper bearing steel quality and lubrications 
+conditions which ensure the separation of bearing 
+surfaces in contact within the recommended limits, 
+a1 = a2 = a3 = 1 and the formula for the adjusted rated 
+resource (3) becomes identical to the main formula 
+2.1. 
+3 
+
+---
+
+Rolling Bearings
+Table 2.1 Values of the Reliability Factor 
+Reliability, percent 
+Lna 
+a1 
+90 
+L 10a 
+1 
+95 
+L5a 
+0.62 
+96 
+L 4a 
+0.53 
+97 
+L 3a 
+0.44 
+98 
+L2a 
+0.33 
+99 
+L1a 
+0.21 
+Whenever there is a necessity to carry out calculations for bearings with the reliability level in excess of 90%, the values of the reliability 
+factor, a1, shall be taken form Table 2. 
+Table 2.2 Factors a23 
+Type of Bearing 
+Vacuum Treated Steel 
+Values of Viscosity Coefficient c = n / n1 
+0.1-0.2 
+0.2-0.5 
+0.5-1 
+1-2 
+2-3 
+Values of Factor a23 
+Radial and 
+0.1-0.3 
+0.3-0.7 
+0.7-1.0 
+1.0-1.5 
+1.5-2.0 
+Angular Contact 
+Ball Bearings 
+Roller Spherical 
+0.1-0.2 
+0.2-0.4 
+0.4-0.7 
+0.,7-1.0 
+1.0-1.2 
+Bearings, 
+Double-row 
+Roller Berings, 
+0.1-0.4 
+0.4-0.6 
+0.6-1.0 
+1.0-1.5 
+1.5-1.8 
+with Short 
+Cylindrical 
+Rollers or 
+Needles 
+Spherical Roller 
+0.1-0.2 
+0.2-0.4 
+0.4-0.7 
+0.7-1.0 
+1.0-1.2 
+Angular Contact 
+Thrust Bearings 
+Notes : 
+1. For the case of ESR steel used and clean lubricants, factor a23 may be increase at 
+>2, 
+2. In case of execessive lubricant contamination wtih hard particles or poor oil circulation, a23 shall be taken to be 0.1. 
+4 
+
+---
+
+Rolling Bearings
+v1 
+450 
+mm2/s 250 
+170
+100
+70
+50
+30 
+20 
+10 
+7 
+6 
+t0c
+5 
+20 
+40 
+60 
+80
+100 
+Fig. 1. A nomograph chart to determine lubricant viscosity at operating temperatures when its viscosity at basic temperature is known 
+However, it is expedient to use factor a1 only in case of an increase in factor a2 and a3; otherwise, an increase in 
+overall dimensions of the bearing results, hence, a reduction in its speed, and increase in its weight and sluggishness 
+of the rotating parts of the machine associated with this bearing. 
+The operating conditions factor, a3, specifies mainly lubricant conditions, as well misalignment, housing and 
+shaft rigidity, bearing arrangement; clearances in bearings. Considering the fact that the use of special, higher-
+grade steels do not compensate the adverse effect of lubricant shortage, factore a2, and a3 are combined in one, 
+with the notation a23. 
+5 
+
+---
+
+Rolling Bearings
+The factor a23 is selected form Table 3, by the ratio of normative and actual kinematic viscosity of the lubricant 
+used: 
+v–– 
+= v1 
+....... 2.4
+Where
+– is the viscosity coefficient;
+v – is the kinematic viscosity of the oil actually used, at the bearing unit operating temperature,
+mm2;s–1;
+v1 – is the normative kinematic viscoity of oil as required to ensure lubrication conditions at a given
+velocity, mm2 .s –1;
+v1 
+103
+mm2/s
+500 
+200 
+100 
+50 
+20 
+10 
+5 
+dmmm
+3 
+2 
+5 
+10 
+20 
+50 
+100
+200 
+500
+1000 
+1500
+5000 
+3000
+10 
+5
+2.10 
+4 
+5.10 
+4
+10 
+5 
+n 
+10 
+20 
+50 
+100 
+200 
+500 
+Fig. 2. A nomograph chart to determine normatice lubricant viscosity, v1 
+6 
+
+---
+
+Rolling Bearings
+Bearing Data 
+Table 2.3. Recommended Values of the Basic Rated Resource for Machines of Different Type 
+Machine Type and Employment 
+L10h, hr 
+L10s, mln, km 
+Devices and mechanisms used at regular intervals, 
+agricultural machines, household appliances 
+500-4000 
+-
+Machanisms used for a short periods of time, erecting 
+cranes,building machines 
+4000-8000 
+Critical mechanisms used intermittently (accessory 
+mechanisms at power plant stations, conveyors for 
+series production, elevators, metal-cutting machine 
+tools used from time to time) 
+8000-12000 
+One-shift operated machines, underloaded (stationery 
+electric moters, reduction gears, crushers (mills) 
+12000-20000 
+One-shift operated machines, under full load (metal
+cutting machine-tools, wood-cutting machines), 
+general-type machine-tools used in machine-building, 
+lifting cranes, ventilators, separators, centriguges, 
+polygraph equipment. 
+20000-30000 
+Machines to be used on a round-the-clock basis 
+(compressors, pumps, mine lifters, stationery electric 
+motors, equipment used in textile industry) 
+40000-50000 
+Hydropower stations, rotary funaces, deep-sea vessels 
+engines 
+60000-100000 
+Continuous-operation heavy-duty machines (paper 
+working equipment, power plants, mine pumps, 
+flexible shafts of deep-sea vessels) 
+100000 
+Wheel-hubs of cars 
+0.2-0.3 
+Wheel-hubs of buses, industrial-type vehicles 
+0.3-0.5 
+Railway freight-car journal boxes 
+0.8 
+Suburbian car and tram journal boxes 
+1.5 
+Passenger-car journal boxes 
+3.0 
+Locomotive journal boxes 
+3.0-5.0 
+7 
+
+---
+
+Rolling Bearings
+The values of the kinematic viscosity of oil, i.e., the 
+operating viscosity, is determined with the help of a 
+nompgraph, Fig 1. To obtain the operating viscosity, 
+it is necessary to know the bearing temperature and 
+the initial kinematic viscosity of the oil used. Fig 2. 
+Contains a nomographic chart which is based on 
+resilient hydrodynamic conditions of the lubricant, 
+wherefrom we determine the normative (or standard) 
+kinematic viscosity, v1. This arbitrary kinematic 
+viscosity of oil is chosen as function of the speed of 
+motion of the contact element; the latter is obtained 
+based on the following two parameter: the mean 
+diameter and the rotational speed. For example, to 
+calculate the standard viscosity of oil, v1 , for a bearing 
+with a rotational speed of n = 200 min–1 and a mean 
+diameter of dm = 150 mm, it is necessary-from the 
+X-axis of mean diameters-to pass over to the 
+corresponding rotational speed which is represented 
+by an inclined line, and choose on the Y-axis the 
+respective value of v1 (v1 = 44 mm2S-1 in Fig. 2. 
+Indicated with the arrow). 
+The discussed procedure of determination of the 
+viscosity coefficient is related to oil. For greases, this 
+coefficient is found for a disperse media, i.e., on the 
+base of the kinematic viscosity of the basic liquid oil 
+which is a component of the grease. However, grease 
+lubrication possesses certain special features of its 
+own. 
+Most often than not, the designer knows the desired 
+service life of the machine component in question. If 
+these data are not available, the basic design life may 
+be recommended from Table 4. 
+Equivalent Dynamic Load Calculation 
+Equivalent dynamic load (P) applied to radial and 
+angular contact ball and roller bearings is a constant 
+radial load that, when applied to a bearing with the 
+inner ring running and the outer ring fixed, ensures 
+the same design service life as that under actual load 
+and rotation conditions. For bearings of the above-
+mention type, the equivalent load is found from the 
+formula: 
+Pr=XFr + YFa ....... 2.5
+Where	
+Pr – is the equivalent dynamic load, H; 
+F – is the radial load constant in direction
+r 
+and value, H;
+Fa – is the axial load constant in direction
+and value, H;
+X – is the coefficient of radial load;
+Y – is the coefficient of axial load;
+In case of Fa/Fr < e, is assumed, 
+P  = F ....... 2.6
+r
+r 
+Where 
+e-is the limited value of Fa/Fr which 
+determines the choice of factors X and Y. 
+Values of X, Y and e are specified in this Catalogue. 
+Accordingly, for an angular contact thrust bearing the 
+equivalent dynamic load (Pa) is a constant axial load to 
+be found in the same way: 
+Pa = XFr + YFa ....... 2.7
+while for a thrust bearing it has the following form: 
+Pa = Fa ....... 2.8
+The resultant load, F, acting upon th bearing can be 
+determined rather accurately from laws of motion, if 
+external forces are know, For example, loads 
+transferred to the shafts/by machine elements are to 
+be calculated as the reaction of the supports in 
+accordance with equations for beams subjected to 
+static loads. A shaft is regarded as a simply two 
+supported beam resting in bearing supports. Using the 
+momental equation and those for the sum of forces 
+acting upon the beam, teh reaction of the supports is 
+obtained; the latter, if taken with an opposite sign, 
+represents the load applied to the bearing. The load is 
+generated by the forces of the weight sustained by the 
+bearing; by forces arising due to power transmission 
+via the geartrain and/or belt transmission; by cutting 
+forces in metal-cutting machine-tools; by inertial forces; 
+by impact loads, etc. 
+The resultant load on the bearing, F, directed at any 
+angle to the bearing axis of rotation, may be resolved 
+into a radial (Fr) and axial (Fa) components, Sometimes, 
+it is rather difficult to determine this load because of 
+teh variety of force factors and application of incidental 
+forces. Hence, any mathermatical techniques are 
+applicable to calculated the same. For practical 
+purposes, there may be recommended certain 
+approved procedures for calculation of the resultant 
+force, F. 
+If the force acting upon a bearing fluctuates linearly 
+within Pmin to Pmax (e.g., at the supports of single-sided 
+winding drums, then, the value of F has the form: 
+F= Pmin+2Pmax 
+3 
+....... 2.9 
+If operating duties are of a varying nature, i.e., load 
+F1 acts within the period t1, at a rotational speed n1, 
+while during the period t2, at a rotation speed n2 acts 
+the load F2 and so on, then, the amount F takes the 
+form: 
+8 
+
+---
+
+Rolling Bearings
+Equivalent Dynamic Load Calcuation 
+F= ( 
+n1t1F1 
+p+n2t2F2 
+p+nitiFi
+p 
+) 
+p
+1 
+....... 2.10
+n1t1+n2t2+...niti
+where	
+p = 3 for ball bearings, and 
+10 
+p =
+ for roller bearings.
+3 
+The assessment of average values of loads in 
+accordance with the aobe-mentioned relationships is 
+valid not only for radial loads but, also, for any load of 
+constant diretion of application relative to the bearing 
+radial plane. For radial bearing, a radial load is 
+calculated, and for a thrust bearing the load applied 
+along the bearing axis. Whenever the force generated 
+by the load is applied at an angle to teh radial plane 
+of teh bearing, radial and axial components are to be 
+calculated. An equivalent load (radial one in case of 
+radial bearings and axial for thrust bearings) is 
+assessed with these components accounted for. 
+In case of a rotational load applied to a bearing 
+(Fig. 3), the magnitude of the rotating force is found 
+as follows: 
+F=mrw2, H, ....... 2.11
+9 
+Where	
+m – is the mass of the rotating element, 
+kg; 
+r – is the distance from the bearing axis 
+to the centre of gravity of the rotating 
+element, m; 
+w – is the angular velocity of the rotating 
+element, rad/s. 
+m 
+r 
+Fig. 3. Diagram of loading a bearing with rotational force. 
+
+---
+
+Rolling Bearings
+Bearing Data 
+Table 2.4 Values of Loading Factor, K6, as a Function of the Type of Loading and the Fields of Bearing 
+Application 
+Type of Loading 
+K6 
+Field of Application 
+Light jerks, short-time 
+1.0-1.2 
+Precision gear trains, Metal-cutting 
+overloads up to 125% of 
+machine-tools (with the exception of 
+the rated (nominal) load 
+slotting, planing, and grinding machine-tools). 
+Gyroscopes. Lifting cranes component 
+mechanisms. Electric tackles and monorail 
+trucks. Mechanically-driven winches. Electric 
+motors of low and average power. Light-duty 
+ventilators and blowrs. 
+Moderate jerks, vibratory 
+1.2-1.5 
+Gear trains. Reduction gears of all types. 
+load; short-time overloads 
+Rail rolling stock journal boxes. Motion 
+up to 150% of teh rated 
+mechanisms of crane trolleys. Crane 
+(nominal) load 
+swinging mechanisms, and boom overhang 
+control mechanisms. Spindles of grinding 
+machine-tools. Electrical spindles. Wheels 
+of cars, buses, motocycles, motoroller. 
+Agricultural machines. 
+Same, under conditions of 
+1.5-1.8 
+Centrifuges and separators. Journal boxes 
+improved reliability 
+and traction engines of electric locomotives. 
+Machanisms of crane positioning. Wheels of 
+trucks, tractors, prime movers, locomotives, 
+crane and road-building machines,. Power 
+electric machines. Power-generating plants. 
+Loads with considerable 
+1.8-2.5 
+Gears. Crushers and pile driver. Crank 
+jerks and vibrations; short-
+mechanisms. Ball and impact mills. Frame 
+time overloads up to 200% 
+saws. Rolling mill rollers. High-power 
+of the rated (nominal) load 
+ventilators and exhausters. 
+10 
+
+---
+
+Rolling Bearings
+
+In a number of cases, it is not quite easy to perform 
+accurate calculations of loading a bearing. For 
+example, journal boxes of teh rolling stock take up 
+not only the carriage weight force which is easy to 
+determine by calculation. When on move at varying 
+speeds. bearings are subjected to impact loads at rail 
+joints and when passing railroad switches, inertaial 
+loads on turns and during emergency breaking. 
+Whenever these factors cannot be accounted for 
+accurately, one resorts to the experience accrued on 
+the machines of earlier prodution. 
+Based on teh analysis of their operation, there has 
+been derived a so-called loading factor, k6, to be 
+multiplied into teh equivalent load as obtained from 
+the equations 2.5 to 2.8 . In the equivalent load the 
+inertial forces, inherent to the vibration machines, 
+sieves, and vibratory mills, have been already 
+accounted for. For smooth mild loads, without jerks, 
+in such mechanisms as low-power kinematic reduction 
+gears and drives, rollers for supporting conveyor belts 
+, pulley tackles, trolleys, controls drives and other 
+similar mechanisms, the magnitude of the loading 
+factor is k6 = 1. The same value of the factor is taken if 
+there is a belief in an accurate match between the 
+calculated and actual loads. Table 2.5 contains 
+recommended values of the loading factor k6. 
+With the equivalent load (P) known, the basic rated 
+resource (L10) selected, the basic dynamic load-carring 
+capacity (C) is determinded by computation, and the 
+required standard size is chosen from the Catalogue 
+with due account of Table 2.1. 
+Equivalent Static Load Calculation 
+For a bearing at rest, under load P, the service life 
+equation (1) is inapplicable , since at L = 0.p = ∞, the 
+bearing cannot accommodate load as high as is 
+wished. At a low rotational speed (n < 20 min6), P values 
+turn out to be ovestated. Consequently, for bearings 
+which rotate at low speeds, if at all, -especially when 
+operated under impact loads-the allowable load 
+depends on residual deformation orginating at points 
+of contact of balls/rollers and rings rather than on the 
+fatigue service life. The static load-carrying capacity 
+of a bearing means the allowable load a bearing 
+should withstand with no marked adverse impact on 
+its further employment due to the residual deformation. 
+Thus, the purely radial load, or purely axial load-
+depending on whether the radial or angular contact 
+bearings are in question-that results in combined 
+(ring-ball/roller) residual deformation of up to 0,0001 
+diameter of the rolling elements, is termed the basic 
+static load-carrying capacity, denoted in general as 
+C0, or C0r or C0a for radial and axial basic load carrying 
+capacity,, respectively. In accordance with the ISO 
+Standard, this amount of the residual deformation is 
+caused by a load that generates a maximum rated 
+contact street at the most highly loaded rolling element 
+which is 4200 MPa for bearings (with teh exception of 
+self-aligning double-row bearings), and 4000 MPa for 
+roller bearings. In this Catalogue, values of the basic 
+static load-carring capacity are given as calculated on 
+the above bases. 
+When testing a stationery (non-rotating) bearing for 
+static load-carrying capacity under a load applied in 
+any direction, it is necessary to calculate teh equivalent 
+static load in that direction with which the static load-
+carrying capacity of the bearing is associated. This 
+equivalent static load results in the same amount of 
+residual deformation. For radial and angular contact 
+ball and roller bearings the magnitude of the equivalent 
+static load, P0 is found from teh formula: 
+Por = Xo Fr + Yo Fa ....... 2.12
+and for angular-contact thrust ball and roller bearings 
+Po is found as follows: 
+Poa = Fa + 2,3Fr tga ....... 2.13
+Where	
+Por – is the equivalent static radial load, H; 
+P  – is teh equvalent static axial load, H;
+oa
+F  – is the radial load or the radial
+r
+component of the load acting upon the
+bearing, H;
+P– is the axial load or the axial component
+of the load acting upont the bearing, H;
+Xo – is the radial load coefficient;
+Yo – is the radial load coefficient;
+a  – is the nominal contact angle of a
+bearing, deg.
+Thrust ball and roller bearings (a = 90o) are capable 
+to withstand axial loads, only. The equal load for these 
+types of bearings is calculated from teh formula Poa = Fa. 
+The values of radial and axial load coefficients, as 
+well as particular cases of application of Equations (12) 
+and (13) are given in Tables of teh present Catalogue. 
+It is necessary that teh load acting upon a bearing 
+not to exceed the tabulated basic load-carrying 
+capacity (Co). Deviations from this rule are based on 
+experimental data. Thus, if the notion of the static 
+safety coefficient So (So = C
+P0
+0 )is introduced, then, for a 
+smooth. i.e., without vibrations and jerk load, low 
+rotational speed, and low accuracy requirements, 
+s > 0,5 overload can be admitted; under normal
+o 
+operating conditionals, so = 1-1,5 is accepted in the 
+general machine-tool building industry; under impact 
+loads, periodic static loads and strict requirements to 
+the accuracy, the load is limited down to s = 1,5-2,5. 
+11 
+
+---
+
+Rolling Bearings
+3. Tolerances 
+For dimensional accuracy standards prescribe 
+bearings). Running accuracy is defined as the 
+tolerances and allowable error limitations for those 
+allowable limits for bearing runout. Bearing runout 
+boundary dimensions (bore diameter, outside 
+tolerances are included in the standards for inner and 
+diameter, width, assembled bearing width, chamfer, 
+outer ring radial and axial runout; inner ring side runout 
+and taper) necessary when installing bearings on 
+with bore; and outer ring outside surface runout with 
+shafts or in housings. For machining accuracy the 
+side. Tolerances and allowable error limitations are 
+standards provide allowable variation limits on bore, 
+established for each tolerance grade or class. 
+mean bore, outside diameter, mean outside diameter 
+and raceway width or all thickness (for thrust 
+A comparison of relative tolerance class standards 
+is shown in the Table 3.1. 
+Table 3.1 
+Comparison of tolerance classifications of national standards 
+ISO 492 
+Normal Class Class 6 Class 5 
+Class4 Class 2 
+Radial bearings 
+Class 6X 
+ISO 199 
+Normal Class Class 6 Class 5 
+Class4 
+-
+Thrust ball bearings 
+ISO 578 
+Class 4 
+-
+Class 3 Class 0 Class 00 
+Tapered roller 
+Bearings (Inch series) 
+ISO 1224 
+-
+-
+Class 5A Class 4A 
+-
+Precision instrument 
+Bearings 
+JIS B 1514 
+class 0 
+Class 6 Class 5 Class 4 Class 2 
+All type 
+class 6X 
+DIN 620 
+P0 
+P6 
+P5 
+P4 
+P2 
+All type 
+ANSI/AFBMA 
+ABEC-1 
+ABEC-3 ABEC-5 ABEC-7 ABEC-9 
+Radial bearings 
+Std.201) 
+RBEC-1 
+RBEC-3 RBEC-5 
+(Except tapered 
+Roller bearings) 
+ANSI/AFBMA 
+Class K 
+Class N Class C Class B Class A Tapered roller bearing 
+Std. 19.1 
+(Metric series) 
+ANSI / B 3.19 
+Class 4 
+Class 2 Class 3 Class 0 Class 00 
+Tapered roller 
+AFBMA Std.19 
+bearings (Inch Series) 
+ANSI/AFBMA 
+-
+Class 3P Class 5P Class 7P Class 9P 
+Precision instrument 
+Std. 12.1 
+Class 5T Class 7T 
+ball bearings 
+(Metric Series) 
+ANSI/AFBMA 
+-
+Class 3P Class 5P Class 7P Class 9P 
+Precision instrument 
+Std. 12.2 
+Class 5T Class 7T 
+ball bearings 
+(Inch Series) 
+International 
+Organization for 
+Standardization 
+Japanese Industrial 
+Standard 
+Deutsches Institut 
+American National 
+Standards Institute 
+(ANSI) 
+Anti-Friction 
+Bearing 
+Manufacturers 
+(AFBMA) 
+Standard 
+Tolerence Class 
+Bearing Types 
+12 
+
+---
+
+Rolling Bearings
+Table 3.2 
+Bearing types and applicable tolerance
+ Bearing type 
+Applicable 
+standard 
+Applicable tolerence
+ Deep groove ball bearing 
+Class 0 
+Class 6 
+Class 5 
+Class 4 
+Class 2 
+Angular contact ball bearings 
+Class 0 
+Class 6 
+Class 5 
+Class 4 
+Class 2
+ Self-aligning ball bearings 
+Class 0 
+-
+-
+-
+-
+Cylindrical roller bearings 
+ISO 492 
+Class 0 
+Class 6 
+Class 5 
+Class 4 
+Class 2 
+Needle roller bearings 
+Class 0 
+Class 6 
+Class 5 
+Class 4 
+-
+Spherical roller bearings 
+Class 0 
+-
+-
+-
+-
+Tapered 
+Roller 
+Bearings 
+Metric 
+ISO 492 
+Class 0,6X 
+Class 6 
+Class 5 
+Class 4 
+-
+Inc 
+AFBMA Std.19 
+Class 4 
+Class 2 
+Class 3 
+Class 0 
+Class 00 
+Thrust ball bearings 
+ISO 199 
+Class 0 
+Class 6 
+Class 5 
+Class 4 
+-
+Codes and Symbols 
+Dimension 
+d : Nominal bore diameter 
+d2 : Nominal bore diameter (double 
+direction thrust ball bearing) 
+D : Nominal outside diameter 
+B : Nominal inner ring width or 
+nominal center washer height 
+C : Nominal outer ring width1) 
+Note 1) For radial bearings (except 
+tapered roller bearings) this 
+is equivalent to the norminal 
+bearings width. 
+T : Nominal bearing width of single row 
+tapered roller bearing, or nominal 
+height of single direction thrust 
+bearing. 
+T1 : Nominal height of double direction 
+thrust ball bearing, or nominal 
+effective width of inner ring and roller 
+assembly of tapered roller bearing 
+T2 
+r 
+r1 
+r2 
+: Nominal heigh form back face of 
+housing washer to back face of center 
+washer on double direction thrust ball 
+bearings, or nominal effective outer 
+ring width of tapered roller bearing. 
+: Chamfer dimensions of inner and outer 
+rings (for tapered roller bearings, large 
+end of inner ring only) 
+: Chamfer dimensions of center washer, 
+or small end of inner and outer ring of 
+angular contact ball bearing, and large 
+end of outer ring of tapered roller 
+bearing. 
+: Chamfer dimensions of small end of 
+inner and outer rings of tapered roller 
+bearing 
+13 
+
+---
+
+Rolling Bearings
+Dimension Deviation 
+ds : Single bore diameter deviation 
+dmp : Single plane mean bore diameter 
+deviation 
+d2mp : Single plane mean bore diameter 
+deviation (double direction thrust ball 
+bearing) 
+ds : Single outside diameter deviation 
+dmp : Single plane mean outside diameter 
+deviation 
+Bs : Inner ring width deviation, or Centre 
+washer height deviation 
+Cs : Outer ring width deviation 
+Ts : Overall width deviation of assembled 
+signle row tapered roller bearing, or 
+height deviation of single direction 
+thrust bearing 
+T1s : Height deviation of double direction 
+thrust ball bearing, or effective width 
+deviation of roller and inner ring 
+assembly of tapered roller bearing 
+T2s : Double direction thrust ball bearing 
+housing washer back face to center 
+washer back face height deviation, or 
+tapered roller bearing outer ring effective 
+width deviation 
+Dimension Variation 
+Vdp : Single radial plane bore diameter variation 
+Vd2p : Single radial plane bore diameter variation 
+(double direction thrust ball bearing) 
+Vdmp : Mean single plane bore diameter variation 
+VDp : Single radial plane outside diameter 
+variation 
+VDmp : Mean single plane outside diameter 
+variation
+VBs : Inner ring width variation
+VCs : Outer ring width variation
+Chamfer Boundary 
+rs min : Minimum allowable chamfer dimension for 
+inner/outer ring, or small end of inner ring 
+on tapered roller bearing 
+rs max : Maximum allowable chamfer dimension 
+for inner/outer ring, or large end of inner 
+ring on tapered roller bearing 
+r1s min : Minimum allowable chamfer dimension for 
+double direction thrust ball bearing center 
+washer, small end of inner/outer ring of 
+angular contact ball bearing, large end of 
+outer ring of tapered roller bearing 
+r1s max : Maximum allowable chamfer dimension 
+for double direction thrust ball bearing 
+center washer, small end of inner/outer 
+ring of angular contact ball bearing, large 
+end of outer ring of tapered roller bearing 
+r2s min : Minium allowable chamfer dimension for 
+small end of inner/outer ring of tapered 
+roller bearing 
+r2s max : Maximum allowable chamfer dimension for 
+small end of inner/outer ring of tapered 
+roller bearing 
+Rotation Tolerance 
+Kia : Inner ring radial runout 
+Sia : Inner ring axial runout (with side) 
+Sd : Face runout with bore 
+Kea : Outer ring radial runout 
+Sea : Outer ring axial runout 
+Sd : Outside surface inclination 
+Si : Thrust bearing shaft washer raceway (or 
+center washer receway) thickness 
+variation 
+Se : Thrust bearing housing washer raceway 
+thickness variation 
+14 
+
+---
+
+Rolling Bearings
+Table 3.3 Tolerance for radial bearings (Except tapered roller bearings) 
+Inner Rings 
+Nominal bore 
+dmp 
+Vdp 
+diameter d
+ diameter series 7.8.9
+ diameter series 0.1
+ diameter series 2.3.4
+ (mm)
+ class 0
+ class 6
+ class 5
+ class 4
+ class 2 
+class 0 class 6 
+class 5 class 4 
+class 2 
+class 0 
+class 6 
+class 5 class 4 class 2 
+class 0 class 6 class 5 class 4 class 2 
+over 
+incl 
+high low high low high low high low high low 
+Max 
+Max 
+Max 
+0.61 2.5 
+0 
+-8 0 
+-7 
+0 
+-5 
+0 
+-4 0 
+-2.5 
+10
+9 
+5
+4
+2.5 
+8 
+7 
+4 
+3
+2.5 
+6 
+5 
+4
+3
+2.5 
+2.5 
+10 
+0 
+-8 0 
+-7 
+0 
+-5 
+0 
+-4 0 
+-2.5 
+10
+9 
+5
+4
+2.5 
+8 
+7 
+4 
+3
+2.5 
+6 
+5 
+4
+3
+2.5 
+10 
+18 
+0 
+-8 0 
+-7 
+0 
+-5 
+0 
+-4 0 
+-2.5 
+10
+9 
+5
+4
+2.5 
+8 
+7 
+4 
+3
+2.5 
+6 
+5 
+4
+3
+2.5 
+18 
+30 
+0 
+-10 0 
+-8 
+0 
+-6 
+0 
+-5 0 
+-2.5 
+13
+10
+6 
+5 
+2.5 
+10
+8 
+5 
+4
+2.5 
+8 
+6 
+5
+4
+2.5 
+30 
+50 
+0 
+-12 0 
+-10 0 
+-8 
+0 
+-6 0 
+-2.5 
+15
+13
+8 
+6 
+2.5 
+12
+10
+6 
+5
+2.5 
+9 
+8 
+6
+5
+2.5 
+50 
+80 
+0 
+-15 0 
+-12 0 
+-9 
+0 
+-7 0 
+-4 
+19 15 
+9 
+7 
+4 
+19
+15
+7 
+5
+4 
+11 
+9 
+7
+5
+4 
+80 
+120 
+0 
+-20 0 
+-15 0 
+-10 0 
+-8 0 
+-5 
+25
+19 
+10
+8 
+5 
+25
+19
+8 
+6
+5 
+15 
+11 
+8 
+6 
+5 
+120 150 
+0 
+-25 0 
+-18 0 
+-13 0 
+-10 0 
+-7 
+31 23 
+13 10 7 
+31 
+23 
+10
+8
+7 
+19
+14
+10 8 
+7 
+150 180 
+0 
+-25 0 
+-18 0 
+-13 0 
+-10 0 
+-7 
+31 23 
+13 10 7 
+31 
+23 
+10
+8
+7 
+19
+14
+10 8 
+7 
+180 250 
+0 
+-30 0 
+-22 0 
+-15 0 
+-12 0 
+-8 
+38 28 
+15 12 8 
+38 
+28 
+12
+9
+8 
+23
+17
+12 9 
+8 
+250 315 
+0 
+-35 0 
+-25 0 
+-18 -
+-
+-
+44
+31 
+18
+-
+44
+31
+14
+-
+26
+19
+14 -
+315 400 
+0 
+-40 0 
+-30 0 
+-23 -
+-
+-
+50
+38 
+23
+-
+50
+38
+18
+-
+30
+23
+18 -
+400 500 
+0
+-45 0 
+-35 -
+-
+-
+-
+-
+56
+44
+-
+-
+56 
+44 
+-
+-
+34
+26
+-
+-
+500 630 
+0
+-50 0 
+-40 -
+-
+-
+-
+-
+63
+50
+-
+-
+63 
+50 
+-
+-
+38
+30
+-
+-
+630 800 
+0
+-75 -
+-
+-
+-
+-
+-
+-
+94
+-
+-
+-
+94
+-
+-
+55 
+-
+-
+-
+800 1000 
+0
+-100 
+-
+-
+-
+-
+-
+-
+-
+125 -
+-
+-
+125 -
+-
+-
+75
+-
+-
+1000 1250 
+0
+-125 
+-
+-
+-
+-
+-
+-
+-
+155 -
+-
+-
+155 -
+-
+-
+94
+-
+-
+1250 1600 
+0
+-160 
+-
+-
+-
+-
+-
+-
+-
+200 -
+-
+-
+200 -
+-
+-
+120 -
+-
+1600 2000 
+0
+-200 
+-
+-
+-
+-
+-
+-
+-
+250 -
+-
+-
+250 -
+-
+-
+150 -
+-
+Table 3.3.2 Outer rings 
+Nominal bore 
+Dmp 
+VDp 
+diameter D
+ diameter series 7.8.9
+ diameter series 0.1
+ diameter series 2.3.4
+ (mm)
+ class 0
+ class 6
+ class 5
+ class 4
+ class 2 
+class 0 class 6 
+class 5 class 4 
+class 2 
+class 0 
+class 6 
+class 5 class 4 class 2 
+class 0 class 6 class 5 class 4 class 2 
+over 
+incl 
+high low high low high low high low high low 
+Max 
+Max 
+Max 
+2.5 
+6 
+0
+-8 
+0
+-7 
+0 
+-5 
+0
+-4 0
+-2.5 
+10
+9 
+5
+4 
+2.5 
+8 
+7 
+4 
+3
+2.5 
+6 
+5 
+4 
+3
+2.5 
+6
+ 18
+ 0
+-8 
+0
+-7 
+0 
+-5 
+0
+-4 0
+-2.5 
+10
+9 
+5
+4 
+2.5 
+8 
+7 
+4 
+3
+2.5 
+6 
+5 
+4 
+3
+2.5 
+18 
+30 
+0
+-9 
+0
+-8 
+0 
+-6 
+0
+-5 0
+-4 
+12 10 
+6 
+-
+4 
+9 
+8 
+5
+4
+4 
+7 
+6 
+5
+4
+4 
+30 
+50 
+0
+-11 
+0
+-9 
+0 
+-7 
+0
+-6 0
+-4 
+14
+11 
+7 
+-
+4 
+11 
+9 
+5
+5
+4 
+8 
+7 
+5
+5
+4 
+50 
+80 
+0
+-13 
+0
+-11 0 
+-9 
+0
+-7 0
+-4 
+16 14 
+9 
+7 
+4 
+13
+11 
+7 
+5
+4 
+10 
+8 
+7
+5
+4 
+80 
+120 
+0
+-15 
+0
+-13 0 
+-10
+0
+-8 0
+-5 
+19
+16 
+10
+-
+5 
+19
+16
+8 
+6 
+5 
+11 
+10 
+8 
+6
+5 
+120 150 
+0
+-18 
+0
+-15 0 
+-11 0
+-9 0
+-5 
+23
+19 
+11 
+-
+5 
+23
+19
+8 
+7 
+5 
+14 
+11 
+8 
+7
+5 
+150 180 
+0 -25 
+0 
+-18 0 
+-13 0 
+-10 0 
+-7 
+31 23 
+13 -
+7 
+31 
+23 
+10 8 
+7 
+19 
+14 
+10 8 
+7 
+180 250 
+0 -30 
+0 
+-20 0 
+-15 0 
+-11 0 
+-8 
+38 25 
+15 11 
+8 
+38
+25
+11 8 
+8 
+23
+15
+11 
+8 
+8 
+250 315 
+0 -35 
+0 
+-25 0 
+-18 0 
+-13 0 
+-8 
+44 31 
+18 13 
+8 
+44 
+31 
+14
+10
+8 
+26 
+19 
+14 10 8 
+315 400 
+0 -40 
+0 
+-28 0 
+-20 0 
+-15 0 
+-10 
+50
+35 
+20
+15 
+10 
+50 
+35 
+15
+11 10 
+30 
+21 
+15 11 10 
+400 500 
+0
+-45
+0
+-33 0
+23 
+-
+-
+-
+56 41
+ 23
+ -
+56
+ 41
+ 17
+ -
+34
+ 25
+ 17
+ -
+500 630 
+0
+-50 
+0
+-38 0 
+-28
+-
+-
+-
+63
+48 
+28
+-
+63
+48
+21
+-
+38
+29
+21
+-
+630 800 
+0
+-75 
+0
+-45 0 
+-35
+-
+-
+-
+94
+56 
+35
+-
+94
+56
+26
+-
+55
+34
+26
+-
+800 1000 
+0
+-100
+0
+-60 -
+-
+-
+-
+-
+125 75 
+-
+-
+125 75
+-
+-
+75 
+45 
+-
+-
+1000 1250 
+0
+-125
+-
+-
+-
+-
+-
+-
+-
+155 -
+-
+-
+155 -
+-
+-
+94
+-
+-
+-
+1250 1600 
+0
+-160
+-
+-
+-
+-
+-
+-
+-
+200 -
+-
+-
+200 -
+-
+-
+120 -
+-
+-
+1600 2000 
+0
+-200
+-
+-
+-
+-
+-
+-
+-
+250 -
+-
+-
+250 -
+-
+-
+150 -
+-
+-
+2000 2500 
+0
+-250
+-
+-
+-
+-
+-
+-
+-
+310 -
+-
+-
+310 -
+-
+-
+190 -
+-
+-
+15 
+
+---
+
+Rolling Bearings
+Unit Hm 
+V dmp 
+class 0  class 6 class 5 class 4 class 2 
+Max 
+Kia 
+class 0 class 6 class 5
+Max 
+  class 4   class 2 
+class 5 
+SD 
+class 4
+Max
+     lass 2   class 5 
+Sia(1) 
+class 4     lass 2
+ Max
+Bs
+ class 0.6
+ class 5.4
+ class 2 
+high
+ low 
+high
+ low
+ high low
+ VBs 
+class 0  class 6   class 5  class 4  class 2 
+Max 
+6 
+5 
+3 2 
+1.5 
+6 
+5 
+3
+2
+ 1.5 
+6 
+5 
+3
+2
+ 1.5 
+8 
+6 
+3 2.5 1.5 
+9 
+8 
+4
+3
+ 1.5 
+11 
+9 
+5 3.5 2 
+15 
+11 5 4 
+2.5 
+19 
+14 7 5 
+3.5 
+19 
+14 7 5 
+3.5 
+23 
+17 8 6 
+4 
+26 
+19 9 -
+-
+30 
+23 12 
+-
+34 
+26 -
+-
+-
+38 
+30 -
+-
+-
+55 
+-
+-
+-
+-
+75 
+-
+-
+-
+-
+94 
+-
+-
+-
+-
+120 -
+-
+-
+-
+150 -
+-
+-
+-
+10 5 
+4 
+10 6 
+4 
+10 7 
+4 
+13 8 
+4 
+15 10 5 
+20 10 5 
+25 13 6 
+30 18 8 
+30 18 8 
+40 20 10 
+50 25 13 
+60 30 15 
+65 35 -
+70 40 -
+80 -
+-
+90
+
+-
+-
+100 
+-
+120 
+-
+140 
+-
+2.5 1.5 
+2.5 1.5 
+2.5 1.5 
+3 
+2.5 
+4 
+2.5 
+4 
+2.5 
+5 
+2.5 
+6 
+2.5 
+6 
+5 
+8 
+5 
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+7 
+7 
+7 
+8 
+8 
+8 
+9 
+10 
+10 
+11 
+13 
+15 
+-
+-
+-
+-
+-
+-
+-
+3 
+3 
+3 
+4 
+4 
+5 
+5 
+6 
+6 
+7 
+-
+-
+-
+-
+-
+-
+-
+-
+-
+1.5 
+1.5 
+1.5 
+1.5 
+1.5 
+1.5 
+2.5 
+2.5 
+4 
+5 
+-
+-
+-
+-
+-
+-
+-
+-
+-
+7 
+7 
+7 
+8 
+8 
+8 
+9 
+10 
+10 
+13 
+15 
+20 
+-
+-
+-
+-
+-
+-
+-
+3 
+1.5 
+3 
+1.5 
+3 
+1.5 
+4 
+2.5 
+4 
+2.5 
+5 
+2.5 
+5 
+2.5 
+7 
+2.5 
+7 
+5 
+8 
+5 
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+0 
+-40 
+0 
+-40 
+0 
+-40 
+0 
+-120 
+0 
+-40 
+0 
+-40 
+0 
+-120 
+0 
+-80 
+0 
+-80 
+0 
+-120 
+0 
+-120 0 
+-120 
+0 
+-120 
+0 
+-120 0 
+-120 
+0 
+-150 
+0 
+-150 0 
+-150 
+0 
+-200 
+0 
+-200 0 
+-200 
+0 
+-250 
+0 
+-250 0 
+-250 
+0 
+-250 
+0 
+-250 0 
+-300 
+0 
+-300 
+0 
+-300 0 
+-350 
+0 
+-350 
+0 
+-350 -
+-
+0 
+-400 
+0 
+-400 -
+-
+0 
+-450 
+-
+-
+-
+-
+0 
+-500 
+-
+-
+-
+-
+0 
+-750 
+-
+-
+-
+-
+0
+ -1 000
+
+-
+-
+-
+-
+0
+ -1
+
+250 -
+-
+-
+-
+0 
+-1 600 -
+-
+-
+-
+0 
+-2 000 -
+-
+-
+-
+12 12 5 
+2.5 1.5 
+15 15 5 
+2.5 1.5 
+20 20 5 
+2.5 1.5 
+20 20 5 
+2.5 1.5 
+20 20 5 
+3 
+1.5 
+25 25 6 
+4 
+1.5 
+25 25 7 
+4 
+2.5 
+30 30 8 
+5 
+2.5 
+30 30 8 
+5 
+4 
+30 30 10 6 
+5 
+35 35 13 -
+-
+40 40 15 -
+-
+50 45 -
+-
+-
+60 50 -
+-
+-
+70 -
+-
+-
+-
+80
+
+-
+-
+-
+-
+100 
+-
+-
+-
+120 
+-
+-
+-
+140 
+-
+-
+-
+(1) To be applied for deep groove ball bearing and angular contact ball bearings.
+Unit Hm 
+VDmp
+ Kea 
+SD 
+Sea 
+Cs
+ V Cs 
+class 0    class 6 class 5  class 4   class 2 
+class 0    class 6   class 5 class 4 class 2        class 5 class 4    lass 2 
+class 5    class 4 lass 2
+ all type
+ class 0.6 
+class 5 
+class 4    class 2
+ Max
+ Max
+ Max
+ Max
+ Max
+ Max
+ Max 
+10 
+9 
+6 
+5 
+3 
+2 
+1.5 
+15 8 
+5 
+3 
+1.5 
+8 
+4 
+1.5 
+8 
+5 
+1.5 
+identical to 
+identical to 
+5 
+2.5 1.5 
+10 
+9 
+6 
+5 
+3 
+2 
+1.5 
+15 8 
+5 
+3 
+1.5 
+8 
+4 
+1.5 
+8 
+5 
+1.5 
+Bs of inner 
+Bs and 
+Bs 
+5 
+2.5 1.5 
+12 
+10 
+7 
+6 
+3 
+2.5 2 
+15 9 
+6 
+4 
+2.5 
+8 
+4 
+1.5 
+8 
+5 
+2.5 
+ring of same of inner ring 5 
+2.5 1.5 
+16 
+13 
+8 
+7 
+4 
+3 
+2 
+20 10 
+7 
+5 
+2.5 
+8 
+4 
+1.5 
+8 
+5 
+2.5 
+bearing 
+of same 
+5 
+2.5 1.5 
+20 
+16 
+10 8 
+5 
+3.5 2 
+25 13 
+8 
+5 
+4 
+8 
+4 
+1.5 
+10 5 
+4 
+bearing 
+6 
+3 
+1.5 
+26 
+20 
+11 
+10 5 
+4 
+2.5 
+35 18 
+10 6 
+5 
+9 
+5 
+2.5 
+11 6 
+5 
+8 
+4 
+2.5 
+30 
+25 
+14 11 6 
+5 
+2.5 
+40 20 
+11 7 
+5 
+10 5 
+2.5 
+13 7 
+5 
+8 
+5 
+2.5 
+38 
+30 
+19 14 7 
+5 
+3.5 
+45 23 
+13 8 
+5 
+10 5 
+2.5 
+14 8 
+5 
+8 
+5 
+2.5 
+-
+-
+23
+
+15 8 
+6 
+4 
+50 25 
+15 10 7 
+11 7 
+4 
+15 10 7 
+10 7 
+4 
+-
+-
+26
+
+19 9 
+7 
+4 
+60 30 
+18 11 7 
+13 8 
+5 
+18 10 7 
+11 
+7 
+5 
+-
+-
+30
+
+21 10 8 
+5 
+70 35 
+20 13 8 
+13 10 7 
+20 13 8 
+13 8 
+7 
+-
+-
+34
+
+25 12 -
+-
+80 40 
+23 -
+-
+15 -
+-
+23 -
+-
+15 -
+-
+-
+-
+38
+
+29 14- -
+-
+100 50 
+25 -
+-
+18 -
+-
+25 -
+-
+18 -
+-
+-
+-
+55
+
+34 18 -
+-
+120 60 
+30 -
+-
+20 -
+-
+30 -
+-
+20 -
+-
+-
+-
+75
+
+45 -
+-
+-
+140 75 
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+94
+
+-
+-
+-
+-
+160
+
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+120 -
+-
+-
+-
+190 -
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+150 -
+-
+-
+-
+220 -
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+190 -
+-
+-
+-
+250 -
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+capped bearings 
+diameter series 
+class 0 class6 
+Vdp(2) 
+(2) To be applied in case snap rings are not installed on the bearings. 
+16 
+
+---
+
+Rolling Bearings
+Table 3.4 Tolerance of tapered roller bearings (Metric) 
+Inner rings 
+over 
+incl. 
+Nominal bore 
+diameter 
+d (mm) 
+class 0.6x 
+high
+ low 
+dmp
+class 5,6
+high 
+low 
+class 4 
+high 
+low
+ Vdp
+class 0.6x  class 6  class 5 class 4 
+Max
+ Vdmp
+class 0.6x  class 6  class 5  class 4 
+Max
+ K ia
+class 0.6x class 6  class 5  class 4 
+Max
+ S d
+class 5   class 4 
+Max 
+10 
+18 
+18 
+30 
+30 
+50 
+50 
+80 
+80 
+120 
+120 
+180 
+180 
+250 
+250 
+315 
+315 
+400 
+400 
+500 
+500 
+630 
+630 
+800 
+800 
+1000 
+0 
+-12 
+0 
+-12 
+0 
+-12 
+0 
+-15 
+0 
+-120 
+0 
+-25 
+0 
+-30 
+0 
+-35 
+0 
+-40 
+0 
+-45 
+-
+-50 
+0 
+-75 
+0 
+-100 
+0 
+-7 
+0 
+-8 
+0 
+-10 
+0 
+-12 
+0 
+-15 
+0 
+-18 
+0 
+-22 
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+— 
+0 
+-5 
+0 
+-6 
+0 
+-8 
+0 
+-9 
+0 
+-10 
+0 
+-13 
+0 
+-15 
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+12 
+7 
+5 
+4 
+12 
+8 
+6 
+5 
+12 
+10 
+8 
+6 
+15 
+12 
+9 
+7 
+20 
+15 
+11 
+8 
+25 
+18 
+14 
+10 
+30 
+22 
+17 
+11 
+35 
+-
+-
+-
+40 
+-
+-
+-
+45 
+-
+-
+-
+50 
+-
+-
+-
+75 
+-
+-
+-
+100 -
+-
+-
+9 
+5 
+5 
+4 
+9 
+6
+ 5 
+4 
+9 
+8 
+5 
+5 
+11 
+9 
+6 
+5 
+15 
+11 
+8 
+5 
+19 
+14 
+9 
+7 
+23 
+16 
+11 
+8 
+26
+
+-
+-
+-
+30
+
+-
+-
+-
+34 
+-
+-
+-
+38 
+-
+-
+-
+56 
+-
+-
+-
+75 
+-
+-
+-
+15 
+7 
+5 
+3 
+18 
+8 
+5 
+3 
+20 
+10 
+6 
+4 
+25 
+10 
+7 
+4 
+30 
+13 
+8 
+5 
+35 
+18 
+11 
+6 
+50 
+20 
+13 8 
+60
+
+-
+-
+-
+70
+
+-
+-
+-
+80 
+-
+-
+-
+90 
+-
+-
+-
+105 
+-
+-
+-
+120 
+-
+-
+-
+7 
+3 
+8 
+4 
+8 
+4 
+8 
+5 
+9 
+5 
+10 
+6 
+11 
+7 
+-
+-
+-
+-
+-
+-
+-
+-
+Outer rings 
+over 
+incl. 
+Nominal outside 
+diameter 
+D (mm) 
+class 0.6x 
+high
+ low 
+Dmp
+class 5,6
+high 
+low 
+class 4 
+high 
+low
+ VDp
+class 0.6x  class 6  class 5 class 4 
+Max
+ VDmp
+class 0.6x  class 6  class 5  class 4 
+Max
+ K ea
+class 0.6x class 6  class 5  class 4 
+Max
+ S D
+class 5   class 4 
+Max 
+18 
+30 
+30 
+50 
+50 
+80 
+80 
+120 
+120 
+150 
+150 
+180 
+180 
+250 
+250 
+315 
+315 
+400 
+400 
+500 
+500 
+630 
+630 
+800 
+800 
+1 000 
+1 000 1 250 
+1 250 1 600 
+0 
+-12 
+0 
+-14 
+0 
+-16 
+0 
+-18 
+0 
+-20 
+0 
+-25 
+0 
+-30 
+0 
+-35 
+0 
+-40 
+0 
+-45 
+0 
+-50 
+0 
+-75 
+0 
+-100 
+0 
+-125 
+0 
+-160 
+0 
+-8 
+0 
+-9 
+0 
+-11 
+0 
+-13 
+0 
+-15 
+0 
+-18 
+0 
+-20 
+0 
+-25 
+0 
+-28 
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+0 
+-6 
+0 
+-7 
+0 
+-9 
+0 
+-10 
+0 
+-11 
+0 
+-13 
+0 
+-15 
+0 
+-18 
+0 
+-20 
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+12 
+8 
+6 
+5 
+14 
+9 
+7 
+5 
+16 
+11 
+8 
+7 
+18 
+13 
+10 
+8 
+20 
+15 
+11 
+8 
+25 
+18 
+14 
+10 
+30 
+20 
+15 
+11 
+35 
+25 
+19 
+14 
+40 
+28 
+22 
+15 
+45 
+-
+-
+-
+50 
+-
+-
+-
+75 
+-
+-
+-
+100 -
+-
+-
+125 -
+-
+-
+160 -
+-
+-
+9 
+6 
+5 
+4 
+11 
+7 
+5 
+5 
+12 
+8 
+6 
+5 
+14 
+10 
+7 
+5 
+15 
+11 
+8 
+6 
+19 
+14 
+9 
+7 
+23 
+15 
+10 8 
+26 
+19 
+13 9 
+30 
+21 
+14 10 
+34
+
+-
+-
+-
+38 
+-
+-
+-
+56 
+-
+-
+-
+75 
+-
+-
+-
+84 
+-
+-
+-
+120 -
+-
+-
+18 
+9 
+6 
+4 
+20 
+10 
+7 
+5 
+25 
+13 
+8 
+5 
+35 
+18 
+10 6 
+40 
+20 
+11 
+7 
+45 
+23 
+13 8 
+50 
+25 
+15 10 
+60 
+30 
+18 11 
+70 
+35 
+20 13 
+80
+
+-
+-
+-
+100 
+-
+-
+-
+120 
+-
+-
+-
+140 
+-
+-
+-
+165 
+-
+-
+-
+190 
+-
+-
+-
+8 
+4 
+8 
+4 
+8 
+4 
+9 
+5 
+10 
+5 
+10 
+5 
+11 
+7 
+13 
+8 
+13 
+10 
+-
+-
+-
+-
+-
+-
+-
+17 
+
+---
+
+Rolling Bearings
+Unit Hm 
+Sia 
+class 4 
+max 
+Bs 
+class 0.6 
+class 6X 
+high low 
+high low 
+class 4,5 
+high 
+low
+class 0.6 
+high 
+low 
+Ts 
+class 6X
+high low 
+class 4,5
+high 
+low 
+B1s, 
+C1s 
+class 0, 6, 5
+high 
+low 
+B2s, 
+C2s 
+class 0, 6, 5
+high 
+low 
+3 
+4 
+4 
+4 
+5 
+7 
+8 
+-
+-
+-
+-
+-
+-
+0 
+-120 
+0 
+-50 
+0 
+-120 
+0 
+-50 
+0 
+-120 
+0 
+-50 
+0 
+-150 
+0 
+-50 
+0 
+-200 
+0 
+-50 
+0 
+-250 
+0 
+-50 
+0 
+-300 
+0 
+-50 
+0 
+-350 
+0 
+-50 
+0 
+-400 
+0 
+-50 
+0 
+-450 
+-
+-
+0 
+-500 
+-
+-
+0 
+-750 
+-
+-
+0 
+-1 000 -
+-
+0 
+-200 
+0 
+-200 
+0 
+-240 
+0 
+-300 
+0 
+-400 
+0 
+-500 
+0 
+-600 
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
++200 
+0 
++200 
+0 
++200 
+0 
++200 
+0 
++200 
+-200 
++350 
+-250 
++350 
+-250 
++350 
+-250 
++400 
+-400 
+-
+-
+-
+-
+-
+-
+-
+-
++100 0 
++100 0 
++100 0 
++100 0 
++100 0 
++150 0 
++150 0 
++200 0 
++200 0 
+-
+-
+-
+-
+-
+-
+-
+-
++200 -200 
++200 -200 
++200 -200 
++200 -200 
++200 -200 
++350 -250 
++350 -250 
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
++240 
+-240 
++300 
+-300 
++400 
+-400 
++500 
+-500 
++600 
+-600 
++700 
+-700 
++800 
+-800 
++900 
+-900 
++1 000 
+-1 000 
++1 500 
+-1 500 
++1 500 
+-1 500 
+-
+-
+-
+-
+-
+-
+-
+-
++500 
+-500 
++600 
+-600 
++750 
+-750 
++900 
+-900 
++1 000 
+-1 000 
++1 200 
+-1 200 
++1 200 
+-1 200 
++1 500 
+-1 500 
++1 500 
+-1500
+Unit Hm
+Effective width of outer and inner withroller 
+Unit Hm 
+5 
+Identical to Bs 
+0 
+-100 
+10 
+18 
++100 
+0 
++50 
+0 
++100 
+0 
++50 
+0 
+5 
+inner ring of 
+0 
+-100 
+18 
+30 
++100 
+0 
++50 
+0 
++100 
+0 
++50 
+0 
+5 
+same bearing 
+0 
+-100 
+30 
+50 
++100 
+0 
++50 
+0 
++100 
+0 
++50 
+0 
+6 
+0 
+-100 
+50 
+80 
++100 
+0 
++50 
+0 
++100 
+0 
++50 
+0 
+7 
+0 
+-100 
+80 
+120 
++100 
+-100 
++50 
+0 
++100 
+-100 
++50 
+0 
+8 
+0 
+-100 
+120 
+180 
++150 
+-150 
++50 
+0 
++200 
+-100 
++100 
+0 
+10 
+0 
+-100 
+180 
+250 
++150 
+-150 
++50 
+0 
++200 
+-100 
++100 
+0 
+13 
+0 
+-100 
+-
+0 
+-100 
+Sea 
+Cs 
+class 4 
+class 0, 6, 5, 4 
+class 6X
+ max 
+high
+ low 
+high 
+low 
+R1s 
+R2s
+ class 0 
+class 6X
+ class 0 
+class 6X 
+over
+ incl. 
+high 
+low 
+high 
+low
+ high 
+low 
+high 
+low 
+Nominal bore 
+diameter d (mm) 
+Cup 
+Cone 
+18 
+
+---
+
+Rolling Bearings
+Table 3.7 Tolerance of thrust ball bearings 
+Inner rings 
+dmp, 
+d2mp 
+Vdp, Vd2D 
+Si2)
+ class 0, 6, 5 
+class 4
+ class 0, 6, 5 
+class 4          class 0 
+class 6    class 5     class 4 
+over 
+incl. 
+high 
+low 
+high 
+low
+ max
+ max 
+-
+18
+
+0
+ -8
+
+0
+ -7
+
+6
+ 5
+ 10
+
+5
+
+3
+
+2
+
+18 
+30 
+0 
+-10 
+0 
+-8 
+8 
+6 
+10 
+5 
+3 
+2 
+30 
+50 
+0 
+-12 
+0 
+-10 
+9 
+8 
+10 
+6 
+3 
+2 
+50 
+80 
+0 
+-15 
+0 
+-12 
+11 
+9 
+10 
+7 
+4 
+3 
+80 
+120 
+0 
+-20 
+0 
+-15 
+15 
+11 
+15 
+8 
+4 
+3 
+120 
+180 
+0 
+-25 
+0 
+-18 
+19 
+14 
+15 
+9 
+5 
+4 
+180 
+250 
+0
+30 
+0 
+-22 
+23 
+17 
+20 
+10 
+5 
+4 
+250 
+315 
+0 
+-35 
+0 
+-25 
+26 
+19 
+25 
+13 
+7 
+5 
+315 
+400 
+0 
+-40 
+0 
+-30 
+30 
+23 
+30 
+15 
+7 
+5 
+400 
+500 
+0 
+-45 
+0 
+-35 
+34 
+26 
+30 
+18 
+9 
+6 
+500 
+630 
+0 
+-50 
+0 
+-40 
+38 
+30 
+35 
+21 
+11 
+7 
+1) The division of double type bearings will be in accordance with divion “d” of single direction tyep bearings corresponding to th identical nominal outer diameter of 
+bearings, not according to division “d2” 
+Outer rings 
+over 
+incl. 
+high 
+low 
+high 
+low
+ max
+ max 
+10 
+18 
+0 
+-11 
+0 
+-7 
+8 
+5 
+According to the tolerance 
+18 
+30 
+0 
+-13 
+0 
+-8 
+10 
+6 
+of S1 against “d” or “d2” 
+30 
+50 
+0 
+-16 
+0 
+-9 
+12 
+7 
+of the same bearings 
+50 
+80 
+0 
+-19 
+0 
+-11 
+14 
+8 
+80 
+120 
+0 
+-22 
+0 
+-13 
+17 
+10 
+120 
+180 
+0 
+-25 
+0 
+-15 
+19 
+11 
+180 
+250 
+0 
+-30 
+0 
+-20 
+23 
+15 
+250 
+315 
+0 
+-35 
+0 
+-25 
+26 
+19 
+315 
+400 
+0 
+-40 
+0 
+-28 
+30 
+21 
+400 
+500 
+0 
+-45 
+0 
+-33 
+34 
+25 
+500 
+630 
+0 
+-50 
+0 
+-38 
+38 
+29 
+630 
+800 
+0 
+-75 
+0 
+-45 
+55 
+34 
+Dmp
+ VDp
+ Se2)
+ class 0, 6, 5 
+class 4
+ class 0, 6, 5 
+class 4          class 0 
+class 6    class 5     class 4 
+Nominal outside 
+diameter D (mm) 
+Height of bearings center washer 
+2) To be applied only for bearings with flat 
+Single direction type 
+Ts 
+Nominal bore 
+diameter d (mm) 
+over 
+incl. 
+high 
+low 
+-
+30
+ 0 
+-75 
+30 
+50 
+0 
+-100 
+50 
+80 
+0 
+-125 
+80 
+120 
+0 
+-150 
+120 
+180 
+0 
+-175 
+180 
+250 
+0 
+-200 
+250 
+315 
+0 
+-225 
+315 
+400 
+0 
+-300 
+400 
+500 
+0 
+-350 
+500 
+630 
+0 
+-400 
+high 
++50 
++75 
++100 
++125 
++150 
++175 
++200 
++250 
+-
+-
+T1s3) 
+low 
+-150 
+-200 
+-250 
+-300 
+-350 
+-400 
+-450 
+-600 
+-
+-
+Double direction type 
+T2s3) 
+high 
+low 
+0 
+-75 
+0 
+-100 
+0 
+-125 
+0 
+-150 
+0 
+175 
+0 
+-200 
+0 
+-225 
+0 
+-300 
+-
+-
+-
+-
+Unit Hm 
+T3s3) 
+high 
+low 
+0 
+-50 
+0 
+-75 
+0 
+-100 
+0 
+-125 
+0 
+-150 
+0 
+-175 
+0 
+-200 
+0 
+-250 
+-
+-
+-
+-
+3) To be in accordance with the division “d” of single direction type bearings corresponding to the identical outer diameter of bearings in the same bearings series. 
+19 
+
+---
+
+Rolling Bearings
+Table 3.8 Tolerance of sphrical thrust roller bearing 
+Inner rings 
+Unit Hm 
+Outer ring 
+Unit Hm 
+Nominal bore 
+diameter d (mm) 
+over 
+incl. 
+high 
+low 
+dmp 
+max 
+Vdp
+max 
+Sd 
+high 
+low 
+Ts 
+50 
+80 
+80 
+120 
+120 
+180 
+180 
+250 
+250 
+315 
+315 
+400 
+400 
+500 
+0 
+-15 
+0 
+-20 
+0 
+-25 
+0 
+-30 
+0 
+-35 
+0 
+-40 
+0 
+-45 
+11 
+15 
+19 
+23 
+26 
+30 
+34 
+25 
+25 
+30 
+30 
+35 
+40 
+45 
++150 
+-15 
++200 
+-200 
++250 
+-250 
++300 
+-300 
++350 
+-300 
++400 
+-400 
++450 
+-450 
+over 
+incl. 
+Nominal bore 
+diameter D (mm) 
+high 
+low 
+Dmp 
+120 
+180 
+180 
+250 
+250 
+315 
+315 
+400 
+400 
+500 
+500 
+630 
+630 
+800 
+800 
+1 000 
+0 
+-25 
+0 
+-30 
+0 
+-35 
+0 
+-40 
+0 
+-45 
+0 
+-50 
+0 
+-75 
+0 
+-100 
+20 
+
+---
+
+Rolling Bearings
+4. Fits 
+4.1 Interference 
+Bearing rings are fixed on the shaft or in the housing 
+so that slip or movement does not occur between the 
+mated surface during operation or under load. 
+This relative movement, creep, between the fitted 
+surfaces of the bearing and the shaft or housing can 
+ocur in a radial direction, or in an axial direction, or in 
+the direction of rotation. This creeping movement 
+under load causes damage to the bearing rings, shaft 
+or housing in the form of abrasive wear, fretting 
+corrosionor friction crack. This can also lead to 
+abrasive particles getting into the bearing, which can 
+cause vibration, excessive heat, and lowered 
+rotational efficiency. To insure that slip does not occur 
+between the fitted surfaces of the bearing rings and 
+the shaft or housing, the bearing is usually installed 
+with an interference fit. 
+Most effective interference fit is called a tight fit or 
+shrink fit. The advantage of this tight fit for thin walled 
+bearings is that it provides uniform load support over 
+the entire ring circumference without any loss in load 
+carrying capacity. 
+However, with a tight interference-fit, ease of 
+mounting and dismounting the bearing is lost; and 
+when using a non-separable bearing as a non-fixing 
+bearing, axial displacement is impossible. 
+4.2 Calculation 
+Load and interference 
+The minimum required amount of interference 
+for the inner rings mounted on solid shafts when 
+acted on lby radial load, is found by formulae 
+4.1 and 4.2. 
+When Fr ≤ 0.3 Cor 
+d.Fr 
+dF =0.08 
+B ............................................... 4.1
+When Fr > 0.3 Cor 
+Fr 
+dF =0.02 B .................................................. 4.2
+Where, 
+dF : Required effective interference (for load) Hm 
+d 
+: Nominal bore diameter mm 
+B 
+: Inner ring width mm
+Fr : Radial load N
+Cor : Basic static rated load N
+Temperature rise and interference 
+To prevent loosening of the inner ring on steel shafts 
+due to temperature increases (difference between 
+bearing temperature and ambient temperature) 
+caused by bearing roatation, and interference fit 
+must be given. The required amount of interference 
+can be found by formula (4.3). 
+d T = 0.0015 .d. T.............................................. 4.3
+Where, 
+dT : Required effective interference (for temperature) 
+Hm 
+T : Difference between bearing temperature and
+ ambient temperature ºC 
+d : Bearing bore diameter mm 
+Effective interference and apparent interference 
+The effective interference (the actual interference 
+after fitting) is different from the apparent interference 
+derived from the dimensions measured value. This 
+differenct is due to the roughness or slight variations 
+of the mating surfaces, and this slight flattening of 
+the uneven surfaces at the time of fitting is taken 
+into consideration. 
+The relation between the effective and apparent 
+interference, which varies according to the finish 
+given to the mating surfaces, is expressed by formula 
+(4.4). 
+d eff = d f – G........................................................ 4.4
+Where, 
+d eff : Effective interference Hm
+d f : Apparent interference Hm
+G = 1.0 ~ 2.5 Hm for ground shaft
+= 5.0 ~ 7.0 Hm for turned shaft 
+Maximum interference 
+When bearing rings are installed with an interference 
+fit on shafts or in housings, tension or compression 
+stree may occur. If the interference is too large, it 
+may cause damage to the bearing rings and reduce 
+the fatigut life of the bearing. For these reasons, the 
+maximum amount of interference should be less than 
+1/1 000 of the shaft diameter, or 
+21 
+
+---
+
+Rolling Bearings
+4.3 Selection 
+Selection of the proper fit is generally based on the 
+following factors: 1) the direction and nature of the 
+bearing load 2) whether the inner ring or outer ring 
+rotates 3) whether the load on teh inner or outer ring 
+rotates or not 4) whether there is static load or direction 
+indeterminate load or not. 
+For bearings under rotating loads or direction 
+indeterminate loads, a tight fit is recommended; but 
+for static loads, a transition fit or loose fit should be 
+sufficient. 
+The interference should be tighter for heavy bearing 
+loads or vibration and shock load conditions. Also, a 
+tighter than normal fit should be given when the 
+bearing is installed on hollow shafts or in housings 
+with thin walls, or housingsa made of light alloys or 
+plastic.
+Table 4.1 Radial Load and bearing fit 
+In applications where high rotational accuracy must 
+be maintained, high precision bearings and high 
+tolerance shafts and housing should be employed 
+instead of a tighter interference fit to ensure bearing 
+stability. High interference fits should be avoided if 
+possible as they cause shaft or housing deformities to 
+be induced into the bearing rings, and thus reduce 
+bearing rotational accuracy. 
+Because mounting and dismounting become very 
+difficult when both the inner ring and outer ring of a 
+non-separable bearing (for example a deep groove 
+ball bearing) are given tight interference fits, one or 
+the other ring should be given a loose fit. 
+Bearing rotation and load
+ Illustration 
+Ring load
+ Fit 
+Inner ring : Rotating 
+Static 
+Rotating 
+Inner ring : Tight Fit 
+Outer ring : Stationery
+ Load 
+inner ring 
+Load direction: Constant 
+load 
+Inner ring : Stationery 
+Unbalanced 
+Static outer 
+Outer ring : Loose fit 
+Outer ring : Rotating 
+Load 
+ring load 
+Load direction : Rotates with 
+outer ring 
+Inner ring : Stationery 
+Static 
+Static inner 
+Inner ring : Loose fit 
+Outer ring : Rotating 
+Load 
+ring load 
+Load direction : Constant 
+Inner ring : Rotating 
+Unbalanced 
+Rotating 
+Outer ring : Tight fit 
+Outer ring : Stationery 
+Load 
+outer ring 
+Loan direction : Rotates with 
+load 
+inner ring 
+22 
+
+---
+
+Rolling Bearings
+4.4 Recommended fits 
+Metric size standard dimension tolerances for 
+bearing shaft diameters and housing bore diameters 
+are governed by ISO 286. 
+Accordingly, bearing fits are determined by the 
+precision (dimensional tolerance0 of the shaft 
+diameter and housing bore diameter. Widely used fits 
+for various shaft and housing bore diameter 
+tolerances, and bearing bore and outside diameters 
+are shon in Fig. 4.1. 
+Generally, recommended fits relating to the primary 
+factors of bearing shape, dimensions, and load 
+conditions are listed in Tables 4.2 and 4.3. 
+Table 4.2  General standards for radial bearing fits 
+Housing fit 
+Fig. 4.1 
+Housing type
+ Load condition 
+Housing fits 
+Solid or split 
+housing 
+Outer ring static load 
+all load conditions 
+H7 
+Heat conducted throuh shaft 
+G7 
+Light to normal 
+JS7 
+Direction 
+indeterminate load 
+Normal to heavy 
+K7 
+Heavy shock 
+M7 
+Solid housing 
+Outer ring 
+rotating load 
+Light or variable 
+M7 
+Normal to heavy 
+N7 
+Heavy (thin wall housing) 
+P7 
+Heavy shock 
+P7 
+Note : Fits apply to cast iron or steel housings. For light alloy housings, a tighter fit than listed is required. 
+23 
+
+---
+
+Rolling Bearings
+Table 4.2 Cylindrical bore radial bearings, Shaft fit 
+Type of Load 
+Bearing type 
+Shaft diameter 
+Load Type 
+Shaft Fit 
+Point load 
+on inner ring 
+Ball bearings 
+Roller bearings 
+All sizes 
+Floating bearings 
+with sliding inner ring 
+Angular contact ball bearings and tapered 
+roller bearings with adjusted inner ring 
+g6 (g5) 
+h6 (j6) 
+up to 40 mm 
+normal load 
+j6 (j5) 
+up to 100 mm 
+low load 
+normal and high load 
+j6 (j5) 
+k6 (k5) 
+Ball bearings 
+up to 200 mm 
+low load 
+normal and high load 
+k6 (k5) 
+m6 (m5) 
+Circumferential 
+load on 
+inner ring or 
+indeterminate 
+load 
+over 200 mm 
+up to 60 mm 
+normal load 
+high load, shocks 
+low load 
+normal and high load 
+low load 
+m6 (m5) 
+n6 (n5) 
+j6 (j5) 
+k6 (k5) 
+k6 (k5) 
+up to 200 mm 
+normal load 
+m6 (m5) 
+Roller bearings 
+high load 
+n6 (n5) 
+up to 500 mm 
+normal load 
+high load, shocks 
+m6 (n5) 
+p6 
+normal load 
+n6 (p6) 
+over 500 mm 
+high load 
+p6 
+Table 4.3 for electric motor bearings, Shaft / Housing fit 
+Shaft or 
+housing 
+Deep groove ball bearings
+ Cylindrical roller bearings 
+Shaft or housing bore 
+diameter mm 
+Fits 
+Shaft or housing bore 
+diameter mm 
+Fits 
+over 
+incl. 
+over 
+incl. 
+-
+18
+
+j5
+
+-
+40
+
+k5
+
+Shaft 
+18 
+100 
+k5 
+40 
+160 
+m5 
+100 
+160 
+m5 
+160 
+200 
+n5 
+Housing 
+All sizes 
+H6 or J6 
+All sizes 
+H6 or J6
+24 
+
+---
+
+Rolling Bearings
+5 Clearance 
+5.1 Internal clearance 
+Internal clearance of a bearing is the amount of 
+internal clearance a bearing has before being installed 
+on a shaft or in a housing. 
+As in Fig.5.1, when either the inner ring or the outer 
+ring is fixed and the other ring is free to move, 
+displacement can take place in either an axial or radial 
+direction. This amount of displacement (radially or 
+axially) is termed the internal clearance and, 
+depending on the direction, is called the radial internal 
+clearance or the axial internal clearance. 
+When the internal clearance of a bearing is 
+measured, a slight measurement load is applied to 
+the raceway so the internal clearance may be 
+measured accurately. However, at this time, a slight 
+amount of elastic deformation of the bearing occurs 
+under the measurement load, and the clearance 
+measurement value is slightly larger than the true 
+clearance. This discrepancy between the true bearing 
+clearance and the increased amount due to the elastic 
+deformation must be compensated for. These 
+compensation values are given in Table 5.1.  For roller 
+bearings the amount of elastic deformation can be 
+ignored. 
+Fig. 5.1 Internal clearance 
+Table 5.1  Adjustment of radial internal 
+clearance based on measured load
+ Unit Hm 
+Nominal bore 
+diameter of 
+bearing d (mm) 
+Measuring 
+Load 
+Radial Clearance 
+Increase 
+over 
+incl 
+(N) 
+C2 Normal C3 C4 C5 
+10 
+18 
+24.5 
+3~4 
+4 
+4 
+4 
+4 
+18 
+50 
+49 
+4~5 
+5 
+6 
+6 
+6 
+50 
+200 
+147 
+6~8 
+8 
+9 
+9 
+9 
+5.2 Internal clearance selection 
+The internal clearance of a bearing under operating 
+conditions (effective clearance) is usually smaller than 
+the same bearing’s initial clearance before being 
+installed and operated. This is due to serveral factors 
+including bearing fit, the difference in temperature 
+between the inner and outer rings, etc. As a bearing’s 
+operating clearance has an effect on bearing life, heat 
+generation, vibration, noise, etc.; care must be taken 
+in selectng the most suitable operating clearance. 
+Effective internal clearance: 
+The internal clearance differential between the initial 
+clearance and the operating (effective) clearance (the 
+amount of clearance reduction caused by interference 
+fits, or clearance variation due to the temperature 
+difference between the inner and outer rings) can be 
+calculated by the following formula: 
+f +
+When 
+eff = 
+o – ( 
+t)..................................... 5.1
+Where, 
+eff : Effective internal clearance  mm 
+o : Bearing internal clearance  mm 
+f : Reduced amount of clearance due to 
+interference mm 
+t : Reduced amount of clearance due to 
+temperature differential of inner and outer 
+rings mm 
+Reduced clearance due to interference: 
+When bearings are installed with interference fits 
+on shafts and in housings, the inner ring will expand 
+and the outer ring will contract; thus reducing the 
+bearings’ internal clearance. The amount of expansion 
+or contraction varies depending on the shape of the 
+bearing, the shap of the shaft or housing, dimensions 
+of the respective parts, and the type of material used. 
+The differential can range from approximately 70% 
+to 90% of the effective interference. 
+f = (0.70 ~ 0.90)• deff ......................................... 5.2
+Where, 
+f 
+: Reduced amount of clearance due to 
+interference mm 
+deff : Effective interference mm 
+Reduced internal clearance due to inner/outer ring 
+temperature difference: 
+During operation, normally the outer ring will be from 
+5x to 10xC cooler than the inner ring or rotating parts. 
+However, if the colling effect of the housing is large, 
+the shaft is Connected to a heat source, or a heated 
+25 
+
+---
+
+Rolling Bearings
+substance is conducted through the hollow shaft; the 
+temperature difference between the two rings can 
+be even greater. The amount of internal clearance 
+is thus further reduced by the differential expansion 
+of the two rings. 
+t = 
+• r • Do ................................................... 5.3
+Where, 
+t : Amount of reduced clearance due to heat 
+differential  mm 
+: Bearing steel linear expansion coefficietn 
+12.5x10-6/XC 
+r : Inner/outer ring temperature differential XC 
+Do : Outer ring raceway diameter  mm 
+Outer ring raceway diameter, Do, values can be 
+approximated by using formula (8.4) or (8.5). 
+For ball bearings and self-aligning roller bearings, 
+Do = 0.20 (d + 4.0D)............................................. 5.4
+For roller bearings (except self-aligning) 
+Do = 0.25 (d + 3.0D)............................................. 5.5
+Where, d : Bearing bore diameter mm 
+D : Bearing outside diameter mm 
+5.3 Bearing internal clearance seletion 
+standards 
+Theoretically, as regards bearing life, the optimum 
+operating internal clearance for any bearing would 
+be a slight negative clearance after the bearing had 
+reached normal operating temperature. 
+Under actual operating conditions, maintaining such 
+optimum tolerances is often difficult at best. Due to 
+various fluctuating operating conditions this slight 
+minus clearance can quickly become a large minus, 
+greatly lowering the life of teh bearing and causing 
+excessive heat to be generated. Therefore, an initial 
+internal clearance which will result in a slightly greater 
+than minus internal operating clearance should be 
+selected. 
+Under normal operating conditions (e.g. normal 
+load, fit, speed, temperature, etc.), a standard internal 
+cleracne will give a very staisfactory operating 
+clearance. 
+Table 5.2. lists non-standard clearance 
+recommendations for various applications and 
+operating conditions. 
+Table 5.2 Examples of applications where bearing 
+clearances other than normal clearance are used 
+Operating conditions 
+Applications 
+Selected 
+clearance 
+With heavy or 
+shock load, 
+Railway vehicle 
+axles 
+C3 
+clearance is great. 
+Vibration screens 
+C3, C4 
+With direction 
+indeterminate load 
+Railway vehicle 
+traction motors 
+C4 
+both inner and outer 
+rings are tight-fitted. 
+Tractors and final 
+speed regulators 
+C4 
+Shaft or inner ring 
+Paper making 
+machines and driers 
+C3, C4 
+is heated 
+Rolling mill table 
+rollers 
+C3 
+Clearance fit for both 
+inner and outer rings 
+Rolling mill roll 
+rollers 
+C2 
+to reduce noise 
+and vibration 
+when rotating. 
+Micromotors 
+C2 
+Table 5.3 Radial internal clearance of bearing for 
+electric motor 
+Unit Hm 
+Nominal bore 
+diameter d mm 
+Radical internal clearance, E 
+Deep groove 
+ball bearings 
+Cylindrical2) 
+roller bearings 
+over 
+incl. 
+min 
+max 
+min 
+max 
+10 
+18 
+18 
+24 
+24 
+30 
+30 
+40 
+40 
+50 
+50 
+65 
+65 
+80 
+80 
+100 
+100 
+120 
+120 
+140 
+140 
+160 
+160 
+180 
+180 
+200 
+4 
+11 
+5 
+12 
+5 
+12 
+9 
+17 
+9 
+17 
+12 
+22 
+12 
+22 
+18 
+30 
+18 
+30 
+24 
+38 
+24 
+38 
+-
+-
+-
+-
+-
+-
+-
+-
+15 
+30 
+15 
+30 
+20 
+35 
+25 
+40 
+30 
+45 
+35 
+55 
+35 
+60 
+40 
+65 
+50 
+80 
+60 
+90 
+65 
+100 
+1) Suffix E is added to bearing numbers. 
+2) Non-interchargeable clearance. 
+26 
+
+---
+
+Rolling Bearings
+Table 5.4. Radial internal clearance of deep groove ball bearings. 
+Unit Hm 
+over 
+incl. 
+min 
+max 
+min 
+max 
+min 
+max 
+min 
+max 
+min 
+max 
+-
+2.5 
+0 
+6 
+4 
+11 
+10 
+20 
+-
+-
+-
+-
+2.5 
+6 
+0 
+7 
+2 
+13 
+8 
+23 
+-
+-
+-
+-
+6
+ 10
+ 0
+ 7
+ 2
+ 13
+ 8
+ 23
+ 14
+ 29
+ 20
+ 37
+
+10 
+18 
+0 
+9 
+3 
+18 
+11 
+25 
+18 
+33 
+25 
+45 
+18 
+24 
+0 
+10 
+5 
+20 
+13 
+28 
+20 
+36 
+28 
+48 
+24 
+30 
+1 
+11 
+5 
+20 
+13 
+28 
+23 
+41 
+30 
+53 
+30 
+40 
+1 
+11 
+6 
+20 
+15 
+33 
+28 
+46 
+40 
+64 
+40 
+50 
+1 
+11 
+6 
+23 
+18 
+36 
+30 
+51 
+45 
+73 
+50 
+65 
+1 
+15 
+8 
+28 
+23 
+43 
+38 
+61 
+55 
+90 
+65 
+80 
+1 
+15 
+10 
+30 
+25
+ 51
+ 46
+ 71
+ 65
+ 105
+
+80 
+100 
+1 
+18 
+12 
+36 
+30
+ 58
+ 53
+ 84
+ 75
+ 120
+
+100 
+120 
+2 
+20 
+15 
+41 
+36 
+66 
+61 
+97 
+90 
+140 
+120 
+140 
+2 
+23 
+18 
+48 
+41 
+81 
+71 
+114 
+105 
+160 
+140 
+160 
+2 
+23 
+18 
+53 
+46 
+91 
+81 
+130 
+120 
+180 
+160 
+180 
+2 
+25 
+20 
+61 
+53 
+102 
+91 
+147 
+135 
+200 
+180 
+200 
+2 
+30 
+25 
+71 
+63 
+117 
+107 
+163 
+150 
+230 
+200 
+225 
+4 
+32 
+32 
+82 
+82 
+132 
+132 
+187 
+197 
+255 
+225 
+250 
+4 
+36 
+36 
+92 
+92 
+152 
+152 
+217 
+217 
+290 
+250 
+280 
+4 
+39 
+39 
+97 
+97 
+162 
+162 
+237 
+237 
+320 
+280 
+315 
+8 
+50 
+50 
+110 
+110 
+180 
+180 
+260 
+260 
+350 
+315 
+355 
+8 
+50 
+50 
+120 
+120 
+200 
+200 
+290 
+290 
+380 
+355 
+400 
+8 
+60 
+60 
+140 
+140 
+230 
+230 
+330 
+330 
+430 
+400 
+450 
+10 
+70 
+70 
+160 
+160 
+260 
+260 
+370 
+-
+-
+450 
+500 
+10 
+80 
+80 
+180 
+180 
+290 
+290 
+410 
+-
+-
+500 
+560 
+20 
+90 
+90 
+200 
+200 
+320 
+320 
+460 
+-
+-
+560 
+630 
+20 
+100 
+100 
+220 
+220 
+350 
+350 
+510 
+-
+-
+Nominal bore 
+diameter d mm 
+C2 
+Normal 
+C3 
+C4 
+C5 
+27 
+
+---
+
+Rolling Bearings
+Table 5.5 Radial internal clearance of self-aligning ball bearings, cylindrical bore 
+Unit Hm 
+Nominal bore 
+diameter d mm 
+C2 
+Normal 
+C3 
+C4 
+C5 
+over 
+incl. 
+min 
+max 
+min 
+max 
+min 
+max 
+min 
+max 
+min 
+max 
+2.5 
+6 
+6
+ 10
+
+10 
+14 
+14 
+18 
+18 
+24 
+24 
+30 
+30 
+40 
+40 
+50 
+50 
+65 
+65 
+80 
+80 
+100 
+100 
+120 
+120 
+140 
+140 
+160 
+1 
+8 
+2 
+9 
+2 
+10 
+3 
+12 
+4 
+14 
+5 
+16 
+6 
+18 
+6 
+19 
+7 
+21 
+8 
+24 
+9 
+27 
+10 
+31 
+10 
+38 
+15 
+44 
+5 
+15 
+6
+ 17
+
+6 
+19 
+8 
+21 
+10 
+23 
+11 
+24 
+13 
+29 
+14 
+31 
+16 
+36 
+18 
+40 
+22 
+48 
+25 
+56 
+30 
+68 
+35 
+80 
+10 
+20 
+12 
+25 
+13 
+26 
+15 
+28 
+17 
+30 
+19 
+35 
+23 
+40 
+25 
+44 
+30 
+50 
+35 
+60 
+42 
+70 
+50 
+83 
+60 
+100 
+70 
+120 
+15 
+25 
+19 
+33 
+21 
+35 
+23 
+37 
+25 
+39 
+29 
+46 
+34 
+53 
+37 
+57 
+45 
+69 
+54 
+83 
+64 
+96 
+75 
+114 
+90 
+135 
+110 
+161 
+21 
+33 
+27 
+42 
+30 
+48 
+32 
+50 
+34 
+52 
+40 
+58 
+46 
+66 
+50 
+71 
+62 
+88 
+76 
+108 
+89 
+124 
+105 
+145 
+125 
+175 
+150 
+210 
+Table 5.5 Radial clearance of self-aligning ball bearings, tapered bore 
+Unit Hm 
+C2 
+Normal 
+C3 
+C4 
+C5 
+Nominal bore 
+diameter d mm 
+min 
+max 
+min 
+max 
+min 
+max 
+min 
+max 
+min 
+max 
+over 
+incl. 
+-
+-
+-
+-
+-
+-
+-
+-
+7
+ 17
+
+9
+ 20
+
+12 
+24 
+14 
+27 
+18 
+32 
+23 
+39 
+29 
+47 
+35 
+56 
+40 
+68 
+45 
+74 
+-
+-
+-
+-
+-
+-
+-
+-
+13
+
+26
+
+15
+
+28
+
+19 
+35 
+22 
+39 
+27 
+47 
+35 
+57 
+42 
+68 
+50 
+81 
+60 
+98 
+65 
+110 
+-
+-
+-
+-
+-
+-
+-
+-
+20
+ 33
+
+23
+ 39
+
+29 
+46 
+33 
+52 
+41 
+61 
+50 
+75 
+62 
+90 
+75 
+108 
+90 
+130 
+100 
+150 
+-
+-
+-
+-
+-
+-
+-
+-
+28
+ 42
+
+33
+ 50
+
+40 
+59 
+45 
+65 
+56 
+80 
+69 
+98 
+84 
+116 
+100 
+139 
+120 
+165 
+140 
+191 
+-
+-
+-
+-
+-
+-
+-
+-
+37
+ 55
+
+44
+ 62
+
+52 
+72 
+58 
+79 
+73 
+99 
+91 
+123 
+109 
+144 
+130 
+170 
+155 
+205 
+180 
+240 
+2.5 
+6 
+6
+ 10
+
+10 
+14 
+14 
+18 
+18
+ 24
+
+24
+ 30
+
+30 
+40 
+40 
+50 
+50 
+65 
+65 
+80 
+80 
+100 
+100 
+120 
+120 
+140 
+140 
+160 
+28 
+
+---
+
+Rolling Bearings
+Table 5.6.1 Radial internal clearance of spherical roller bearings, cylindrical bore 
+Unit Hm 
+over 
+incl. 
+min 
+max 
+min 
+max 
+min 
+max 
+min 
+max 
+min 
+max 
+14 
+18 
+10 
+20 
+20 
+35 
+35 
+45 
+45 
+60 
+60 
+75 
+18 
+24 
+10 
+20 
+20 
+35 
+35 
+45 
+45 
+60 
+60 
+75 
+24 
+30 
+15 
+25 
+25 
+40 
+40 
+55 
+55 
+75 
+75 
+95 
+30 
+40 
+15 
+30 
+30 
+45 
+45 
+60 
+60 
+80 
+80 
+100 
+40 
+50 
+20 
+35 
+35 
+55 
+55 
+75 
+75 
+100 
+100 
+125 
+50 
+65 
+20 
+40 
+40 
+65 
+65 
+90 
+90 
+120 
+120 
+150 
+65 
+80 
+30 
+50 
+50 
+80 
+80 
+110 
+110 
+145 
+145 
+180 
+80 
+100 
+35 
+60 
+60 
+100 
+100 
+135 
+135 
+180 
+180 
+225 
+100 
+120 
+40 
+75 
+75 
+120 
+120 
+160 
+160 
+210 
+210 
+260 
+120 
+140 
+50 
+95 
+95 
+145 
+145 
+190 
+190 
+240 
+240 
+300 
+140 
+160 
+60 
+110 
+110 
+170 
+170 
+220 
+220 
+280 
+280 
+350 
+160 
+180 
+65 
+120 
+120 
+180 
+18 
+0240 
+240 
+310 
+310 
+390 
+180 
+200 
+70 
+130 
+130 
+200 
+200 
+260 
+260 
+340 
+340 
+430 
+200 
+225 
+80 
+14 
+014 
+0220 
+220 
+290 
+290 
+380 
+380 
+470 
+225 
+250 
+90 
+150 
+150 
+240 
+240 
+320 
+320 
+420 
+420 
+520 
+250 
+280 
+100 
+170 
+170 
+260 
+260 
+350 
+350 
+460 
+460 
+570 
+280 
+315 
+110 
+190 
+190 
+280 
+280 
+370 
+370 
+500 
+500 
+630 
+315 
+355 
+120 
+200 
+200 
+310 
+310 
+410 
+410 
+550 
+550 
+690 
+355 
+400 
+130 
+220 
+220 
+340 
+340 
+450 
+450 
+600 
+600 
+750 
+400 
+450 
+140 
+240 
+240 
+370 
+370 
+500 
+500 
+660 
+660 
+820 
+450 
+500 
+140 
+260 
+260 
+410 
+410 
+550 
+550 
+720 
+720 
+900 
+500 
+560 
+150 
+280 
+280 
+440 
+440 
+600 
+600 
+780 
+780 
+1 000 
+560 
+630 
+170 
+310 
+310 
+480 
+480 
+650 
+650 
+850 
+850 
+1 100 
+630 
+710 
+190 
+350 
+350 
+530 
+530 
+700 
+700 
+920 
+920 
+1 190 
+710 
+800 
+210 
+390 
+390 
+580 
+580 
+770 
+770 
+1 010 
+1 010 
+1 300 
+800 
+900 
+230 
+430 
+430 
+650 
+650 
+860 
+860 
+1 120 
+1 120 
+1 440 
+900 
+1 000 
+260 
+480 
+480 
+710 
+710 
+930 
+930 
+1 220 
+1 220 
+1 570 
+1 000 
+1 120 
+290 
+530 
+530 
+530 
+780 
+780 
+1 020 
+1 330 
+1 330 
+1 720 
+1 120 
+1 250 
+320 
+580 
+580 
+860 
+860 
+1 120 
+1 120 
+1 460 
+1 460 
+1 870 
+1 250 
+1 400 
+350 
+640 
+640 
+950 
+950 
+1 240 
+1 240 
+1 620 
+1 620 
+2 080 
+Nominal bore 
+diameter d mm 
+C2 
+Normal 
+C3 
+C4 
+C5 
+29 
+
+---
+
+Rolling Bearings
+Table 5.6.2 Radial internal clearance of spherical roller bearigns, tapered bore 
+Unit Hm 
+min 
+max 
+min 
+max 
+min 
+max 
+min 
+max 
+min 
+max 
+over 
+incl. 
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+14 
+18 
+15 
+25 
+25 
+35 
+35 
+45 
+45 
+60 
+60 
+75 
+18 
+24 
+20 
+30 
+30 
+40 
+40 
+55 
+55 
+75 
+75 
+95 
+24 
+30 
+25 
+35 
+35 
+50 
+50 
+65 
+65 
+85 
+85 
+105 
+30 
+40 
+30 
+45 
+45 
+60 
+60 
+80 
+80 
+100 
+100 
+130 
+40 
+50 
+40 
+55 
+55 
+75 
+75 
+95 
+95 
+120 
+120 
+160 
+50 
+65 
+50 
+70 
+70 
+95 
+95 
+120 
+120 
+150 
+150 
+200 
+65 
+80 
+55 
+80 
+80 
+110 
+110 
+140 
+140 
+180 
+180 
+230 
+80 
+100 
+65 
+100 
+100 
+135 
+135 
+170 
+170 
+220 
+220 
+280 
+100 
+120 
+80 
+120 
+120 
+160 
+160 
+200 
+200 
+260 
+260 
+330 
+120 
+140 
+90 
+130 
+130 
+180 
+180 
+230 
+230 
+300 
+300 
+380 
+140 
+160 
+100 
+140 
+140 
+200 
+200 
+260 
+260 
+340 
+340 
+430 
+160 
+180 
+110 
+160 
+160 
+220 
+220 
+290 
+290 
+370 
+370 
+470 
+180 
+200 
+120 
+180 
+180 
+250 
+250 
+320 
+320 
+410 
+410 
+520 
+200 
+225 
+140 
+200 
+200 
+270 
+270 
+350 
+350 
+450 
+450 
+570 
+225 
+250 
+150 
+220 
+220 
+300 
+300 
+390 
+390 
+490 
+490 
+620 
+250 
+280 
+170 
+240 
+240 
+330 
+330 
+430 
+430 
+540 
+540 
+680 
+280 
+315 
+190 
+270 
+270 
+360 
+360 
+470 
+470 
+590 
+590 
+740 
+315 
+355 
+210 
+300 
+300 
+400 
+400 
+520 
+520 
+650 
+650 
+820 
+355 
+400 
+230 
+330 
+330 
+440 
+440 
+570 
+570 
+720 
+720 
+910 
+400 
+450 
+260 
+370 
+370 
+490 
+490 
+630 
+630 
+790 
+790 
+1 000 
+450 
+500 
+290 
+410 
+410 
+540 
+540 
+680 
+680 
+870 
+870 
+1 100 
+500 
+560 
+320 
+460 
+460 
+600 
+600 
+760 
+760 
+980 
+980 
+1 230 
+560 
+630 
+350 
+510 
+51 
+0670 
+670 
+850 
+850 
+1 090 
+1 090 
+1 360 
+630 
+710 
+390 
+570 
+570 
+750 
+750 
+960 
+960 
+1 220 
+1 220 
+1 500 
+710 
+800 
+440 
+640 
+640 
+840 
+840 
+1 070 
+1 070 
+1 370 
+1 370 
+1 690 
+800 
+900 
+490 
+710 
+710 
+930 
+930 
+1 190 
+1 190 
+1 520 
+1 520 
+1 860 
+900 
+1 000 
+530 
+770 
+770 
+1 030 
+1 030 
+1 300 
+1 300 
+1 670 
+1 670 
+2 050 
+1 000 
+1 120 
+570 
+830 
+830 
+1 120 
+1 120 
+1 420 
+1 420 
+1 830 
+1 830 
+2 250 
+1 120 
+1 250 
+620 
+910 
+910 
+1 230 
+1 230 
+1 560 
+1 560 
+2 000 
+2 000 
+2 470 
+1 250 
+1 400 
+Nominal bore 
+diameter d mm 
+C2 
+Normal 
+C3 
+C4 
+C5 
+*In some critical applications, it is necessary to use bearings with controlled vibration and frequency. In such case, please contact your 
+FBJ sales or engineering department. 
+30 
+
+---
+
+Rolling Bearings
+6. Speed and High 
+Temperature Suitability 
+6.1 Maximum Rotational speed 
+The permissible rotational speed is given in the 
+Catalogue for two kinds of lubricates: grease and liquid 
+oil. However, it does not mean that the maximum 
+rotational speed is acceptable at any load. The 
+ultimate factor limiting the speed is temperature which 
+depends on friction in the bearing and on the heat 
+removal possibility. The limiting values of rotational 
+speed given in the Catalogue are based on the 
+following assumptions: the operating radial clearance 
+is sufficient to enable compensation of the difference 
+in the linear expansion between the outer and inner 
+rings caused by their being heated to different 
+temperatures; the assembly uses rigid shafts and 
+housings; the lubricant is properly selected. The 
+amount of the maximum permissible load is 
+determined by the temperature factor. 
+The maximum rotational speed found in the 
+Catalogue can, in certain cases, be exceeded by 
+changing the loading conditions and the lubricant. 
+However,  in this case, care must be taken to apply a 
+strictly specified dose of properly selected lubricant 
+and to ensure removal of heat arising from friction. A 
+further significant increase of the above-mentioned 
+maximum rotational speed can be made possible by 
+improvement of the bearings design, primarily that of 
+bearing cages, by developing better lubricants, etc. 
+Whenever problems arise in connection with the 
+operation of bearings at higher rotational speed, 
+please consult our personnel. 
+6.2 Temperature Suitability 
+FBJ bearings are heat treated in such a way that 
+they can be used at operating temperatures of up to 
+120ºc. Bearings with polyamide cages can be used 
+operating temperatures of up to 100ºC only. 
+If bearings are designed for operation under high 
+temperature conditions, their life expectancy gets 
+somewhat lower because of reduced hardness and 
+fluctuation of the impact viscosity level. In order to 
+prevent the parts dimensions form being changed, 
+they are additionally tempered at high temperatures 
+exceeding the maximum operating temperatures of 
+bearings. Such bearings carry additional marking 
+symbols placed to the right of the location of the 
+bearing designation. Table contains the values of the 
+selected dynamic load-carrying capacity should be 
+multiplied depending on the bearing operating 
+temperature. 
+Table 6.1 Speed and High Temperature Suitability 
+Bearing Operating 
+Temperature 
+Temperature,˚C 
+coefficient 
+160 
+0.90 
+180 
+0.85 
+200 
+0.80 
+250 
+0.71 
+300 
+0.60 
+31 
+
+---
+
+Rolling Bearings
+7. Bearing Material 
+7 Bearing Material 
+The quality of bearings is influenced, to a large 
+measure, by the properties of the material they are 
+made of. 
+Rings and rolling elements are fabricated 
+predominantly of through-hardening carbon chromium 
+bearing steel of high cleaniness. On delivery to the 
+plant, all the purchased steel is tested for compliance 
+with the basic technical specifications such as the 
+chemical composition, contamination with non-metallic 
+inclusions, metal structure. The examination is 
+conducted at the plant’s specialized laboratories 
+equipped with up-to date apparatus and instruments 
+and manned with highly qualified specialists. 
+The entire work on heat treatment and machining 
+of the rings and rolling elements is carried out with 
+the use of non-destructive testing facilities, which 
+permits to assure high stability of the technological 
+process. 
+The plant performs systematic tests of the principal 
+types of the manufactured bearings for fatigue life and, 
+in so doing, checks the basic dynamic load-carrying 
+ratings found in this Catalogue and the quality of the 
+steel used. 
+Table 7 Chemical Composition of Bearing Materials 
+7.1 Rings and Balls 
+Standard material for Rings and Balls is vacuum 
+degassed high carbon chromium bearing steel (SUJ2*) 
+allowing for high efficiency, low  torque, low noise level 
+and long bearing life. Bearings require anti-corrosion 
+properties, used stainless steel. 
+7.2 Cage 
+Cold rolled steel sheets or strips used for pressed 
+cages and High tensile brass castings or machined 
+steel is used for Machined cages. Polyamide material 
+is used in moulded cages. Bearings require anti
+corrosion properties used stainless steel cages. 
+7.3 Shield 
+Cold rolled steel sheets or strips is used for standard 
+shields and bearings and require anti-corrosion 
+properties used stainless steel. 
+7.4 Seal 
+All FBJ seals are made of molded synthetic nitrile 
+rubber which can withstand the temperatures from 
+-45ºC to 125ºC. 
+7.5 Stainless Steel 
+For bearings requiring anti-corrosion or heat 
+resistance properties, rings and balls are made of 
+martensitic stainless steel (SUS440C)** and this 
+martensitic stainless steel is magnetic type. SUS 304 
+is used In FBJ Stainless steel Cage and Stainless steel 
+Shield. 
+MATERIAL 
+SYMBOL 
+CHEMICAL COMPOSITION % 
+Hardness 
+HRC
+C
+ Si
+
+Mn
+
+P
+
+S
+
+Cr
+
+Mo
+
+HIGH 
+CARBON 
+CHROMIUM 
+STEEL 
+SUJ2* or 
+SAE52100 
+or 
+100Cr6 
+0.9~1.10 
+0.15~0.35 
+≤ 0.50 
+≤ 0.025 
+≤ 0.025 1.30~1.60 
+0.08 
+58~65 
+COLD 
+ROLLED 
+STEEL 
+SPCC 
+≤ 0.12 
+--
+≤ 0.50 
+≤ 0.040 
+≤ 0.045 
+--
+--
+--
+STAINLESS 
+STEEL 
+SUS440C** 
+or 
+AISI440C 
+or 
+X102CrMo17 
+0.9~1.20 
+--
+--
+--
+--
+16.0~18.0 
+0.75 
+58~65 
+32 
+
+---
+
+Rolling Bearings
+8. Lubrication and storage 
+8.1 Lubrication 
+Bearing lubrication reduces friction and wear, acts 
+as a coolant, minimizes contamination, prevents 
+corrosion, and generally extends bearing life. 
+Selecting the best lubricant for your specific 
+application becomes a very important decision; 
+however, choosing from the hundreds available can 
+be an overwhelming task. FBJ’s engineering staff is 
+available to help make the right decision for your 
+application. 
+Table 8.1 Reccomended Oils in Industrial Use 
+Table 8.2 Greases used in FBJ Bearings 
+8.2 Oil Lubrication 
+Oil is the basic lubricant for ball and roller bearings. 
+The main adventage if an oil lubricant is that there is 
+less bearing torque. The use of synthetic oils such as 
+diesters, silicone polymer, and fluorinated compounds 
+has improved volatility and viscosity characteristics and 
+increased temperature properties. 
+Manufacturer 
+Manufacturer 
+Code 
+FBJ 
+Suffix 
+Lubricant 
+Base 
+Flash 
+Point’ C 
+Visocsity 
+(cSt) 
+Operating 
+Temperare’C 
+Anderson Oil Co. 
+Windsor Lube L-245X 
+OA01 
+Diester 
+215 
+14 (38ºC) 
+-55+175 
+Dow Corning Co. 
+SH550R 
+OD01 
+Methylphenly 
+316 
+125 (25ºC) 
+-40+230 
+Nihon Oil Co. 
+Antirust P21 00 
+ON-1 
+Mineral 
+166 
+13 (40ºC) 
+-20-+115 
+Shell Oil Co. 
+Aero Shell Fluid 12 
+OS01 
+Diester 
+235 
+14 (38ºC) 
+-50-+120 
+Shell Oil Co. 
+Aero Shell Fluid 3 
+OS02 
+Petroleum 
+145 
+10.2 (40ºC) 
+-55+115 
+Thenneco Chemicals 
+Anderol L-40 I D 
+OT01 
+Diester 
+220 
+12.7 (38ºC) 
+-60+125 
+Manufacturer 
+Manufacturer 
+Code 
+FBJ 
+Suffix 
+Thickening 
+agent 
+Lubricant 
+Base 
+Drop 
+Point’ C Consistency 
+Operating 
+Temperare’C 
+Range (ºC) 
+Caltex 
+Chevron SRI-2 
+GC01 
+Urea 
+Mineral 
+240 
+270 
+-30~+175 
+Molykote 33M 
+GD01 
+Lithium 
+Silicone 
+210 
+260 
+-70~+180 
+Dow Corning Molykote 44M 
+GD02 
+Lithium 
+Silicone 
+204 
+260 
+-40~+200 
+Molykote FS 1292 
+GD03 
+Fluorotelomer Phlorosilicone 
+232 
+310 
+-40~+200 
+Molykote FS 3451 
+GD04 
+Fluorotelomer Phlorosilicone 
+260 
+285 
+-40~+230 
+Andok B 
+GB01 
+Sodium 
+Mineral 
+260 
+285 
+-40~+120 
+Esso 
+Andok C 
+GB02 
+Sodium 
+Mineral 
+260 
+205 
+-20~+120 
+Andok 260 
+GB03 
+Sodium 
+Mineral 
+200 
+260 
+-30~+150 
+Beacon 325 
+GB04 
+Lithium 
+Diester 
+193 
+280 
+-60~+120 
+Kyodo Yushi 
+Multemp PS2 
+GK01 
+Lithium 
+Diester.Mineral 
+190 
+275 
+-55~+130 
+Multemp SRL 
+GK02* Lithium 
+Ester 
+191 
+245 
+-40~+150 
+Nihon Oil 
+Multinocurea 
+GM01 Urea 
+Mineral 
+260 
+290 
+-20~+175 
+Alvania No.2 
+GS01* Lithium 
+Mineral 
+182 
+272 
+-25~+120 
+Alvania No.3 
+GS02 
+Lithium 
+Mineral 
+1S3 
+233 
+-20~+135 
+Shell Oil 
+Alvania RA 
+GS03 
+Lithium 
+Mineral 
+183 
+252 
+-40~+130 
+Aero Shell Grease No.7 
+GS01* Microgel 
+Diester 
+260 
+288 
+-73~+149 
+Aero Shell Grease No.15A 
+GS05 
+Fluorotelomer Silicone 
+260 
+280 
+-73~+260 
+Shinetsu 
+Silicone 
+Silicolube G40M 
+GS31 
+Lithium 
+Silicone 
+210 
+260 
+-30~+200 
+*These suffixes may not indicated in the bearing or bearing box when numbering. 
+33 
+
+---
+
+Rolling Bearings
+8.3 Grease Lubrication 
+For lubrication of rolling bearings, use is mainly made 
+of grease, because the techniques of their 
+employment are more simple, they do not require 
+complicated sealing devices and demand less 
+expenditures for the maintenance of mechanisms. 
+When a machine or a mechanism is stopped, grease 
+does not run off from the bearing but remains there 
+and even seals the assembly isolating it from the 
+surroundings. These and other advantages of greases 
+are so decisive that allow the wear of bearings to be 
+ignored. The use of grease brings about a more rapid 
+wear than when operating with oils due to the 
+accumulation of abrasive particles in the former. 
+Greases are obtained by solidifying lubricating oils 
+with the aid of various thickening agents. Such 
+silidification agent creates a structural framework of 
+interwoven fibers which imparts plasticity to the 
+lubricating material and retains lubricating oil in its cells. 
+Grease is well held in place in a bearing, does not 
+flow out under the effect of the force of gravity and 
+resists the action of centrifugal forces attempting to 
+throw lubricant away from the bearing during its 
+rotation. The properties of grease are determined by 
+the composition of the thickening agent. 
+For rolling bearing lubrication, use is normally made 
+of grease in which mineral oil is solidified with the aid 
+of sodium, calcium or lithium soaps. 
+Rolling bearings should be filled with grease just 
+immediately before the unit is to be assembled. The 
+decisive reason for this is very stringent requirements 
+to the lubricant purity. The later the lubricant is put in, 
+the lesser the danger of its getting contaminated. 
+The bearing type or design features of a unit may 
+demand it to be filled with grease at a later stage. 
+Thus, for instance, if it is necessary to adjust the 
+amount of clearance in bearings with a tapered inner 
+bore, the required measurements can be only 
+performed before the unit is filled with grease. It is 
+also impracticable to put in grease before the bearing 
+is heated for mounting. Preliminary packing a bearing 
+with grease is only recommended when it is impossible 
+to distribute grease over rolling elements and 
+raceways after assembly. 
+Normally, a bearing as a whole and the free space 
+in the unit housing is only partially filled with grease-
+from 30 to 50%. However, when using lithium-base 
+lubricants for supports that are not subjected to strong 
+vibration, the free space of the housings can be filled 
+up to 90% disregarding the danger of overheating. 
+When a support is filled with a larger than normal 
+amount of grease, this improves the reliability of 
+protection against contamination and prolongs the 
+support’s service life. 
+High-speed rolling bearings, for example, spindle 
+units of metal-cutting machine tools mush be lubricated 
+with a small amount of grease in order to limit the 
+temperature of unit heating. In supports subjected to 
+strong vibration, for example, in the hubs of motor car 
+wheels and in the boxes of railroad car wheels, as 
+well as in vibration machines, grease should fill not 
+more than 60% of the free space. 
+The technique of packing a bearing unit with grease 
+is selected depending on the bearing type. 
+Separable bearings (cylindrical, tapered, thrust-type) 
+are filled with grease following the sequence of 
+assembly, applying a thin layer on the raceway of the 
+installed ring and then filling the space between the 
+rolling elements. 
+In inseparable bearings, for example, in radial and 
+angular contact bearings grease should be stuffed in 
+form both ends. Self-aligning ball bearings and 
+spherical roller bearings can be filled with grease by 
+turning the ring and stuffing the lubricant in between 
+the rolling elements. 
+8.4 Solid Lubrication 
+A solid film lubrication can range from simple 
+sacrifical retainers, graphite, or molybdenum 
+disulphide (MoS2) powders, to complexion sputtering 
+or plating. Each type must be ehgineered for the 
+specific application. They are very useful in areas of 
+temperature extremes, vacuum, radiation, pressure, 
+or harsh environments where coventional lubricants 
+would fail. Solid film lubricants do not deteriorate in 
+storage. 
+34 
+
+---
+
+Rolling Bearings
+8.5 Storage Of Bearings 
+Rolling bearings have high-quality working surfaces. 
+Any deterioration of the surface quality results in a 
+premature wear and reduction in the service life of 
+bearings. 
+Bearings are made predominantly of ferrous metals, 
+therefore, the main danger for them is corrosion which 
+is absolutely intolerable on the working surfaces of 
+bearings. To prevent in-storage corrosion, bearings 
+are delivered to the customer in a preserved state, 
+i.e., washed to remove dirt, contamination, slushed 
+with corrosion-protective lubricant - mineral oil with 
+an inhibitor, and packed in special packing. 
+The time this lubricant will be capable of protecting 
+the bearing against corrosion depends on storage 
+conditions. The customer’s task is to store bearings 
+in conformity to the Manufacturer’s instructions. 
+The occurrence of corrosion of bearings during 
+storage depends on two main factors: 
+1) relative air humidity in the storage place: the lower 
+the humidity, the weaker the process of corrosion. No 
+in-storage corrosion is practically observedc when 
+relative humidity is below 40% 
+2) temperature gradient in the storage premises 
+during the day. The smaller the temperature difference, 
+the more favorable the storage conditions. Great 
+temperature fluctuations are particularly dangerous 
+when there is a high relative humidity. In this case 
+moisture can condense on the surfaces of bearings, 
+increasing sharply the probability of corrosion. These 
+factors need to be considered when establishing 
+requirements to bearing storage premises. 
+A room used for storage of bearings must be dry, 
+heated, well ventilated, located far from places where 
+the air contains trings of substances that cause metal 
+corrosion-away from chemical, pickling, galvanic 
+shops. The storage room air temperature must be kept, 
+as far as possible, within 10 to 30˚C. The daily 
+temperature variation should not exceed 5˚C. 
+Relative air humidity in the storage room should not 
+be in excess of 60%. It is desirable that it should be as 
+low as possible. The bearing storage conditions in the 
+room (humidity and temperature) should be 
+continuously monitored. 
+It is recommended to store large-size bearings with an 
+inner diameter over 200mm placed on their end-faces to 
+avoid possible deformation of the thin-walled rings. 
+35 
+
+---
+
+Rolling Bearings
+9. Mounting And Dismounting
+9.1 Mounting 
+Ball and roller bearings should be mounted by 
+qualified personnel paying special attention to keeping 
+them clean: this is very important for ensuring 
+satisfactory operation of bearings and preventing their 
+premature breakdown. 
+9.2 Preparation of Mounting 
+The mounting should be preferably done in a room 
+with dry clean air located far from the sources of dust, 
+emulsion, dirt. The shaft and housing surfaces mating 
+with the bearings should be thoroughly washed with 
+gasoline or kerosene, wiped, dried and coated with a 
+thin layer of lubricant. Care must be taken to check 
+the accuracy of dimensions and shapes of all the parts 
+mating with the bearing; they should not exceed the 
+dimensions. 
+The manufacturer’s packing is to be removed from 
+the bearings immediately before mounting to prevent 
+penetration of dirt. Preservative coating is removed 
+from the mounting surfaces only. The mounting 
+surfaces are to be washed with gasoline or kerosene 
+and wiped dry with clean nap-free cloth. If a bearing 
+is dirty or its packing is damaged, it should be 
+thoroughly washed prior to mounting. The mounting 
+surfaces in this case are to lubricated with medium-
+viscosity oil. 
+Prior to mounting, check the bearing appearance, 
+marking, ease of rotation, clearances for compliance 
+with the requirements of the technical documents and 
+this Catalogue. 
+Radial clearance in spherical roller bearings are 
+measured with the aid of a set of feeler gauges, or by 
+other methods. Feeler gauges are used to measure 
+clearances between the outer ring and the unloaded 
+roller. Prior to mounting, bearings, especially those 
+with the ratio of the length and the largest shaft 
+diameter exceeding 8, must be tested for straightness 
+(absence of bending). 
+9.3 Mounting of bearings 
+The method of bearings mounting (mechanical, 
+hydraulic, thermal) depends on their type and size. 
+In all the cases, it is very important to protect rings, 
+bearing cages, rolling elements against direct knocks, 
+because they can damage the bearings. The principal 
+rule to be observed when mounting a bearing is never 
+to allow the compressing force to be transferred 
+through rolling elements. 
+When mounting a bearing, it is necessary to ensure 
+the required precision of the bearing rings location with 
+respect to the rotation axis which mainly depends on 
+the absence of misalignment. Misalignments of rings 
+is one of the factors causing initial damages of bearings 
+and concentration of contact stresses. The operating 
+misalignment of the rings should not exceed 0.7 
+maximum design-permissible angle of alignement of 
+the bearing rings under normal operating conditions 
+(this parameter is to be taken from the description of 
+bearing groups). 
+It is should be borne in mind that the outer ring of a 
+spherical radial bearing has the property of readily 
+swivel out. To replace the ring in its original position, it 
+is necessary to set the dislocated (braking) rollers, with 
+the aid of fingers, back into the outer ring and restore 
+the latter to its original position. NEVER knock on the 
+ring or rollers with a hammer. 
+9.4 Bearings with Cylindrical Bore 
+When mounting inseparable bearings, usually the 
+ring with a tighter fit is to be mounted the first. If pre-
+loading in the tight fit is not too high, small-size bearings 
+can be mounted by knocking lightly with a hammer on 
+Figure 9.1 
+the sleeve installed on the front end or the bearings 
+ring. 
+Knocks should be uniformly distributed over the 
+circumference to prevent the bearing from 
+misalignment. When an aligning bar is used instead 
+of the sleeve, the force must be applied at the center 
+36 
+
+---
+
+Rolling Bearings
+Figure 9.2 
+(see Figure 9.1). If the bearing is inseparable, it 
+should be simultaneously pressure-fitted onto the 
+shaft and into the housing seat (see Figure 9.2) with 
+the aid of the mounting tool shown in the sketch, a 
+mounting ring is inserted between the bearing and 
+aligning bar, resting on the front ends of the inner 
+and outer rings. The supporting surfaces of the 
+mounting ring should lie in the same plane to ensure 
+even distribution of the forces applied to both Rings 
+during the mounting procedure. When mounting self-
+Figure 9.3 
+aligning bearings, for example, spherical roller 
+bearings, the use of an intermediate mounting rings 
+permits to prevent misalignment and turning of the 
+outer ring after the bearing with the shaft has been 
+installed in the housing seat (see Figure 9.3). 
+The intermediate mounting ring must have a groove 
+to keep it form touching the rolling elements or bearing 
+cages. Bearings having a diameter of up to 100 mm 
+can be pressure-fitted onto the shaft in cold state with 
+the use of mechanical or hydraulic presses. 
+The inner ring of a separable bearing can be 
+mounted independently of the outer ring. When 
+Figure 9.4 
+mounting a shaft already carrying the inner ring into 
+the housing with the outer ring care should be taken 
+to make them properly centered, otherwise the 
+raceways, balls or rollers can get scored. That is why, 
+when mounting bearings with needle and cylindrical 
+Figure 9.5 
+rollers, it is recommended to use a mounting sleeve 
+(see Figure 9.4). The outer diameter of the sleeve must 
+be equal to the raceway diameter F of the inner ring 
+machined with a d10 accuracy. The values of F are 
+given in the bearings table. Needle roller bearings with 
+a die-stamped outer ring best mounted with the aid of 
+a special aligning bar (see Figure 9.5). 
+37 
+
+---
+
+Rolling Bearings
+Large-size bearings or those with tight fit should be 
+heated before mounting. NEVER pre-heat bearings 
+in excess of 120XC, for this may cause changes of 
+both the bearing material, as well as possible burning 
+or deformation of polya-mide bearing cages. DO NOT 
+pre-heat bearings having protective shields or seals, 
+because they are filled with grease. 
+When pre-heating bearings, care should to be taken 
+to avoid local overheating. Uniform safe Heating can 
+be achieved with the aid of electric heaters, heating 
+furnaces and oil bath. 
+It is also recommended to use special electric 
+induction heaters. Here the bearing (ring) is heated 
+by an alternating magnetic field which gives rise to 
+eddy currents. After induction heating the bearings 
+(rings) need to be demagnetized. 
+9.5 Bearings with Tapered Bore 
+Inner rings of tapered-bore bearings are always 
+mounted with a tight fit. The amount of interference in 
+this case is determined not by the shaft size tolerances 
+as for cylindrical-bore bearings, but by shifting the 
+bearings along the conical surface of the shaft 
+mounting journal, of adapter or withdrawal sleeve. 
+Double-row spherical roller bearings with tapered 
+bore are mounted onto cylindrical shaft with the aid 
+of adapter or withdrawal sleeves, while on tapered-
+journal shafts they are installed directly on the shaft. 
+Before mounting, the washed bearing bore and the 
+sleeve may be covered with a thin coat of lubricant. A 
+thicker lubricant layer will reduce friction and, in so 
+doing, facilitate mounting, but in the course of 
+operation the lubricant will be pressed out from the 
+mounting joints. As a result, the fit will lose tightness 
+and the ring or the sleeve will run wearing out the 
+mounting surfaces. 
+It is a good practice to mount bearings with the bore 
+of up to 70 mm and normal tightness using a hammer 
+and a mounting sleeve screwed onto the threaded 
+shaft end. The pressure part acts on the adapter 
+sleeve end or directly on the inner ring end-face (when 
+mounting is carried out without adapter and withdrawal 
+sleeves). Bearings with a diameter exceeding 100 mm 
+should be mounted using a hydraulic formed 
+(expanded) along with the axial shift of the adapter 
+sleeve. 
+When any previously dismounted bearing is to be 
+mounted again, it is not sufficient to restore the lock 
+nut to its original position, because after a prolonged 
+operation the radial clearance fit loose due to the wear 
+of the thread and smoothing of the mounting seats, 
+the shift gets longer. For self-aligning spherical roller 
+bearings the values of teh decrease in teh original 
+radial clearance which are neccessary to ensure a tight 
+static fit. The radial clearance of spherical roller 
+bearings is measured with the use of feelre gauges in 
+both roller rows simultaneously. It is necessary to 
+observe that the rollers are pressed against the meddle 
+flange (a guiding lip). Yhe outer and inner rigns should 
+be located so as to ensure equal radial calearance for 
+both rows. 
+The method of mounting bearings is selected based 
+on teh mounting conditions. 
+Small-and medium-size bearings can be fitted onto 
+the mounting seats with the aid of the lock nut. The 
+nut is tighteded using a box wrench (see Figure 9.6). 
+Figure9.6 
+Small-size bearings with an adapter sleeve are 
+mounted onto the tapered surface of the adapter sleeve 
+with the aid of teh lock nut (see Figure 9.7). 
+Figure 9.7 
+Small-size withdrawal sleeves are pressure-fitted 
+with the aid of the lock nut into the gap between the 
+shaft and the inner ring (see Figure 9.8). 
+38 
+
+---
+
+Rolling Bearings
+Figure 9.8 
+The nuts of larger-size bearings require a greater 
+tightening force. In these cases mounting can be 
+made easier with the use of a mut with thrust bolts 
+shown in Figure 9.9. To prevent the bearing or sleeve 
+from being wedged, it is necessary to screw up the 
+Figure 9.9 
+nut preliminarily unitl it comes fully against the 
+mounting sleeve. The thrust bolts made of improved 
+steel and located evenly along the circumference (the 
+number of bolts depends on the force required) are 
+screwed in uniformly in a cross manner until the 
+necessary decrease of radial 
+clearance is obtained. Since 
+a tapered mounting surface 
+provides self-braking, the 
+accessory may be, then, 
+removed and the bearing can 
+be fastened tight with it own 
+fastening nut. This principle is 
+applicable for bearings 
+mounted on a sleeve or 
+directly on a tapered journal. 
+When mounting large-size 
+bearings, 
+a 
+hydraulic 
+accessory, for example, a 
+Figure 9.11 
+circular piston pump, is normally usrd, to mount a 
+bearing or to press-fit a sleeve (see Figure 9.10). The 
+ring can be shifted axially with the aid of a screw - or 
+hydraulically-operated nut (for large-sizebearings). A 
+hydraulically driven nut has 
+Figure 9.10 
+a cylindrical groove on one of the end which serves 
+for insertion of a round piston provided with an O-ring 
+seal. The nut is connected, by means of a hose, with a 
+pump feeding oil to the nut. the pump is a jet-type oil 
+pump with a flexible high pressure hose. The nut piston 
+is moved by oil pressure, then it is extended and 
+pressure-fits the bearing onto the mounting seat. 
+The most expedient method of mounting large-size 
+bearings (with the bore diameter of over 300-mm) is 
+the use of a hydraulic outward thrust which affords high 
+- quality mounting of a bearing. For this purpose, 
+special channels and grooves are made on the shaft 
+to enadle oil to be fed to under the bearing inner ring. 
+When employing hydraulically-aided mounting, pump-
+driven oil is supplied via the oil-conducting channels 
+and grooves to the contact zone of the bearing inner 
+ring and the shaft. The pressurized oil fed to the contact 
+zone of the rings and the shaft thrusts the ring 
+outwards, thus permitting axial displacement of the ring 
+along the shaft (see Figure 9.11). 
+39 
+
+---
+
+Rolling Bearings
+Table 9.1 Reduction in Radial Clearance (Gap) Depending on Axial Displacement a Tapered Shaft or 
+Sleeve (Reference) 
+Over 
+Up to 
+min 
+max 
+Normal 
+Group 3 
+Group 4 
+24 
+30 
+0.015 
+0.02 
+0.015 
+0.020 
+0.035 
+30 
+40 
+0.020 
+0.025 
+0.015 
+0.025 
+0.040 
+40 
+50 
+0.025 
+0.03 
+0.020 
+0.030 
+0.050 
+50 
+65 
+0.030 
+0.04 
+0.025 
+0.035 
+0.055 
+65 
+80 
+0.040 
+0.05 
+0.025 
+0.040 
+0.070 
+80 
+100 
+0.045 
+0.06 
+0.035 
+0.050 
+0.080 
+100 
+120 
+0.050 
+0.07 
+0.050 
+0.065 
+0.100 
+120 
+140 
+0.065 
+0.09 
+0.055 
+0.08 
+0.11 
+140 
+160 
+0.075 
+0.10 
+0.055 
+0.09 
+0.13 
+160 
+180 
+0.080 
+0.11 
+0.06 
+0.10 
+0.15 
+180 
+200 
+0.090 
+0.13 
+0.07 
+0.10 
+0.16 
+200 
+225 
+0.100 
+0.14 
+0.08 
+0.12 
+0.18 
+225 
+250 
+0.110 
+0.15 
+0.09 
+0.13 
+0.20 
+250 
+280 
+0.120 
+0.17 
+0.10 
+0.14 
+0.22 
+280 
+315 
+0.130 
+0.19 
+0.11 
+0.15 
+0.24 
+315 
+355 
+0.150 
+0.21 
+0.12 
+0.17 
+0.26 
+355 
+400 
+0.170 
+0.23 
+0.13 
+0.19 
+0.29 
+400 
+450 
+0.200 
+0.26 
+0.13 
+0.20 
+0.31 
+450 
+500 
+0.210 
+0.28 
+0.16 
+0.23 
+0.35 
+500 
+560 
+0.240 
+0.32 
+0.17 
+0.25 
+0.36 
+560 
+630 
+2.260 
+0.35 
+0.20 
+0.29 
+0.41 
+630 
+710 
+0.300 
+0.40 
+0.21 
+0.31 
+0.45 
+710 
+800 
+0.340 
+0.45 
+0.23 
+0.35 
+0.51 
+800 
+900 
+0.370 
+0.50 
+0.27 
+0.39 
+0.57 
+900 
+1000 
+0.410 
+0.55 
+0.30 
+0.43 
+0.64 
+1000 
+1120 
+0.450 
+0.60 
+0.32 
+0.48 
+0.70 
+1120 
+1250 
+0.490 
+0.65 
+0.34 
+0.54 
+0.77 
+1250 
+1400 
+0.550 
+0.72 
+0.36 
+0.59 
+0.84 
+Minimum permissible residual clearance ** 
+after mounting of bearing with initial 
+clearance, mm 
+Bearing bore nominal 
+size, d, mm 
+Reduction in radial 
+clearance*, mm 
+*Valid for solid steel shafts and hollow shafts with bore diameter of up to half diameter of the shaft, only.
+** Bearings with the radial clearance in the upper-half o ftolerance limit, prior to mounting, shall be mounted with provision of reduced
+radial clearance or axial shift at an upper limit; bearings kwith the radial clearance in the lower half of tolerance limite-with reduced radial
+clearance or axial shift at lower value.
+40 
+
+---
+
+Rolling Bearings
+Axial displacement*. mm 
+1:12 Taper 
+1:30 Taper 
+Shaft 
+Sleeve 
+Shaft 
+Sleeve 
+min 
+max 
+min 
+max 
+min 
+max 
+min 
+max 
+0.30 
+0.35 
+0.30 
+0.40 
+-
+-
+-
+-
+0.35 
+0.40 
+0.35 
+0.45 
+-
+-
+-
+-
+0.40 
+0.45 
+0.45 
+0.50 
+-
+-
+-
+-
+0.45 
+0.60 
+0.50 
+0.70 
+-
+-
+-
+-
+0.6 
+0.75 
+0.70 
+0.85 
+-
+-
+-
+-
+0.7 
+0.9 
+0.75 
+1.0 
+1.7 
+2.2 
+1.8 
+2.4 
+0.7 
+1.1 
+0.8 
+1.2 
+1.9 
+2.7 
+2.0 
+2.8 
+1.1 
+1.4 
+1.2 
+1.5 
+2.7 
+3.5 
+2.8 
+3.6 
+1.2 
+1.5 
+1.3 
+1.7 
+3.0 
+4.0 
+3.1 
+4.2 
+1.3 
+1.7 
+1.4 
+1.9 
+3.2 
+4.2 
+3.3 
+4.6 
+1.4 
+2.0 
+1.5 
+2.2 
+3.5 
+4.5 
+3.6 
+5.0 
+1.6 
+2.2 
+1.7 
+2.4 
+4.0 
+5.5 
+4.2 
+5.7 
+1.7 
+2.4 
+1.8 
+2.6 
+4.2 
+6.0 
+4.6 
+6.2 
+1.9 
+2.6 
+2.0 
+2.9 
+4.7 
+6.7 
+4.8 
+6.9 
+2.0 
+3.0 
+2.2 
+3.2 
+5.0 
+7.5 
+5.2 
+7.7 
+2.4 
+3.4 
+2.6 
+3.6 
+6.0 
+8.2 
+6.2 
+8.4 
+2.6 
+3.6 
+2.9 
+3.9 
+6.5 
+9.0 
+6.8 
+9.2 
+3.1 
+4.1 
+3.4 
+4.4 
+7.7 
+10.0 
+8.0 
+10.4 
+3.3 
+4.4 
+3.6 
+4.8 
+8.2 
+11.0 
+8.4 
+11.2 
+3.7 
+5.0 
+4.1 
+5.4 
+9.2 
+12.5 
+9.6 
+12.8 
+4.0 
+5.4 
+4.4 
+5.9 
+10.0 
+13.5 
+10.4 
+14 
+4.6 
+6.2 
+5.1 
+6.8 
+11.5 
+15.5 
+12.0 
+16 
+5.3 
+7.0 
+5.8 
+7.6 
+13.3 
+17.5 
+13.6 
+18 
+5.7 
+7.8 
+6.3 
+8.5 
+14.3 
+19.5 
+14.8 
+20 
+6.3 
+8.5 
+7.0 
+9.4 
+15.8 
+21 
+16.4 
+22 
+6.8 
+9.0 
+7.6 
+10.2 
+17.0 
+23 
+18.0 
+24 
+7.4 
+9.8 
+8.3 
+11.0 
+18.5 
+25 
+19.6 
+26 
+8.3 
+10.8 
+9.3 
+12.1 
+21.0 
+27 
+22.2 
+28.3 
+41 
+
+---
+
+Rolling Bearings
+When mounting a bearing on a tapered sleeve, 
+hydraulic fluid can be supplied through the channels 
+located in the sleeve itself. 
+When mounting a bearing into the housing with a 
+tight fit, it is recommended, before mounting, either 
+to pre-cool the bearing (with liquid nitrogen or dry ice) 
+or to preheat the housing. 
+When mounting bearings, especia those that are 
+subjected to axial loads, it is advisable whenever 
+possible to make sure, with the use of a feelre gauge 
+or a light slit, that the bearing ring end-faces abut 
+properly and tightly (without misalignment) to the 
+shoulder ends. A similar check should be made on 
+the opposite bearing ends and the ends of the parts 
+pressing them in the axial direction. 
+It is necessary to check the correctness of the 
+mutual loaciton of bearings in the supports of one 
+shaft. When the supports of one shaft are installed in 
+different split housings, they should be checked, after 
+installation of the housing, for correctness of their 
+mutual position, i.e.; they must be accurately in line 
+with each other. After mounting, the shaft must be 
+easily started by hand and rotate freely and evenly. 
+9.6 Running Tests 
+After the bearing has been mounted and checked 
+for ease of rotation, the unit is filled with a prescribed 
+type of lubricant and subjected to running tests aimed 
+at checking the noise level created by the runnung 
+bearing and the working temperature. 
+The running test should be performed under partial 
+loading at low and medium rotational speeds. NEVER 
+can bearings, especially thrust-type and angular 
+contact thrust bearings, be tested under no-load 
+conditions, nor be accelerated immediately to high 
+speeds, because in this case balls and rollers will slip 
+over raceway and damage it, or excessive stresses 
+may arise in the bearing cage, Noise credted by the 
+bearing retation should be checked with the use a 
+stethoscope, tube or hollow rod. Properly mounted 
+and well lubricated bearings produce a soft, slightly 
+buzzing noise in their operation. 
+The ocurrence of a shrill noise may be the evidence 
+of improper mounting, misalignment, damage form 
+the use of hammer; non-uniform noise or knocking 
+reveals teh presence of foreign particles in teh 
+bearing; a metallic sound is indicative of an insufficient 
+clearance in the bearing; a whishtling or gritting sound 
+points to insufficient lubrication. 
+A rise of bearing temperature immediately after 
+starting is a normal event, with time temperature gets 
+stabilized. Abnormally high temperatures or persisten 
+temperature variations point to an excessive amount 
+of lubricant in the unit, an unduly tight fit of the bearing 
+in teh radial or axial direction, an improper 
+workmanship of teh mating parts which causes 
+catching of the bearing cage or rolling elements, s 
+stronger friction of seals, or mutual tiltness of the rings. 
+Make sure to check the quality of seales and operation 
+of the lubricating equipment during the running tests. 
+The running test process can be considered completed 
+only after stabilization of the bearing temperature 
+conditions. 
+9.7 Dismounting 
+Bearing dismounting should be made without 
+damage of bearings of bearings and mating parts. If 
+bearings are to be used again after the machine has 
+been disassembled, the dismounting effort shall not 
+be transmitted through rolling elements. With 
+separable bearings, one ring, together with the rolling 
+elements and the bearing cage, can be removed 
+independently of the other ring. Dismantling of non
+separable bearings should begin with the removal of 
+a more loosely fitted ring. 
+9.8 Bearings with Cylindrical Bore 
+Small-size bearings can be removed from the shaft 
+by lightly knocking with a hammer on the aligning bar 
+made from light metals, shifting the bar over teh 
+bearing ring circumference. Larger-size bearings are 
+normally dismantled with the use of various extractor: 
+mechanical screw-type and hydraulically-driven 
+Figure 9.12 
+removers (see Figure 9.12). the remover rods are 
+pressed directly to the face of the ring to be removed 
+or to the adjacent part. Use may be made of removers 
+carrying stripping rings or half-rings, as well as of three-
+rod screw removers. 
+42 
+
+---
+
+Rolling Bearings
+To facilitate future dismantling, designers should 
+make provision for slots in the shaft or housing 
+shoulders permitting insertion of the extraction tools, 
+or for insertion of withdrawal ringshoulders. 
+The outer ring will be more readily removed from 
+housings if teh latter have threaded holes for driving 
+in thrust screws. 
+The force applied to remove a bearing is generally 
+much greater than that necessary for pressure-fitting, 
+as teh ring sets down with time or fretting can occur, 
+i.e., corrosion (rust from friction) and microseizure of 
+the ring and shaft metal. 
+Large-size bearings mounted with a tight fit usually 
+require great effort for removal. The use of an oil-
+pressure fitting method (Supply of oil under pressure 
+to teh mounting surface) will substantially facilitate 
+the dismantling procedure. Of course, oil channels 
+and distribution grooves necessary for this purpose 
+should be provided for at the stage of the bearing 
+assembly design. 
+9.9 Bearings with Tapered Bore 
+Dismantling of bearings located on an adapter 
+sleeve starts with loosing the lock nut and screwing it 
+out a few turns. Then a special intermediate part-a 
+knock-out bar and a hammer are used to loosen the 
+fit between the sleeve and the bearing (see Figure 
+9.13). When a press is used. the adapter sleeve or 
+Figure 9.13 
+the loosended nut should be supported and the 
+bearing should be pressed off from the adapter 
+sleeve. 
+Dismounting of withdrawal sleeve of mounted 
+bearings beings with the removeal of teh axial locking 
+elements (the shaft nut, thrust washer, end cover, and 
+Figure 9.14 
+the like), then a withdrawal nut is screwed onto the 
+sleeve thread until the sleeve fit in the bearing ring 
+gets loose (see Figure 9.14). If the threaded portion of 
+the sleeve goes beyong the shaft journal, a supporting 
+ring should be inserted into the sleeve bore to protect 
+the thread from damage when the nut is being screwed 
+on. Ind difficult cases, especially when dismantling 
+large-size bearings, use can be made of extraction 
+Figure 9.15 
+nuts with additonal thrust bolts (see Figure 9.15). 
+A washer is inserted between the inner ring and the 
+thrust bolts. 
+If a bearing is abutted on teh lock ring, the simplest 
+way of dismantling withdrawal sleeves is to remove 
+them with the aid of a circular poston pump (see Figure 
+9.16). 
+The most simple and reliable technique of 
+dismantling bearings fitted on a tapered shaft journal 
+or those installed with teh aid of tapered sleeve, is to 
+remove them using dydraulically-driven nuts or by 
+means of an oil-pressure fillting method, i.e., by 
+supplying oil to the contact zone of the inner ring and 
+the shaft (see Figure 9.17, 9.18). When oil is fed under 
+high pressure, the tight fit repidly gets looser and teh 
+bearing is readily removed from the shaft journal. 
+43 
+
+---
+
+The hydraulic method is acceptable for both
+cylindrical and tapered fits, In both cases the shaft
+must be provided with oil grooves, supply channels
+and connecting threads. Large-size adapter and
+withdrawal sleeves must possess corresponding
+grooves and holes.
+it should be borne in mind that when oil is forced in
+between   tapered mounting surfaces, teh pressure
+joint is immediately released. To prevent accidents
+while dismounting, it is necessary to limit the axial
+motion (shift) of teh bearing or withdrawal sleeve with
+teh aid of teh lock nut, fastening sleeve nut or with a
+stop.
+Figure 9.16
+Figure 9.17
+Figure 9.18
+44
+Rolling Bearings
+
+---
+
+MR Series*
+Open
+Miniature Ball Bearings
+45
+MR31
+L-310W51
+1.0
+3.0
+1.5
+74
+20
+130
+150
+0.05
+MR41X
+R-412
+1.2
+4.0
+1.8
+108
+34
+110
+130
+0.10
+MR52
+L-520W02
+2.0
+5.0
+2.0
+167
+49
+85
+100
+0.14
+MR62
+R-620W52
+2.0
+6.0
+2.5
+334
+98
+75
+90
+0.28
+MR72
+R-720Y52
+2.0
+7.0
+2.5
+383
+128
+63
+75
+0.43
+MR82X
+R-825Y52
+2.5
+8.0
+2.5
+559
+177
+60
+67
+0.52
+MR63
+L-630
+3.0
+6.0
+2.0
+206
+74
+71
+80
+0.20
+MR83
+R-830Y52
+3.0
+8.0
+2.5
+392
+137
+60
+67
+0.51
+MR93
+R-930Y52
+3.0
+9.0
+2.5
+569
+186
+56
+67
+0.75
+MR74
+L-740
+4.0
+7.0
+2.0
+314
+118
+60
+67
+0.23
+MR84
+L-840
+4.0
+8.0
+2.0
+392
+137
+56
+67
+0.39
+MR104
+L-1040
+4.0
+10.0
+3.0
+589
+206
+48
+56
+0.95
+MR85
+L-850
+5.0
+8.0
+2.0
+304
+118
+53
+63
+0.25
+MR95
+L-950
+5.0
+9.0
+2.5
+432
+167
+50
+60
+0.54
+MR105
+L-1050
+5.0
+10.0
+3.0
+432
+167
+50
+60
+0.91
+MR106
+L-1060
+6.0
+10.0
+2.5
+500
+216
+45
+53
+0.55
+MR126
+L-1260
+6.0
+12.0
+3.0
+716
+294
+43
+50
+1.25
+MR117
+L-1170
+7.0
+11.0
+2.5
+451
+206
+43
+50
+0.59
+MR137
+L-1370
+7.0
+13.0
+3.0
+540
+275
+40
+48
+1.52
+MR128
+L-1280
+8.0
+12.0
+2.5
+540
+275
+40
+48
+0.70
+MR148
+L-1480
+8.0
+14.0
+3.5
+814
+383
+38
+45
+1.90
+Bore
+OD
+Width
+Cr
+Cor
+Grease
+Oil
+d
+D
+t
+Bearing
+Equivalent
+Number
+Number
+Weight
+(g)
+Dimensions (mm)
+Basic Load
+Ratings (N)
+Limiting Speed X 103
+(rev/min)
+* All Bearings are available with stainless steel 440C
+
+---
+
+600 Series*
+Open
+46
+601X
+R-615
+1.5
+6
+2.5
+334
+98
+75
+90
+0.31
+602
+R-725
+2.0
+7
+2.8
+383
+128
+60
+71
+0.50
+602X
+R-825
+2.5
+8
+2.8
+549
+177
+60
+71
+0.61
+603
+R-930
+3.0
+9
+3.0
+569
+186
+56
+67
+0.84
+604
+R-1240
+4.0
+12
+4.0
+961
+353
+48
+56
+2.19
+605
+R-1450
+5.0
+14
+5.0
+1334
+510
+40
+50
+3.46
+606
+R-1760
+6.0
+17
+6.0
+2266
+844
+38
+45
+5.94
+607
+R-1970
+7.0
+19
+6.0
+2335
+893
+36
+43
+7.80
+608
+R-2280
+8.0
+22
+7.0
+3296
+1383
+34
+40
+11.80
+609
+     –
+9.0
+24
+7.0
+3335
+1422
+32
+38
+14.70
+Bore
+OD
+Width
+Cr
+Cor
+Grease
+Oil
+d
+D
+t
+Bearing
+Equivalent
+Number
+Number
+Weight
+(g)
+Dimensions (mm)
+Basic Load
+Ratings (N)
+Limiting Speed X 103
+(rev/min)
+Miniature Ball Bearings
+* All Bearings are available with stainless steel 440C
+620 Series*
+Open
+623
+R-1030
+3
+10
+4
+627.8
+215.8
+50
+60
+1.45
+624
+R-1340
+4
+13
+5
+1305
+490.5
+40
+48
+3.10
+625
+R-1650
+5
+16
+5
+1727
+676.9
+36
+43
+4.95
+626
+R-1960
+6
+19
+6
+2335
+892.7
+32
+40
+8.12
+627
+R-2270
+7
+22
+7
+3286
+1383
+30
+36
+12.70
+628
+     –
+8
+24
+8
+3335
+1422
+28
+34
+17.10
+629
+R-2690
+9
+26
+8
+4571
+1982
+28
+34
+19.00
+Bore
+OD
+Width
+Cr
+Cor
+Grease
+Oil
+d
+D
+t
+Bearing
+Equivalent
+Number
+Number
+Weight
+(g)
+Dimensions (mm)
+Basic Load
+Ratings (N)
+Limiting Speed X 103
+(rev/min)
+* All Bearings are available with stainless steel 440C
+
+---
+
+47
+Miniature Ball Bearings
+630 Series*
+Open
+633
+     –
+3
+13
+5
+1305
+490.5
+40
+48
+3.27
+634
+R-1640
+4
+16
+5
+1344
+519.9
+36
+43
+5.24
+635
+     –
+5
+19
+6
+2335
+892.7
+32
+40
+8.50
+636
+     –
+6
+22
+7
+3335
+1422
+30
+36
+13.90
+637
+     –
+7
+26
+9
+4571
+1982
+28
+34
+24.20
+638
+     –
+8
+28
+9
+4571
+1982
+28
+34
+28.10
+639
+     –
+9
+30
+10
+4660
+2080
+24
+30
+36.20
+Bore
+OD
+Width
+Cr
+Cor
+Grease
+Oil
+d
+D
+t
+Bearing
+Equivalent
+Number
+Number
+Weight
+(g)
+Dimensions (mm)
+Basic Load
+Ratings (N)
+Limiting Speed X 103
+(rev/min)
+680 Series*
+Open
+681
+L-310
+1.0
+3
+1.0
+74
+20
+130
+150
+0.03
+681X
+L-415
+1.5
+4
+1.2
+108
+34
+100
+120
+0.10
+682
+L-520
+2.0
+5
+1.5
+167
+49
+85
+100
+0.15
+682X
+L-625
+2.5
+6
+1.8
+186
+59
+71
+80
+0.20
+683
+L-730
+3.0
+7
+2.0
+314
+108
+63
+75
+0.32
+684
+L-940
+4.0
+9
+2.5
+638
+226
+53
+63
+0.65
+685
+L-1150
+5.0
+11
+3.0
+716
+294
+45
+53
+1.16
+686
+L-1360
+6.0
+13
+3.5
+1079
+441
+40
+50
+1.87
+687
+L-1470
+7.0
+14
+3.5
+1177
+510
+40
+50
+2.03
+688
+L-1680
+8.0
+16
+4.0
+1256
+589
+36
+43
+3.11
+689
+L-1790
+9.0
+17
+4.0
+1324
+667
+36
+43
+3.41
+Bore
+OD
+Width
+Cr
+Cor
+Grease
+Oil
+d
+D
+t
+Bearing
+Equivalent
+Number
+Number
+Weight
+(g)
+Dimensions (mm)
+Basic Load
+Ratings (N)
+Limiting Speed X 103
+(rev/min)
+* All Bearings are available with stainless steel 440C
+* All Bearings are available with stainless steel 440C
+
+---
+
+Miniature Ball Bearings
+48
+690 Series*
+Open
+691
+R-410
+1.0
+4
+1.6
+137
+39.2
+100
+120
+0.11
+691X
+R-515
+1.5
+5
+2.0
+167
+49.1
+85
+100
+0.20
+692
+R-620
+2.0
+6
+2.3
+334
+98.1
+75
+90
+0.28
+692X
+R-725
+2.5
+7
+2.5
+383
+128
+63
+75
+0.40
+693
+R-830
+3.0
+8
+3.0
+559
+177
+60
+67
+0.60
+694
+R-1140
+4.0
+11
+4.0
+961
+353
+48
+56
+1.69
+695
+R-1350
+5.0
+13
+4.0
+1079
+432
+43
+50
+2.39
+696
+R-1560
+6.0
+15
+5.0
+1344
+520
+40
+45
+3.85
+697
+     –
+7.0
+17
+5.0
+1609
+716
+36
+43
+5.26
+698
+     –
+8.0
+19
+6.0
+2237
+922
+36
+43
+7.12
+699
+L-2090
+9.0
+20
+6.0
+2472
+1079
+34
+40
+3.38
+Bore
+OD
+Width
+Cr
+Cor
+Grease
+Oil
+d
+D
+t
+Bearing
+Equivalent
+Number
+Number
+Weight
+(g)
+Dimensions (mm)
+Basic Load
+Ratings (N)
+Limiting Speed X 103
+(rev/min)
+* All Bearings are available with stainless steel 440C
+
+---
+
+49
+Miniature Ball Bearings
+MR Series*
+Double Shielded
+MR41XZZ
+         –
+1.2
+4
+2.5
+108
+34
+110
+130
+0.14
+MR52ZZ
+L-520ZZW52
+2.0
+5
+2.5
+167
+49
+85
+100
+0.20
+MR62ZZ
+R-620ZZY52
+2.0
+6
+2.5
+334
+98
+75
+90
+0.33
+MR72ZZ
+R-720ZZY03
+2.0
+7
+3.0
+383
+128
+63
+75
+0.53
+MR63ZZ
+L-630ZZ
+3.0
+6
+2.5
+206
+74
+71
+80
+0.28
+MR83ZZ
+         –
+3.0
+8
+3.0
+392
+137
+60
+67
+0.67
+MR93ZZ
+R-930ZZY04
+3.0
+9
+4.0
+569
+186
+56
+67
+1.15
+MR74ZZ
+L-740ZZ
+4.0
+7
+2.5
+255
+108
+60
+67
+0.33
+MR84ZZ
+L-840ZZ
+4.0
+8
+3.0
+392
+137
+56
+67
+0.56
+MR104ZZ
+L-1040ZZ
+4.0
+10
+4.0
+589
+206
+48
+56
+1.33
+MR85ZZ
+L-850ZZ
+5.0
+8
+2.5
+216
+88
+53
+63
+0.34
+MR95ZZ
+L-950ZZ
+5.0
+9
+3.0
+432
+167
+50
+60
+0.58
+MR105ZZ
+L-1050ZZ
+5.0
+10
+4.0
+432
+167
+50
+60
+1.26
+MR115ZZ
+         –
+5.0
+11
+4.0
+716
+294
+45
+53
+0.62
+MR106ZZ
+L-1060ZZ
+6.0
+10
+3.0
+500
+216
+45
+53
+0.70
+MR126ZZ
+L-1260ZZ
+6.0
+12
+4.0
+716
+294
+43
+50
+1.66
+MR117ZZ
+L-1170ZZ
+7.0
+11
+3.0
+451
+206
+43
+50
+0.71
+MR137ZZ
+L-1370ZZ
+7.0
+13
+4.0
+540
+275
+40
+48
+2.01
+MR128ZZ
+L-1280ZZ
+8.0
+12
+3.5
+540
+275
+40
+48
+0.99
+MR148ZZ
+L-1480ZZ
+8.0
+14
+4.0
+814
+383
+38
+45
+2.19
+Bore
+OD
+Width
+Cr
+Cor
+Grease
+Oil
+d
+D
+t
+Bearing
+Equivalent
+Number
+Number
+Weight
+(g)
+Dimensions (mm)
+Basic Load
+Ratings (N)
+Limiting Speed X 103
+(rev/min)
+* All Bearings are available with stainless steel 440C
+
+---
+
+Miniature Ball Bearings
+600 Series*
+Double Shielded
+601XZZ
+R-615ZZ
+1.5
+6
+3.0
+334
+98
+75
+90
+0.40
+602ZZ
+R-720ZZ
+2.0
+7
+3.5
+383
+128
+60
+71
+0.60
+620XZZ
+R-825ZZ
+2.5
+8
+4.0
+549
+177
+60
+71
+0.85
+603ZZ
+R-930ZZ
+3.0
+9
+5.0
+569
+186
+56
+67
+1.43
+604ZZ
+R-1240ZZ
+4.0
+12
+4.0
+961
+353
+48
+56
+2.34
+605ZZ
+R-1450ZZ
+5.0
+14
+5.0
+1334
+510
+40
+50
+3.75
+606ZZ
+R-1760ZZ
+6.0
+17
+6.0
+2266
+844
+38
+45
+6.89
+607ZZ
+R-1970ZZ
+7.0
+19
+6.0
+2335
+893
+36
+43
+8.24
+608ZZ
+R-2280ZZ
+8.0
+22
+7.0
+3296
+1383
+34
+40
+12.90
+609ZZ
+       –
+9.0
+24
+7.0
+3335
+1422
+32
+38
+16.00
+Bore
+OD
+Width
+Cr
+Cor
+Grease
+Oil
+d
+D
+t
+Bearing
+Equivalent
+Number
+Number
+Weight
+(g)
+Dimensions (mm)
+Basic Load
+Ratings (N)
+Limiting Speed X 103
+(rev/min)
+50
+* All Bearings are available with stainless steel 440C
+Please indicate ‘-2RS’ behind the basic number, instead of ‘ZZ’ if you are looking for both side rubber seal bearing.
+620 Series*
+Double Shielded
+623ZZ
+R-1030ZZ
+3
+10
+4
+628
+216
+50
+60
+1.65
+624ZZ
+R-1340ZZ
+4
+13
+5
+1305
+491
+40
+48
+3.20
+625ZZ
+R-1650ZZ
+5
+16
+5
+1727
+677
+36
+43
+5.10
+626ZZ
+R-1960ZZ
+6
+19
+6
+2335
+893
+32
+40
+8.65
+627ZZ
+R-2270ZZ
+7
+22
+7
+3286
+1383
+30
+36
+13.10
+628ZZ
+       –
+8
+24
+8
+3335
+1422
+28
+34
+18.50
+629ZZ
+R-2690ZZ
+9
+26
+8
+4571
+1982
+28
+34
+21.80
+Bore
+OD
+Width
+Cr
+Cor
+Grease
+Oil
+d
+D
+t
+Bearing
+Equivalent
+Number
+Number
+Weight
+(g)
+Dimensions (mm)
+Basic Load
+Ratings (N)
+Limiting Speed X 103
+(rev/min)
+* All Bearings are available with stainless steel 440C
+Please indicate ‘-2RS’ behind the basic number, instead of ‘ZZ’ if you are looking for both side rubber seal bearing.
+
+---
+
+51
+Miniature Ball Bearings
+630 Series*
+Double Shielded
+633ZZ
+       –
+3
+13
+5
+1305
+491
+40
+48
+3.43
+634ZZ
+R-1640ZZ
+4
+16
+5
+1344
+520
+36
+43
+5.44
+635ZZ
+       –
+5
+19
+6
+2335
+893
+32
+40
+8.89
+636ZZ
+       –
+6
+22
+7
+3335
+1422
+30
+36
+14.50
+637ZZ
+       –
+7
+26
+9
+4571
+1982
+28
+34
+25.80
+638ZZ
+       –
+8
+28
+9
+4571
+1982
+28
+34
+30.30
+639ZZ
+       –
+9
+30
+10
+4660
+2080
+24
+30
+37.10
+Bore
+OD
+Width
+Cr
+Cor
+Grease
+Oil
+d
+D
+t
+Bearing
+Equivalent
+Number
+Number
+Weight
+(g)
+Dimensions (mm)
+Basic Load
+Ratings (N)
+Limiting Speed X 103
+(rev/min)
+680 Series*
+Double Shielded
+681XZZ
+L-415ZZ
+1.5
+4
+2.0
+108
+34
+100
+120
+0.14
+682ZZ
+L-520ZZ
+2.0
+5
+2.3
+167
+49
+85
+100
+0.20
+682XZZ
+L-625ZZ
+2.5
+6
+2.6
+186
+59
+71
+80
+0.35
+683ZZ
+L-730ZZ
+3.0
+7
+3.0
+314
+108
+63
+75
+0.45
+684ZZ
+L-940ZZ
+4.0
+9
+4.0
+638
+226
+53
+63
+1.00
+685ZZ
+L-1150ZZ
+5.0
+11
+5.0
+716
+294
+45
+53
+1.93
+686ZZ
+L-1360ZZ
+6.0
+13
+5.0
+1079
+441
+40
+50
+2.68
+687ZZ
+L-1470ZZ
+7.0
+14
+5.0
+1177
+510
+40
+50
+2.95
+688ZZ
+L-1680ZZ
+8.0
+16
+5.0
+1256
+589
+36
+43
+4.05
+689ZZ
+L-1790ZZ
+9.0
+17
+5.0
+1324
+667
+36
+43
+4.38
+Bore
+OD
+Width
+Cr
+Cor
+Grease
+Oil
+d
+D
+t
+Bearing
+Equivalent
+Number
+Number
+Weight
+(g)
+Dimensions (mm)
+Basic Load
+Ratings (N)
+Limiting Speed X 103
+(rev/min)
+Please indicate ‘-2RS’ behind the basic number, instead of ‘ZZ’ if you are looking for both side rubber seal bearing.
+* All Bearings are available with stainless steel 440C
+Please indicate ‘-2RS’ behind the basic number, instead of ‘ZZ’ if you are looking for both side rubber seal bearing.
+
+---
+
+691XZZ
+R-515ZZ
+1.5
+5
+2.6
+167
+49
+85
+100
+0.25
+692ZZ
+R-620ZZ
+2.0
+6
+3.0
+334
+98
+75
+90
+0.35
+692XZZ
+R-725ZZ
+2.5
+7
+3.5
+383
+128
+63
+75
+0.55
+693ZZ
+R-830ZZ
+3.0
+8
+4.0
+559
+177
+60
+67
+0.80
+694ZZ
+R-1140ZZ
+4.0
+11
+4.0
+961
+353
+48
+56
+1.75
+695ZZ
+R-1350ZZ
+5.0
+13
+4.0
+1079
+432
+43
+50
+2.31
+696ZZ
+R-1560ZZ
+6.0
+15
+5.0
+1344
+520
+40
+45
+3.65
+697ZZ
+        –
+7.0
+17
+5.0
+1609
+716
+36
+43
+5.01
+698ZZ
+        –
+8.0
+19
+6.0
+2237
+922
+36
+43
+7.57
+699ZZ
+L-2090ZZ
+9.0
+20
+6.0
+2472
+1079
+34
+40
+8.54
+Bore
+OD
+Width
+Cr
+Cor
+Grease
+Oil
+d
+D
+t
+Bearing
+Equivalent
+Number
+Number
+Weight
+(g)
+Dimensions (mm)
+Basic Load
+Ratings (N)
+Limiting Speed X 103
+(rev/min)
+690 Series*
+Double Shielded
+52
+Miniature Ball Bearings
+* All Bearings are available with stainless steel 440C
+Please indicate ‘-2RS’ behind the basic number, instead of ‘ZZ’ if you are looking for both side rubber seal bearing.
+
+---
+
+53
+MF Series*
+Flanged, Open
+MF41X
+         –
+1.2
+4
+1.8
+4.8
+0.4
+108
+34
+110
+130
+0.12
+MF52
+LF-520W02
+2.0
+5
+2.0
+6.2
+0.6
+167
+49
+85
+100
+0.19
+MF62
+RF-620W52
+2.0
+6
+2.5
+7.2
+0.6
+334
+98
+75
+90
+0.34
+MF72
+RF-720Y52
+2.0
+7
+2.5
+8.2
+0.6
+383
+128
+63
+75
+0.50
+MF82X
+RF-825Y52
+2.5
+8
+2.5
+9.2
+0.6
+559
+177
+60
+67
+0.60
+MF63
+LF-630
+3.0
+6
+2.0
+7.2
+0.6
+206
+74
+71
+80
+0.26
+MF83
+RF-830Y52
+3.0
+8
+2.5
+9.2
+0.6
+392
+137
+60
+67
+0.59
+MF93
+RF-930Y52
+3.0
+9
+2.5
+10.6
+0.6
+569
+186
+56
+67
+0.83
+MF74
+LF-740
+4.0
+7
+2.0
+8.2
+0.6
+314
+118
+60
+67
+0.30
+MF84
+LF-840
+4.0
+8
+2.0
+9.2
+0.6
+392
+137
+56
+67
+0.47
+MF104
+LF-1040
+4.0
+10
+3.0
+11.2
+0.6
+589
+206
+48
+56
+1.04
+MF85
+LF-850
+5.0
+8
+2.0
+9.2
+0.6
+304
+118
+53
+63
+0.33
+MF95
+LF-950
+5.0
+9
+2.5
+10.2
+0.6
+432
+167
+50
+60
+0.62
+MF105
+LF-1050
+5.0
+10
+3.0
+11.6
+0.6
+431
+167
+50
+60
+1.00
+MF106
+LF-1060
+6.0
+10
+2.5
+11.2
+0.6
+500
+216
+45
+53
+0.64
+MF126
+LF-1260
+6.0
+12
+3.0
+13.6
+0.6
+716
+294
+43
+50
+1.44
+MF117
+LF-1170
+7.0
+11
+2.5
+12.2
+0.6
+451
+206
+43
+50
+0.69
+MF137
+LF-1370
+7.0
+13
+3.0
+14.2
+0.6
+540
+275
+40
+48
+1.64
+MF128
+LF-1280
+8.0
+12
+2.5
+13.6
+0.6
+540
+275
+40
+48
+0.81
+MF148
+LF-1480
+8.0
+14
+3.5
+15.6
+0.8
+814
+383
+38
+45
+2.13
+Bore
+OD
+Width
+Flange
+Flange
+Cr
+Cor
+Grease
+Oil
+d
+D
+t
+Dia. D1
+Width t1
+Bearing
+Equivalent
+Number
+Number
+Weight
+(g)
+Dimensions (mm)
+Basic Load
+Ratings (N)
+Limiting Speed X 103
+(rev/min)
+Miniature Ball Bearings
+* All Bearings are available with stainless steel 440C
+
+---
+
+600 Series*
+Flanged, Open
+54
+F601X
+RF-615
+1.5
+6
+2.5
+7.5
+0.6
+334
+98
+75
+90
+0.38
+F602
+RF-720
+2.0
+7
+2.8
+8.5
+0.7
+383
+128
+60
+71
+0.60
+F602X
+RF-825
+2.5
+8
+2.8
+9.5
+0.7
+549
+177
+60
+71
+0.72
+F603
+RF-930
+3.0
+9
+3.0
+10.5
+0.7
+569
+186
+56
+67
+0.96
+F604
+RF-1240
+4.0
+12
+4.0
+13.5
+1.0
+961
+353
+48
+56
+2.42
+F605
+RF-1450
+5.0
+14
+5.0
+16.0
+1.0
+1334
+510
+40
+50
+3.83
+F606
+RF-1760
+6.0
+17
+6.0
+19.0
+1.2
+2266
+844
+38
+45
+6.47
+F607
+RF-1970
+7.0
+19
+6.0
+22.0
+1.5
+2335
+893
+36
+43
+8.93
+F608
+RF-2280
+8.0
+22
+7.0
+25.0
+1.5
+3296 1383
+34
+40
+13.10
+F609
+      –
+9.0
+24
+7.0
+27.0
+1.5
+3335 1422
+32
+38
+16.10
+Bore
+OD
+Width
+Flange
+Flange
+Cr
+Cor
+Grease
+Oil
+d
+D
+t
+Dia. D1
+Width t1
+Bearing
+Equivalent
+Number
+Number
+Weight
+(g)
+Dimensions (mm)
+Basic Load
+Ratings (N)
+Limiting Speed X 103
+(rev/min)
+Miniature Ball Bearings
+* All Bearings are available with stainless steel 440C
+620 Series*
+Flanged, Open
+F623
+RF-1030
+3
+10
+4
+11.5
+1.0
+628
+216
+50
+60
+1.65
+F624
+RF-1340
+4
+13
+5
+15.0
+1.0
+1305
+491
+40
+48
+3.44
+F625
+RF-1650
+5
+16
+5
+18.0
+1.0
+1727
+677
+36
+43
+5.37
+F626
+RF-1960
+6
+19
+6
+22.0
+1.5
+2335
+893
+32
+40
+9.25
+F627
+RF-2270
+7
+22
+7
+25.0
+1.5
+3286 1383
+30
+36
+14.00
+Bore
+OD
+Width
+Flange
+Flange
+Cr
+Cor
+Grease
+Oil
+d
+D
+t
+Dia. D1
+Width t1
+Bearing
+Equivalent
+Number
+Number
+Weight
+(g)
+Dimensions (mm)
+Basic Load
+Ratings (N)
+Limiting Speed X 103
+(rev/min)
+* All Bearings are available with stainless steel 440C
+
+---
+
+55
+Miniature Ball Bearings
+680 Series*
+Flanged, Open
+F681
+LF-310
+1.0
+3
+1.0
+3.8
+0.3
+74
+20
+130
+150
+0.04
+F681X
+LF-415
+1.5
+4
+1.2
+5.0
+0.4
+108
+34
+100
+120
+0.12
+F682
+LF-520
+2.0
+5
+1.5
+6.1
+0.5
+167
+49
+85
+100
+0.19
+F682X
+LF-625
+2.5
+6
+1.8
+7.1
+0.5
+186
+59
+71
+80
+0.24
+F683
+LF-730
+3.0
+7
+2.0
+8.1
+0.5
+314
+108
+63
+75
+0.37
+F684
+LF-940
+4.0
+9
+2.5
+10.3
+0.6
+638
+226
+53
+63
+0.74
+F685
+LF-1150
+5.0
+11
+3.0
+12.5
+0.8
+716
+284
+45
+53
+1.33
+F686
+LF-1360
+6.0
+13
+3.5
+15.0
+1.0
+1079
+441
+40
+50
+2.21
+F687
+LF-1470
+7.0
+14
+3.5
+16.0
+1.0
+1177
+510
+40
+50
+2.40
+F688
+LF-1680
+8.0
+16
+4.0
+18.0
+1.0
+1256
+589
+36
+43
+3.53
+F689
+LF-1790
+9.0
+17
+4.0
+19.0
+1.0
+1324
+667
+36
+43
+3.85
+Bore
+OD
+Width
+Flange
+Flange
+Cr
+Cor
+Grease
+Oil
+d
+D
+t
+Dia. D1
+Width t1
+Bearing
+Equivalent
+Number
+Number
+Weight
+(g)
+Dimensions (mm)
+Basic Load
+Ratings (N)
+Limiting Speed X 103
+(rev/min)
+630 Series*
+Flanged, Open
+F634
+RF-1640
+4
+16
+5
+18
+1.0
+1344
+520
+36
+43
+5.66
+F635
+       –
+5
+19
+6
+22
+1.5
+2335
+893
+32
+40
+9.26
+Bore
+OD
+Width
+Flange
+Flange
+Cr
+Cor
+Grease
+Oil
+d
+D
+t
+Dia. D1
+Width t1
+Bearing
+Equivalent
+Number
+Number
+Weight
+(g)
+Dimensions (mm)
+Basic Load
+Ratings (N)
+Limiting Speed X 103
+(rev/min)
+* All Bearings are available with stainless steel 440C
+* All Bearings are available with stainless steel 440C
+
+---
+
+56
+690 Series*
+Flanged, Open
+Miniature Ball Bearings
+F691
+RF-410
+1.0
+4
+1.6
+5.0
+0.5
+137
+39
+100
+120
+0.14
+F691X
+RF-515
+1.5
+5
+2.0
+6.5
+0.6
+167
+49
+85
+100
+0.26
+F692
+RF-620
+2.0
+6
+2.3
+7.5
+0.6
+334
+98
+75
+90
+0.35
+F692X
+RF-725
+2.5
+7
+2.5
+8.5
+0.7
+383
+128
+63
+75
+0.50
+F693
+RF-830
+3.0
+8
+3.0
+9.5
+0.7
+559
+177
+60
+67
+0.71
+F694
+RF-1140
+4.0
+11
+4.0
+12.5
+1.0
+961
+353
+48
+56
+1.91
+F695
+RF-1350
+5.0
+13
+4.0
+15.0
+1.0
+1079
+432
+43
+50
+2.73
+F696
+RF-1560
+6.0
+15
+5.0
+17.0
+1.2
+1344
+520
+40
+45
+4.24
+F697
+      –
+7.0
+17
+5.0
+19.0
+1.2
+1609
+716
+36
+43
+5.79
+F698
+      –
+8.0
+19
+6.0
+22.0
+1.5
+2237
+922
+36
+43
+8.25
+F699
+LF-2090
+9.0
+20
+6.0
+23.0
+1.5
+2472 1079
+34
+40
+9.57
+Bore
+OD
+Width
+Flange
+Flange
+Cr
+Cor
+Grease
+Oil
+d
+D
+t
+Dia. D1
+Width t1
+Bearing
+Equivalent
+Number
+Number
+Weight
+(g)
+Dimensions (mm)
+Basic Load
+Ratings (N)
+Limiting Speed X 103
+(rev/min)
+* All Bearings are available with stainless steel 440C
+
+---
+
+57
+MF Series*
+Flanged, Double Shielded
+Miniature Ball Bearings
+MF52ZZ
+LF-520ZZW52
+2
+5
+2.5
+6.2
+0.6
+167
+49
+85
+100
+0.25
+MF72ZZ
+RF-720ZZY03
+2
+7
+3.0
+8.2
+0.6
+383
+128
+63
+75
+0.60
+MF63ZZ
+LF-630ZZ
+3
+6
+2.5
+7.2
+0.6
+206
+74
+71
+80
+0.34
+MF93ZZ
+RFR-930ZZY04
+3
+9
+4.0
+10.6
+0.8
+569
+186
+56
+67
+1.30
+MF74ZZ
+LF-740ZZ
+4
+7
+2.5
+8.2
+0.6
+255
+108
+60
+67
+0.40
+MF84ZZ
+LF-840ZZ
+4
+8
+3.0
+9.2
+0.6
+392
+137
+56
+67
+0.64
+MF104ZZ LF-1040ZZ
+4
+10
+4.0
+11.6
+0.8
+589
+206
+48
+56
+1.50
+MF85ZZ
+LF-850ZZ
+5
+8
+2.5
+9.2
+0.6
+216
+88
+53
+63
+0.42
+MF95ZZ
+LF-950ZZ
+5
+9
+3.0
+10.2
+0.6
+432
+167
+50
+60
+0.66
+MF105ZZ LF-1050ZZ
+5
+10
+4.0
+11.6
+0.8
+432
+167
+50
+60
+1.38
+MF115ZZ            –
+5
+11
+4.0
+12.6
+0.8
+716
+284
+45
+53
+0.81
+MF106ZZ LF-1060ZZ
+6
+10
+3.0
+11.2
+0.6
+500
+216
+45
+53
+0.79
+MF126ZZ LF-1260ZZ
+6
+12
+4.0
+13.6
+0.8
+716
+294
+43
+50
+1.86
+MF117ZZ LF-1170ZZ
+7
+11
+3.0
+12.2
+0.6
+451
+206
+43
+50
+0.81
+MF137ZZ LF-1370ZZ
+7
+13
+4.0
+14.6
+0.8
+540
+275
+40
+48
+2.17
+MF128ZZ LF-1280ZZ
+8
+12
+3.5
+13.6
+0.8
+540
+275
+40
+48
+1.14
+MF148ZZ LF-1480ZZ
+8
+14
+4.0
+15.6
+0.8
+814
+383
+38
+45
+2.42
+Bore
+OD
+Width
+Flange
+Flange
+Cr
+Cor
+Grease
+Oil
+d
+D
+t
+Dia. D1
+Width t1
+Bearing
+Equivalent
+Number
+Number
+Weight
+(g)
+Dimensions (mm)
+Basic Load
+Ratings (N)
+Limiting Speed X 103
+(rev/min)
+* All Bearings are available with stainless steel 440C
+
+---
+
+58
+600 Series*
+Flanged, Double Shielded
+F601XZZ
+RF-615ZZ
+1.5
+6
+3.0
+7.5
+0.8
+334
+98
+75
+90
+0.50
+F602ZZ
+RF-720ZZ
+2.0
+7
+3.5
+8.5
+0.9
+383
+128
+60
+71
+0.73
+F602XZZ
+RF-825ZZ
+2.5
+8
+4.0
+9.5
+0.9
+549
+177
+60
+71
+0.99
+F603ZZ
+RF-930ZZ
+3.0
+9
+5.0
+10.5
+1.0
+569
+186
+56
+67
+1.61
+F604ZZ
+RF-1240ZZ
+4.0
+12
+4.0
+13.5
+1.0
+961
+353
+48
+56
+2.57
+F605ZZ
+RF-1450ZZ
+5.0
+14
+5.0
+16.0
+1.0
+1334
+510
+40
+50
+4.12
+F606ZZ
+RF-1760ZZ
+6.0
+17
+6.0
+19.0
+1.2
+2266
+844
+38
+45
+7.42
+F607ZZ
+RF-1970ZZ
+7.0
+19
+6.0
+22.0
+1.5
+2335
+893
+36
+43
+9.37
+F608ZZ
+RF-2280ZZ
+8.0
+22
+7.0
+25.0
+1.5
+3296 1383
+34
+40
+14.20
+F609ZZ
+        –
+9.0
+24
+7.0
+27.0
+1.5
+3335 1422
+32
+38
+17.40
+Bore
+OD
+Width
+Flange
+Flange
+Cr
+Cor
+Grease
+Oil
+d
+D
+t
+Dia. D1
+Width t1
+Bearing
+Equivalent
+Number
+Number
+Weight
+(g)
+Dimensions (mm)
+Basic Load
+Ratings (N)
+Limiting Speed X 103
+(rev/min)
+Miniature Ball Bearings
+620 Series*
+Flanged, Double Shielded
+F623ZZ
+RF-1030ZZ
+3
+10
+4
+11.5
+1.0
+628
+216
+50
+60
+1.85
+F624ZZ
+RF-1340ZZ
+4
+13
+5
+15.0
+1.0
+1305
+491
+40
+48
+3.54
+F625ZZ
+RF-1650ZZ
+5
+16
+5
+18.0
+1.0
+1727
+677
+36
+43
+5.52
+F626ZZ
+RF-1960ZZ
+6
+19
+6
+22.0
+1.5
+2335
+893
+32
+40
+9.78
+F627ZZ
+RF-2270ZZ
+7
+22
+7
+25.0
+1.5
+3286 1383
+30
+36
+14.40
+Bore
+OD
+Width
+Flange
+Flange
+Cr
+Cor
+Grease
+Oil
+d
+D
+t
+Dia. D1
+Width t1
+Bearing
+Equivalent
+Number
+Number
+Weight
+(g)
+Dimensions (mm)
+Basic Load
+Ratings (N)
+Limiting Speed X 103
+(rev/min)
+* All Bearings are available with stainless steel 440C
+* All Bearings are available with stainless steel 440C
+
+---
+
+59
+Miniature Ball Bearings
+680 Series*
+Flanged, Double Shielded
+F681XZZ
+LF-415ZZ
+1.5
+4
+2.0
+5.0
+0.6
+108
+34
+100
+120
+0.17
+F682ZZ
+LF-520ZZ
+2.0
+5
+2.3
+6.1
+0.6
+167
+49
+85
+100
+0.24
+F682XZZ
+LF-625ZZ
+2.5
+6
+2.6
+7.1
+0.8
+186
+59
+71
+80
+0.42
+F683ZZ
+LF-730ZZ
+3.0
+7
+3.0
+8.1
+0.8
+314
+108
+63
+75
+0.53
+F684ZZ
+LF-940ZZ
+4.0
+9
+4.0
+10.3
+1.0
+638
+226
+53
+63
+1.15
+F685ZZ
+LF-1150ZZ
+5.0
+11
+5.0
+12.5
+1.0
+716
+284
+45
+53
+2.15
+F686ZZ
+LF-1360ZZ
+6.0
+13
+5.0
+15.0
+1.1
+1079
+441
+40
+50
+3.06
+F687ZZ
+LF-1470ZZ
+7.0
+14
+5.0
+16.0
+1.1
+1177
+510
+40
+50
+3 .35
+F688ZZ
+LF-1680ZZ
+8.0
+16
+5.0
+18.0
+1.1
+1256
+589
+36
+43
+4.51
+F689ZZ
+        –
+9.0
+17
+5.0
+19.0
+1.1
+1324
+667
+36
+43
+4.87
+Bore
+OD
+Width
+Flange
+Flange
+Cr
+Cor
+Grease
+Oil
+d
+D
+t
+Dia. D1
+Width t1
+Bearing
+Equivalent
+Number
+Number
+Weight
+(g)
+Dimensions (mm)
+Basic Load
+Ratings (N)
+Limiting Speed X 103
+(rev/min)
+630 Series*
+Flanged, Double Shielded
+F634ZZ
+RF-1640ZZ
+4
+16
+5
+18
+1.0
+1344
+520
+36
+43
+5.86
+F635ZZ
+        –
+5
+19
+6
+22
+1.5
+2335
+893
+32
+40
+9.65
+Bore
+OD
+Width
+Flange
+Flange
+Cr
+Cor
+Grease
+Oil
+d
+D
+t
+Dia. D1
+Width t1
+Bearing
+Equivalent
+Number
+Number
+Weight
+(g)
+Dimensions (mm)
+Basic Load
+Ratings (N)
+Limiting Speed X 103
+(rev/min)
+* All Bearings are available with stainless steel 440C
+* All Bearings are available with stainless steel 440C
+
+---
+
+F691XZZ
+RF-515ZZ
+1.5
+5
+2.6
+6.5
+0.8
+167
+49
+85
+100
+0.33
+F692ZZ
+RF-620ZZ
+2.0
+6
+3.0
+7.5
+0.8
+334
+98
+75
+90
+0.45
+F692XZZ
+RF-725ZZ
+2.5
+7
+3.5
+8.5
+0.9
+383
+128
+63
+75
+0.68
+F693ZZ
+RF-830ZZ
+3.0
+8
+4.0
+9.5
+0.9
+559
+177
+60
+67
+0.94
+F694ZZ
+RF-1140ZZ
+4.0
+11
+4.0
+12.5
+1.0
+961
+353
+48
+56
+1.97
+F695ZZ
+RF-1350ZZ
+5.0
+13
+4.0
+15.0
+1.0
+1079
+432
+43
+50
+2.65
+F696ZZ
+RF-1560ZZ
+6.0
+15
+5.0
+17.0
+1.2
+1344
+520
+40
+45
+4.04
+F697ZZ
+        –
+7.0
+17
+5.0
+19.0
+1.2
+1609
+716
+36
+43
+5.54
+F698ZZ
+        –
+8.0
+19
+6.0
+22.0
+1.5
+2237
+922
+36
+43
+8.70
+F699ZZ
+LF-2090ZZ
+9.0
+20
+5.0
+23.0
+1.5
+2472 1079
+34
+40
+9.73
+Bore
+OD
+Width
+Flange
+Flange
+Cr
+Cor
+Grease
+Oil
+d
+D
+t
+Dia. D1
+Width t1
+Bearing
+Equivalent
+Number
+Number
+Weight
+(g)
+Dimensions (mm)
+Basic Load
+Ratings (N)
+Limiting Speed X 103
+(rev/min)
+690 Series*
+Flanged, Double Shielded
+60
+Miniature Ball Bearings
+* All Bearings are available with stainless steel 440C
+
+---
+
+Inch Series*
+Open
+Miniture Ball Bearings
+Cr
+Cor
+Grease
+Oil
+Bearing
+Equivalent
+Number
+Number
+Weight
+(g)
+Dimensions (mm)
+Basic Load
+Ratings (N)
+Limiting Speed
+X 103 (rev/min)
+Bore
+OD
+Width
+d
+D
+t
+inch
+mm
+inch
+mm
+inch
+mm
+61
+* All Bearings are available with stainless steel 440C
+R0
+RI-21/2
+3/64
+1.191
+5/32
+3.967
+1/16
+1.588
+108
+34
+110
+130
+0.10
+R1
+RI-3
+7/128
+1.397
+3/16
+4.762
+5/64
+1.984
+235
+69
+90
+110
+0.15
+R1-4
+RI-4
+5/64
+1.984
+1/4
+6.350
+3/32
+2.380
+284
+98
+67
+80
+0.40
+R133
+RI-3332
+3/32
+2.380
+3/16
+4.762
+1/16
+1.588
+186
+59
+80
+95
+0.10
+R1-5
+RI-5
+3/32
+2.380
+5/16
+7.938
+7/64
+2.779
+549
+177
+60
+71
+0.60
+R144
+RI-418
+1/8
+3.175
+1/4
+6.350
+3/32
+2.380
+314
+108
+67
+80
+0.27
+R2-5
+RI-518
+1/8
+3.175
+5/16
+7.938
+7/64
+2.779
+559
+177
+60
+67
+0.50
+R2-6
+RI-618
+1/8
+3.175
+3/8
+9.525
+7/64
+2.779
+638
+226
+53
+63
+0.96
+R2
+R2
+1/8
+3.175
+3/8
+9.525
+5/32
+3.967
+628
+216
+56
+67
+1.04
+R2A
+–
+1/8
+3.175
+1/2
+12.700
+11/64
+4.366
+638
+226
+53
+63
+3.30
+R155
+R1-5532
+5/32
+3.967
+5/16
+7.938
+7/64
+2.779
+363
+147
+53
+63
+0.51
+R156
+RI-5632
+3/16
+4.762
+5/16
+7.938
+7/64
+2.779
+363
+147
+53
+63
+0.40
+R166
+RI-6632
+3/16
+4.762
+3/8
+9.525
+1/8
+3.175
+706
+275
+50
+60
+0.81
+R3
+R-3
+3/16
+4.762
+1/2
+12.700
+5/32
+3.967
+1305
+491
+43
+53
+2.21
+R3A
+–
+3/16
+4.762
+5/8
+15.875
+25/128
+4.978
+1481
+618
+38
+45
+4.75
+R168
+RI-614
+1/4
+6.350
+3/8
+9.525
+1/8
+3.175
+373
+177
+48
+56
+0.57
+R188
+RI-814
+1/4
+6.350
+1/2
+12.700
+1/8
+3.175
+1079
+441
+40
+50
+1.60
+R4
+R-4
+1/4
+6.350
+5/8
+15.875
+25/128
+4.978
+1481
+618
+38
+45
+4.46
+R4A
+RI-1214
+1/4
+6.350
+3/4
+19.050
+7/32
+5.558
+2335
+893
+36
+43
+7.48
+R1810
+RI-8516
+5/16
+7.938
+1/2
+12.700
+5/32
+3.967
+540
+275
+40
+48
+1.39
+R6
+RI-1438
+3/8
+9.525
+7/8
+22.225
+7/32
+5.558
+3335
+1422
+32
+38
+9.02
+R8
+RI-1812
+1/2
+12.700
+11/8
+28.575
+1/4
+6.350
+5111
+2413
+27
+32
+11.60
+R10
+–
+5/8
+15.875
+13/8
+34.925
+9/32
+7.142
+5994
+3286
+21
+25
+23.50
+R12
+–
+3/4
+19.050
+15/8
+41.275
+5/16
+7.938
+7907
+4483
+17
+21
+53.10
+R14
+–
+7/8
+22.225
+17/8
+47.625
+3/8
+9.252
+9000
+5400
+14
+19
+71.00
+R16
+–
+1
+25.400
+2
+50.800
+3/8
+9.525
+10200
+6200
+12
+17
+85.00
+R18
+–
+11/8
+28.575
+21/8
+53.975
+3/8
+9.525
+11800
+7200
+11
+16
+90.00
+R20
+–
+11/4
+31.750
+21/4
+57.150
+3/8
+9.525
+12900
+8500
+10
+15
+95.00
+R22
+–
+13/8
+34.925
+21/2
+63.500
+7/16
+11.112
+14000
+9800
+9
+13
+120.00
+R24
+–
+11/2
+38.100
+25/8
+66.675
+7/16
+11.112
+16000
+11000
+8
+12
+150.00
+
+---
+
+Miniture Ball Bearings
+Inch Series*
+Double Shielded
+Cr
+Cor
+Grease
+Oil
+Bearing
+Equivalent
+Number
+Number
+Weight
+(g)
+Dimensions (mm)
+Basic Load
+Ratings (N)
+Limiting Speed
+X 103 (rev/min)
+Bore
+OD
+Width
+d
+D
+t
+inch
+mm
+inch
+mm
+inch
+mm
+62
+* All Bearings are available with stainless steel 440C
+If you are looking for both side rubber seal bearing, Please indicate “99” instead of “77” as the prefix or “2RS” instead of “ZZ” as the suffix
+R0ZZ
+RI-21/2ZZ
+3/64
+1.191
+5/32
+3.967
+3/32
+2.380
+108
+34
+110
+130
+0.15
+R1ZZ
+RI-3ZZ
+7/128
+1.397
+3/16
+4.762
+7/64
+2.779
+235
+69
+90
+110
+0.19
+R1-4ZZ
+RI-4ZZ
+5/64
+1.984
+1/4
+6.350
+9/64
+3.571
+284
+98
+67
+80
+0.53
+R133ZZ
+RI-3332ZZ
+3/32
+2.380
+3/16
+4.762
+3/32
+2.380
+147
+54
+80
+95
+0.15
+R1-5ZZ
+RI-5ZZ
+3/32
+2.380
+5/16
+7.938
+9/64
+3.571
+549
+177
+60
+71
+1.15
+R144ZZ
+RI-418ZZ
+1/8
+3.175
+1/4
+6.350
+7/64
+2.779
+314
+108
+67
+80
+0.32
+R2-5ZZ
+RI-518ZZ
+1/8
+3.175
+5/16
+7.938
+9/64
+3.571
+559
+177
+60
+67
+0.74
+R2-6ZZ
+RI-618ZZ
+1/8
+3.175
+3/8
+9.525
+9/64
+3.571
+638
+226
+53
+63
+1.23
+77R2
+RI-2ZZ
+1/8
+3.175
+3/8
+9.525
+5/32
+3.967
+628
+216
+56
+67
+1.37
+77R2A
+         –
+1/8
+3.175
+1/2
+12.700
+11/64
+4.366
+638
+226
+53
+63
+3.30
+R155ZZ
+R1-5532ZZ
+5/32
+3.967
+5/16
+7.938
+1/8
+3.175
+363
+147
+53
+63
+0.61
+R156ZZ
+RI-5632ZZ
+3/16
+4.762
+5/16
+7.938
+1/8
+3.175
+363
+147
+53
+63
+0.45
+R166ZZ
+RI-6632ZZ
+3/16
+4.762
+3/8
+9.525
+1/8
+3.175
+706
+275
+50
+60
+0.85
+77R3
+RI-3ZZ
+3/16
+4.762
+1/2
+12.700
+25/128
+4.978
+1305
+491
+43
+53
+2.95
+77R3A
+         –
+3/16
+4.762
+5/8
+15.875
+25/128
+4.978
+1481
+618
+38
+45
+5.08
+R168ZZ
+RI-614ZZ
+1/4
+6.350
+3/8
+9.525
+1/8
+3.175
+38
+18
+48
+56
+0.60
+R188ZZ
+RI-814ZZ
+1/4
+6.350
+1/2
+12.700
+3/16
+4.762
+1079
+441
+40
+50
+2.32
+77R4
+RI-4ZZ
+1/4
+6.350
+5/8
+15.875
+25/128
+4.978
+1481
+618
+38
+45
+4.54
+77R4A
+RI-1214ZZ
+1/4
+6.350
+3/4
+19.050
+9/32
+7.142
+2335
+893
+36
+43
+10.00
+R1810ZZ RI-8516ZZ
+5/16
+7.938
+1/2
+12.700
+5/32
+3.967
+540
+275
+40
+48
+1.57
+77R6
+RI-1438ZZ
+3/8
+9.525
+7/8
+22.225
+9/32
+7.142
+3335
+1422
+32
+38
+11.70
+77R8
+RI-1812ZZ
+1/2
+12.700
+11/8
+28.575
+5/16
+7.938
+5111
+2413
+27
+32
+24.10
+77R10
+         –
+5/8
+15.875
+13/8
+34.925
+11/32
+8.733
+5994
+3286
+21
+25
+38.10
+77R12
+         –
+3/4
+19.050
+15/8
+41.275
+0.438
+11.113
+7907
+4483
+17
+21
+69.30
+77R14
+         –
+7/8
+22.225
+17/8
+47.625
+1/2
+12.700
+9000
+5400
+14
+19
+85.00
+77R16
+      –
+1
+25.400
+2
+50.800
+1/2
+12.700
+10200
+6200
+12
+17
+101.00
+77R18
+      –
+11/8
+28.575
+21/8
+53.975
+1/2
+12.700
+11800
+7200
+11
+16
+109.00
+77R20
+      –
+11/4
+31.750
+21/4
+57.150
+1/2
+12.700
+12900
+8500
+10
+15
+118.00
+77R22
+      –
+13/8
+34.925
+21/2
+63.50
+9/16
+14.288
+14000
+9800
+9
+13
+145.00
+77R24
+      –
+11/2
+38.100
+25/8
+66.675
+9/16
+14.288
+16000
+11000
+8
+12
+178.00
+
+---
+
+Miniture Ball Bearings
+Inch Series*
+Flanged, Open
+FR0
+3/64
+1.191
+5/32
+3.967
+1/16 1.588
+5.156
+0.330
+108
+34
+110
+130
+0.12
+FR1
+7/128
+1.397
+3/16
+4.762
+5/64 1.984
+5.944
+0.584
+235
+69
+90
+110
+0.19
+FR1-4
+5/64
+1.984
+1/4
+6.350
+3/32 2.380
+7.518
+0.584
+284
+98
+67
+80
+0.46
+FR133
+3/32
+2.380
+3/16
+4.762
+1/16 1.588
+5.944
+0.457
+186
+59
+80
+95
+0.13
+FR1-5
+3/32
+2.380
+5/16
+7.938
+7/64 2.779
+9.119
+0.584
+549
+177
+60
+71
+0.67
+FR144
+1/8
+3.175
+1/4
+6.350
+3/32 2.380
+7.518
+0.584
+314
+108
+67
+80
+0.33
+FR2-5
+1/8
+3.175
+5/16
+7.938
+7/64 2.779
+9.119
+0.584
+559
+177
+60
+67
+0.57
+FR2-6
+1/8
+3.175
+3/8
+9.525
+7/64 2.779
+10.719
+0.584
+638
+226
+53
+63
+1.05
+FR2
+1/8
+3.175
+3/8
+9.525
+5/32 3.967
+11.176
+0.762
+628
+216
+56
+67
+1.20
+FR155
+5/32
+3.967
+5/16
+7.938
+77/64 2.779
+9.119
+0.584
+363
+147
+53
+63
+0.58
+FR156
+3/16
+4.762
+5/16
+7.938
+7/64 2.779
+9.119
+0.584
+363
+147
+53
+63
+0.47
+FR166
+3/16
+4.762
+3/8
+9.525
+1/8
+3.175
+10.719
+0.584
+706
+275
+50
+60
+0.90
+FR3
+3/16
+4.762
+1/2
+12.700
+25/128 4.978
+14.351
+1.067
+1305
+491
+43
+53
+2.50
+FR168
+1/4
+6.350
+3/8
+9.525
+1/8
+3.175
+10.719
+0.584
+373
+177
+48
+56
+0.66
+FR188
+1/4
+6.350
+1/2
+12.700
+1
+/8
+3.175
+13.894
+0.584
+1079
+441
+40
+50
+1.71
+FR4
+1/4
+6.350
+5/8
+15.875
+25/128 4.978
+17.526
+1.067
+1481
+618
+38
+45
+4.82
+FR1810
+5/16
+7.938
+1/2
+12.700
+5/32 3.967
+13.894
+0.787
+540
+275
+40
+48
+1.54
+FR6
+3/8
+9.525
+7/8
+22.225
+7/32 5.558
+24.613
+1.575
+3335 1422
+32
+38
+9.71
+FR8
+1/2
+12.700 11/8 28.575
+1/4
+6.350
+31.120
+1.575
+5111
+2413
+27
+32
+13.00
+Flange
+Flange
+Dia.
+Width
+Cr
+Cor
+Grease
+Oil
+D1
+ t1
+Bearing
+Number
+Weight
+(g)
+Dimensions (mm)
+Basic Load
+Ratings (N)
+Limiting Speed X 103
+(rev/min)
+inch
+mm
+inch
+mm
+inch
+mm
+Bore
+OD
+Width
+d
+D
+t
+63
+* All Bearings are available with stainless steel 440C
+
+---
+
+Inch Series*
+Flanged, Double Shielded
+FR0ZZ
+3/64
+1.191
+5/32
+3.967
+3/32 2.380
+5.156
+0.787
+108
+34
+110
+130
+0.20
+FR1ZZ
+7/128 1.397
+3/16
+4.762
+7/64 2.779
+5.944
+0.787
+235
+69
+90
+110
+0.25
+FR1-4ZZ
+5/64
+1.984
+1/4
+6.350
+9/64 3.571
+7.518
+0.787
+284
+98
+67
+80
+0.61
+FR133ZZ
+3/32
+2.380
+3/16
+4.762
+3/32 2.380
+5.944
+0.787
+147
+54
+80
+95
+0.21
+FR1-5ZZ
+3/32
+2.380
+5/16
+7.938
+9/64 3.571
+9.119
+0.787
+549
+177
+60
+71
+1.25
+FR144JZZ
+1/8
+3.175
+1/4
+6.350
+7/64 2.779
+7.518
+0.787
+314
+108
+67
+80
+0.40
+FR144ZZ
+1/8
+3.175
+1/4
+6.350
+7/64 2.779
+7.518
+0.787
+284
+98
+67
+80
+0.48
+FR2-5ZZ
+1/8
+3.175
+5/16
+7.938
+9/64 3.571
+9.119
+0.787
+559
+177
+60
+67
+0.84
+FR2-6ZZ
+1/8
+3.175
+3/8
+9.525
+9/64 3.571
+10.719
+0.787
+638
+226
+53
+63
+1.35
+FR2ZZ
+1/8
+3.175
+3/8
+9.525
+5/32 3.967
+11.176
+0.762
+628
+216
+56
+67
+1.53
+FR155ZZ
+5/32
+3.967
+5/16
+7.938
+71/8 3.175
+9.119
+0.914
+363
+147
+53
+63
+0.72
+FR156ZZ
+3/16
+4.762
+5/16
+7.938
+1/8
+3.175
+9.119
+0.914
+363
+147
+53
+63
+0.56
+FR166ZZ
+3/16
+4.762
+3/8
+9.525
+1/8
+3.175
+10.719
+0.787
+706
+275
+50
+60
+0.97
+FR3ZZ
+3/16
+4.762
+1/2
+12.700
+25/128 4.978
+14.351
+1.067
+1305
+491
+43
+53
+3.24
+FR168ZZ
+1/4
+6.350
+3/8
+9.525
+1/8
+3.175
+10.719
+0.914
+373
+177
+48
+56
+0.73
+FR188ZZ
+1/4
+6.350
+1/2
+12.700
+3/16 4.762
+13.894
+1.143
+1079
+441
+40
+50
+2.54
+FR4ZZ
+1/4
+6.350
+5/8
+15.875
+25/128 4.978
+17.526
+1.607
+1481
+618
+38
+45
+4.90
+FR1810ZZ
+5/16
+7.938
+1/2
+12.700
+5/32 3.967
+13.894
+0.787
+540
+275
+40
+48
+1.72
+FR6ZZ
+3/8
+9.525
+7/8
+22.225
+9/32 7.142
+24.613
+1.575
+3335 1422
+32
+38
+12.39
+FR8ZZ
+1/2
+12.700 11/8 28.575
+5/16 7.938
+31.120
+1.575
+5111
+2413
+27
+32
+25.60
+Flange
+Flange
+Dia.
+Width
+Cr
+Cor
+Grease
+Oil
+D1
+ t1
+Bearing
+Number
+Weight
+(g)
+Dimensions (mm)
+Basic Load
+Ratings (N)
+Limiting Speed X 103
+(rev/min)
+inch
+mm
+inch
+mm
+inch
+mm
+Bore
+OD
+Width
+d
+D
+t
+64
+* All Bearings are available with stainless steel 440C material.
+Miniture Ball Bearings
+
+---
+
+Deep Groove Ball Bearing
+Deep Groove Ball Bearings
+1600 Series
+Inch
+1601
+3/16
+0.1875
+11/16
+0.6875
+1/4
+0.2500
+294
+146
+0.004
+1602
+1/4
+0.2500
+11/16
+0.6875
+1/4
+0.2500
+294
+146
+0.006
+1603
+5/16
+0.3125
+7/8
+0.8750
+9/32
+0.2812
+464
+228
+0.010
+1604
+3/8
+0.3750
+7/8
+0.8750
+9/32
+0.2812
+464
+228
+0.009
+1605
+5/16
+0.3125
+29/32
+0.9062
+5/16
+0.3125
+464
+228
+0.017
+1606
+3/8
+0.3750
+29/32
+0.9062
+5/16
+0.3125
+464
+228
+0.022
+1607
+7/16
+0.4375
+29/32
+0.9062
+5/16
+0.3125
+400
+229
+0.022
+1614
+3/8
+0.3750
+1-1/8
+1.1250
+3/8
+0.3750
+400
+229
+0.035
+1615
+7/16
+0.4375
+1/1/8
+1.1250
+3/8
+0.3750
+400
+229
+0.032
+1616
+1/2
+0.5000
+1-1/8
+1.1250
+3/8
+0.3750
+400
+229
+0.030
+1620
+7/16
+0.4375
+1-3/8
+1.3750
+7/16
+0.4375
+600
+354
+0.450
+1621
+1/2
+0.5000
+1-3/8
+1.3750
+7/16
+0.4375
+600
+354
+0.048
+1622
+9/16
+0.5625
+1-3/8
+1.3750
+7/16
+0.4375
+600
+354
+0.046
+1623
+5/8
+0.6250
+1-3/8
+1.3750
+7/16
+0.4375
+600
+354
+0.040
+1628
+5/8
+0.6250
+1-5/8
+1.6250
+1/2
+0.5000
+738
+454
+0.072
+1630
+3/4
+0.7500
+1-5/8
+1.6250
+1/2
+0.5000
+738
+454
+0.065
+1633
+5/8
+0.6250
+1-3/4
+1.7500
+1/2
+0.5000
+738
+454
+0.092
+1635
+3/4
+0.7500
+1-3/4
+1.7500
+1/2
+0.5000
+738
+454
+0.085
+1638
+3/4
+0.7500
+2
+2.0000
+9/16
+0.5625
+1100
+709
+0.120
+1640
+7/8
+0.8750
+2
+2.0000
+9/16
+0.5625
+1100
+709
+0.112
+1641
+1
+1.0000
+2
+2.0000
+9/16
+0.5625
+1100
+709
+0.100
+1652
+1-1/8
+1.1250
+2-1/2
+2.5000
+5/8
+0.6250
+1306
+857
+0.210
+1654
+1-1/4
+1.1250
+2-1/2
+2.5000
+5/8
+0.6250
+1306
+857
+0.190
+Dimensions (inch)
+Basic Load Ratings (lbs)
+Weight
+Bearing
+Bore
+OD
+Width
+Cr
+Cor
+kg
+Number
+Frac
+Inch
+Frac
+Inch
+Frac
+Inch
+65
+
+---
+
+6000 Series
+66
+Deep Groove Ball Bearing
+6000*
+10
+26
+8
+4620
+1960
+30000
+36000
+0.019
+6001*
+12
+28
+8
+5070
+2360
+26000
+32000
+0.022
+6002*
+15
+32
+9
+5590
+2850
+22000
+28000
+0.030
+6003*
+17
+35
+10
+6050
+3250
+19000
+24000
+0.039
+6004*
+20
+42
+12
+9360
+5000
+17000
+20000
+0.069
+6005*
+25
+47
+12
+11200
+6550
+15000
+18000
+0.080
+6006*
+30
+55
+13
+13300
+8300
+12000
+15000
+0.120
+6007*
+35
+62
+14
+15900
+10200
+10000
+13000
+0.160
+6008*
+40
+68
+15
+16800
+11600
+9500
+12000
+0.190
+6009*
+45
+75
+16
+20800
+14600
+8000
+11000
+0.250
+6010*
+50
+80
+16
+21600
+16000
+8500
+10000
+0.260
+6011*
+55
+90
+18
+28100
+21200
+7500
+9000
+0.390
+6012*
+60
+95
+18
+29600
+23200
+6700
+8000
+0.420
+6013
+65
+100
+18
+30700
+25000
+6300
+7500
+0.440
+6014
+70
+110
+20
+37700
+31000
+6000
+7000
+0.600
+6015
+75
+115
+20
+39700
+33500
+5600
+6700
+0.640
+6016
+80
+125
+22
+47500
+40000
+5300
+6300
+0.850
+6017
+85
+130
+22
+49400
+43000
+5000
+6000
+0.890
+6018
+90
+140
+24
+58500
+50000
+4800
+5600
+1.150
+6019
+95
+145
+24
+60500
+54000
+4500
+5300
+1.200
+6020
+100
+150
+24
+60500
+54000
+4300
+5000
+1.250
+*The bearing is available in 440 c stainless steel
+Dimensions (mm)
+Basic Load Ratings (N)
+Limiting Speeds (rev/min)
+Weight
+Bearing
+Bore
+OD
+Width
+Cr
+Cor
+Grease
+Oil
+kg
+Number
+d
+D
+t
+
+---
+
+6200 Series
+67
+Deep Groove Ball Bearing
+6200*
+10
+30
+9
+5070
+2360
+24000
+30000
+0.032
+6201*
+12
+32
+10
+6890
+3100
+22000
+28000
+0.037
+6202*
+15
+35
+11
+7800
+3750
+19000
+24000
+0.045
+6203*
+17
+40
+12
+9560
+4750
+17000
+20000
+0.065
+6204*
+20
+47
+14
+12700
+6550
+15000
+18000
+0.110
+6205*
+25
+52
+15
+14000
+7800
+12000
+15000
+0.130
+6206*
+30
+62
+16
+19500
+11200
+10000
+13000
+0.200
+6207*
+35
+72
+17
+25500
+15300
+9000
+11000
+0.290
+6208*
+40
+80
+18
+30700
+19000
+8500
+10000
+0.370
+6209*
+45
+85
+19
+33200
+21600
+7500
+9000
+0.410
+6210*
+50
+90
+20
+35100
+23200
+7000
+8500
+0.460
+6211*
+55
+100
+21
+43600
+29000
+6300
+7500
+0.610
+6212*
+60
+110
+22
+47500
+32500
+6000
+7000
+0.780
+6213
+65
+120
+23
+55900
+40500
+5300
+6300
+0.990
+6214
+70
+125
+24
+60500
+45000
+5000
+6000
+1.050
+6215
+75
+130
+25
+66300
+49000
+4800
+5600
+1.200
+6216
+80
+140
+26
+70200
+55000
+4500
+5300
+1.400
+6217
+85
+150
+28
+83200
+64000
+4300
+5000
+1.800
+6218
+90
+160
+30
+95600
+73200
+3800
+4500
+2.150
+6219
+95
+170
+32
+10800
+81500
+3600
+4300
+2.600
+6220
+100
+180
+34
+124000
+93000
+3400
+4000
+3.150
+*The bearing is available in 440 c stainless steel
+Dimensions (mm)
+Basic Load Ratings (N)
+Limiting Speeds (rev/min)
+Weight
+Bearing
+Bore
+OD
+Width
+Cr
+Cor
+Grease
+Oil
+kg
+Number
+d
+D
+t
+
+---
+
+Deep Groove Ball Bearing
+6300 Series
+68
+6300*
+10
+35
+11
+8060
+3400
+20000
+26000
+0.053
+6301*
+12
+37
+12
+9750
+4150
+19000
+24000
+0.060
+6302*
+15
+42
+13
+11400
+5400
+17500
+22000
+0.088
+6303*
+17
+47
+14
+13500
+6550
+16000
+19000
+0.120
+6304*
+20
+52
+15
+15900
+7800
+13000
+16000
+0.140
+6305*
+25
+62
+17
+22500
+11600
+11000
+14000
+0.230
+6306*
+30
+72
+19
+28100
+16000
+9000
+11000
+0.350
+6307*
+35
+80
+21
+33200
+19000
+8500
+10000
+0.460
+6308*
+40
+90
+23
+41000
+24000
+7500
+9000
+0.630
+6309*
+45
+100
+25
+52700
+31500
+6700
+8000
+0.830
+6310*
+50
+110
+27
+61800
+38000
+6300
+7500
+1.050
+6311*
+55
+120
+29
+71500
+45000
+5600
+6700
+1.350
+6312
+60
+130
+31
+81900
+52000
+5000
+6000
+1.700
+6313
+65
+140
+33
+92300
+60000
+4800
+5600
+2.100
+6314
+70
+150
+35
+104000
+68000
+4500
+5300
+2.500
+6315
+75
+160
+37
+114000
+76500
+4300
+5000
+3.000
+6316
+80
+170
+39
+123000
+86500
+4000
+4800
+3.65
+6317
+85
+180
+41
+132000
+97100
+3800
+4500
+4.28
+6318
+90
+190
+43
+143000
+106500
+3600
+4300
+4.98
+6319
+95
+200
+45
+153000
+119000
+3100
+3600
+5.76
+6320
+100
+215
+47
+173000
+141200
+2800
+3400
+7.04
+*The bearing is available in 440 c stainless steel
+Dimensions (mm)
+Basic Load Ratings (N)
+Limiting Speeds (rev/min)
+Weight
+Bearing
+Bore
+OD
+Width
+Cr
+Cor
+Grease
+Oil
+kg
+Number
+d
+D
+t
+
+---
+
+6400 Series
+69
+6403
+17
+62
+17
+22.7
+10.8
+11000
+15000
+0.268
+6404
+20
+72
+19
+31.0
+15.2
+9500
+13000
+0.399
+6405
+25
+80
+21
+38.2
+19.2
+8500
+11000
+0.528
+6406
+30
+90
+23
+47.5
+24.5
+8000
+10000
+0.710
+6407
+35
+100
+25
+56.8
+29.5
+6700
+8500
+0.926
+6408
+40
+110
+27
+65.5
+37.5
+6300
+8000
+1.22
+6409
+45
+120
+29
+77.5
+45.5
+5600
+7000
+1.52
+6410
+50
+130
+31
+92.2
+55.2
+5300
+6300
+1.85
+*The bearing is available in 440 c stainless steel
+Dimensions (mm)
+Basic Load Ratings (N)
+Limiting Speeds (rev/min)
+Weight
+Bearing
+Bore
+OD
+Width
+Cr
+Cor
+Grease
+Oil
+kg
+Number
+d
+D
+t
+6700
+10
+15
+3
+853
+432
+15000
+17000
+1.4
+6701
+12
+18
+4
+922
+530
+13000
+15000
+3.1
+6702
+15
+21
+4
+942
+579
+11000
+13000
+3.6
+6703
+17
+23
+4
+1001
+657
+9500
+11000
+4.0
+6704
+20
+27
+4
+1040
+726
+8500
+10000
+5.9
+6705
+25
+32
+4
+1089
+844
+7000
+8000
+7.1
+6706
+30
+37
+4
+1148
+952
+5500
+7000
+8.3
+6707
+35
+44
+5
+1864
+1638
+4900
+6000
+15.0
+6708
+40
+50
+6
+2521
+2237
+4300
+5000
+23.0
+6709
+45
+55
+6
+2580
+2403
+3900
+4600
+25.0
+Basic Load Ratings (N)
+Weight
+(g)
+Dimensions (mm)
+Bearing
+Number
+Bore
+OD
+Width
+Cr
+Cor
+d
+D
+t
+grease
+oil
+Limiting Speed x
+103 (rev/min)
+6700 Series
+Deep Groove Ball Bearing
+
+---
+
+Deep Groove Ball Bearing
+6800 Series
+6800*
+10
+19
+5
+1380
+585
+37000
+43000
+0.0055
+6801*
+12
+21
+5
+1430
+670
+33000
+39000
+0.0063
+6802*
+15
+24
+5
+1560
+800
+28000
+33000
+0.0074
+6803*
+17
+26
+5
+1680
+930
+26000
+30000
+0.0082
+6804*
+20
+32
+7
+2700
+1500
+21000
+25000
+0.0180
+6805*
+25
+37
+7
+4360
+2600
+18000
+21000
+0.0220
+6806*
+30
+42
+7
+4490
+2900
+15000
+18000
+0.0270
+6807*
+35
+47
+7
+4750
+3200
+13000
+16000
+0.0300
+6808*
+40
+52
+7
+4940
+3450
+12000
+14000
+0.0340
+6809*
+45
+58
+7
+6050
+4300
+11000
+13000
+0.0400
+6810*
+50
+65
+7
+6240
+4750
+10000
+12000
+0.0520
+6811*
+55
+72
+9
+8320
+6200
+8500
+10000
+0.0830
+6812*
+60
+78
+10
+8710
+6700
+80000
+9500
+0.1100
+6813
+65
+85
+10
+11700
+9150
+7500
+8500
+0.1300
+6814
+70
+90
+10
+12100
+1000
+7000
+8000
+0.1400
+6815
+75
+95
+10
+12500
+10800
+6500
+7500
+0.1500
+6816
+80
+100
+10
+12400
+10800
+6000
+7000
+0.1500
+6817
+85
+110
+13
+19500
+16600
+5500
+6500
+0.2700
+6818
+90
+115
+13
+19500
+17000
+5300
+6200
+0.2800
+6819
+95
+120
+13
+19900
+17600
+5000
+6000
+0.3000
+6820
+100
+125
+13
+19900
+18300
+4600
+5500
+0.3100
+*The bearing is available in 440 c stainless steel
+70
+Basic Load Ratings (N)
+Limiting Speed
+(rev/min)
+Weight
+(kg)
+Dimensions (mm)
+Bearing
+Number
+Bore
+OD
+Width
+Cr
+Cor
+d
+D
+t
+grease
+oil
+
+---
+
+6900 Series
+71
+6900*
+10
+22
+6
+1950
+750
+34000
+41000
+0.010
+6901*
+12
+24
+6
+2250
+980
+31000
+36000
+0.011
+6902*
+15
+28
+7
+4030
+2040
+26000
+30000
+0.016
+6903*
+17
+30
+7
+4360
+2320
+23000
+28000
+0.018
+6904*
+20
+37
+9
+6370
+3650
+19000
+23000
+0.038
+6905*
+25
+42
+9
+6630
+4000
+16000
+19000
+0.045
+6906*
+30
+47
+9
+7280
+4550
+14000
+17000
+0.051
+6907*
+35
+55
+10
+9560
+6200
+12000
+14000
+0.080
+6908*
+40
+62
+12
+13800
+9300
+11000
+13000
+0.120
+6909*
+45
+68
+12
+10100
+6700
+10700
+12000
+0.140
+6910*
+50
+72
+12
+14600
+10400
+9500
+11000
+0.140
+6911*
+55
+80
+13
+15900
+11400
+8000
+9000
+0.190
+6912*
+60
+85
+13
+16500
+12000
+7500
+8500
+0.200
+6913
+65
+90
+13
+17400
+13400
+7000
+8000
+0.220
+6914
+70
+100
+16
+23800
+18300
+6500
+7500
+0.350
+6915
+75
+105
+16
+24200
+19300
+6200
+7200
+0.370
+6916
+80
+110
+16
+25100
+20400
+5500
+6500
+0.400
+6917
+85
+120
+18
+31900
+30000
+52500
+6300
+0.550
+6918
+90
+125
+18
+33200
+31500
+5000
+6000
+0.590
+6919
+95
+130
+18
+33800
+33500
+4700
+5500
+0.610
+6920
+100
+140
+20
+42300
+41500
+4400
+5300
+0.830
+*The bearing is available in 440 c stainless steel
+Basic Load Ratings (N)
+Limiting Speed
+(rev/min)
+Weight
+(kg)
+Dimensions (mm)
+Bearing
+Number
+Bore
+OD
+Width
+Cr
+Cor
+d
+D
+t
+grease
+oil
+Deep Groove Ball Bearing
+
+---
+
+16000 Series
+Deep Groove Ball Bearing
+72
+62200 Series
+16100
+10
+28
+8
+4620
+1960
+28000
+34000
+0.023
+16001
+12
+28
+7
+5070
+2360
+26000
+32000
+0.019
+16002
+15
+32
+8
+5590
+2850
+22000
+28000
+0.025
+16003
+17
+35
+8
+6050
+3250
+19000
+24000
+0.032
+16004
+20
+42
+8
+6890
+4050
+17000
+20000
+0.050
+16005
+25
+47
+8
+7610
+4750
+14000
+17000
+0.060
+16006
+30
+55
+9
+11200
+7350
+12000
+15000
+0.085
+16007
+35
+62
+9
+12400
+8150
+10000
+13000
+0.110
+16008
+40
+68
+9
+13300
+9150
+9500
+12000
+0.130
+16009
+45
+75
+10
+15600
+10800
+9000
+11000
+0.170
+16010
+50
+80
+10
+16300
+11400
+8500
+10000
+0.180
+16011
+55
+90
+11
+19500
+14000
+7500
+9000
+0.260
+16012
+60
+95
+11
+19900
+15000
+6700
+8000
+0.280
+16013
+65
+100
+11
+21200
+16600
+6300
+7500
+0.300
+16014
+70
+110
+13
+28100
+25000
+6000
+7000
+0.430
+16015
+75
+115
+13
+28600
+27000
+5600
+6700
+0.460
+Dimensions (mm)
+Basic Load Ratings (N)
+Limiting Speeds (rev/min)
+Weight
+Bearing
+Bore
+OD
+Width
+Cr
+Cor
+Grease
+Oil
+kg
+Number
+d
+D
+t
+62200-2RS
+10
+30
+14
+3.7
+1.7
+14,500
+0.042
+62201-2RS
+12
+32
+14
+4.9
+2.7
+14,000
+0.046
+62202-2RS
+15
+35
+14
+5.5
+3.2
+12,500
+0.056
+62203-2RS
+17
+40
+16
+6.9
+4.0
+11,000
+0.085
+62204-2RS
+20
+47
+18
+9.8
+6.1
+9,500
+0.128
+62205-2RS
+25
+52
+18
+10.5
+6.8
+8,300
+0.146
+62206-2RS
+30
+62
+20
+14.7
+9.8
+7,000
+0.242
+62207-2RS
+35
+72
+23
+19.4
+12.7
+6,000
+0.435
+62208-2RS
+40
+80
+23
+20.6
+14.2
+5,100
+0.450
+62209-2RS
+45
+85
+23
+22.5
+15.6
+4,700
+0.485
+62210-2RS
+50
+90
+23
+24.5
+18.1
+4,300
+0.535
+Basic Load Ratings (N)
+Limiting Speed
+(rev/min)
+Weight
+(kg)
+Dimensions (mm)
+Bearing
+Number
+Bore
+OD
+Width
+Cr
+Cor
+d
+D
+t
+
+---
+
+Deep Groove Ball Bearing
+73
+88000 Series
+88011
+11
+32
+10
+15.400
+1050
+595
+0.099
+88501
+12
+32
+10
+15.400
+1050
+595
+0.095
+88013
+13
+32
+10
+15.400
+1050
+595
+0.091
+88014
+14
+35
+11
+14.399
+1340
+775
+0.111
+88502
+15
+35
+11
+14.399
+1340
+775
+0.108
+88016
+16
+35
+11
+17.000
+1980
+1200
+0.188
+88503
+17
+40
+12
+16.601
+1660
+985
+0.150
+88504
+20
+47
+14
+17.750
+2220
+1410
+0.232
+88505
+25
+52
+15
+16.749
+2430
+1610
+0.287
+Dimensions (mm)
+Basic Load Ratings (N)
+Weight
+Bearing
+d
+D
+t
+W
+Cr
+Cor
+kg
+Number
+63000 Series
+Bore
+OD
+Width
+d
+D
+t
+63000-2RS
+10
+26
+12
+360
+185
+17,500
+0.028
+63001-2RS
+12
+28
+12
+390
+215
+15,500
+0.032
+63002-2RS
+15
+32
+13
+440
+260
+13,500
+0.042
+63003-2RS
+17
+35
+14
+470
+290
+11,500
+0.051
+63004-2RS
+20
+42
+16
+730
+460
+10,000
+0.088
+63005-2RS
+25
+47
+16
+780
+530
+8900
+0.100
+63006-2RS
+30
+55
+19
+1040
+740
+7500
+0.159
+63007-2RS
+35
+62
+20
+1200
+910
+6600
+0.210
+63008-2RS
+40
+68
+21
+1280
+1010
+6000
+0.259
+63009-2RS
+45
+75
+23
+1600
+1330
+5300
+0.345
+63010-2RS
+50
+80
+23
+1690
+1430
+5000
+0.370
+Basic Load Ratings
+(N)
+Limiting Speed
+(rev/min)
+Weight
+(kg)
+Dimensions (mm)
+Bearing
+Number
+Cr
+Cor
+Grease
+
+---
+
+74
+Deep Groove Ball Bearings-
+Double Row
+4200 Series
+4200
+10
+30
+14
+9230
+5200
+18000
+22000
+0.049
+4201
+12
+32
+14
+10600
+6200
+17000
+20000
+0.053
+4202
+15
+35
+14
+11900
+7500
+14000
+17000
+0.059
+4203
+17
+40
+16
+14800
+9500
+12000
+15000
+0.09
+4204
+20
+47
+18
+17800
+12500
+10000
+13000
+0.14
+4205
+25
+52
+18
+19000
+14600
+9000
+11000
+0.16
+4206
+30
+62
+20
+26000
+20800
+8000
+9500
+0.26
+4207
+35
+72
+23
+35100
+28500
+6700
+8000
+0.4
+4208
+40
+80
+23
+37100
+32500
+6000
+7000
+0.5
+4209
+45
+85
+23
+39000
+36000
+5600
+6700
+0.54
+4210
+50
+90
+23
+41000
+40000
+5000
+6000
+0.58
+4211
+55
+100
+25
+44900
+44000
+4800
+5600
+0.8
+4212
+60
+110
+28
+57200
+55000
+4500
+5300
+1.1
+4213
+65
+120
+31
+67600
+67000
+4000
+4800
+1.45
+4214
+70
+125
+31
+70200
+73500
+3600
+4300
+1.5
+4215
+75
+130
+31
+72800
+80000
+3400
+4000
+1.6
+Dimensions (mm)
+Basic Load Ratings (N)
+Limiting Speeds (rev/min)
+Weight
+Bearing
+Bore
+OD
+Width
+Cr
+Cor
+Grease
+Oil
+kg
+Number
+d
+D
+t
+4300 Series
+4300
+10
+35
+17
+14300
+8750
+8600
+17500
+0.091
+4301
+12
+37
+17
+14700
+9200
+8100
+16000
+0.1
+4302
+15
+42
+17
+15300
+9130
+13000
+17000
+0.12
+4303
+17
+47
+19
+20500
+13200
+11000
+17000
+0.16
+4304
+20
+52
+21
+24300
+16000
+9500
+13000
+0.21
+4305
+25
+62
+24
+32900
+22400
+8000
+10000
+0.34
+4306
+30
+72
+27
+41000
+30600
+6700
+8500
+0.5
+4307
+35
+80
+31
+53200
+38200
+6300
+8000
+0.69
+4308
+40
+90
+33
+65100
+47900
+5600
+7000
+0.95
+4309
+45
+100
+36
+74800
+60000
+4800
+6000
+1.25
+4310
+50
+110
+40
+92600
+75500
+4300
+5300
+1.7
+4311
+55
+120
+43
+10800
+88500
+4000
+5000
+2.15
+4312
+60
+130
+46
+125000
+104000
+3600
+4500
+2.65
+4313
+65
+140
+48
+134000
+113000
+3600
+4500
+3.25
+4314
+70
+150
+51
+152000
+131000
+3200
+4500
+3.95
+4315
+75
+160
+55
+176000
+154000
+3000
+3800
+5.38
+Dimensions (mm)
+Basic Load Ratings (N)
+Limiting Speeds (rev/min)
+Weight
+Bearing
+Bore
+OD
+Width
+Cr
+Cor
+Grease
+Oil
+kg
+Number
+d
+D
+t
+Self Aligning Ball Bearings
+
+---
+
+Self-Aligning Ball Bearings
+1200 Series &
+2200 Series
+Dimensions (mm)
+Basic Load Ratings (N)
+Limiting Speeds (rev/min)
+Weight
+Bearing
+Bore
+OD
+Width
+Cr
+Cor
+Grease
+Oil
+kg
+Number
+d
+D
+t
+1200
+10
+30
+9
+5.50
+1.20
+23000
+28000
+0.034
+1201
+12
+32
+10
+5.60
+1.25
+21000
+26000
+0.040
+1202
+15
+35
+11
+7.45
+1.75
+18000
+22000
+0.049
+1203
+17
+40
+12
+7.90
+2.00
+16000
+20000
+0.073
+1204
+20
+47
+14
+9.90
+2.60
+14000
+17000
+0.120
+1205
+25
+52
+15
+12.10
+3.30
+12000
+14000
+0.141
+1206
+30
+62
+16
+15.60
+4.65
+9900
+12000
+0.220
+1207
+35
+72
+17
+15.80
+5.10
+8500
+10000
+0.323
+1208
+40
+80
+18
+19.20
+6.50
+7500
+9200
+0.417
+1209
+45
+85
+19
+21.80
+7.35
+7000
+8500
+0.456
+1210
+50
+90
+20
+22.70
+8.10
+6500
+7900
+0.525
+1211
+55
+100
+21
+26.80
+10.00
+5800
+7100
+0.705
+1212
+60
+110
+22
+30.20
+11.50
+5200
+6400
+0.900
+1213
+65
+120
+23
+31.00
+12.50
+4800
+5800
+1.150
+1214
+70
+125
+24
+34.60
+13.80
+4600
+5700
+1.260
+1215
+75
+130
+25
+38.80
+15.70
+4300
+5300
+1.360
+2201
+12
+32
+14
+7.65
+1.75
+2100
+2600
+0.053
+2202
+15
+35
+14
+7.70
+1.85
+1800
+22000
+0.060
+2203
+17
+40
+16
+9.80
+2.40
+1600
+20000
+0.088
+2204
+20
+47
+18
+12.60
+3.30
+1400
+17000
+0.140
+2205
+25
+52
+18
+12.60
+3.50
+1200
+15000
+0.163
+2206
+30
+62
+20
+15.60
+4.65
+1000
+12000
+0.260
+2207
+35
+72
+23
+21.60
+6.60
+8500
+10000
+0.403
+2208
+40
+80
+23
+22.40
+7.40
+7600
+9300
+0.505
+2209
+45
+85
+23
+23.30
+8.15
+7000
+8500
+0.545
+2210
+50
+90
+23
+23.30
+8.50
+6500
+7900
+0.590
+2211
+55
+100
+25
+26.80
+10.00
+5800
+7100
+0.810
+2212
+60
+110
+28
+34.10
+12.60
+5300
+6500
+1.090
+*For Tapered Bore bearings add K to the Bearing No
+75
+Angular Contact Ball Bearings
+
+---
+
+Angular Contact Ball Bearings
+Angular Contact Ball Bearings
+7200 Series
+7200 B
+10
+30
+9
+7020
+3350
+19000
+28000
+0.030
+7201 B
+12
+32
+10
+7610
+3800
+18000
+26000
+0.036
+7202 B
+15
+35
+11
+8840
+4800
+17000
+24000
+0.045
+7203 B
+17
+40
+12
+11100
+6100
+15000
+20000
+0.065
+7204 B
+20
+47
+14
+14000
+8300
+12000
+17000
+0.110
+7205 B
+25
+52
+15
+15600
+10200
+10000
+15000
+0.130
+7206 B
+30
+62
+16
+23800
+15600
+8500
+12000
+0.200
+7207 B
+35
+72
+17
+30700
+20800
+8000
+11000
+0.280
+7208 B
+40
+80
+18
+36400
+26000
+7000
+9500
+0.370
+7209 B
+45
+85
+19
+37700
+28000
+6700
+9000
+0.420
+7210 B
+50
+90
+20
+39000
+30500
+6000
+8000
+0.470
+7211 B
+55
+100
+21
+48800
+38000
+5600
+7500
+0.620
+7212 B
+60
+110
+22
+57200
+45500
+5000
+6700
+0.800
+7213 B
+65
+120
+23
+66300
+54000
+4500
+6000
+1.000
+7214 B
+70
+125
+24
+71500
+60000
+4300
+5600
+1.100
+7215 B
+75
+130
+25
+72800
+64000
+4300
+5600
+1.200
+7216 B
+80
+140
+26
+83200
+73500
+3800
+5000
+1.450
+7217 B
+85
+150
+28
+95600
+83000
+36000
+4800
+1.850
+7218 B
+90
+160
+30
+10800
+96500
+3400
+4500
+2.300
+7219 B
+95
+170
+32
+124000
+108000
+3200
+4300
+2.700
+7220 B
+100
+180
+34
+135000
+122000
+3000
+4000
+3.300
+7221 B
+105
+190
+36
+148000
+137000
+2800
+3800
+3.950
+7222 B
+120
+200
+38
+163000
+153000
+2600
+3600
+4.600
+7224 B
+100
+215
+40
+165000
+163000
+2200
+3200
+6.100
+Dimensions (mm)
+Basic Load Ratings (N)
+Limiting Speeds (rev/min)
+Weight
+Bearing
+Bore
+OD
+Width
+Cr
+Cor
+Grease
+Oil
+kg
+Number
+d
+D
+t
+76
+B = 40˚
+
+---
+
+7300 Series
+7302 B
+15
+42
+13
+13000
+6700
+15000
+20000
+0.08
+7303 B
+17
+47
+14
+15900
+8300
+13000
+18000
+0.11
+7304 B
+20
+52
+15
+19000
+10400
+11000
+16000
+0.14
+7305 B
+25
+62
+17
+26000
+15600
+9000
+13000
+0.23
+7306 B
+30
+72
+19
+34500
+21200
+8000
+11000
+0.34
+7307 B
+35
+80
+21
+39000
+24500
+7500
+10000
+0.45
+7308 B
+40
+90
+23
+49400
+33500
+6700
+9000
+0.63
+7309 B
+45
+100
+25
+60500
+41500
+6000
+8000
+0.85
+7310 B
+50
+110
+27
+74100
+51000
+5300
+7000
+1.10
+7311 B
+55
+120
+29
+85200
+60000
+4800
+6300
+1.40
+7312 B
+60
+130
+31
+95600
+69500
+4500
+6000
+1.75
+7313 B
+65
+140
+33
+108000
+80000
+4300
+5600
+2.15
+7314 B
+70
+150
+35
+119000
+90000
+3800
+5000
+2.65
+7315 B
+75
+160
+37
+133000
+106000
+3600
+4800
+3.20
+7316 B
+80
+170
+39
+143000
+118000
+3400
+4500
+3.80
+7317 B
+85
+180
+41
+153000
+132000
+3200
+4300
+4.45
+7318 B
+90
+190
+43
+165000
+146000
+3000
+4000
+5.20
+7319 B
+95
+200
+45
+178000
+163000
+2800
+3800
+6.05
+7320 B
+100
+215
+47
+203000
+190000
+2600
+3600
+7.50
+Dimensions (mm)
+Basic Load Ratings (N)
+Limiting Speeds (rev/min)
+Weight
+Bearing
+Bore
+OD
+Width
+Cr
+Cor
+Grease
+Oil
+kg
+Number
+d
+D
+t
+77
+Angular Contact Ball Bearings
+B = 40˚
+
+---
+
+Double Row Angular Contact Ball Bearings
+5300 Series
+Angular Contact Ball
+Bearings
+Double Row
+5200 Series
+5200
+10
+30
+14.287
+6.95
+3.80
+14000
+19000
+0.094
+5201
+12
+32
+15.875
+9.15
+5.05
+13000
+17000
+0.057
+5202
+15
+35
+15.875
+10
+6.05
+11000
+15000
+0.064
+5203
+17
+40
+17.462
+13.2
+8.15
+11000
+14000
+0.091
+5204
+20
+47
+20.638
+19.7
+12.60
+8800
+12000
+0.120
+5205
+25
+52
+20.638
+21.4
+14.80
+7700
+10000
+0.190
+5206
+30
+62
+23.812
+29.7
+21.30
+6400
+8600
+0.290
+5207
+35
+72
+26.988
+39.2
+29.00
+5500
+7300
+0.430
+5208
+40
+80
+30.162
+44.4
+33.60
+5000
+6700
+0.570
+5209
+45
+85
+30.162
+49.9
+38.40
+4600
+6100
+0.620
+5210
+50
+90
+30.162
+53.3
+43.60
+4300
+5600
+0.670
+5211
+55
+100
+33.338
+65.9
+55.20
+3800
+5100
+0.960
+5212
+60
+110
+36.512
+74.4
+60.80
+3500
+4700
+1.360
+5213
+65
+120
+38.100
+86.9
+75.30
+3200
+4300
+1.660
+5214
+70
+125
+39.688
+94.5
+82.60
+3100
+4100
+1.810
+5215
+75
+130
+41.275
+92.4
+120.00
+2900
+3900
+2.100
+Dimensions (mm)
+Basic Load Ratings (N)
+Limiting Speeds (rev/min)
+Weight
+Bearing
+Bore
+OD
+Width
+Cr
+Cor
+Grease
+Oil
+kg
+Number
+d
+D
+t
+78
+5302
+15
+42
+19
+17.2
+10.1
+9900
+13000
+0.132
+5303
+17
+47
+22.2
+20.4
+12.1
+9000
+12000
+0.181
+5304
+20
+52
+22.2
+20.6
+12.7
+8000
+11000
+0.217
+5305
+25
+62
+25.4
+30.5
+20.5
+6700
+8900
+0.362
+5306
+30
+72
+30.2
+39.5
+27.5
+5700
+7600
+0.553
+5307
+35
+80
+34.9
+49.5
+35
+5000
+6600
+0.766
+5308
+40
+90
+36.5
+60.5
+44
+4400
+5900
+1.01
+5309
+45
+100
+39.7
+72.5
+54
+4000
+5300
+1.34
+5310
+50
+110
+44.4
+85.5
+64.5
+3600
+4800
+1.81
+5311
+55
+120
+49.2
+106
+82
+3300
+4400
+2.32
+5312
+60
+130
+54
+122
+95.5
+3000
+4000
+3.05
+5313
+65
+140
+58.7
+138
+109
+2800
+3700
+3.96
+5314
+70
+150
+63.5
+155
+125
+2600
+3500
+4.74
+5315
+75
+160
+68.3
+168
+141
+2400
+3200
+5.65
+Dimensions (mm)
+Basic Load Ratings (N)
+Limiting Speeds (rev/min)
+Weight
+Bearing
+Bore
+OD
+Width
+Cr
+Cor
+Grease
+Oil
+kg
+Number
+d
+D
+t
+OPEN
+-2Z
+-2RS
+= 25˚
+
+---
+
+QJ 200 Series
+QJ208
+40
+80
+18
+350
+650
+6900
+9200
+0.450
+QJ209
+45
+85
+19
+400
+740
+6200
+8200
+0.520
+QJ210
+50
+90
+20
+410
+800
+5600
+7500
+0.603
+QJ211
+55
+100
+21
+510
+1000
+5100
+6800
+0.780
+QJ212
+60
+110
+22
+620
+1240
+4700
+6300
+0.987
+QJ213
+65
+120
+23
+680
+1380
+4400
+5800
+1.24
+QJ214
+70
+125
+24
+730
+1520
+4000
+5400
+1.36
+QJ215
+75
+130
+25
+770
+1630
+3800
+5000
+1.53
+QJ216
+80
+140
+26
+900
+1940
+3500
+4700
+1.83
+QJ217
+85
+150
+28
+1000
+2240
+3300
+4400
+2.30
+QJ218
+90
+160
+30
+1180
+2630
+3100
+4200
+2.76
+QJ219
+95
+170
+32
+1350
+3120
+3000
+3900
+3.35
+QJ220
+100
+180
+34
+1450
+3220
+2800
+3700
+4.02
+QJ221
+105
+190
+36
+1570
+3620
+2700
+3600
+4.75
+QJ222
+110
+200
+38
+1700
+4030
+2500
+3400
+5.62
+QJ224
+120
+215
+40
+1930
+4840
+2300
+3100
+6.75
+Dimensions (mm)
+Basic Load Ratings (N)
+Limiting Speeds (rev/min)
+Weight
+Bearing
+Bore
+OD
+Width
+Cr
+Cor
+Grease
+Oil
+kg
+Number
+d
+D
+t
+79
+QJ 300 Series
+QJ306
+30
+72
+19
+320
+540
+8000
+11000
+0.420
+QJ307
+35
+80
+21
+400
+690
+7000
+9300
+0.570
+QJ308
+40
+90
+23
+500
+860
+6200
+8200
+0.078
+QJ309
+45
+100
+25
+630
+1150
+5500
+7400
+1.05
+QJ310
+50
+110
+27
+740
+1380
+5000
+6700
+1.38
+QJ311
+55
+120
+29
+850
+1610
+4600
+6100
+1.76
+QJ312
+60
+130
+31
+970
+1880
+4200
+5700
+2.18
+QJ313
+65
+140
+33
+1100
+2150
+3900
+5200
+2.70
+QJ314
+70
+150
+35
+1230
+2450
+3600
+4800
+3.27
+QJ315
+75
+160
+37
+1350
+2780
+3400
+4500
+3.90
+QJ316
+80
+170
+39
+1460
+3100
+3200
+4200
+4.64
+QJ317
+85
+180
+41
+1600
+3460
+3000
+4000
+5.43
+QJ318
+90
+190
+43
+1680
+3820
+2800
+3800
+6.31
+QJ319
+95
+200
+45
+1800
+4230
+2700
+3500
+7.41
+QJ320
+100
+215
+47
+2180
+5500
+2500
+3400
+  9.14
+QJ321
+105
+225
+49
+2180
+5500
+2400
+3200
+10.4
+QJ322
+110
+240
+50
+1427
+6470
+2300
+3100
+12.0
+QJ324
+120
+260
+55
+2590
+7140
+2100
+2800
+15.9
+Dimensions (mm)
+Basic Load Ratings (N)
+Limiting Speeds (rev/min)
+Weight
+Bearing
+Bore
+OD
+Width
+Cr
+Cor
+Grease
+Oil
+kg
+Number
+d
+D
+t
+Double Row Angular Contact Ball Bearings
+
+---
+
+Thrust Ball Bearings
+Series 2900
+Thrust Ball Bearings
+80
+2900
+10
+26
+12
+10.2
+26
+0.6
+12700
+17100
+5600
+8400
+0.035
+2901
+12
+28
+12
+12.2
+28
+0.6
+13200
+19000
+5400
+8100
+0.037
+2902
+15
+31
+12
+15.2
+31
+0.6
+14300
+22800
+5100
+7700
+0.041
+2903
+18
+35
+12
+18.2
+35
+0.6
+14400
+24700
+4800
+7300
+0.045
+2904
+20
+37
+12
+20.2
+37
+0.6
+14800
+26600
+4700
+7100
+0.055
+2904-1/2
+22
+42
+14
+22.2
+42
+0.6
+18900
+34500
+4100
+6100
+0.085
+2905
+25
+45
+14
+25.2
+45
+0.6
+19300
+37000
+3900
+5900
+0.093
+2906
+30
+50
+14
+30.2
+0.6
+0.6
+20200
+42000
+3700
+5600
+0.107
+2907
+35
+55
+16
+35.2
+55
+0.6
+29900
+62000
+3300
+5000
+0.137
+2908
+40
+60
+16
+40.2
+60
+0.6
+31000
+70000
+3200
+4800
+0.150
+2909
+45
+68
+16
+45.2
+68
+0.6
+32500
+77500
+3000
+4500
+0.199
+2910
+50
+74
+18
+50.2
+74
+0.6
+38500
+94000
+2700
+4100
+0.255
+2911
+55
+78
+18
+55.2
+78
+0.6
+40000
+103000
+2600
+4000
+0.270
+2912
+60
+82
+18
+60.2
+82
+0.6
+40500
+108000
+2600
+3900
+0.275
+2913
+65
+90
+20
+65.2
+90
+0.6
+47500
+129000
+2300
+3500
+0.374
+2914
+70
+95
+20
+70.2
+95
+0.6
+49000
+140000
+2200
+3400
+0.400
+2915
+75
+100
+20
+75.2
+100
+0.6
+51000
+151000
+2200
+3300
+0.425
+2916
+80
+110
+22
+80.2
+110
+0.6
+57000
+171000
+2000
+3000
+0.600
+2917
+85
+115
+22
+85.2
+115
+0.6
+59000
+184000
+1900
+2900
+0.640
+2918
+90
+120
+22
+90.2
+120
+0.6
+59500
+190000
+1900
+2900
+0.670
+2919
+95
+130
+25
+95.2
+130
+0.6
+75500
+236000
+1700
+2600
+0.795
+2920
+100
+135
+25
+100.2
+135
+0.6
+78000
+253000
+1700
+2500
+0.930
+2921
+105
+140
+25
+105.2
+140
+0.6
+78500
+262000
+1600
+2500
+1.02
+2922
+110
+145
+25
+110.2
+145
+0.6
+78000
+262000
+1600
+2400
+1.15
+2923
+115
+150
+25
+115.2
+150
+0.6
+73500
+245000
+1600
+2400
+1.25
+2924
+120
+160
+27
+120.2
+160
+0.6
+94000
+314000
+1500
+2200
+1.35
+2925
+125
+160
+27
+125.3
+165
+0.6
+85500
+298000
+1400
+2200
+1.48
+2928
+140
+185
+31
+140.3
+185
+0.6
+106000
+375000
+1300
+1900
+2.33
+Bearing
+Number
+Dimensions (mm)
+Basic
+Load Ratings (N)
+Limiting Speeds
+(rev/min)
+Weight
+kg
+d
+D
+t
+D1
+d1
+r
+Cr
+Cor
+Grease
+Oil
+(min)
+(max)
+(min)
+
+---
+
+Series 3900
+81
+3905
+25
+52
+16
+25.2
+52
+1
+27100
+50500
+3400
+5200
+0.147
+3906
+30
+60
+19
+30.2
+60
+1
+38000
+72500
+2900
+4400
+0.237
+3907
+35
+68
+22
+35.2
+68
+1
+50500
+99000
+2500
+3800
+0.346
+3908
+40
+76
+25
+40.2
+76
+1
+61000
+119000
+2200
+3400
+0.486
+3909
+45
+85
+28
+45.2
+85
+1
+79500
+163000
+2000
+3000
+0.684
+3910
+50
+92
+31
+50.2
+92
+1
+97000
+202000
+1800
+2800
+0.889
+3911
+55
+100
+33
+55.2
+100
+1
+110000
+240000
+1700
+2600
+1.114
+3912
+60
+106
+35
+60.2
+106
+1.5
+119000
+263000
+1600
+2400
+1.293
+3913
+65
+112
+36
+65.2
+112
+1.5
+128000
+287000
+1500
+2300
+1.443
+3914
+70
+120
+38
+70.2
+120
+1.5
+143000
+335000
+1400
+2200
+1.767
+3915
+75
+128
+41
+75.2
+128
+1.5
+159000
+365000
+1300
+2000
+2.132
+3916
+80
+136
+44
+80.2
+136
+1.5
+183000
+425000
+1200
+1900
+2.606
+3917
+85
+145
+47
+85.2
+145
+1.5
+207000
+490000
+1100
+1700
+3.157
+3918
+90
+155
+50
+90.2
+155
+1.5
+232000
+555000
+1100
+1600
+3.907
+3919
+95
+165
+54
+95.2
+165
+1.5
+253000
+630000
+1000
+1500
+4.810
+3920
+110
+172
+57
+100.2
+172
+1.5
+250000
+630000
+980
+1400
+5.454
+3921
+115
+180
+60
+105.2
+180
+2.5
+257000
+670000
+930
+1400
+6.354
+3922
+110
+190
+63
+110.2
+190
+2.5
+293000
+785000
+880
+1300
+7.333
+3923
+115
+200
+66
+115.2
+200
+2.5
+315000
+870000
+840
+1200
+8.526
+3924
+120
+210
+69
+120.5
+210
+2.5
+325000
+930000
+800
+1200
+10.195
+Bearing
+Number
+Dimensions (mm)
+Basic
+Load Ratings (N)
+Limiting Speeds
+(rev/min)
+Weight
+kg
+d
+D
+t
+D1
+d1
+r
+Cr
+Cor
+Grease
+Oil
+(min)
+(max)
+(min)
+Thrust Ball Bearings
+
+---
+
+Thrust Ball Bearings
+Series 51100
+51100
+10
+24
+9
+11
+24
+0.3
+9950
+14000
+7000
+9500
+0.02
+51101
+12
+26
+9
+13
+26
+0.3
+10400
+15300
+6700
+9000
+0.022
+51102
+15
+28
+9
+16
+28
+0.3
+9360
+14000
+6300
+8500
+0.023
+51103
+17
+30
+9
+18
+30
+0.3
+9750
+15300
+6300
+8500
+0.025
+51104
+20
+35
+10
+20
+35
+0.3
+12700
+20800
+5600
+7500
+0.038
+51105
+25
+42
+11
+26
+42
+0.6
+15900
+29000
+4800
+6300
+0.056
+51106
+30
+47
+11
+32
+47
+0.6
+16800
+33500
+4500
+6000
+0.063
+51107
+35
+52
+12
+37
+52
+0.6
+17400
+37500
+4300
+5600
+0.08
+51108
+40
+60
+13
+42
+60
+0.6
+23400
+50000
+3800
+5000
+0.12
+51109
+45
+65
+14
+47
+65
+0.6
+24200
+57000
+3400
+4500
+0.14
+51110
+50
+70
+14
+52
+70
+0.6
+25500
+63000
+3200
+4300
+0.16
+51111
+55
+78
+16
+57
+78
+0.6
+30700
+78000
+2800
+3800
+0.23
+51112
+60
+85
+17
+62
+85
+1.0
+35800
+90000
+2600
+3600
+0.2
+51113
+65
+90
+18
+67
+90
+1.0
+37100
+98000
+2400
+3400
+0.33
+51114
+70
+95
+18
+72
+95
+1.0
+37700
+104000
+2400
+3400
+0.35
+51115
+75
+100
+19
+77
+100
+1.0
+44200
+137000
+2200
+3200
+0.4
+51116
+80
+105
+19
+82
+105
+1.0
+44900
+140000
+2000
+3000
+0.42
+51117
+85
+110
+19
+87
+110
+1.0
+46200
+150000
+2000
+3000
+0.44
+51118
+90
+120
+22
+92
+120
+1.0
+59200
+190000
+1800
+2600
+0.67
+51120
+100
+135
+25
+102
+135
+1.0
+85200
+270000
+1700
+2400
+0.97
+51122
+110
+145
+25
+112
+145
+1.0
+87100
+290000
+1600
+2200
+1.05
+51124
+120
+155
+25
+122
+155
+1.0
+88400
+310000
+1600
+2200
+1.15
+51126
+130
+170
+30
+132
+170
+1.0
+111000
+390000
+1400
+1900
+1.85
+51128
+140
+180
+31
+142
+178
+1.0
+111000
+400000
+1300
+1800
+2.05
+51130
+150
+190
+31
+152
+188
+1.0
+111000
+400000
+1200
+1700
+2.2
+Bearing
+Number
+Dimensions (mm)
+Basic Load Ratings (N) Limiting Speeds (rev/min)
+Weight
+kg
+d
+D
+t
+d1
+D1
+r
+Cr
+Cor
+Grease
+Oil
+82
+
+---
+
+Series 51200
+83
+51200
+10
+26
+11
+12
+26
+0.6
+12700
+17000
+6000
+8000
+0.031
+51201
+12
+28
+11
+14
+28
+0.6
+12300
+19000
+6000
+8000
+0.034
+51202
+15
+32
+12
+17
+32
+0.6
+16500
+25000
+5300
+7000
+0.046
+51203
+17
+35
+12
+19
+35
+0.6
+17200
+27500
+5000
+6700
+0.053
+51204
+20
+40
+14
+22
+40
+0.6
+22500
+37500
+4500
+6000
+0.083
+51205
+25
+47
+15
+27
+47
+0.6
+27600
+50000
+4000
+5300
+0.110
+51206
+30
+52
+16
+32
+52
+0.6
+25500
+47500
+3600
+4800
+0.130
+51207
+35
+62
+18
+37
+62
+1.0
+35100
+67000
+3000
+4000
+0.220
+51208
+40
+68
+19
+42
+68
+1.0
+46800
+98000
+2800
+3800
+0.280
+51209
+45
+73
+20
+47
+73
+1.0
+3900
+80000
+2600
+3600
+0.300
+51210
+50
+78
+22
+52
+78
+1.0
+49400
+106000
+2400
+3400
+0.370
+51211
+55
+90
+25
+57
+90
+1.0
+61800
+134000
+1900
+2800
+0.590
+51212
+60
+95
+26
+62
+95
+1.0
+62400
+140000
+1900
+2800
+0.650
+51213
+65
+100
+27
+67
+100
+1.0
+63700
+150000
+1800
+2600
+0.780
+51214
+70
+105
+27
+72
+105
+1.0
+65000
+160000
+1800
+2600
+0.790
+51215
+75
+110
+27
+77
+110
+1.0
+67600
+170000
+1700
+2400
+0.830
+51216
+80
+115
+28
+82
+115
+1.0
+76100
+190000
+1700
+2400
+0.910
+51217
+85
+125
+31
+88
+125
+1.0
+97500
+250000
+1600
+2200
+1.200
+51218
+90
+135
+35
+93
+135
+1.1
+119000
+300000
+1500
+2000
+1.700
+51220
+100
+150
+38
+103
+150
+1.1
+124000
+320000
+1300
+1800
+2.200
+51222
+110
+150
+38
+113
+160
+1.1
+130000
+360000
+1200
+1700
+2.400
+51224
+120
+170
+39
+123
+170
+1.1
+140000
+400000
+1100
+1600
+2.650
+51226
+130
+190
+45
+133
+187
+1.5
+186000
+540000
+950
+1400
+4.000
+51228
+140
+200
+46
+143
+197
+1.5
+190000
+570000
+950
+1400
+4.350
+51230
+150
+215
+50
+153
+212
+1.5
+238000
+730000
+900
+1300
+6.100
+Bearing
+Number
+Dimensions (mm)
+Basic Load Ratings (N) Limiting Speeds (rev/min)
+Weight
+kg
+d
+D
+t
+d1
+D1
+r
+Cr
+Cor
+Grease
+Oil
+Thrust Ball Bearings
+
+---
+
+84
+Series 51300
+51305
+25
+52
+18
+27
+52
+1.0
+34500
+55000
+3400
+4500
+0.17
+51306
+30
+60
+21
+32
+60
+1.0
+37700
+65500
+2800
+3800
+0.26
+51307
+35
+68
+24
+37
+68
+1.0
+49400
+88000
+2400
+3400
+0.38
+51308
+40
+78
+26
+42
+78
+1.0
+61800
+112000
+2000
+3000
+0.53
+51309
+45
+85
+28
+47
+85
+1.0
+76100
+140000
+1900
+2800
+0.66
+51310
+50
+95
+31
+52
+95
+1.1
+88400
+173000
+18000
+2600
+0.94
+51311
+55
+105
+35
+57
+105
+1.1
+104000
+208000
+1600
+2200
+1.30
+51312
+60
+110
+35
+62
+110
+1.1
+101000
+208000
+1600
+2200
+1.35
+51313
+65
+115
+36
+67
+115
+1.1
+106000
+220000
+1500
+2000
+1.50
+51314
+70
+125
+40
+72
+125
+1.1
+135000
+300000
+1400
+1900
+2.00
+51315
+75
+135
+44
+77
+135
+1.5
+163000
+360000
+1200
+1700
+2.60
+51316
+80
+140
+44
+82
+140
+1.5
+159000
+360000
+1200
+1700
+2.70
+51317
+85
+150
+49
+88
+150
+1.5
+190000
+425000
+1100
+1600
+3.55
+51318
+90
+155
+50
+93
+155
+1.5
+195000
+465000
+1000
+1500
+3.80
+51320
+100
+170
+55
+103
+170
+1.5
+229000
+560000
+950
+1400
+4.95
+51322
+110
+190
+63
+113
+187
+2.0
+276000
+720000
+850
+1200
+7.85
+51324
+120
+210
+70
+123
+205
+2.1
+325000
+915000
+800
+1100
+11.00
+Bearing
+Number
+Dimensions (mm)
+Basic Load Ratings (N) Limiting Speeds (rev/min)
+Weight
+kg
+d
+D
+t
+d1
+D1
+r
+Cr
+Cor
+Grease
+Oil
+Thrust Ball Bearings
+Series 51400
+51405
+25
+60
+24
+27
+60
+1.0
+55300
+90000
+2600
+3600
+0.34
+51406
+30
+70
+28
+32
+70
+1.0
+72800
+125000
+2000
+3000
+0.52
+51407
+35
+80
+32
+37
+80
+1.0
+87100
+156000
+1800
+2600
+0.76
+51408
+40
+90
+36
+42
+90
+1.1
+112000
+204000
+1700
+2400
+1.10
+51409
+45
+100
+39
+47
+100
+1.1
+130000
+240000
+1600
+2200
+1.40
+51410
+50
+110
+43
+52
+110
+1.5
+159000
+310000
+1500
+2000
+2.00
+51411
+55
+120
+48
+57
+120
+1.5
+178000
+360000
+1300
+1800
+2.55
+51412
+60
+130
+51
+62
+130
+1.5
+199000
+400000
+1100
+1600
+3.10
+51413
+65
+140
+56
+68
+140
+2.0
+215000
+448000
+1000
+1500
+4.67
+51414
+70
+150
+60
+73
+150
+2.0
+235000
+499000
+980
+1400
+5.72
+51415
+75
+160
+65
+78
+160
+2.0
+251000
+560000
+900
+1300
+6.75
+
+---
+
+Cylindrical Roller Bearings
+Thrust Ball Bearings – Inch
+Series 0
+0- 3
+9.525
+25.400
+13.494
+9.925
+24.606
+0.8
+11800
+15200
+5400
+8100
+0.036
+0- 4
+12.700
+32.544
+15.875
+13.097
+31.750
+0.8
+18600
+25100
+4300
+6500
+0.077
+0- 5
+15.875
+35.719
+15.875
+16.272
+34.925
+0.8
+19400
+28300
+4100
+6200
+0.086
+0- 6
+19.050
+38.894
+15.875
+19.447
+38.100
+0.8
+21400
+64500
+4000
+6000
+0.095
+0- 7
+22.225
+42.069
+15.875
+22.622
+41.275
+0.8
+21900
+37500
+3800
+5800
+0.100
+0- 8
+25.400
+45.244
+15.875
+25.797
+44.450
+1.6
+22500
+41000
+3700
+5500
+0.110
+0- 9
+28.575
+48.419
+15.875
+28.972
+47.625
+1.6
+24100
+47000
+3600
+5400
+0.128
+0-10
+31.750
+53.181
+18.256
+32.147
+52.388
+1.6
+27900
+54500
+3200
+4800
+0.164
+0- 11
+34.925
+56.356
+18.256
+35.322
+55562
+1.6
+28600
+58000
+3100
+4600
+0.186
+0-12
+38.100
+59.531
+18.256
+38.497
+58.738
+1.6
+30500
+3000
+4500
+4500
+0.200
+0-13
+41.275
+62.706
+18.256
+41.672
+61.912
+1.6
+26700
+63000
+2900
+4400
+0.210
+0-14
+44.450
+68.262
+19.050
+44.847
+67.469
+1.6
+321500
+77500
+2700
+4100
+0.260
+0-15
+47.625
+71.438
+19.050
+48.021
+70.644
+1.6
+37500
+89000
+2700
+4000
+0.285
+0-16
+50.800
+75.406
+19.050
+51.594
+74.613
+2.4
+38000
+94000
+2600
+3900
+0.300
+0-17
+53.975
+81.756
+22.225
+54.769
+10.962
+2.4
+49500
+118000
+2300
+3500
+0.405
+0-18
+57.150
+84.931
+22.225
+57.944
+84.138
+2.4
+50500
+125000
+2300
+3400
+0.405
+0-19
+60.325
+91.281
+25.400
+61.119
+90.488
+2.4
+58000
+145000
+2000
+3100
+0.590
+0-20
+63.500
+94.456
+25.400
+64.294
+93.662
+2.4
+59500
+152000
+2000
+3000
+0.610
+0-21
+66.675
+97.631
+25.400
+67.469
+96.838
+2.4
+60500
+160000
+1900
+2900
+0.660
+0-22
+69.850
+102.394
+25.400
+70.644
+101.600
+2.4
+71500
+179000
+70.644
+101.600
+0.700
+0-23
+73.025
+105.569
+25.400
+73.819
+104.775
+2.4
+75500
+199000
+1900
+2800
+0.730
+0-24
+76.200
+111.125
+28.575
+77.788
+109.38
+3.2
+77000
+209000
+1700
+2600
+0.900
+0-26
+82.550
+122.238
+31.750
+84.138
+120.50
+3.2
+97500
+252000
+1600
+2400
+1.30
+0-28
+88.900
+128.588
+31.750
+90.488
+127.00
+3.2
+99000
+266000
+1500
+2300
+1.32
+0-30
+95.250
+134.938
+31.750
+96.838
+133.35
+3.2
+98500
+289000
+1500
+2200
+1.36
+0-32
+101.600
+147.638
+34.925
+103.188
+164.05
+3.2
+113000
+310000
+1300
+2000
+1.88
+0-36
+114.300
+166.688
+44.450
+115.888
+165.10
+4.8
+157000
+435000
+1100
+1700
+3.18
+0-40
+127.000
+185.738
+50.800
+128.588
+184.15
+4.8
+193000
+545000
+1000
+1500
+4.54
+0-44
+139.700
+204.788
+55.562
+141.288
+203.20
+4.8
+248000
+715000
+910
+1300
+5.90
+0-48
+152.400
+220.662
+60.325
+153.988
+219.075
+4.8
+269000
+805000
+830
+1200
+7.25
+Bearing
+Number
+Dimensions (mm)
+Basic
+Load Ratings (N)
+Limiting Speeds
+(rev/min)
+Weight
+kg
+d
+D
+t
+D1
+d1
+r
+Cr
+Cor
+Grease
+Oil
+(min)
+(max)
+(min)
+85
+
+---
+
+Cylindrical Roller Bearings
+86
+Series NU, NJ, NUP, N, NF
+Bearing Number
+Dimensions
+(mm)
+Basic Load
+Ratings (N)
+Limiting Speed
+(rev/min)
+Weight
+kg
+d
+D
+t
+F
+E
+Cr
+Cor
+Grease
+Oil
+NU
+204
+NJ
+NUP
+N
+NF
+20
+47
+14
+27
+40
+1 5400
+12700
+15000
+18000
+0.110
+NU 2204
+NJ
+NUP
+–
+–
+20
+47
+18
+27
+–
+20700
+18400
+13000
+16000
+0.144
+NU
+304
+NJ
+NUP
+N
+NF
+20
+52
+15
+28.5
+44.5
+21400
+17300
+12000
+15000
+0.150
+NU 2304
+NJ
+NUP
+–
+–
+20
+52
+21
+28.5
+–
+21400
+27200
+11000
+14000
+0.217
+NU 1005
+–
+–
+–
+–
+25
+47
+12
+30.5
+–
+14300
+13100
+15000
+18000
+0.094
+NU
+205
+NJ
+NUP
+N
+NF
+25
+52
+15
+32
+45
+17700
+15700
+13000
+16000
+0.137
+NU 2205
+NJ
+NUP
+–
+–
+25
+52
+18
+32
+–
+23700
+22800
+12000
+14000
+0.167
+NU
+305
+NJ
+NUP
+N
+NF
+25
+62
+17
+35
+53
+29300
+25200
+10000
+13000
+0.240
+NU 2305
+NJ
+NUP
+–
+–
+25
+62
+24
+35
+–
+42500
+41000
+9000
+11000
+0.345
+NU
+405
+NJ
+–
+N
+NF
+25
+80
+21
+38.8
+62.8
+46500
+40000
+9000
+11000
+0.570
+NU 1006
+–
+–
+N
+–
+30
+55
+13
+36.5
+48.5
+19700
+19600
+12000
+15000
+0.136
+NU
+206
+NJ
+NUP
+–
+–
+30
+62
+16
+38.5
+–
+23500
+21500
+11000
+13000
+0.211
+NU 2206
+NJ
+NUP
+–
+–
+30
+62
+20
+38.5
+–
+33000
+33000
+10000
+12000
+0.266
+NU
+306
+NJ
+NUP
+N
+NF
+30
+72
+19
+42
+62
+38500
+35000
+8500
+11000
+0.361
+NU 2306
+NJ
+NUP
+–
+–
+30
+72
+27
+42
+–
+51500
+51000
+7500
+9500
+0.514
+NU
+406
+NJ
+NUP
+N
+NF
+30
+90
+23
+45
+73
+62500
+55000
+7500
+9500
+0.757
+NU 1007
+–
+–
+N
+–
+35
+62
+14
+42
+55
+22600
+23200
+11000
+13000
+0.180
+NU
+207
+NJ
+NUP
+–
+–
+35
+72
+17
+43.8
+–
+33500
+31500
+9500
+11000
+0.300
+NU 2207
+NJ
+NUP
+–
+–
+35
+72
+23
+43.8
+–
+49000
+51000
+8500
+10000
+0.414
+NU
+307
+NJ
+NUP
+N
+NF
+35
+80
+21
+46.2
+68.2
+49500
+47000
+8000
+9500
+0.481
+NU 2307
+NJ
+NUP
+–
+–
+35
+80
+31
+46.2
+–
+60500
+60000
+7100
+8500
+0.702
+NU
+407
+NJ
+NUP
+N
+NF
+35
+100
+25
+53
+83
+75500
+69000
+6700
+8000
+1.010
+NU 1008
+–
+–
+N
+–
+40
+68
+15
+47
+61
+27300
+29000
+10000
+12000
+0.223
+NU
+208
+NJ
+NUP
+N
+NF
+40
+80
+18
+50
+70
+43500
+43000
+8500
+10000
+0.382
+NU 2208
+NJ
+NUP
+–
+–
+40
+80
+23
+50
+–
+58000
+62000
+7500
+9000
+0.496
+NU
+308
+NJ
+NUP
+N
+NF
+40
+90
+23
+53.5
+77.5
+58500
+57000
+6700
+8500
+0.665
+NU 2308
+NJ
+NUP
+–
+–
+40
+90
+33
+53.5
+–
+82500
+88000
+6000
+7500
+0.962
+NU
+408
+NJ
+NUP
+N
+NF
+40
+110
+27
+58
+92
+95500
+89000
+6000
+7500
+1.280
+NU 1009
+–
+–
+N
+–
+45
+75
+16
+52.5
+67.5
+32500
+35500
+9000
+11000
+0.279
+NU
+209
+NJ
+NUP
+N
+NF
+45
+85
+19
+55
+75
+46000
+47000
+7500
+9000
+0.438
+NU 2209
+NJ
+NUP
+–
+–
+45
+85
+23
+55
+–
+61500
+68000
+7100
+8500
+0.541
+NU
+309
+NJ
+NUP
+–
+–
+45
+100
+25
+58.5
+–
+74000
+71000
+6300
+7500
+0.876
+
+---
+
+87
+Series NU, NJ, NUP, N, NF
+Bearing Number
+Dimensions
+(mm)
+Basic Load
+Ratings (N)
+Limiting Speed
+(rev/min)
+Weight
+kg
+d
+D
+t
+F
+E
+Cr
+Cor
+Grease
+Oil
+NU 2309
+NJ
+NUP
+–
+–
+45
+100
+36
+58.5
+–
+99000
+104000
+5600
+6700
+1.260
+NU
+409
+NJ
+NUP
+N
+NF
+45
+120
+29
+64.5
+100.5
+107000
+102000
+5600
+6700
+1.620
+NU 1010
+–
+–
+N
+–
+50
+80
+16
+57.5
+72.5
+32000
+36000
+8000
+10000
+0.301
+NU
+210
+NJ
+NUP
+N
+NF
+50
+90
+20
+60.4
+80.4
+48000
+51000
+7100
+8500
+0.493
+NU 2210
+NJ
+NUP
+–
+–
+50
+90
+23
+60.4
+–
+64000
+73500
+6300
+8000
+0.580
+NU
+310
+NJ
+NUP
+N
+NF
+50
+110
+27
+65
+95
+87000
+86000
+5600
+6700
+1.140
+NU 2310
+NJ
+NUP
+–
+–
+50
+110
+40
+65
+–
+121000
+131000
+5000
+6300
+1.690
+NU
+410
+NJ
+NUP
+–
+–
+50
+130
+31
+70.8
+–
+129000
+124000
+5000
+6000
+1.990
+NU 1011
+–
+–
+N
+–
+55
+90
+18
+64.5
+80.5
+37500
+44000
+7500
+9000
+0.445
+NU
+211
+NJ
+NUP
+N
+NF
+55
+100
+21
+66.5
+88.5
+58000
+62500
+6300
+7500
+0.648
+NU 2211
+NJ
+NUP
+–
+–
+55
+100
+25
+66.5
+–
+75500
+87000
+6000
+7100
+0.786
+NU
+311
+NJ
+NUP
+N
+NF
+55
+120
+29
+70.5
+104.5
+111000
+111000
+5000
+6300
+1.450
+NU 2311
+NJ
+NUP
+–
+–
+55
+120
+43
+70.5
+–
+148000
+162000
+4500
+5600
+2.160
+NU
+411
+NJ
+NUP
+N
+NF
+55
+140
+33
+77.2
+117.2
+139000
+138000
+4500
+5600
+2.500
+NU 1012
+–
+–
+N
+–
+60
+95
+18
+69.5
+85.5
+40000
+48500
+6700
+8500
+0.474
+NU
+212
+NJ
+NUP
+N
+NF
+60
+110
+22
+73.5
+97.5
+68500
+75000
+6000
+7100
+0.840
+NU 2212
+NJ
+NUP
+–
+–
+60
+110
+28
+73.5
+–
+96000
+116000
+5300
+6300
+1.090
+NU
+312
+NJ
+NUP
+N
+NF
+60
+130
+31
+77
+113
+124000
+126000
+4800
+5600
+1.820
+NU 2312
+NJ
+NUP
+–
+–
+60
+130
+46
+77
+–
+169000
+188000
+4300
+5300
+2.690
+NU
+412
+NJ
+NUP
+N
+NF
+60
+150
+35
+83
+127
+167000
+168000
+4300
+5300
+3.040
+NU 1013
+–
+–
+N
+–
+65
+100
+18
+74.5
+90.5
+41000
+51000
+6300
+8000
+0.504
+NU
+213
+NJ
+NUP
+N
+NF
+65
+120
+23
+79.6
+105.6
+84000
+94500
+5300
+6300
+1.070
+NU 2213
+NJ
+NUP
+–
+–
+65
+120
+31
+79.6
+–
+120000
+149000
+4800
+6000
+1.470
+NU
+313
+NJ
+NUP
+N
+NF
+65
+140
+33
+83.5
+121.5
+135000
+139000
+4300
+5300
+2.230
+NU 2313
+NJ
+NUP
+–
+–
+65
+140
+48
+83.5
+–
+188000
+212000
+3800
+4800
+3.250
+NU
+413
+NJ
+NUP
+–
+–
+65
+160
+37
+89.3
+–
+182000
+186000
+4000
+4800
+3.630
+NU 1014
+–
+–
+N
+–
+70
+110
+20
+80
+100
+58500
+70500
+6000
+7100
+0.693
+NU
+214
+NJ
+NUP
+N
+NF
+70
+125
+24
+84.5
+110.5
+83500
+95000
+5000
+6300
+1.160
+NU 2214
+NJ
+NUP
+–
+–
+70
+125
+31
+84.5
+–
+119000
+151000
+4500
+5600
+1.540
+NU
+314
+NJ
+NUP
+–
+–
+70
+150
+35
+90
+–
+158000
+168000
+4000
+5000
+2.750
+NU 2314
+NJ
+NUP
+–
+–
+70
+150
+51
+90
+–
+223000
+262000
+3600
+4500
+4.040
+NU
+414
+NJ
+NUP
+N
+NF
+70
+180
+42
+100
+152
+228000
+236000
+3600
+4300
+5.280
+Cylindrical Roller Bearings
+
+---
+
+Cylindrical Roller Bearings
+88
+Series NU, NJ, NUP, N, NF
+Bearing Number
+Dimensions
+(mm)
+Basic Load
+Ratings (N)
+Limiting Speeds
+(rev/min)
+Weight
+kg
+d
+D
+t
+F
+E
+Cr
+Cor
+Grease
+Oil
+NU 1015
+–
+–
+N
+–
+75
+115
+20
+85
+105
+60000
+74500
+5600
+6700
+0.731
+NU
+215
+NJ
+NUP
+N
+NF
+75
+130
+25
+88.5
+116.5
+96500
+111000
+4800
+6000
+1.250
+NU 2215
+NJ
+NUP
+–
+–
+75
+130
+31
+88.5
+–
+130000
+162000
+4300
+5300
+1.580
+NU
+315
+NJ
+NUP
+N
+NF
+75
+160
+37
+95.5
+139.5
+179000
+189000
+3800
+4800
+3.260
+NU 2315
+NJ
+NUP
+–
+–
+75
+160
+55
+95.5
+–
+258000
+300000
+3400
+4300
+4.910
+NU
+415
+NJ
+–
+N
+NF
+75
+190
+45
+104.5
+160.5
+262000
+274000
+3400
+4000
+6.270
+NU 1016
+–
+–
+N
+–
+80
+125
+22
+91.5
+113.5
+72500
+90500
+5300
+6300
+0.969
+NU
+216
+NJ
+NUP
+N
+NF
+80
+140
+26
+95.3
+125.3
+106000
+122000
+4500
+5300
+1.500
+NU 2216
+NJ
+NUP
+–
+–
+80
+140
+33
+95.3
+–
+147000
+186000
+4000
+5000
+1.950
+NU
+316
+NJ
+NUP
+N
+NF
+80
+170
+39
+103
+147
+190000
+207000
+3600
+4300
+3.930
+NU 2316
+NJ
+NUP
+–
+–
+80
+170
+58
+103
+–
+274000
+330000
+3200
+4000
+5.910
+NU
+416
+NJ
+–
+N
+NF
+80
+200
+48
+110
+170
+299000
+315000
+3200
+3800
+7.360
+NU 1017
+–
+–
+N
+–
+85
+130
+22
+96.5
+118.5
+74500
+95500
+5000
+6000
+1.010
+NU
+217
+NJ
+NUP
+N
+NF
+85
+150
+28
+101.8
+133.8
+120000
+140000
+4300
+5000
+1.900
+NU 2217
+NJ
+NUP
+–
+–
+85
+150
+36
+101.8
+–
+170000
+218000
+3800
+4500
+2.500
+NU
+317
+NJ
+NUP
+N
+NF
+85
+180
+41
+108
+156
+212000
+228000
+3400
+4000
+4.600
+NU 2317
+NJ
+NUP
+–
+–
+85
+180
+60
+108
+–
+315000
+380000
+3000
+3800
+6.81
+NU
+417
+NJ
+–
+N
+NF
+85
+210
+52
+113
+177
+335000
+350000
+3000
+3800
+9.56
+NU 1018
+–
+–
+N
+–
+90
+140
+24
+103
+127
+88000
+114000
+4500
+5600
+1.35
+NU
+218
+NJ
+NUP
+N
+NF
+90
+160
+30
+107
+143
+152000
+178000
+4000
+4800
+2.35
+NU 2218
+NJ
+NUP
+–
+–
+90
+160
+40
+107
+–
+207000
+265000
+3600
+4300
+3.18
+NU
+318
+NJ
+NUP
+N
+NF
+90
+190
+43
+115
+165
+240000
+265000
+3200
+3800
+5.38
+NU 2318
+NJ
+NUP
+–
+–
+90
+190
+64
+115
+–
+325000
+395000
+2800
+3600
+8.04
+NU
+418
+NJ
+–
+N
+–
+90
+225
+54
+123.5
+191.5
+375000
+400000
+2800
+3400
+11.50
+NU 1019
+–
+–
+N
+–
+95
+145
+24
+108
+132
+90500
+120000
+4300
+5300
+1.41
+NU
+219
+NJ
+NUP
+–
+–
+95
+170
+32
+113.5
+–
+158000
+183000
+3800
+4500
+2.80
+NU 2219
+NJ
+NUP
+–
+–
+95
+170
+43
+113.5
+–
+230000
+298000
+3400
+4000
+3.89
+NU
+319
+NJ
+NUP
+N
+NF
+95
+200
+45
+121.5
+173.5
+259000
+289000
+3000
+3600
+6.23
+NU 2319
+NJ
+NUP
+–
+–
+95
+200
+67
+121.5
+–
+370000
+460000
+2600
+3400
+9.38
+NU
+419
+NJ
+–
+–
+–
+95
+240
+55
+133.5
+–
+400000
+445000
+2600
+3200
+13.6
+NU 1020
+–
+–
+N
+–
+100
+150
+24
+113
+137
+93000
+126000
+4300
+5300
+1.47
+NU
+220
+NJ
+NUP
+N
+NF
+100
+180
+34
+120
+160
+183000
+217000
+3600
+4300
+3.42
+NU 2220
+NJ
+NUP
+–
+–
+100
+180
+46
+120
+–
+246000
+315000
+3200
+3800
+4.68
+NU
+320
+NJ
+NUP
+N
+NF
+100
+215
+47
+129.5
+185.5
+299000
+335000
+2800
+3400
+7.69
+NU 2320
+NJ
+NUP
+–
+–
+100
+215
+73
+129.5
+–
+410000
+505000
+2400
+3200
+11.90
+NU
+420
+NJ
+–
+N
+NF
+100
+250
+58
+139
+211
+450000
+500000
+2600
+3000
+15.50
+
+---
+
+89
+SL04-5000 Series
+SL04-5008NR
+40
+68
+38
+0.8
+71.8
+37
+28
+4.5
+2.0
+7400
+7400
+2500
+0.55
+SL04-5009NR
+45
+75
+40
+0.8
+78.8
+39
+30
+4.5
+2.0
+8850
+9250
+2200
+0.69
+SL04-5010NR
+50
+80
+40
+0.8
+83.8
+39
+30
+4.5
+2.0
+9300
+10000
+2000
+0.75
+SL04-5011NR
+55
+90
+46
+1.0
+94.8
+45
+34
+5.5
+2.5
+11000
+12200
+1800
+1.12
+SL04-5012NR
+60
+95
+46
+1.0
+99.8
+45
+34
+5.5
+2.5
+11400
+13100
+1650
+1.20
+SL04-5013NR
+65
+100
+46
+1.0
+104.8
+45
+34
+5.5
+2.5
+11900
+14100
+1550
+1.27
+SL04-5014NR
+70
+110
+54
+1.0
+114.5
+53
+42
+5.5
+2.5
+15900
+18000
+1400
+1.87
+SL04-5015NR
+75
+115
+54
+1.0
+119.5
+53
+42
+5.5
+2.5
+18200
+20600
+1300
+1.97
+SL04-5016NR
+80
+125
+60
+1.0
+129.5
+59
+48
+5.5
+2.5
+19000
+22200
+1250
+2.66
+SL04-5017NR
+85
+130
+60
+1.0
+134.5
+59
+48
+5.5
+2.5
+19800
+23800
+1200
+2.79
+SL04-5018NR
+90
+140
+67
+1.5
+146.0
+66
+54
+6.0
+2.5
+28300
+34500
+1100
+3.71
+SL04-5019NR
+95
+145
+67
+1.5
+151.0
+66
+54
+6.0
+2.5
+28900
+35500
+1050
+3.87
+SL04-5020NR
+100
+150
+67
+1.5
+156.0
+66
+54
+6.0
+2.5
+30500
+37000
+1000
+4.03
+SL04-5022NR
+110
+170
+80
+1.8
+176.0
+79
+65
+7.0
+2.5
+35500
+44000
+900
+7.00
+SL04-5024NR
+120
+180
+80
+1.8
+188.0
+79
+65
+7.0
+3.0
+37000
+47500
+850
+7.50
+SL04-5026NR
+130
+200
+95
+1.8
+208.0
+94
+77
+8.5
+3.0
+50000
+63500
+750
+11.40
+SL04-5028NR
+140
+210
+95
+1.8
+218.0
+94
+77
+8.5
+3.0
+55500
+71000
+700
+12.10
+SL04-5030NR
+150
+225
+100
+2.0
+233.0
+99
+81
+9.0
+3.0
+64000
+81500
+650
+14.60
+Bearing
+Number
+Dimensions (mm)
+Basic Load
+Ratings (N)
+Limiting
+Speeds
+(rev/min)
+Weight
+kg
+d
+D
+t
+dx
+D1
+t1
+t2
+t3
+n
+Cr
+Cor
+Cylindrical Roller Bearings
+
+---
+
+Tapered Roller Bearings
+Tapered Roller Bearings
+Spherical Roller Thrust Bearings
+Series 29300
+90
+29317M
+85
+150
+39
+134.0
+110.5
+1.5
+345000
+1060000
+3400
+2.53
+29318M
+90
+155
+39
+135.2
+116.0
+1.5
+355000
+1100000
+3400
+2.64
+29320M
+100
+170
+42
+146.9
+126.0
+1.5
+415000
+1370000
+3000
+3.37
+29322M
+110
+190
+48
+165.1
+140.6
+2.0
+530000
+1700000
+2600
+5.03
+29324M
+120
+210
+54
+184.5
+155.0
+2.1
+640000
+2080000
+2400
+6.89
+29326M
+130
+225
+58
+205.0
+169.0
+2.1
+720000
+2360000
+2200
+8.48
+29328M
+140
+240
+60
+220.0
+181.0
+2.1
+800000
+2700000
+2100
+9.86
+29330M
+150
+250
+60
+230.0
+192.0
+2.1
+815000
+2850000
+2000
+10.48
+Bearing
+Number
+Dimensions (mm)
+Basic Load Ratings (N)
+Limiting
+Speed
+(rev/min)
+Oil
+Weight
+kg
+d
+D
+t
+d1
+D1
+r
+Cr
+Cor
+(min)
+Series 29400
+29412M
+60
+130
+42
+113.0
+87.0
+1.5
+283000
+805000
+2600
+2.78
+29413M
+65
+140
+45
+123.0
+93.5
+2.0
+330000
+945000
+2400
+3.44
+29414M
+70
+150
+48
+128.3
+98.4
+2.0
+365000
+1040000
+2200
+4.19
+29415M
+75
+160
+51
+140.0
+105.6
+2.0
+415000
+1190000
+2100
+5.07
+29416M
+80
+170
+54
+149.0
+113.0
+2.1
+460000
+1380000
+1900
+6.09
+29417M
+85
+180
+58
+158.2
+120.5
+2.1
+490000
+1480000
+1800
+7.20
+29418M
+90
+190
+60
+162.0
+127.0
+2.1
+545000
+1680000
+1700
+8.38
+29420M
+100
+210
+67
+181.0
+139.0
+3.0
+685000
+2130000
+1500
+11.50
+29422M
+110
+230
+73
+199.6
+153.4
+3.0
+845000
+2620000
+1400
+15.00
+9424M
+120
+250
+78
+218.0
+166.5
+4.0
+975000
+3050000
+1350
+18.60
+29426M
+130
+270
+85
+236.4
+181.0
+4.0
+1080000
+3550000
+1250
+23.70
+29428M
+140
+280
+85
+246.0
+196.0
+4.0
+1110000
+3750000
+1200
+25.20
+29430M
+150
+300
+90
+270.0
+211.0
+4.0
+1400000
+4700000
+1170
+27.00
+Bearing
+Number
+Dimensions (mm)
+Basic Load Ratings (N)
+Limiting
+Speed
+(rev/min)
+Oil
+Weight
+kg
+d
+D
+t
+d1
+D1
+r
+Cr
+Cor
+(min)
+
+---
+
+30203
+17
+40
+13.25
+12
+11
+1
+1
+19000
+18600
+0.08
+30204
+20
+47
+15.25
+14
+12
+1
+1
+27500
+28000
+0.12
+30205
+25
+52
+16.25
+15
+13
+1
+1
+30800
+33500
+0.15
+30206
+30
+62
+17.25
+16
+14
+1
+1
+40200
+44000
+0.23
+30207
+35
+72
+18.25
+17
+15
+1.5
+1.5
+51200
+56000
+0.32
+30208
+40
+80
+19.75
+18
+16
+1.5
+1.5
+61600
+68000
+0.42
+30209
+45
+85
+20.75
+19
+16
+1.5
+1.5
+66000
+76500
+0.48
+30210
+50
+90
+21.75
+20
+17
+1.5
+1.5
+76500
+91500
+0.54
+30211
+55
+100
+22.75
+21
+18
+1.5
+2.0
+89700
+106000
+0.70
+30212
+60
+110
+23.75
+22
+19
+1.5
+2.0
+99000
+114000
+0.88
+30213
+65
+120
+24.75
+23
+20
+1.5
+2.0
+114000
+134000
+1.15
+30214
+70
+125
+26.25
+24
+21
+1.5
+2.0
+125000
+156000
+1.25
+30215
+75
+130
+27.25
+25
+22
+1.5
+2.0
+140000
+176000
+1.40
+30216
+80
+140
+28.25
+26
+22
+2.0
+2.5
+157000
+183000
+1.60
+30217
+85
+150
+30.50
+28
+24
+2.5
+2.0
+184000
+233000
+2.12
+30218
+90
+160
+32.50
+30
+26
+2.5
+2.0
+201000
+256000
+2.60
+30219
+95
+170
+34.50
+32
+27
+3.0
+2.5
+223000
+286000
+3.13
+30220
+100
+180
+37.00
+34
+29
+3.0
+2.5
+255000
+330000
+3.78
+30221
+105
+190
+39.00
+36
+30
+3.0
+2.5
+280000
+365000
+4.51
+30222
+110
+200
+41.00
+38
+32
+3.0
+2.5
+315000
+420000
+5.28
+30224
+120
+215
+43.50
+40
+34
+3.0
+2.5
+335000
+450000
+6.28
+30226
+130
+230
+43.75
+40
+34
+4.0
+3.0
+375000
+505000
+7.25
+30228
+140
+250
+45.75
+42
+36
+4.0
+3.0
+390000
+515000
+8.74
+Tapered Roller Bearings
+Series 30200
+Metric
+91
+Bearing
+Number
+Dimensions (mm)
+Basic Load Ratings (N)
+Weight
+kg
+d
+D
+t
+B
+C
+r
+R
+Cr
+Cor
+Spherical Roller Thrust
+
+---
+
+Tapered Roller Bearings
+Tapered Roller Bearings
+Series 30300
+30302
+15
+42
+14.25
+13
+11
+1.0
+1.0
+22400
+20000
+0.095
+30303
+17
+47
+15.25
+14
+12
+1.0
+1.0
+28100
+25000
+0.130
+30304
+20
+52
+16.25
+15
+13
+1.5
+1.5
+34100
+32500
+0.170
+30305
+25
+62
+18.25
+17
+15
+1.5
+1.5
+44600
+43000
+0.260
+30306
+30
+72
+20.75
+19
+16
+1.5
+1.5
+56100
+56000
+0.390
+30307
+35
+80
+22.75
+21
+18
+1.5
+2.0
+72100
+73500
+0.520
+30308
+40
+90
+25.25
+23
+20
+1.5
+2.0
+85800
+95000
+0.720
+30309
+45
+100
+27.25
+25
+22
+1.5
+2.0
+108000
+120000
+0.970
+30310
+50
+110
+29.25
+27
+23
+2.0
+2.5
+125000
+140000
+1.250
+30311
+55
+120
+31.50
+29
+25
+2.0
+2.5
+142000
+163000
+1.550
+30312
+60
+130
+33.50
+31
+26
+2.5
+3.0
+168000
+196000
+1.950
+30313
+65
+140
+36.00
+33
+28
+2.5
+3.0
+203000
+238000
+2.55
+30314
+70
+150
+38.00
+35
+30
+2.5
+3.0
+230000
+272000
+3.06
+30315
+75
+160
+40.00
+37
+31
+2.5
+3.0
+255000
+305000
+3.57
+30316
+80
+170
+42.50
+39
+33
+2.5
+3.0
+291000
+350000
+4.41
+30317
+85
+180
+44.50
+41
+34
+3.0
+4.0
+305000
+365000
+5.20
+30318
+90
+190
+46.50
+43
+36
+3.0
+4.0
+335000
+405000
+6.03
+30319
+95
+200
+49.50
+45
+38
+3.0
+4.0
+365000
+445000
+6.98
+30320
+100
+215
+51.50
+47
+39
+3.0
+4.0
+410000
+500000
+8.56
+Bearing
+Number
+Dimensions (mm)
+Basic Load Ratings (N)
+Weight
+kg
+d
+D
+t
+B
+C
+r
+R
+Cr
+Cor
+92
+
+---
+
+93
+Tapered Roller Bearings
+Tapered Roller Bearings
+Series 30300D
+30303D
+17
+47
+15.25
+14
+10.5
+1.0
+1.0
+28100
+25000
+0.130
+30304D
+20
+52
+16.25
+15
+11.5
+1.5
+1.5
+34100
+32500
+0.170
+30305D
+25
+62
+18.25
+17
+13
+1.5
+1.5
+39800
+42500
+0.256
+30306D
+30
+72
+20.75
+19
+14
+1.5
+1.5
+41500
+49000
+0.378
+30307D
+35
+80
+22.75
+21
+15
+1.5
+2.0
+62000
+68000
+0.490
+30308D
+40
+90
+25.25
+23
+17
+1.5
+2.0
+80000
+90200
+0.700
+30309D
+45
+100
+27.25
+25
+18
+1.5
+2.0
+95000
+10700
+0.950
+30310D
+50
+110
+29.25
+27
+19
+2.0
+2.5
+115000
+133000
+1.230
+30311D
+55
+120
+31.50
+29
+21
+2.0
+2.5
+129000
+148000
+1.530
+30312D
+60
+130
+33.50
+31
+22
+2.5
+3.0
+153000
+179000
+1.930
+30313D
+65
+140
+36.00
+33
+23
+2.5
+3.0
+176000
+209000
+2.530
+30314D
+70
+150
+38.00
+35
+25
+2.5
+3.0
+197000
+235000
+3.000
+30315D
+75
+160
+40.00
+37
+26
+2.5
+3.0
+222000
+266000
+3.500
+30316D
+80
+170
+42.50
+39
+27
+2.5
+3.0
+236000
+282000
+4.120
+30317D
+85
+180
+44.50
+41
+28
+3.0
+4.0
+263000
+317000
+4.540
+30318D
+90
+190
+46.50
+43
+30
+3.0
+4.0
+282000
+336000
+5.600
+30319D
+95
+200
+49.50
+45
+32
+3.0
+4.0
+310000
+375000
+6.680
+30320D
+100
+215
+51.50
+47
+34
+3.0
+4.0
+318000
+391000
+8.020
+Bearing
+Number
+Dimensions (mm)
+Basic Load Ratings (N)
+Weight
+(kg)
+d
+D
+t
+B
+C
+r
+R
+Cr
+Cor
+
+---
+
+Tapered Roller Bearings
+Tapered Roller Bearings
+94
+31305
+25
+62
+18.25
+17
+13.0
+1.5
+1.5
+38000
+40000
+0.25
+31306
+30
+72
+20.72
+19
+14.0
+1.5
+1.5
+47300
+50000
+0.39
+31307
+35
+80
+22.75
+21
+15.0
+1.5
+2.0
+61600
+67000
+0.52
+31308
+40
+90
+25.25
+23
+17.0
+1.5
+2.0
+73700
+81500
+0.72
+31309
+45
+100
+27.25
+25
+18.0
+1.5
+2.0
+91300
+102000
+0.95
+31310
+50
+110
+29.25
+27
+19.0
+2.0
+2.5
+106000
+12000
+120
+31311
+55
+120
+31.50
+29
+21.0
+2.0
+2.5
+121000
+137000
+1.55
+32005
+25
+47
+15.00
+15
+11.5
+0.8
+0.8
+27000
+32500
+0.11
+32006
+30
+55
+17.00
+17
+13.0
+1.0
+1.0
+35800
+44000
+0.17
+32007
+35
+62
+18.00
+18
+14.0
+1.0
+1.0
+42900
+54000
+0.22
+32008
+40
+68
+19.00
+18
+14.5
+1.0
+1.0
+52800
+7100
+0.27
+32009
+45
+75
+20.00
+20
+15.5
+1.0
+1.0
+58300
+80000
+0.34
+32010
+50
+80
+20.00
+20
+15.5
+1.0
+1.0
+60500
+68000
+0.37
+32011
+55
+90
+23.00
+23
+17.5
+1.5
+1.5
+80500
+118000
+0.583
+32012
+60
+95
+23.00
+23
+17.5
+1.5
+1.5
+82000
+123000
+0.576
+32013
+65
+100
+23.00
+23
+17.5
+1.5
+1.5
+83000
+128000
+0.63
+32014
+70
+110
+25.00
+25
+19.0
+1.5
+1.5
+105000
+160000
+0.848
+32015
+75
+115
+25.00
+25
+19.0
+1.5
+1.5
+108000
+167000
+0.909
+32016
+80
+125
+29.00
+29
+22.0
+1.5
+1.5
+139000
+218000
+1.28
+32017
+85
+130
+29.00
+29
+22.0
+1.5
+1.5
+142000
+224000
+1.35
+32018
+90
+140
+32.00
+32
+24.0
+1.5
+1.5
+168000
+270000
+1.78
+32019
+95
+145
+32.00
+32
+24.0
+1.5
+2.0
+171000
+280000
+1.83
+32020
+100
+150
+32.00
+32
+24.0
+1.5
+2.0
+170000
+281000
+191
+32021
+105
+160
+35.00
+35
+26.0
+1.5
+2.0
+201000
+336000
+2.42
+32022
+110
+170
+38.00
+38
+29.0
+2.0
+2.5
+236000
+390000
+3.07
+32024
+120
+180
+38.00
+38
+29.0
+2.0
+2.5
+245000
+420000
+3.25
+32026
+130
+200
+45.00
+42
+36.0
+2.0
+2.5
+269000
+445000
+4.67
+32028
+140
+210
+45.0
+42
+36.0
+2.0
+2.5
+278000
+470000
+4.95
+Series 31300 &
+Series 32000
+Dimensions (mm)
+Basic Load Ratings (N)
+d
+D
+t
+B
+C
+r
+R
+Cr
+Cor
+Bearing
+Number
+Weight
+kg
+* For Tapered bore bearings add Suffix ‘K’
+
+---
+
+95
+Tapered Roller Bearings
+Tapered Roller Bearings
+Series 32200
+32204
+20
+47
+19.25
+18
+15
+1.0
+1.0
+   28200
+29000
+0.16
+32205
+25
+52
+19.25
+18
+15
+1.0
+1.0
+35800
+44000
+0.19
+32206
+30
+62
+21.25
+20
+17
+1.0
+1.0
+50100
+57000
+0.28
+32207
+35
+72
+24.25
+23
+19
+1.5
+1.5
+66000
+78000
+0.43
+32208
+40
+80
+24.75
+23
+19
+1.5
+1.5
+74800
+86500
+0.53
+32209
+45
+85
+24.75
+23
+19
+1.5
+1.5
+80900
+98000
+0.58
+32210
+50
+90
+24.75
+23
+19
+1.5
+1.5
+825000
+100000
+0.61
+32211
+55
+100
+25.75
+25
+21
+1.5
+2.0
+106000
+129000
+0.83
+32212
+60
+110
+29.75
+28
+24
+1.5
+2.0
+125000
+160000
+1.15
+32213
+65
+120
+32.75
+31
+27
+1.5
+2.0
+151000
+193000
+1.50
+32214
+70
+125
+33.25
+31
+27
+1.5
+2.0
+157000
+208000
+1.60
+32215
+75
+130
+33.25
+31
+27
+1.5
+2.0
+161000
+212000
+1.70
+32216
+80
+140
+35.25
+33
+28
+2.0
+2.5
+187000
+245000
+2.05
+32217
+85
+150
+38.50
+36
+30
+2.0
+2.5
+224000
+300000
+2.75
+32218
+90
+16
+42.50
+40
+34
+2.0
+2.5
+262000
+360000
+3.49
+32219
+95
+170
+45.50
+43
+37
+3.0
+2.5
+299000
+415000
+4.3
+32220
+100
+180
+49.00
+46
+39
+3.0
+2.5
+330000
+465000
+5.12
+32221
+105
+190
+53.00
+50
+43
+3.0
+2.5
+360000
+510000
+6.25
+32222
+110
+200
+56.00
+53
+46
+3.0
+2.5
+400000
+565000
+7.35
+32224
+120
+215
+61.50
+58
+50
+3.0
+2.5
+440000
+635000
+9.00
+32226
+130
+230
+67.75
+64
+54
+4.0
+3.0
+530000
+790000
+11.30
+32228
+140
+250
+71.75
+68
+58
+4.0
+3.0
+610000
+915000
+14.30
+Bearing
+Number
+Dimensions (mm)
+Basic Load Ratings (N)
+Weight
+kg
+d
+D
+t
+B
+C
+r
+R
+Cr
+Cor
+
+---
+
+Tapered Roller Bearings
+Tapered Roller Bearings
+Series 32300
+96
+32303
+17
+47
+20.25
+19
+16
+1
+1
+34700
+33500
+0.17
+32304
+20
+52
+22.25
+21
+18
+1.5
+1.5
+44000
+45500
+0.23
+32305
+25
+62
+25.25
+24
+20
+1.5
+1.5
+60500
+63000
+0.36
+32306
+30
+72
+28.75
+27
+23
+1.5
+1.5
+76500
+85000
+0.55
+32307
+35
+80
+32.75
+31
+25
+1.5
+2.0
+93500
+114000
+0.80
+32308
+40
+90
+35.25
+33
+27
+1.5
+2.0
+108000
+140000
+1.10
+32309
+45
+100
+38.25
+36
+30
+1.5
+2.0
+134000
+176000
+1.45
+32310
+50
+110
+42.25
+40
+33
+2.0
+2.5
+161000
+216000
+1.85
+32311
+55
+120
+45.50
+43
+35
+2.0
+2.5
+19000
+260000
+2.50
+32312
+60
+130
+48.50
+46
+37
+2.5
+3.0
+220000
+305000
+2.80
+32313
+65
+140
+51
+48
+39
+2.5
+3.0
+275000
+356000
+3.64
+32314
+70
+150
+54
+51
+42
+2.5
+3.0
+310000
+405000
+4.46
+32315
+75
+160
+58
+55
+45
+2.5
+3.0
+355000
+470000
+5.35
+32316
+80
+170
+61.5
+58
+48
+2.5
+3.0
+395000
+525000
+6.41
+32317
+85
+180
+63.5
+60
+49
+3.0
+4.0
+405000
+525000
+7.15
+32318
+90
+190
+67.5
+64
+53
+3.0
+4.0
+450000
+595000
+8.57
+32319
+95
+200
+71.5
+67
+55
+3.0
+4.0
+505000
+670000
+10.1
+32320
+100
+215
+77.5
+73
+60
+3.0
+4.0
+570000
+777000
+12.7
+Bearing
+d
+D
+t
+B
+C
+r
+R
+Cr
+Cor
+Number
+Dimensions (mm)
+Basic Load Ratings (N)
+Weight
+kg
+
+---
+
+97
+Tapered Roller Bearings
+Tapered Roller Bearings
+Series 33000
+33009
+45
+75
+24
+24
+19
+1
+1
+72000
+104000
+0.432
+33010
+50
+80
+24
+24
+19
+1
+1
+75000
+114000
+0.470
+33011
+55
+90
+27
+27
+21
+1.5
+1.5
+93000
+143000
+0.673
+33012
+60
+95
+27
+27
+21
+1.5
+1.5
+96500
+150000
+0.73
+33013
+65
+100
+27
+27
+21
+1.5
+1.5
+100000
+163000
+0.84
+33014
+70
+110
+31
+31
+25.5
+1.5
+1.5
+137000
+224000
+1.14
+33015
+75
+115
+31
+31
+25.5
+1.5
+1.5
+140000
+232000
+1.12
+33016
+80
+125
+36
+36
+29.5
+1.5
+1.5
+176000
+290000
+1.67
+33017
+85
+130
+36
+36
+29.5
+1.5
+1.5
+183000
+315000
+1.73
+33018
+90
+140
+39
+39
+32.5
+2
+1.5
+216000
+365000
+2.48
+33019
+95
+145
+39
+39
+32.5
+2
+1.5
+220000
+380000
+2.33
+33020
+100
+150
+39
+39
+32.5
+2
+1.5
+224000
+400000
+2.42
+33021
+105
+160
+43
+43
+34
+2.5
+2
+265000
+450000
+3.34
+33022
+110
+170
+47
+47
+37
+2.5
+2
+300000
+520000
+4.16
+33024
+120
+180
+48
+48
+38
+2.5
+2
+310000
+560000
+4.55
+Bearing
+d
+D
+t
+B
+C
+r
+R
+Cr
+Cor
+Number
+Dimensions (mm)
+Basic Load Ratings (N)
+Weight
+kg
+
+---
+
+98
+Series 33100 &
+Series 33200
+33108
+40
+75
+26
+26
+20.5
+1.5
+1.5
+79500
+103000
+0.494
+33109
+45
+80
+26
+26
+20.5
+1.5
+1.5
+84500
+115000
+0.495
+33110
+50
+85
+26
+26
+20.0
+1.5
+1.5
+86500
+121000
+0.58
+33111
+55
+95
+30
+30
+23.0
+1.5
+1.5
+111000
+155000
+0.846
+33112
+60
+100
+30
+30
+23.0
+1.5
+1.5
+113000
+164000
+0.912
+33113
+65
+110
+34
+34
+26.5
+1.5
+1.5
+144000
+211000
+1.28
+33114
+70
+120
+37
+37
+29.0
+1.5
+2.0
+176000
+260000
+1.73
+33115
+75
+125
+37
+37
+29.0
+1.5
+2.0
+180000
+275000
+1.82
+33116
+80
+130
+37
+37
+29.0
+1.5
+2.0
+190000
+300000
+1.93
+33117
+85
+140
+41
+41
+32.0
+1.5
+2.5
+220000
+355000
+2.5
+33118
+90
+150
+45
+45
+35.0
+1.5
+2.5
+265000
+425000
+3.22
+33205
+25
+52
+22
+22
+18.0
+2.0
+1.0
+47500
+57500
+0.217
+33206
+30
+62
+25
+25
+19.5
+2.0
+1.0
+65000
+77000
+0.344
+33207
+35
+72
+28
+28
+22.0
+1.5
+1.5
+87500
+109000
+0.531
+33208
+40
+80
+32
+32
+25.0
+1.5
+1.5
+103000
+132000
+0.728
+33209
+45
+85
+32
+32
+25.0
+1.5
+1.5
+107000
+141000
+0.783
+33210
+50
+90
+32
+32
+24.5
+1.5
+1.5
+115000
+158000
+0.852
+33211
+55
+100
+35
+35
+27.0
+1.5
+2.0
+138000
+188000
+1.15
+33212
+60
+110
+38
+38
+29.0
+1.5
+2.0
+167000
+234000
+1.55
+33213
+65
+120
+41
+41
+32.0
+1.5
+2.0
+195000
+265000
+1.98
+33214
+70
+125
+41
+41
+32.0
+1.5
+2.0
+201000
+282000
+2.1
+33215
+75
+130
+41
+41
+31.0
+1.5
+2.0
+208000
+298000
+2.2
+33216
+80
+140
+46
+46
+35.0
+2.0
+2.5
+250000
+365000
+2.92
+33217
+85
+150
+49
+49
+37.0
+2.0
+2.5
+284000
+420000
+3.58
+Bearing
+d
+D
+t
+B
+C
+r
+R
+Cr
+Cor
+Number
+Dimensions (mm)
+Basic Load Ratings (N)
+Weight
+kg
+Tapered Roller Bearings
+
+---
+
+Single Row Inch Series0.500
+d 12.700~22.606mm
+0.5000~0.8900inch
+A4050/
+12.700
+34.988
+10.998
+10.988
+8.730
+12300
+11600
+12000
+16000
+0.053
+A4138
+0.5000
+1.3775
+0.4330
+0.4326
+0.3437
+2770
+2600
+0.117
+LM67045/10
+13.750
+59.131
+15.875
+18.570
+18.811
+A4059/
+14.989
+34.988
+10.998
+10.988
+8.730
+12300
+11600
+12000
+16000
+0.049
+A4138
+0.5901
+1.3775
+0.4330
+0.4326
+0.3437
+2770
+2600
+0.108
+03062/
+15.875
+41.275
+14.288
+14.681
+11.112
+20300
+18700
+10000
+13000
+0.092
+03162
+0.6250
+1.6250
+0.5625
+0.5780
+0.4375
+4550
+4200
+0.203
+11590/
+15.875
+42.862
+14.288
+14.288
+9.525
+17600
+17500
+8700
+12000
+0.103
+11520
+0.6250
+1.6875
+0.5625
+0.5625
+0.3750
+3950
+3950
+0.227
+17580
+15.875
+42.862
+16.670
+16.670
+13.495
+26700
+26000
+9800
+13000
+0.122
+17520
+0.6250
+1.6875
+0.6563
+0.6563
+0.5313
+6000
+5850
+0.269
+05062/
+15.875
+47.000
+14.381
+14.381
+11.112
+24000
+24200
+8600
+11000
+0.131
+05185
+0.6250
+1.8504
+0.5662
+0.5662
+0.4375
+5400
+5450
+0.289
+09062/
+15.875
+49.225
+19.845
+21.539
+14.288
+38500
+39000
+8500
+11000
+0.203
+09195
+0.6250
+1.9380
+0.7813
+0.8480
+0.5625
+8600
+8700
+0.448
+05066/
+16.993
+47.000
+14.381
+14.381
+11.112
+24000
+24200
+8600
+11000
+0.127
+05185
+0.6690
+1.8504
+0.5662
+0.5662
+0.4375
+5400
+5450
+0.280
+LM11749/
+17.462
+39.878
+13.843
+14.605
+10.688
+23800
+24200
+10000
+13000
+0.084
+LM11710
+0.6875
+1.5700
+0.5450
+0.5750
+0.4200
+5350
+5450
+0.185
+A6075/
+19.050
+39.992
+12.014
+11.153
+9.525
+12800
+12800
+10000
+13000
+0.065
+A6157
+0.7500
+1.5745
+0.4730
+0.4391
+0.3750
+2880
+2870
+0.143
+LM11949/
+19.050
+45.237
+15.494
+16.637
+12.065
+28300
+28600
+8900
+12000
+0.122
+LM11910
+0.7500
+1.7810
+0.6100
+0.6550
+0.4750
+6350
+6450
+0.269
+05075/
+19.050
+47.000
+14.381
+14.381
+11.112
+24000
+24200
+8600
+11000
+0.121
+05185
+0.7500
+1.8504
+0.5662
+0.5662
+0.4375
+5400
+5450
+0.267
+09067/
+19.050
+49.225
+18.034
+19.050
+14.288
+38500
+39000
+8500
+11000
+0.179
+09195
+0.7500
+1.9380
+0.7100
+0.7500
+0.5625
+8600
+8700
+0.395
+09074/
+19.050
+49.225
+19.845
+21.539
+14.288
+38500
+39000
+8500
+11000
+0.188
+09195
+0.7500
+1.3980
+0.7813
+0.8480
+0.5625
+8600
+8700
+0.414
+09078
+19.050
+49.225
+19.845
+21.539
+14.288
+38500
+39000
+8500
+11000
+0.188
+09195
+0.7500
+1.9380
+0.7813
+0.8480
+0.5625
+8600
+8700
+0.414
+09067/
+19.050
+49.225
+21.209
+19.050
+17.462
+38500
+39000
+8500
+11000
+0.195
+09194
+0.7500
+1.9380
+0.8350
+0.7500
+0.6875
+8600
+8700
+0.430
+09067/
+19.050
+49.225
+21.209
+19.050
+17.462
+38500
+39000
+8500
+11000
+0.198
+09196
+0.7500
+1.9380
+0.8350
+0.7500
+0.6875
+8600
+8700
+0.437
+21075/
+19.050
+53.975
+22.225
+21.839
+15.875
+40000
+39000
+8000
+11000
+0.248
+21212
+0.7500
+2.1250
+0.8750
+0.8598
+0.6250
+9050
+8700
+0.547
+1775/
+19.050
+56.896
+19.368
+19.837
+15.875
+42500
+46500
+7200
+9600
+0.272
+1729
+0.7500
+2.2400
+0.7625
+0.7810
+0.6250
+9600
+10400
+0.600
+05079/
+19.987
+47.000
+14.381
+14.381
+11.112
+24000
+24200
+8600
+11000
+0.117
+05185
+0.7869
+1.8504
+0.5662
+0.5662
+0.4375
+5400
+5450
+0.258
+07079/
+20.000
+50.005
+13.495
+14.260
+9.525
+26000
+27900
+7500
+10000
+0.138
+07196
+0.7874
+1.9687
+0.5313
+0.5614
+0.3750
+5850
+6300
+0.304
+09081/
+20.625
+49.225
+19.845
+21.539
+14.288
+38500
+39000
+8500
+11000
+0.179
+09195
+0.8120
+1.9380
+0.7813
+0.8480
+0.5625
+8600
+8700
+0.395
+12580/
+20.638
+49.225
+19.845
+19.845
+15.875
+37500
+39000
+8200
+11000
+0.182
+12520
+0.8125
+1.9380
+0.7813
+0.7813
+0.6250
+8400
+8750
+0.401
+M12649/
+21.430
+50.005
+17.526
+18.288
+13.970
+38000
+39000
+8000
+11000
+0.169
+M12610
+0.8437
+1.9687
+0.6900
+0.7200
+0.5500
+8500
+8750
+0.373
+LM127749/
+21.986
+45.974
+15.494
+16.637
+12.065
+29600
+34000
+8400
+11000
+0.123
+LM12711
+0.8656
+1.8100
+0.6100
+0.6550
+0.4750
+6650
+7600
+07087/
+22.225
+50.005
+13.495
+14.260
+9.525
+26000
+27900
+7500
+10000
+0.130
+07196
+0.8750
+1.9687
+0.5313
+0.5614
+0.3750
+5850
+6300
+0.287
+M12648/
+22.225
+50.005
+17.526
+18.288
+13.970
+38000
+39000
+8000
+11000
+0.165
+M12610
+0.8750
+1.9687
+0.6900
+0.7200
+0.5500
+8500
+8750
+0.364
+1380/
+22.225
+52.388
+19.368
+20.168
+14.288
+40500
+43000
+7600
+10000
+0.200
+1328
+0.8750
+2.0625
+0.7625
+0.7940
+0.5625
+9150
+9600
+0.441
+1380/
+22.225
+53.975
+19.368
+20.168
+14.288
+40500
+43000
+7600
+10000
+0.215
+1329
+0.8750
+2.1250
+0.7625
+0.7940
+0.5625
+9150
+9600
+0.474
+1755/
+22.225
+56.896
+19.368
+19.837
+15.875
+42500
+46500
+7200
+9600
+0.256
+1729
+0.8750
+2.2400
+0.7625
+0.7810
+0.6250
+9600
+10400
+0.564
+1280/
+22.225
+57.150
+22.225
+22.225
+17.462
+47000
+49500
+7100
+9500
+0.286
+1220
+0.8750
+2.250
+0.8750
+0.8750
+0.6875
+10600
+11100
+0.631
+LM72849/
+22.606
+47.000
+15.500
+15.500
+12.000
+27500
+32500
+8200
+11000
+0.125
+LM72810
+0.8900
+1.8504
+0.6102
+0.6102
+0.4724
+6150
+7300
+0.276
+Dimensions
+Basic Load Ratings
+Limiting Speeds
+Weight
+Bearing
+mm
+N
+kg
+Number
+inch
+lbf
+rev/min
+Ib
+d
+D
+t
+B
+C
+Cr
+Cor
+Grease
+Oil
+99
+Tapered Roller Bearings
+Tapered Roller Bearings
+
+---
+
+Single Row Inch Series
+d 23.812~28.575mm
+0.9375~1.125inch
+Dimensions
+Basic Load Ratings
+Limiting Speeds
+Weight
+Bearing
+mm
+N
+kg
+Number
+inch
+lbf
+rev/min
+Ib
+d
+D
+t
+B
+C
+Cr
+Cor
+Grease
+Oil
+07093/
+23.812
+50.005
+13.495
+14.260
+9.525
+26000
+27900
+7500
+10000
+0.123
+07196
+0.9375
+1.9687
+0.5313
+0.5614
+0.3750
+5850
+6300
+0.271
+L44640/
+23.812
+50.292
+14.224
+14.732
+10.668
+28800
+34000
+7400
+9900
+0.137
+L44610
+0.9375
+1.9800
+0.5600
+0.5800
+0.4200
+6500
+7600
+0.302
+1779/
+23.812
+56.896
+19.368
+19.837
+15.875
+42500
+46500
+7200
+9600
+0.247
+1729
+0.9375
+2.2400
+0.7625
+0.7810
+0.6250
+9600
+10400
+0.545
+07098/
+24.981
+50.005
+13.495
+14.260
+9.525
+26000
+27900
+7500
+10000
+0.118
+07196
+0.9835
+1.9687
+0.5313
+0.5614
+0.3750
+5850
+6300
+0.260
+07097/
+25.000
+50.005
+13.495
+14.260
+9.525
+26000
+27900
+7500
+10000
+0.118
+07196
+0.9843
+1.9687
+0.5313
+0.5614
+0.3750
+5850
+6300
+0.260
+07096/
+25.159
+50.005
+13.495
+14.260
+9.525
+26000
+27900
+7500
+10000
+0.1117
+07196
+0.9905
+1.9687
+0.5313
+0.5614
+0.3750
+5850
+6300
+0.258
+07100
+25.400
+50.005
+13.495
+14.260
+9.525
+26000
+27900
+7500
+10000
+0.1117
+07196
+1.0000
+1.9687
+0.5313
+0.5614
+0.3750
+5850
+6300
+0.258
+07100S/
+25.400
+50.005
+13.495
+14.260
+9.525
+26000
+27900
+7500
+1000
+0.116
+07196
+1.0000
+1.9687
+0.5313
+0.5614
+0.3750
+5850
+6300
+0.258
+L44643/
+25.400
+50.292
+14.224
+14.732
+10.688
+28800
+34000
+7400
+9900
+0.130
+L44610
+1.0000
+1.9800
+0.5600
+0.5800
+0.4200
+6500
+7600
+0.287
+07100/
+25.400
+51.994
+15.011
+14.260
+12.700
+26000
+27900
+7500
+10000
+0.3144
+07204
+1.0000
+2.0470
+0.5910
+0.5614
+0.5000
+5850
+6300
+0.317
+1780/
+25.400
+56.896
+19.368
+19.837
+15.875
+42500
+46500
+7200
+9600
+0.238
+1729
+1.0000
+2.2400
+0.7625
+0.7810
+0.6250
+9600
+10400
+0.525
+M84548/
+25.400
+57.150
+19.431
+19.431
+14.732
+42000
+48500
+6900
+9200
+0.241
+M84510
+1.0000
+2.2500
+0.7650
+0.7650
+0.5800
+9500
+11000
+0.531
+M84249
+25.400
+59.530
+23.368
+23.114
+18.288
+50000
+57500
+6800
+9100
+0.324
+M84210
+1.0000
+2.3437
+0.9200
+0.9100
+0.7200
+11200
+13000
+0.714
+15578/
+25.400
+60.325
+19.842
+17.462
+15.875
+39500
+45500
+6700
+8900
+0.271
+15523
+1.0000
+2.3750
+0.7812
+0.6875
+0.6250
+8900
+10200
+0.597
+15101/
+25.400
+61.912
+19.050
+20.638
+14.288
+46500
+54000
+6100
+8200
+0.300
+15243
+1.0000
+2.4375
+0.7500
+0.8125
+0.5625
+10500
+12200
+0.661
+15100/
+25.400
+62.000
+19.050
+20638
+14.288
+46500
+54000
+6100
+8200
+0.299
+15245
+1.0000
+2.4409
+0.7500
+0.8125
+0.5625
+10500
+12200
+0.659
+15101/
+25.400
+62.000
+19.050
+20.638
+14.288
+46500
+54000
+6100
+8200
+0.301
+15245
+1.0000
+2.4409
+0.7500
+0.8125
+0.5625
+10500
+12200
+0.664
+15102
+25.400
+62.000
+19.050
+20638
+14.288
+46500
+54000
+6100
+8200
+0.301
+15245
+1.0000
+2.4409
+0.7500
+0.8125
+0.5625
+10500
+12200
+0.664
+15101/
+25.400
+62.000
+20.638
+20.638
+15.875
+46500
+54000
+6100
+8200
+0.315
+15244
+1.0000
+2.4409
+0.8125
+0.8125
+0.6250
+10500
+12200
+0.694
+15101
+25.400
+63500
+20.638
+20.638
+15.875
+46500
+54000
+6100
+8200
+0.333
+15250
+1.0000
+2.5000
+0.8125
+0.6250
+10500
+12200
+0.734
+15101/
+25.400
+63.500
+20.638
+20.638
+15.875
+46500
+54000
+6100
+8200
+0.333
+15250X
+1.0000
+2.5000
+0.8125
+0.8125
+0.6250
+10500
+12200
+0.734
+M86643/
+25.400
+64.292
+21.433
+21.433
+16.670
+51500
+64500
+6100
+8100
+0.371
+M86610
+1.0000
+2.5312
+0.8438
+0.8438
+0.6563
+11600
+14600
+0.818
+23100
+25.400
+65.088
+22.225
+21.463
+15.875
+47000
+50500
+5700
+7600
+0.360
+23256
+1.0000
+2.5625
+0.8750
+0.8450
+0.6250
+10600
+11400
+0.794
+2687/
+25.400
+66.421
+23.812
+25.433
+19.050
+64500
+72500
+6200
+8200
+0.442
+2631
+1.0000
+2.6150
+0.9375
+1.0013
+0.7500
+14400
+16300
+0.974
+15103
+26.157
+62.000
+19.050
+20.638
+14.288
+46500
+54000
+6100
+8200
+0.296
+15245
+1.0298
+2.4409
+0.7500
+0.8125
+0.5625
+10500
+12200
+0.653
+2682/
+26.162
+66.421
+23.812
+25.433
+19.050
+64500
+72500
+6200
+8200
+0.436
+2631
+1.0300
+2.6150
+0.9375
+1.0013
+0.7500
+14400
+16300
+0.961
+L44649/
+26.988
+50.292
+14.224
+14.732
+10.668
+28800
+34000
+7400
+9900
+0.120
+L44610
+1.0625
+1.9800
+0.5600
+0.5800
+0.4200
+6500
+79600
+0.265
+15580/
+26.988
+60.325
+19.842
+17.462
+15.875
+39500
+45500
+6700
+8900
+0.260
+15523
+1.0625
+2.3750
+0.7812
+0.6875
+0.6250
+8900
+10200
+0.573
+15106/
+26.988
+62.000
+19.050
+20.638
+14.288
+46500
+54000
+6100
+8200
+0.291
+15245
+1.0625
+2.4409
+0.7500
+0.8125
+0.5625
+10500
+12200
+0.642
+2688/
+26.988
+66.421
+23.812
+25.433
+19050
+64500
+72500
+6200
+8200
+0.429
+2631
+1.0625
+2.6150
+0.9375
+1.0013
+0.7500
+14400
+16300
+0.946
+1985/
+28.575
+56.896
+19.845
+19.355
+15.875
+40500
+4450
+6700
+8900
+0.217
+1930
+1.1250
+2.2400
+0.7813
+0.7620
+0.6250
+9150
+10000
+0.478
+15590
+28.575
+57.150
+17.462
+17.462
+13.495
+39500
+45500
+6700
+8900
+0.196
+15520
+1.1250
+2.2500
+0.6875
+0.6875
+0.5313
+8900
+10200
+0.432
+1985/
+28.575
+58.738
+19.050
+19.355
+15.080
+40500
+44500
+6700
+8900
+0.230
+1932
+1.1250
+2.3125
+0.7500
+0.7620
+0.5937
+9150
+10000
+0.507
+1988/
+28.575
+58.738
+19.050
+19.355
+15.080
+40500
+44500
+6700
+8900
+0.228
+1932
+1.1250
+2.3125
+0.7500
+0.7620
+0.5937
+9150
+10000
+0.503
+100
+Tapered Roller Bearings
+
+---
+
+15590/
+28.575
+60.325
+19.842
+17.462
+15.875
+39500
+45500
+6700
+8900
+0.250
+15523
+1.1250
+2.3750
+0.7812
+0.6875
+0.6250
+8900
+10200
+0.551
+1985/
+28.575
+60.235
+19.845
+19.355
+15.875
+40500
+44500
+6700
+8900
+0.255
+1931
+1.1250
+2.3750
+0.7813
+0.7620
+0.6250
+9150
+10000
+0.562
+15112/
+28.575
+62.000
+19.050
+20.638
+14.288
+46500
+54000
+6100
+8200
+0.277
+15245
+1.1250
+2.4409
+0.7500
+0.8125
+0.5625
+10500
+12200
+0.611
+15113/
+28.575
+62.000
+19.050
+20.638
+14.288
+46500
+54000
+6100
+8200
+0.280
+15245
+1.1250
+2.4409
+0.7500
+0.8125
+0.5625
+10500
+12200
+0.617
+M86647/
+28.575
+64.292
+21.433
+21.433
+16.670
+51500
+64500
+6100
+8100
+0.348
+M86610
+1.1250
+2.5312
+0.8438
+0.8438
+0.6563
+11600
+14600
+0.747
+2689/
+28.575
+66.421
+23.812
+25.433
+19.050
+64500
+72500
+6200
+8200
+0.416
+2631
+1.1250
+2.6150
+0.9375
+1.0013
+0.7500
+14400
+16300
+0.917
+02471/
+28.575
+68.262
+22.225
+22.225
+17.462
+57000
+67000
+5800
+7700
+0.409
+02420
+1.1250
+2.6875
+0.8750
+0.8750
+0.6875
+12800
+15100
+0.902
+2474/
+28.575
+68.262
+22.225
+23.812
+17.462
+57500
+65500
+5700
+7700
+0.410
+2420
+1.1250
+2.6875
+0.8750
+0.9375
+0.6875
+12900
+14800
+0.904
+2578/
+28.575
+69.850
+23.812
+25.357
+19.050
+69000
+81500
+5700
+7600
+0.483
+2523
+1.1250
+2.7500
+0.9375
+0.9983
+0.7500
+15500
+18300
+1.07
+41125/
+28.575
+72.626
+24.608
+24.257
+17.462
+58000
+55500
+5800
+7700
+0.477
+41286
+1.1250
+2.8593
+0.9688
+0.9550
+0.6875
+13100
+12500
+1.05
+41126/
+28.575
+72.626
+24.608
+24.257
+17.462
+58000
+55500
+5800
+7700
+0.481
+41286
+1.1250
+2.8593
+0.9688
+0.9550
+0.6875
+13100
+12500
+1.06
+02872/
+28.575
+73.025
+22.225
+22.225
+17.462
+56500
+68000
+5300
+7000
+0.480
+02820
+1.1250
+2.8750
+0.8750
+0.8750
+0.6875
+12700
+15300
+1.06
+L45449/
+29.000
+50.292
+14.224
+14.732
+10.668
+28000
+35500
+7200
+9600
+0.113
+L45410
+1.1417
+1.9800
+0.5600
+0.5800
+0.4200
+6300
+8000
+0.249
+2690/
+29.367
+66.421
+23.812
+25.433
+19.050
+64500
+72500
+6200
+8200
+0.406
+2631
+1.1562
+2.6150
+0.9375
+1.0013
+0.7500
+14400
+16300
+0.895
+17118/
+29.987
+62.000
+16.002
+16.566
+14.288
+39000
+42000
+6300
+8400
+0.228
+17244
+1.1806
+2.4409
+0.6300
+0.6522
+0.5625
+8750
+9500
+0.503
+15117/
+29.987
+62.000
+19.050
+20.638
+14.288
+46500
+54000
+6100
+8200
+0.269
+15245
+1.1806
+2.4409
+1.7500
+0.8125
+0.5625
+10500
+12200
+0.593
+14117A/
+30.000
+69.012
+19.845
+19.583
+15.875
+48500
+58000
+5600
+7400
+0.369
+14276
+1.1811
+2.7170
+0.7813
+0.7710
+0.6250
+10800
+13000
+0.813
+JHM88540/
+30.000
+72.000
+29.370
+27.783
+23.020
+72000
+97000
+5400
+7100
+0.619
+JHM88513
+1.1811
+2.8346
+1.1563
+1.0938
+0.9063
+16200
+21800
+1.37
+15116/
+30.112
+62.000
+19.050
+20.638
+14.288
+46500
+54000
+6100
+8200
+0.268
+15245
+1.1855
+2.4409
+0.7500
+0.8125
+0.5625
+10500
+12200
+0.591
+17119/
+30.162
+62.000
+16.002
+16.566
+14.288
+39000
+42000
+6300
+8400
+0.226
+17244
+1.1875
+2.4409
+0.6300
+0.6522
+0.5625
+8750
+9500
+0.498
+M86649/
+30.162
+64.292
+21.433
+21.433
+16.670
+51500
+64500
+6100
+8100
+0.336
+M86610
+1.1875
+2.5312
+0.8438
+0.8438
+0.6563
+11600
+14600
+0.741
+2558/
+30.162
+69.850
+23.812
+25.357
+19.050
+69000
+81500
+5700
+7600
+0.468
+2523
+1.1875
+2.7500
+0.9375
+0.9938
+0.7500
+15500
+18300
+1.03
+3187/
+30.162
+72.626
+30.162
+29.997
+23.812
+84500
+98000
+5500
+7300
+0.621
+3120
+1.1875
+2.8593
+1.1875
+1.1810
+0.9375
+19000
+22000
+1.37
+15118/
+30.213
+62.000
+19.050
+20.638
+14.288
+46500
+54000
+6100
+8200
+0.265
+15245
+1.1895
+2.4409
+0.7500
+0.8125
+0.5625
+10500
+12200
+0.584
+15119/
+30.213
+62.000
+19.050
+20.638
+14.288
+46500
+54000
+6100
+8200
+0.267
+15245
+1.1895
+2.4409
+0.7500
+0.8125
+0.5625
+10500
+12200
+0.589
+15120
+30.213
+62.000
+19.050
+20.638
+14.288
+46500
+54000
+6100
+8200
+0.267
+15245
+1.1895
+2.4409
+0.7500
+0.8125
+0.5625
+10500
+12200
+0.589
+14116/
+30.226
+69.012
+19.845
+19.583
+15.875
+48500
+58000
+5600
+7400
+0.366
+14274
+1.1900
+2.7170
+0.7813
+0.7710
+0.6250
+10800
+13000
+0.807
+14116/
+30.226
+69.012
+19.845
+19.583
+15.875
+48500
+58000
+5600
+7400
+0.370
+14276
+1.1900
+2.7170
+0.7813
+0.7710
+0.62500
+10800
+13000
+0.816
+14116/
+30.226
+72.085
+22.385
+19.583
+18.415
+48500
+58000
+5600
+7400
+0.447
+14283
+1.1900
+2.8380
+0.8813
+0.7710
+0.7250
+10800
+13000
+0.985
+LM67048/
+31.750
+59.131
+15.875
+16.764
+11.811
+38500
+41000
+6300
+8400
+0.182
+LM67010
+1.1250
+2.3280
+0.6250
+0.6600
+0.4650
+7750
+9200
+0.401
+15123/
+31.750
+62.000
+18.161
+19.050
+14.288
+46500
+54000
+6100
+8200
+0.244
+15245
+1.1250
+2.4409
+0.7150
+0.7500
+0.5625
+10500
+12200
+0.538
+15125/
+31.750
+62.000
+19.050
+20.638
+14.288
+46500
+54000
+6100
+8200
+0.253
+15245
+1.1250
+2.4409
+0.7500
+0.8125
+0.5625
+10500
+12200
+0.558
+15126/
+31.750
+62.00
+19.050
+20.638
+14.288
+46500
+54000
+6100
+8200
+0.255
+15245
+1.1250
+2.4409
+0.7500
+0.8125
+0.5625
+10500
+12200
+0.562
+Dimensions
+Basic Load Ratings
+Limiting Speeds
+Weight
+Bearing
+mm
+N
+kg
+Number
+inch
+lbf
+rev/min
+Ib
+d
+D
+t
+B
+C
+Cr
+Cor
+Grease
+Oil
+Single Row Inch Series
+d 28.575~31.750mm
+1.1250~1.2500inch
+101
+Tapered Roller Bearings
+
+---
+
+Tapered Roller Bearings
+Dimensions
+Basic Load Ratings
+Limiting Speeds
+Weight
+Bearing
+mm
+N
+kg
+Number
+inch
+lbf
+rev/min
+Ib
+d
+D
+t
+B
+C
+Cr
+Cor
+Grease
+Oil
+Single Row Inch Series
+d 31.750mm~34.925mm
+1.2500~1.375 inch
+2580
+31.750
+66.421
+25.400
+25.357
+20.638
+69000
+81500
+5700
+7600
+0.409
+2520
+1.2500
+2.6150
+1.0000
+0.9983
+0.8125
+15500
+18300
+0.902
+02475/
+31.750
+68.262
+22.225
+22.552
+17.462
+57000
+67000
+5800
+7700
+0.380
+02420
+1.2500
+2.6875
+0.8750
+0.8750
+0.6875
+12800
+15100
+0.838
+02476/
+31.750
+68.262
+22.225
+22.225
+17.462
+57000
+67000
+5800
+7700
+0.383
+02420
+1.2500
+2.6875
+0.8750
+0.8750
+0.6875
+12800
+15100
+0.844
+14124/
+31.750
+69.012
+19.845
+19.583
+15.875
+48500
+58000
+5600
+7400
+0.359
+14276
+1.2500
+2.7170
+0.7813
+0.7710
+0.6250
+10800
+13000
+0.791
+14125A/
+31.750
+69.012
+19.845
+19.583
+15.875
+48500
+58000
+5600
+7400
+0.356
+14276
+1.2500
+2.7170
+0.7813
+0.7710
+0.6250
+10800
+13000
+0.785
+2580/
+31.750
+69.850
+23.812
+25.357
+19.050
+69000
+81500
+5700
+7600
+0.454
+2523
+1.2500
+2.7500
+0.9375
+0.9983
+0.7500
+15500
+18300
+1.00
+2580/
+31.750
+69.850
+23.812
+25.357
+19.050
+69000
+81500
+5700
+7600
+0.453
+2523S
+1.2500
+2.7500
+0.9375
+0.9983
+0.7500
+15500
+18300
+0.999
+2582/
+31.750
+69.850
+23.812
+25.357
+19.050
+69000
+81500
+5700
+7600
+0.451
+2523
+1.2500
+2.7500
+0.9375
+0.9983
+0.7500
+15500
+18300
+0.994
+3188/
+31.750
+72.626
+30.162
+29.997
+23.812
+84500
+98000
+5500
+7300
+0.603
+3120
+1.2500
+2.8593
+1.1875
+1.1810
+0.9375
+19000
+22000
+1.33
+3193/
+31.750
+72.626
+30.162
+29.997
+23.812
+84500
+98000
+5500
+7300
+0.601
+3120
+1.2500
+2.8593
+1.1875
+1.1810
+0.9375
+19000
+22000
+1.33
+02875/
+31.750
+73.025
+22.225
+22.225
+17.462
+56500
+68000
+5300
+7000
+0.451
+02820
+1.2500
+2.8750
+0.8750
+0.8750
+0.6875
+12700
+15300
+0.994
+02879/
+31.750
+73.025
+22.225
+23.812
+17.462
+62500
+75500
+5200
+7000
+0.465
+02820
+1.2500
+2.8750
+0.8750
+0.9375
+0.6875
+14100
+17000
+1.03
+HM88542/
+31.750
+73.025
+29.370
+27.783
+23.020
+72000
+97000
+5400
+7100
+0.622
+HM88510
+1.2500
+2.8750
+1.1563
+1.0938
+0.9063
+16200
+21800
+1.37
+HM88542/
+31.750
+73.025
+29.370
+27.783
+23.020
+72000
+97000
+5400
+7100
+0.638
+HM88512
+1.2500
+2.9060
+1.1563
+1.0938
+0.9063
+16200
+21800
+1.41
+HM89440/
+31.750
+76.200
+29.370
+28.575
+23.020
+78000
+105000
+5100
+6800
+0.686
+HM89410
+1.2500
+3.0000
+1.1563
+1.1250
+0.9063
+17500
+27300
+1.51
+3476/
+31.750
+79.375
+29.370
+29.771
+23.812
+93000
+114000
+4900
+6600
+0.767
+3420
+1.2500
+3.1250
+1.1563
+1.1721
+0.9375
+20900
+25600
+1.69
+M88048/
+33.338
+68.262
+22.225
+22.225
+17.462
+56500
+71000
+5700
+7500
+0.378
+M88010
+1.3125
+2.6875
+0.8750
+0.8750
+0.6875
+12700
+16000
+14130/
+33.338
+69.012
+19.845
+19.583
+15.875
+48500
+58000
+5600
+7400
+0.344
+14276
+1.3125
+2.7170
+0.7813
+0.7710
+0.6250
+10800
+13000
+0.758
+14131/
+33.338
+69.012
+19.845
+19.583
+15.875
+48500
+58000
+5600
+7400
+0.346
+14276
+1.3125
+2.7170
+0.7813
+0.7710
+0.6250
+10800
+13000
+0.763
+2585/
+33.338
+69.850
+23.812
+25.357
+190.50
+69000
+81500
+5700
+7600
+0.435
+2523
+1.3125
+2.7500
+0.9375
+0.9983
+0.7500
+15500
+18300
+0.959
+3196/
+33.338
+72.626
+30.162
+29.997
+23.812
+84500
+98000
+5500
+7300
+0.581
+3120
+1.3125
+2.8593
+1.1875
+1.1810
+0.9375
+19000
+22000
+1.28
+HM88547/
+33.338
+73.025
+29.370
+27.783
+23.020
+72000
+97000
+5400
+7100
+0.604
+HM88510
+1.3125
+2.8750
+1.1563
+1.0938
+0.9038
+16200
+21800
+1.33
+2785/
+33.338
+76.200
+23.812
+25.654
+19.050
+73000
+90500
+5100
+6800
+0.551
+2720
+1.3125
+3.0000
+0.9375
+1.0100
+0.7500
+16400
+20300
+1.22
+2790/
+33.338
+76.200
+23.812
+25.654
+19.050
+73000
+90500
+5100
+6800
+0.553
+2720
+1.3125
+3.0000
+0.9375
+1.0100
+0.7500
+16400
+20300
+1.22
+HM89443/
+33.338
+76.200
+29.370
+28.575
+23.020
+78000
+105000
+5100
+6800
+0.668
+HM89410
+1.3125
+3.0000
+1.1563
+1.1250
+0.9063
+17500
+23700
+1.47
+HM89444/
+33.338
+76.200
+29.370
+28.575
+23.020
+78000
+105000
+5100
+6800
+0.665
+HM89410
+1.3125
+3.0000
+1.1563
+1.1250
+0.9063
+17500
+23700
+1.47
+43131/
+33.338
+79.375
+25.400
+24.074
+17.462
+65500
+67000
+4600
+6200
+0.568
+43312
+1.3125
+3.1250
+1.0000
+0.9478
+0.6875
+14700
+15000
+1.25
+LM48548/
+34.925
+65.088
+18.034
+18.288
+13.970
+46500
+56000
+5700
+7600
+0.249
+LM48510
+1.3750
+2.5625
+0.7100
+0.7200
+0.5500
+10500
+12600
+0.549
+LM48548A/
+34.925
+65.088
+18.034
+18.288
+13.970
+46500
+56000
+5700
+7600
+0.252
+LM48510
+1.3750
+2.5625
+0.7100
+0.7200
+0.5500
+10400
+12600
+0.556
+14137A/
+34.925
+69.012
+19.845
+19.583
+15.875
+48500
+58000
+5600
+7400
+0.333
+14276
+1.350
+2.7170
+0.7813
+0.7710
+0.6250
+10800
+13000
+0.734
+14138A/
+34.925
+69.012
+19.845
+19.583
+15.875
+48500
+58000
+5600
+7400
+0.331
+14276
+1.3750
+2.7170
+0.7813
+0.7710
+0.6250
+10800
+13000
+0.730
+HM88649/
+34.925
+72.233
+25.400
+25.400
+19.842
+65000
+84500
+5400
+7200
+0.489
+HM88610
+1.3150
+2.8438
+1.0000
+1.0000
+0.7812
+14600
+19000
+1.08
+16137/
+34.925
+72.238
+20.638
+20.638
+15.875
+48000
+58500
+5300
+7000
+0.385
+16284
+1.3750
+2.8440
+0.8125
+0.8125
+0.6250
+10800
+13100
+0.849
+02877/
+34.925
+73.025
+22.225
+22.225
+17.462
+56500
+68000
+5300
+7000
+0.422
+02820
+1.3750
+2.8750
+0.8750
+0.8750
+0.6875
+12700
+15300
+0.930
+02878/
+34.925
+73.025
+22.225
+22.225
+17.462
+56500
+68000
+5300
+7000
+0.425
+02820
+1.3750
+2.8750
+0.8750
+0.8750
+0.6875
+12700
+15300
+0.937
+102
+
+---
+
+2878
+34.925
+73.025
+22.225
+23.812
+17.462
+62500
+75500
+5200
+7000
+0.434
+2820
+1.3750
+2.8750
+0.8750
+0.9375
+0.6875
+14100
+17000
+0.957
+25877/
+34.925
+73.025
+23.812
+24.608
+19.050
+71000
+85000
+5300
+7100
+0.471
+25820
+1.3750
+2.8750
+0.9375
+0.9688
+0.7500
+15900
+19200
+1.04
+25877/
+34.925
+73.025
+23.812
+24.608
+19.050
+71000
+85000
+5300
+7100
+0.474
+25821
+1.3750
+2.8750
+0.9375
+0.9688
+0.7500
+15900
+19200
+1.05
+25878/
+34.925
+73.025
+23.812
+24.608
+19.050
+71000
+85000
+5300
+7100
+0.471
+25821
+1.3750
+2.8750
+0.9375
+0.9688
+0.7500
+15900
+19200
+1.04
+2739/
+34.925
+73.025
+23.812
+25.654
+19.050
+73000
+90500
+5100
+6800
+0.485
+2735X
+1.3750
+2.8750
+0.9375
+1.0100
+0.7500
+16400
+20300
+0.485
+2793/
+34.925
+76.200
+23.812
+25.654
+19.050
+73000
+90500
+5100
+6800
+0.536
+2720
+1.3750
+3.0000
+0.9375
+1.0100
+0.7500
+16400
+20300
+1.18
+2793/
+34.925
+76.200
+23.812
+25.654
+19.050
+73000
+90500
+5100
+6800
+0.541
+2729
+1.3750
+3.0000
+0.9375
+1.0100
+0.7500
+16400
+20300
+1.19
+2796/
+34.925
+76.200
+23.812
+25.654
+19.050
+73000
+90500
+5100
+6800
+0.533
+2720
+1.3750
+3.0000
+0.9375
+1.0100
+0.7500
+116400
+20300
+1.18
+HM89446/
+34.925
+76.200
+29.370
+28.575
+23.020
+78000
+105000
+5100
+6800
+0.646
+HM89410
+1.3750
+3.0000
+1.1563
+1.1250
+0.9063
+17500
+23700
+1.42
+31593/
+34.925
+76.200
+29.370
+28.575
+23.812
+80500
+97000
+5100
+6800
+0.625
+31520
+1.3750
+3.0000
+1.1563
+1.1250
+0.9375
+18100
+21800
+1.38
+31594/
+34.925
+76.200
+29.370
+28.575
+23.812
+80500
+97000
+5100
+6800
+0.631
+31521
+1.3750
+3.0000
+1.1563
+1.1250
+0.9375
+18100
+21800
+1.39
+3478/
+34.925
+79.375
+29.370
+29.771
+23.812
+93000
+114000
+4900
+6600
+0.725
+3420
+1.3750
+3.1250
+1.1563
+1.1721
+0.9375
+20900
+25600
+1.60
+3379
+34.925
+80.167
+29.370
+30.391
+23.812
+95000
+112000
+4800
+6400
+0.732
+3320
+1.3750
+3.1562
+1.1563
+1.1965
+0.9375
+21400
+25100
+1.61
+3872/
+34.925
+85.725
+30.162
+30.162
+23.812
+10500
+13200
+4500
+6000
+0.897
+3820
+1.3750
+3.3750
+1.1875
+1.1875
+0.9375
+2360
+29600
+1.98
+14139/
+34.976
+69.012
+19.845
+19.583
+15.875
+48500
+58000
+5600
+7400
+0.333
+14276
+1.3770
+2.7170
+0.7813
+0.7710
+0.6250
+10800
+13000
+0.734
+L68149/
+34.988
+59.974
+15.875
+16.764
+11.938
+35500
+47500
+6100
+8100
+0.179
+L68111
+1.3775
+2.3612
+0.6250
+0.6600
+0.4700
+7950
+10700
+0.395
+LM78349A/
+34.988
+61.973
+16.700
+17.000
+13.600
+37000
+48000
+5900
+7900
+0.209
+LM78310A
+1.3775
+2.4399
+0.6575
+0.6693
+0.5354
+8350
+10800
+0.461
+LM78349/
+34.988
+61.973
+18.000
+17000
+15.000
+37000
+48000
+5900
+7900
+0.218
+LM78310C
+1.3775
+2.4399
+0.7087
+0.6693
+0.5906
+8350
+10800
+0.481
+JS3549A/
+35.000
+70.000
+24.000
+23.500
+19.000
+62000
+78000
+5500
+7300
+0.420
+JS3510
+1.3780
+2.7559
+0.9449
+0.9525
+0.7480
+14000
+17500
+0.926
+26883/
+35.000
+79.375
+23.812
+25.400
+19.050
+76500
+97500
+4800
+6400
+0.610
+26822
+1.3780
+3.1250
+0.9375
+1.0000
+0.7500
+17200
+21900
+1.35
+339/
+35.000
+80.000
+21.000
+22.403
+17.826
+68000
+75000
+4700
+6300
+0.534
+332
+1.3780
+3.1496
+0.8268
+0.8820
+0.7018
+15300
+16900
+1.18
+HM88648/
+35.717
+72.233
+25.400
+25.400
+19.842
+65000
+84500
+5400
+7200
+0.478
+HM88610
+1.4062
+2.8438
+1.0000
+1.0000
+0.7812
+14600
+19000
+1.05
+HM88648/
+35.717
+72.626
+25.400
+25.400
+19.842
+65000
+84500
+5400
+7200
+0.482
+HM88611AS
+1.4062
+2.8593
+1.0000
+1.000
+0.7812
+14600
+19000
+1.06
+25880/
+36.487
+73.025
+23.812
+24.608
+19.050
+71000
+85000
+5300
+7100
+0.457
+25821
+1.4365
+2.8750
+0.9375
+0.9688
+0.7500
+15900
+19200
+1.01
+2780/
+36.487
+76.200
+23.812
+25.654
+19.050
+73000
+90500
+5100
+6800
+0.518
+2720
+1.4365
+3.0000
+0.9375
+1.0100
+0.7500
+16400
+20300
+1.14
+2794/
+36.487
+76.200
+23.812
+25.654
+19.050
+73000
+90500
+5100
+6800
+0.516
+2720
+1.4365
+3.0000
+0.9375
+1.0100
+0.7500
+16400
+20300
+1.14
+HM89448/
+36.512
+76.200
+29.370
+28.575
+23.020
+78000
+105000
+5100
+6800
+0.629
+HM89410
+1.4375
+3.0000
+1.1563
+1.1250
+0.9063
+17500
+23700
+1.39
+HM89449/
+36.512
+76.200
+29.370
+28.575
+23.020
+78000
+105000
+5100
+6800
+0.626
+HM89410
+1.4375
+3.0000
+1.1563
+1.1250
+0.9063
+17500
+23700
+1.38
+HM89449/
+36.512
+76.200
+29.370
+28.575
+23.020
+78000
+105000
+5100
+6800
+0.631
+HM89411
+1.4375
+3.0000
+1.1563
+1.1250
+0.9063
+17500
+23700
+1.39
+31597/
+63.512
+76.200
+29.370
+28.575
+23.812
+80500
+97000
+5100
+6800
+0.605
+31520
+1.4375
+3.0000
+1.1563
+1.1250
+0.9375
+18100
+21800
+1.33
+HM89249/
+36.512
+79.375
+29.370
+28.829
+22.664
+86500
+10400
+5000
+6600
+0.686
+HM89210
+1.4375
+3.1250
+1.1563
+1.1350
+0.8923
+19400
+23400
+1.51
+3479/
+36.512
+79.375
+29.370
+29.771
+23.812
+93000
+114000
+4900
+6600
+0.707
+3420
+1.4375
+3.1250
+1.1563
+1.1721
+0.9375
+20900
+25600
+1.56
+44143/
+36.512
+88.500
+25.400
+23.698
+17.462
+79500
+78000
+4900
+5300
+0.729
+44348
+1.4375
+3.4843
+1.0000
+0.9330
+0.6875
+15900
+17500
+1.61
+Dimensions
+Basic Load Ratings
+Limiting Speeds
+Weight
+Bearing
+mm
+N
+kg
+Number
+inch
+lbf
+rev/min
+Ib
+d
+D
+t
+B
+C
+Cr
+Cor
+Grease
+Oil
+Single Row Inch Series
+d 34.925~36.512mm
+1.3750~1.437inch
+103
+Tapered Roller Bearings
+
+---
+
+Tapered Roller Bearings
+Single Row Inch
+d 38.000mm~39.688mm
+1.4961~1.5625inch
+JL69349/
+38.000
+63.000
+17.000
+17.000
+13.500
+38500
+52500
+5700
+7600
+0.198
+JL69310
+1.4961
+2.4803
+0.6693
+0.6693
+0.5315
+8700
+11800
+0.437
+13889/
+38.100
+63.500
+12.700
+11.908
+9.525
+25900
+33500
+5500
+7300
+0.147
+13830
+1.5000
+2.5000
+0.5000
+0.4688
+0.3750
+5800
+7500
+0.324
+LM29748/
+38.100
+65.088
+18.034
+18.288
+13.970
+43500
+57000
+5500
+7400
+0.233
+LM29710
+1.500
+2.5625
+0.7100
+0.7200
+0.5500
+9750
+12800
+0.514
+LM29749/
+38.100
+65.088
+18.034
+18.288
+13.970
+43500
+57000
+5500
+7400
+0.235
+LM29710
+1.5000
+2.5625
+0.7100
+0.7200
+0.5500
+9750
+12800
+0.518
+LM29749/
+38.100
+65.088
+19.812
+18.288
+15.748
+43500
+57000
+5500
+7400
+0.250
+LM29711
+1.50000
+2.5625
+0.7800
+0.7200
+0.6200
+9750
+12800
+0.551
+13685/
+38.100
+69.012
+19.050
+19.050
+15.083
+47500
+59500
+5300
+7100
+0.293
+13621
+1.5000
+2.7170
+0.7500
+0.7500
+0.5938
+10700
+13400
+0.646
+13687/
+38.100
+69.012
+19.050
+19.050
+15.083
+47500
+59500
+5300
+7100
+0.296
+13621
+1.5000
+2.7170
+0.7500
+0.7500
+0.5938
+10700
+13400
+0.653
+19150/
+38.100
+71.438
+15.875
+16.520
+11.908
+43500
+51000
+5400
+7200
+0.273
+19281
+1.5000
+2.8125
+0.6250
+0.6504
+0.4688
+9750
+11500
+0.602
+19150/
+38.100
+72.100
+17.018
+16.520
+14.288
+43500
+51000
+5400
+7200
+0.300
+19283
+1.5000
+2.8346
+0.6700
+0.6504
+0.5625
+9750
+11500
+0.661
+16150/
+38.100
+72.000
+19.000
+20.638
+14.237
+48000
+58500
+5300
+7000
+0.331
+16282
+1.5000
+2.8346
+0.7480
+0.8125
+0.5605
+10800
+13100
+0.730
+16150/
+38.100
+72.238
+20.638
+20.638
+15.875
+48000
+58500
+5300
+7000
+0.355
+16284
+1.5000
+2.8440
+0.8125
+0.8125
+0.6250
+10800
+13100
+0.783
+28150/
+38.100
+76.200
+20.638
+20.940
+15.507
+55500
+63000
+5000
+6700
+0.405
+28300
+1.5000
+3.0000
+0.8125
+0.844
+0.6105
+12500
+14200
+0.893
+2776/
+38.100
+76.200
+23.812
+25.654
+19.050
+73000
+90500
+5100
+6800
+0.495
+2720
+1.5000
+3.0000
+0.9375
+1.0100
+0.7500
+16400
+20300
+1.09
+2777/
+38.100
+76.200
+23.812
+25.654
+19.050
+73000
+90500
+5100
+6800
+0.492
+2720
+1.5000
+3.0000
+0.9375
+1.0100
+0.7500
+16400
+20300
+1.09
+2788/
+38.100
+76.200
+23.812
+25.654
+19.050
+73000
+90500
+5100
+6800
+0.497
+2720
+1.5000
+3.0000
+0.9375
+1.0100
+0.7500
+16400
+20300
+1.10
+2788A/
+38.100
+76.200
+23.812
+25.654
+19.050
+73000
+90500
+5100
+6800
+0.499
+2720
+1.5000
+3.0000
+0.9375
+1.0100
+0.7500
+16400
+20300
+1.10
+26878/
+38.100
+79.375
+23.812
+25.400
+19.050
+76500
+90500
+4800
+6400
+0.574
+26822
+1.5000
+3.1250
+0.9375
+1.0000
+0.7500
+17200
+20300
+1.27
+3490/
+38.100
+79.375
+29.370
+29.771
+23.812
+93000
+11400
+4900
+6600
+0.683
+3420
+1.5000
+3.1250
+1.1563
+1.1721
+0.9375
+20900
+25600
+1.51
+28150/
+38.100
+80.000
+21.006
+20.940
+15.875
+55500
+63000
+5000
+6700
+0.467
+28315
+1.5000
+3.1496
+0.8270
+0.8244
+0.6250
+12500
+14200
+1.03
+27880/
+38.100
+80.035
+24.608
+23.698
+18.512
+67000
+82500
+4800
+6400
+0.562
+27820
+1.5000
+3.1510
+0.9688
+0.9330
+0.7288
+15100
+18500
+1.24
+27881/
+38.100
+80.035
+24.608
+23.698
+18.512
+67000
+82500
+4800
+6400
+0.559
+27820
+1.5000
+3.1510
+0.9688
+0.9330
+07288
+15100
+18500
+1.23
+HM801346/
+38.100
+82.550
+29.370
+28.575
+23.020
+87000
+117000
+4700
+6200
+0.767
+HM801310
+1.5000
+3.2500
+1.1563
+1.1250
+0.9063
+19500
+26300
+1.69
+25572/
+38.100
+82.931
+23.812
+25.400
+19.050
+76000
+98000
+4500
+6000
+0.645
+25520
+1.5000
+3.2650
+0.9375
+1.0000
+0.7500
+17100
+22000
+1.42
+3875/
+38.100
+85.725
+30.162
+30.162
+23.812
+105000
+132000
+4500
+6000
+0.857
+3820
+1.5000
+3.3750
+1.1875
+1.1875
+0.9375
+23600
+29600
+1.89
+3876/
+38.100
+85.725
+30.162
+30.162
+23.812
+105000
+132000
+4500
+6000
+0.857
+3820
+1.5000
+3.3750
+1.1875
+1.1875
+0.9375
+23600
+29600
+1.88
+3580/
+38.100
+87.312
+30.162
+30.886
+23.816
+94000
+11700
+4400
+5900
+0.881
+3525
+1.5000
+3.4375
+1.1875
+1.2160
+0.9375
+21200
+26400
+1.94
+44150/
+38.100
+88.500
+25.400
+23.698
+17.462
+70500
+78000
+4000
+5300
+0.711
+44348
+1.5000
+3.4843
+1.0000
+0.9330
+0.6875
+15900
+17500
+1.57
+418/
+38.100
+88.500
+29.988
+29.083
+22.225
+95500
+107000
+4600
+6100
+0.840
+414
+1.5000
+3.4843
+1.0625
+1.1450
+0.8750
+21500
+24100
+1.85
+2789/
+39.688
+76.200
+23.812
+25.654
+19.050
+73000
+90500
+5100
+6800
+0.477
+2720
+1.5625
+3.0000
+0.9375
+1.0100
+0.7500
+16400
+20300
+1.05
+3382/
+39.688
+77.534
+29.370
+30.391
+23.812
+95000
+112000
+4800
+6400
+0.554
+3321
+1.5625
+3.0525
+1.1563
+1.1965
+0.9375
+21400
+25100
+1.48
+26880/
+39.688
+79.375
+23.812
+25.400
+19.050
+76500
+97500
+4800
+6400
+0.554
+26822
+1.5625
+3.1250
+0.9375
+1.0000
+0.7500
+17200
+21900
+1.22
+26881/
+93.688
+79.375
+23.812
+25.400
+19.050
+76500
+97500
+4800
+6400
+0.552
+26822
+1.5625
+3.1250
+0.9375
+1.0000
+0.7500
+17200
+21900
+1.22
+3382/
+39.688
+80.035
+29.370
+30.391
+23.812
+95000
+11200
+4800
+6400
+0.666
+3339
+1.5625
+3.1510
+1.1563
+1.1965
+0.9375
+21400
+25100
+1.47
+3382/
+39.688
+80.167
+29.370
+30.391
+23.812
+95000
+112000
+4800
+6400
+0.665
+3320
+1.5625
+3.1562
+1.1563
+1.1965
+0.9375
+21400
+25100
+1.47
+3382/
+39.688
+80.167
+29.370
+30.391
+23.812
+95000
+112000
+4800
+6400
+0.670
+3331
+1.5625
+3.1562
+1.1563
+1.1965
+0.9375
+21400
+25100
+1.48
+Dimensions
+Basic Load Ratings
+Limiting Speeds
+Weight
+Bearing
+mm
+N
+kg
+Number
+inch
+lbf
+rev/min
+Ib
+d
+D
+t
+B
+C
+Cr
+Cor
+Grease
+Oil
+104
+
+---
+
+Dimensions
+Basic Load Ratings
+Limiting Speeds
+Weight
+Bearing
+mm
+N
+kg
+Number
+inch
+lbf
+rev/min
+Ib
+d
+D
+t
+B
+C
+Cr
+Cor
+Grease
+Oil
+Single Row (Inch)
+d 39.688~41.275mm
+1.5625~1.6250inch
+3386/
+39.688
+80.167
+29.370
+30.391
+23.812
+95000
+112000
+4800
+6400
+0.668
+3320
+1.5625
+3.1562
+1.1563
+1.1965
+0.9375
+21400
+25100
+1.47
+44158/
+39.688
+88.500
+25.400
+23.698
+17.462
+70500
+78000
+4000
+5300
+0.691
+44348
+1.5625
+3.4843
+1.0000
+0.9330
+0.6875
+15900
+17500
+1.52
+28158/
+40.000
+76.200
+20.638
+20.940
+15.507
+55500
+63000
+5000
+6700
+0.386
+28300
+1.5748
+3.0000
+0.8125
+0.8244
+0.6105
+12500
+14200
+0.851
+344/
+40.000
+80.000
+21.000
+22.403
+17.826
+68000
+75000
+4700
+6300
+0.479
+332
+1.5748
+3.1496
+0.8268
+0.8820
+0.7018
+15300
+16900
+1.06
+344A/
+40.000
+80.000
+21.000
+22.403
+17.826
+68000
+75000
+4700
+6300
+0.482
+332
+1.5748
+3.1496
+0.8268
+0.8820
+0.7018
+15300
+16900
+1.06
+350A/
+40.000
+85.000
+20.638
+21.692
+17.462
+69500
+79500
+4400
+5800
+0.562
+354A
+1.5748
+3.3465
+0.8125
+0.8540
+0.6875
+15700
+17800
+1.24
+420/
+40.000
+88.500
+26.988
+29.083
+22.225
+95500
+107000
+4600
+6100
+0.813
+414
+1.5748
+3.4843
+1.0625
+1.1450
+0.8750
+21500
+24100
+1.79
+543/
+40.000
+107.950
+36.512
+36.957
+28.575
+141000
+177000
+3600
+4800
+1.77
+532X
+1.5748
+4.2500
+1.4375
+1.4550
+1.1250
+32000
+40000
+3.90
+HM801349/
+40.483
+82.550
+29.370
+28.575
+23.020
+87000
+117000
+4700
+6200
+0.731
+HM801310
+1.5748
+3.2500
+1.1563
+1.1250
+0.9063
+19500
+26300
+1.61
+LM300849/
+40.988
+67.975
+17.500
+18.000
+13.500
+46000
+62500
+5300
+7000
+0.239
+LM300811
+1.6137
+2.6762
+0.6890
+0.7087
+0.5315
+10300
+141000
+1.527
+18590/
+41.275
+736.025
+16.667
+17.462
+12.700
+46000
+55500
+5000
+6600
+0.281
+18520
+1.6250
+2.8750
+0.6562
+0.6875
+0.5000
+10300
+12500
+1.619
+LM501349/
+41.275
+73.431
+19.558
+19.812
+14.732
+56000
+69500
+5000
+6600
+0.335
+LM501310
+1.6250
+2.8910
+0.7700
+0.7800
+0.5800
+12600
+15700
+0.739
+LM501349/
+41.275
+73.431
+21.430
+19.812
+16.604
+56000
+69500
+5000
+6600
+0.355
+LM501314
+1.6250
+2.8910
+0.8437
+0.7800
+0.6537
+12600
+15700
+0.783
+11162/
+41.275
+76.200
+18.009
+17.384
+14.288
+42500
+51500
+4900
+6500
+0.337
+11300
+1.6250
+3.0000
+0.7090
+0.6844
+0.5625
+9550
+11600
+0.743
+24780/
+41.275
+76.200
+22.225
+23.020
+17.462
+65000
+80500
+4900
+6500
+0.432
+24720
+1.6250
+3.0000
+0.8750
+0.9063
+0.6875
+14600
+18100
+0.952
+26882/
+41.275
+76.200
+25.400
+25.400
+20.638
+76500
+97500
+4800
+6400
+0.488
+26823
+1.6250
+3.0000
+1.0000
+1.000
+0.8125
+17200
+21900
+1.08
+26882/
+41.275
+79.375
+23.812
+25.400
+19.050
+76500
+97500
+4800
+6400
+0.531
+26822
+1.6250
+3.1250
+0.9375
+1.0000
+0.7500
+17200
+21900
+1.17
+26882/
+41.275
+79.375
+23.812
+25.400
+19.050
+76500
+97500
+4800
+6400
+0.528
+26822A
+1.6250
+3.1250
+0.9375
+1.0000
+0.7500
+17200
+21900
+1.16
+26885/
+41.275
+79.375
+23.812
+25.400
+19.050
+76500
+97500
+4800
+6400
+0.535
+26822
+1.6250
+3.1250
+0.9375
+1.000
+0.7500
+17200
+21900
+1.18
+11162/
+41.275
+80.000
+18.009
+17.384
+14.288
+425000
+51500
+4900
+6500
+0.389
+11315
+1.6250
+3.1496
+0.7090
+0.6844
+0.5625
+9550
+11600
+0.858
+336/
+41.275
+80.000
+21.000
+22.403
+17.826
+68000
+75000
+4700
+6300
+0.468
+332
+1.6250
+3.1496
+0.8268
+0.8820
+0.7018
+15300
+16900
+1.03
+342/
+41.275
+80.000
+21.000
+22.403
+17.826
+68000
+75000
+4700
+6300
+0.465
+332
+1.6250
+3.1496
+0.8268
+0.8820
+0.7018
+15300
+16900
+1.03
+26882/
+41.275
+80.000
+23.812
+25.400
+19.050
+76500
+97500
+4800
+6400
+0.542
+26824
+1.6250
+3.1496
+0.9375
+1.0000
+0.7500
+17200
+21900
+1.20
+26882/
+41.275
+80.167
+25.400
+25.400
+20.638
+76500
+97500
+4800
+6400
+0.563
+26820
+1.6250
+3.1562
+1.0000
+1.0000
+0.8125
+17200
+21900
+1.24
+M802048/
+41.275
+82.550
+26.543
+25.654
+20.193
+80500
+104000
+4600
+6100
+0.642
+M802011
+1.6250
+3.2500
+1.0450
+1.0100
+0.7950
+18100
+23400
+1.42
+3880/
+41.275
+85.725
+30.162
+30.162
+23.812
+105000
+132000
+4500
+6000
+0.810
+3820
+1.6250
+3.3750
+1.1875
+1.1875
+0.9375
+23600
+29600
+1.79
+3576/
+41.275
+87.312
+30.162
+30.886
+23.812
+94000
+117000
+4400
+5900
+0.834
+3525
+1.6250
+3.4375
+1.1875
+1.2160
+0.9375
+21200
+26400
+1.84
+3577/
+41.275
+87.312
+30.162
+30.886
+23.812
+94000
+117000
+4400
+5900
+0.831
+3525
+1.6250
+3.4375
+1.1875
+1.2160
+0.9375
+21200
+26400
+1.83
+3585/
+41.275
+87.312
+30.162
+30.886
+23.812
+94000
+117000
+4400
+5900
+0.833
+3525
+1.6250
+3.4375
+1.1875
+1.2160
+0.9375
+21200
+26400
+1.84
+HM803145/
+41.275
+88.900
+30.162
+29.370
+23.020
+93500
+125000
+4300
+5800
+0.901
+HM803110
+1.6250
+3.5000
+1.1875
+1.1563
+0.9063
+21000
+28000
+1.99
+HM803146/
+41.275
+88.900
+30.162
+29.370
+23.020
+93500
+125000
+4300
+5800
+0.898
+HM803110
+1.6250
+3.5000
+1.1875
+1.1563
+0.9063
+21000
+28000
+1.98
+4388/
+41.275
+90.488
+39.688
+40.386
+33.338
+136000
+175000
+4300
+5800
+1.25
+4335
+1.6250
+3.5625
+1.5625
+1.5900
+1.3125
+30500
+39500
+2.76
+M903345/
+41.275
+92.075
+26.195
+23.812
+16.670
+72500
+81500
+3800
+5000
+0.758
+M903310
+1.6250
+3.6250
+1.0313
+0.9375
+0.6536
+16300
+18300
+1.67
+46162/
+41.275
+93.662
+31.750
+31.750
+26.195
+103000
+131000
+4100
+5500
+1.09
+46368
+1.6250
+3.6875
+1.2500
+1.2500
+1.0313
+23300
+29500
+2.40
+HM804840/
+41.275
+95.250
+30.162
+29.370
+23.020
+109000
+147000
+4000
+5300
+1.08
+HM804810
+1.6250
+3.7500
+1.1875
+1.1563
+0.9063
+24400
+33000
+2.38
+105
+Tapered Roller Bearings
+
+---
+
+Tapered Roller Bearings
+Single Row (Inch)
+d 41.275~44.450mm
+1.6250~1.7500inch
+Dimensions
+Basic Load Ratings
+Limiting Speeds
+Weight
+Bearing
+mm
+N
+kg
+Number
+inch
+lbf
+rev/min
+Ib
+d
+D
+t
+B
+C
+Cr
+Cor
+Grease
+Oil
+53162/
+41.275
+95.250
+30.958
+28.300
+20638
+82500
+92000
+3700
+5000
+0.975
+53375
+1.6250
+3.7500
+1.2188
+1.142
+0.8125
+18500
+20600
+2.15
+HM903245/
+41.275
+95.250
+30.958
+28.575
+22.225
+96000
+116000
+3700
+4900
+1.05
+HM903210
+1.6250
+3.7500
+1.2188
+1.1250
+0.8750
+21600
+26100
+2.32
+4395/
+42.070
+94.488
+39.688
+40.386
+33.338
+136000
+175000
+4300
+5800
+1.24
+4335
+1.6563
+3.5625
+1.5625
+1.5900
+1.3125
+30500
+39500
+2.73
+22780/
+42.862
+82.550
+26.195
+26.988
+20.638
+75500
+97000
+4600
+6100
+0.617
+22720
+1.6875
+3.2500
+1.0313
+1.0625
+0.8125
+16900
+21800
+1.36
+25578/
+42.862
+82.931
+23.812
+25.400
+19050
+76000
+98000
+4500
+6000
+0.584
+25520
+1.6875
+3.2650
+0.9375
+1.0000
+0.7500
+17100
+22000
+1.29
+3579/
+42.862
+87.312
+30.162
+30.886
+23.812
+94000
+11700
+4400
+5900
+0.805
+3525
+1.6875
+3.4375
+1.1875
+1.2160
+0.9375
+21200
+26400
+1.78
+26884/
+42.875
+79.375
+23.812
+25.400
+19.050
+76500
+97500
+4800
+6400
+0.510
+26822
+1.6880
+3.1250
+0.9375
+1.0000
+0.7500
+17200
+21900
+1.12
+26886/
+42.875
+79.375
+23.812
+25.400
+19.050
+76500
+97500
+4800
+6400
+0.0513
+26822
+1.6880
+3.1250
+0.9375
+1.0000
+0.7500
+17200
+21900
+1.13
+25577/
+42.875
+82.931
+23.812
+25.400
+19.050
+76000
+98000
+4500
+6000
+0.581
+25520
+1.6880
+3.2650
+0.9375
+1.0000
+0.7500
+17100
+22000
+1.28
+12175/
+44.450
+76.992
+17.462
+17.145
+11.908
+44000
+54000
+4700
+6300
+0.308
+12303
+1.7500
+3.0312
+0.6875
+0.6750
+0.4688
+9850
+12200
+0.679
+18685/
+44.450
+79.375
+17.462
+17.462
+13.495
+45500
+56000
+4600
+6200
+0.345
+18620
+1.7500
+3.1250
+0.6875
+0.6875
+0.5313
+10200
+12600
+0.761
+25580/
+44.450
+82.931
+23.812
+25.400
+19.050
+76000
+98000
+4500
+6000
+0.560
+25520
+1.7500
+3.2650
+0.9375
+1.0000
+0.7500
+17100
+22000
+1.24
+25581/
+44.450
+82.931
+23.812
+25.400
+19.050
+76000
+98000
+4500
+6000
+0.563
+25520
+1.7500
+3.2650
+0.9375
+1.0000
+0.7500
+17100
+22000
+1.24
+25580/
+44.450
+92.931
+23.812
+25.400
+19.050
+76000
+98000
+4500
+6000
+0.556
+25520
+1.7500
+3.2650
+0.9375
+1.0000
+0.7500
+17100
+22000
+1.23
+3578/
+44.450
+84.138
+30.162
+30.886
+23.812
+94000
+117000
+4400
+5900
+0.699
+3520
+1.7500
+3.3125
+1.1875
+1.2160
+0.93785
+21200
+26400
+1.54
+355/
+44.450
+85.000
+20.638
+21.692
+17.462
+69500
+79500
+4400
+5800
+0.511
+354A
+1.7500
+3.3465
+0.8125
+0.8540
+0.6875
+15700
+17800
+1.13
+355A/
+44.450
+85.000
+20.638
+21.692
+17.462
+69500
+79500
+4400
+5800
+0.512
+354A
+1.7500
+3.3465
+0.8125
+0.8540
+0.6875
+15700
+17800
+1.13
+3578/
+44.450
+87.312
+30.162
+30.886
+23.812
+94000
+117000
+4400
+5900
+0.779
+3525
+1.7500
+3.4375
+1.1875
+1.2160
+0.9375
+21200
+26400
+1.72
+3578/
+44.450
+87.312
+30.162
+30.886
+23.812
+94000
+117000
+4400
+5900
+0.784
+3526
+1.7500
+3.4375
+1.1875
+1.2160
+0.9375
+21200
+26400
+1.73
+HM803149/
+44.450
+88.900
+30.162
+29.370
+23.020
+93500
+125000
+4300
+5800
+0.849
+HM803110
+1.75
+3.5000
+1.1875
+1.1563
+0.9063
+21000
+28000
+1.87
+3782/
+44.450
+93.264
+30.162
+30.302
+23.812
+102000
+134000
+4000
+5300
+0.961
+3720
+1.7500
+3.6718
+1.1875
+1.1930
+0.9375
+22900
+30000
+2.12
+46175
+44.450
+93.662
+31.750
+31.750
+26.195
+103000
+131000
+4100
+5500
+1.04
+46368
+1.7500
+3.6875
+1.2500
+1.2500
+1.0313
+23300
+29500
+2.29
+46176/
+44.450
+93.662
+31.750
+31.750
+26.195
+103000
+131000
+4100
+5500
+1.03
+46368
+1.7500
+3.6875
+1.2500
+1.2500
+1.0313
+23300
+29500
+2.27
+33885/
+44.450
+95.250
+27.783
+28.575
+22.225
+107000
+139000
+3900
+5200
+0.987
+33821
+1.7500
+3.7500
+1.0938
+1.1250
+0.8750
+24100
+3100
+2.18
+438/
+44.450
+95.250
+27.783
+29.900
+22.225
+108000
+129000
+4200
+5600
+0.953
+432
+1.7500
+3.7500
+1.0938
+1.1772
+0.8750
+24300
+29100
+2.10
+438/
+44.450
+95.250
+27.783
+29.900
+22.225
+108000
+129000
+4200
+5600
+0.956
+432A
+1.7500
+3.7500
+1.0938
+1.1772
+0.8750
+24300
+29100
+2.11
+HM804842/
+44.450
+95.250
+30.162
+29.370
+23.020
+109000
+147000
+4000
+5300
+1.04
+HM804810
+1.7500
+3.7500
+1.1875
+1.1563
+0.9063
+24400
+33000
+2.29
+53176
+44.450
+95.250
+30.958
+28.300
+20.638
+82500
+92000
+3700
+5000
+0.928
+53375
+1.7500
+3.7500
+1.2188
+1.1142
+0.8125
+18500
+20600
+2.05
+53176/
+44.450
+95.250
+30.958
+28.300
+20638
+82500
+92000
+3700
+5000
+0.924
+53377
+1.7500
+3.7500
+1.2188
+1.1142
+0.8125
+18500
+20600
+2.04
+53177/
+44.450
+95.250
+30.958
+28.300
+20.638
+82500
+92000
+3700
+5000
+0.925
+53375
+1.7500
+3.7500
+1.2188
+1.1142
+0.8125
+18500
+20600
+2.04
+53178/
+44.450
+95.250
+30.958
+28.300
+20.638
+82500
+9200
+3700
+5000
+0.927
+53375
+1.7500
+3.7500
+1.2188
+1.1142
+0.8125
+18500
+20600
+2.04
+HM903249A/
+44.450
+95.250
+30.958
+28.300
+22.225
+96000
+116000
+3700
+4900
+0.999
+HM903210
+1.7500
+3.7500
+1.2188
+1.1142
+0.8750
+21600
+21600
+2.20
+527/
+44.450
+101.600
+34.925
+36.068
+26.988
+135000
+165000
+3800
+5000
+1.37
+522
+1.7500
+4.0000
+1.3750
+1.4200
+1.0625
+30500
+37000
+3.02
+460/
+44.450
+104.775
+30.162
+29.317
+24.605
+115000
+148000
+3500
+4700
+1.2-9
+453X
+1.7500
+4.1250
+1.1875
+1.1542
+09687
+25800
+33000
+2.84
+106
+
+---
+
+Dimensions
+Basic Load Ratings
+Limiting Speeds
+Weight
+Bearing
+mm
+N
+kg
+Number
+inch
+lbf
+rev/min
+Ib
+d
+D
+t
+B
+C
+Cr
+Cor
+Grease
+Oil
+Single Row (Inch)
+d 44.450~47.625mm
+1.7500~1.8750inch
+45280/
+44.450
+104.75
+30.162
+30.958
+23.812
+130000
+169000
+3500
+4700
+1.35
+45220
+1.7500
+4.1250
+1.1875
+1.2188
+0.9375
+29200
+38000
+2.98\
+HM807040/
+44.450
+104.775
+36.512
+36.512
+28.575
+138000
+189000
+3600
+4800
+1.62
+HM807010
+1.7500
+4.1250
+1.4375
+1.4375
+1.1250
+31000
+42500
+3.57
+55175C/
+44.450
+111.125
+30.162
+26.909
+20.638
+104000
+136000
+3200
+4200
+1.45
+55437
+1.7500
+4.3750
+1.1875
+1.0594
+0.8125
+23400
+30500
+3.20
+55176C/
+44.450
+111.125
+30.162
+26.909
+20.638
+104000
+136000
+3200
+4200
+1.09
+55437
+1.7500
+4.3750
+1.1875
+1.0594
+0.8125
+23400
+30500
+2.40
+6277/
+44.450
+127.000
+50.800
+52.388
+41.275
+250000
+320000
+3200
+4300
+3.58
+6220
+1.7500
+5.0000
+2.0000
+2.0625
+1.6250
+56000
+72500
+7.89
+25584/
+44.983
+82.931
+23.812
+25.400
+19.050
+76000
+98000
+4500
+6000
+0.555
+25520
+1.7710
+3.2650
+0.9375
+1.0000
+0.7500
+17100
+22000
+1.22
+3776/
+44.983
+93.264
+30.162
+30.302
+23.812
+102000
+134000
+4000
+5300
+0.952
+3720
+1.7710
+3.6718
+1.1875
+1.1930
+0.9375
+22900
+30000
+2.10
+358/
+45.000
+85.000
+20.638
+21.692
+17.462
+69500
+79500
+4400
+5800
+0.505
+354A
+1.7717
+3.3465
+0.8125
+0.8540
+0.6875
+15700
+17800
+1.11
+367/
+45.000
+88.900
+20.638
+22.225
+16.513
+76500
+90500
+4100
+5500
+0.595
+362A
+1.7717
+3.50000
+0.8125
+0.8750
+0.6501
+17200
+20400
+1.31
+3586/
+45.237
+87.312
+30.162
+30.886
+23.812
+94000
+11700
+4400
+5900
+0.765
+3525
+1.7810
+3.4375
+1.1875
+1.2160
+0.9375
+21200
+26400
+1.69
+LM102949/
+45.242
+73.431
+19.558
+19.812
+15.748
+54000
+76000
+4800
+6400
+0.307
+LM102910
+1.7812
+2.8910
+0.7700
+0.7800
+0.6200
+12200
+17100
+0.667
+LM560349/
+45.242
+77.788
+19.842
+19.842
+15.080
+57500
+73500
+4600
+6200
+0.372
+LM603011
+1.7812
+3.0625
+0.7812
+0.7812
+0.5937
+12900
+16600
+0.820
+LM603049/
+45.242
+77.788
+21.430
+19.842
+16.667
+57500
+73500
+4600
+6200
+0.391
+LM603012
+1.7812
+3.0625
+0.8437
+0.7812
+06562
+12900
+16600
+0.862
+LM603049/
+45.242
+79.974
+19.842
+19.842
+15.080
+57500
+73500
+4600
+6200
+0.405
+LM603014
+1.7812
+3.1486
+0.7812
+0.7812
+0.5937
+12900
+16600
+0.893
+25590/
+45.618
+82.550
+23.812
+25.400
+19.050
+76000
+98000
+4500
+6000
+0.534
+25519
+1.7960
+3.2500
+0.9375
+1.0000
+0.7500
+17100
+22000
+1.18
+25590/
+46.618
+82.931
+23.812
+25.400
+19.050
+76000
+98000
+4500
+6000
+0.543
+25520
+1.7960
+3.2650
+0.9375
+1.0000
+0.7500
+17100
+22000
+1.20
+25590/
+45.618
+82.931
+26.988
+25.400
+22.225
+76000
+98000
+4500
+6000
+0.588
+25523
+1.7960
+3.2650
+1.0625
+1.0000
+0.8750
+17100
+22000
+1.30
+25590/
+45.618
+83.058
+23.812
+25.400
+19.050
+76000
+9800
+4500
+6000
+0.541
+25521
+1.7960
+3.2700
+0.9375
+1.0000
+0.7500
+17100
+22000
+1.19
+25590/
+45.618
+83.058
+23.876
+25.400
+19.114
+76000
+98000
+4500
+6000
+0.545
+25522
+1.7960
+3.2700
+0.9400
+1.0000
+0.7525
+17100
+22000
+1.20
+25590/
+45.618
+85.000
+23.812
+25.400
+19.050
+76000
+98000
+4500
+6000
+0.581
+25526
+1.7960
+3.3465
+0.9375
+1.0000
+0.7500
+17100
+22000
+1.28
+LM503349A/
+45.987
+74.976
+18.000
+18.000
+14.000
+51000
+71000
+4700
+6300
+0.296
+LM503310
+1.8105
+2.9518
+0.7087
+0.8087
+0.5512
+11500
+16000
+0.653
+18690/
+46.038
+79.375
+17.462
+17.462
+13.495
+45500
+56000
+4600
+6200
+0.329
+18620
+1.8125
+3.1250
+0.6875
+0.6875
+0.5313
+10200
+12600
+0.725
+25592/
+46.038
+82.931
+23.812
+25.400
+19.050
+76000
+98000
+4500
+6000
+0.538
+25520
+1.8125
+3.2650
+0.9375
+1.0000
+0.7500
+17100
+22000
+1.19
+359A/
+46.038
+85.000
+20.638
+21.692
+17.462
+69500
+79500
+4400
+5800
+0.489
+354A
+1.8125
+3.3465
+0.8125
+0.8540
+0.6875
+15700
+17800
+1.08
+359S/
+46.038
+85.000
+20.638
+21.692
+17.462
+69500
+79500
+4400
+5800
+0.491
+354A
+1.8125
+3.3465
+0.8125
+0.8540
+0.6875
+15700
+17800
+1.08
+2984/
+46.038
+85.000
+25.400
+25.608
+20.638
+79000
+104000
+4400
+5800
+0.615
+2924
+1.8125
+3.3465
+1.0000
+1.0082
+0.8125
+17700
+23400
+1.36
+359S/
+46.038
+90.119
+23.000
+21.692
+21.808
+69500
+79500
+4400
+5800
+0.651
+352
+1.8125
+3.5480
+0.9055
+0.8540
+0.8586
+15700
+17800
+1.44
+3777/
+46.038
+93.264
+30.162
+30.302
+23.812
+102000
+134000
+4000
+5300
+0.934
+3720
+1.8125
+3.6718
+1.1875
+1.1930
+0.9063
+22900
+3000
+2.06
+436/
+46.038
+95.250
+27.783
+29.900
+22.225
+108000
+129000
+4200
+5600
+0.927
+432
+1.8125
+3.7500
+1.0938
+1.1772
+0.8750
+24300
+29100
+2.04
+369A/
+47.625
+88.900
+20.638
+22.225
+16.513
+76500
+90500
+4100
+5500
+0.559
+362A
+1.8750
+3.5000
+0.8125
+0.8750
+0.6501
+17200
+20400
+1.23
+369S/
+47.625
+88.900
+20.638
+22.225
+16.513
+76500
+90500
+4100
+5500
+0.561
+362A
+1.8750
+3.5000
+0.8125
+0.8750
+0.6501
+17200
+20400
+1.24
+M804048/
+47.625
+88.900
+25.400
+25.400
+19.050
+82000
+101000
+4200
+5600
+0.662
+M804010
+1.8750
+3.5000
+1.0000
+1.0000
+0.7500
+18500
+22800
+1.46
+M804049/
+47.625
+88.900
+25.400
+25.400
+19.050
+82000
+101000
+4200
+5600
+0.657
+M804010
+1.8750
+3.5000
+1.0000
+1.0000
+0.7500
+18500
+22800
+1.45
+3778/
+47.625
+93.264
+30.162
+30.302
+23.812
+102000
+134000
+4000
+5300
+0.898
+3720
+1.8750
+3.6718
+1.1875
+1.1930
+0.9375
+22900
+30000
+1.98
+107
+Tapered Roller Bearings
+
+---
+
+Tapered Roller Bearings
+Single Row (Inch)
+d 47.625~50.800mm
+1.8750~2.0000inch
+Dimensions
+Basic Load Ratings
+Limiting Speeds
+Weight
+Bearing
+mm
+N
+kg
+Number
+inch
+lbf
+rev/min
+Ib
+d
+D
+t
+B
+C
+Cr
+Cor
+Grease
+Oil
+3779/
+47.625
+93.264
+30.162
+30.302
+23.812
+102000
+134000
+4000
+5300
+0.906
+3720
+1.8750
+3.6718
+1.1875
+1.1930
+0.9375
+22900
+30000
+2.00
+HM804846/
+47.625
+95.250
+30.162
+29.370
+23.020
+109000
+147000
+4000
+5300
+0.978
+HM804810
+1.8750
+3.7500
+1.1875
+1.1563
+0.9063
+24400
+33000
+2.16
+386A/
+47.625
+96.838
+21.000
+21.946
+15.875
+78000
+96500
+3700
+5000
+0.720
+382A
+1.8750
+3.8125
+0.8268
+0.8640
+0.6250
+17600
+21700
+1.59
+528/
+47.625
+101.600
+34.925
+36.068
+26.988
+135000
+165000
+3800
+5000
+1.30
+522
+1.8750
+4.0000
+1.3750
+1.4200
+1.0625
+30500
+37000
+2.87
+463/
+47.625
+104.775
+30.162
+29.317
+24.605
+115000
+148000
+3500
+4700
+1.24
+463X
+1.8750
+4.1250
+1.1875
+1.1542
+0.9687
+25800
+33000
+2.73
+467/
+47.625
+104.775
+30.162
+29.317
+24.605
+115000
+148000
+3500
+4700
+1.24
+453X
+1.8750
+4.1250
+1.1875
+1.1542
+0.9687
+25800
+33000
+2.73
+45282/
+47.625
+104.775
+30.162
+30.958
+23.812
+130000
+169000
+3500
+4700
+1.29
+45220
+1.8750
+4.1250
+1.1875
+1.2188
+0.9375
+29200
+38000
+2.84
+55187C/
+47.625
+111.125
+30.162
+26.909
+20.638
+104000
+136000
+3200
+4200
+1.40
+55437
+1.8750
+4.3750
+1.1875
+1.0594
+0.8125
+23400
+30500
+3.09
+72188C/
+47.625
+123.825
+36.512
+32.791
+25.400
+154000
+188000
+2900
+3900
+2.16
+72487
+1.8750
+4.8750
+1.4375
+1.2910
+1.0000
+345000
+42500
+4.76
+HM804848/
+48.412
+95.250
+30.162
+29.370
+23.020
+109000
+147000
+4000
+5300
+0.967
+HM804810
+1.9060
+3.7500
+1.1875
+1.1563
+0.9063
+24400
+33000
+2.13
+HM804849/
+48.412
+95.250
+30.162
+29.370
+23.020
+109000
+147000
+4000
+5300
+0.964
+HM804810
+1.9060
+3.7500
+1.1875
+1.1563
+0.9063
+24400
+33000
+2.13
+3781/
+49.212
+93.264
+30.162
+30.302
+23.812
+102000
+134000
+4000
+5300
+0.877
+3720
+1.9375
+3.6718
+1.1875
+1.1930
+0.9375
+22900
+30000
+1.93
+5395/
+49.212
+103.188
+43.658
+44.475
+36.512
+174000
+232000
+3800
+5000
+1.75
+5335
+1.9375
+4.0625
+1.7188
+1.7510
+1.4375
+39000
+52000
+3.86
+HM807044/
+49.212
+104.775
+36.512
+36.512
+28.575
+138000
+189000
+3600
+4800
+1.52
+HM807010
+1.9375
+4.1250
+1.4375
+1.4375
+1.1250
+31000
+42500
+3.35
+65390/
+49.212
+114.300
+44.450
+44.450
+34.925
+186000
+225000
+3600
+4800
+2.23
+65320
+1.9375
+4.5000
+1.7500
+1.7500
+1.3750
+42000
+50500
+4.92
+HH506348/
+49.212
+114.300
+44.450
+44.450
+36.068
+203000
+261000
+3500
+4700
+2.33
+HH506310
+1.9375
+4.5000
+1.7500
+1.7500
+1.4200
+45500
+58500
+5.14
+LM104947+/
+49.987
+82.550
+21.590
+22.225
+16.510
+69500
+94500
+4300
+5700
+0.434
+LM104911
+1.9680
+3.2500
+0.8500
+0.8750
+0.6500
+15700
+21200
+0.957
+28579+/
+49.987
+89.980
+24.750
+25.400
+19.987
+8350
+0116000
+4000
+5300
+0.670
+28520
+1.9680
+3.5425
+0.9744
+1.0000
+0.7869
+18800
+26100
+1.48
+28579+/
+49.987
+92.075
+24.608
+25.400
+19.845
+83500
+116000
+4000
+5300
+0.718
+28521
+1.9680
+3.6250
+0.9688
+1.0000
+0.7813
+18800
+26100
+1.58
+HH506349+/
+49.987
+114.300
+44.450
+44.450
+36.068
+203000
+26100
+3500
+4700
+2.27
+HH506310
+1.9680
+4.5000
+1.7500
+1.7500
+1.4200
+45500
+58500
+5.00
+JLM104948/
+50.00
+82.000
+21.500
+21.500
+17.000
+69500
+94000
+4300
+5700
+0.420
+JLM104910
+1.9685
+3.2283
+0.8465
+0.8465
+0.6693
+15700
+21100
+0.926
+JLM104949/
+50.000
+84.000
+22.000
+22.000
+17.500
+69500
+94000
+4300
+5700
+0.466
+JLM704910
+1.9685
+3.3071
+0.8661
+0.8661
+0.6890
+15700
+21100
+1.03
+365/
+50.000
+88.900
+20.638
+22.225
+16.513
+76500
+90500
+4100
+5500
+0.530
+362A
+1.9685
+3.5000
+0.8125
+0.8750
+0.6501
+17200
+20400
+1.17
+366/
+50.000
+88.900
+20.638
+22.225
+16.513
+76500
+90500
+4100
+5500
+0.529
+362A
+1.9685
+3.5000
+0.8125
+0.8750
+0.6501
+17200
+20400
+1.17
+JM205149/
+50.000
+90.000
+28.000
+28.000
+23.000
+106000
+141000
+4100
+5400
+0.752
+JM205110
+1.9685
+3.5433
+1.1024
+1.1024
+0.9055
+23900
+31500
+1.66
+JM205149A/
+50.000
+90.0000
+28.000
+28.000
+23.000
+106000
+141000
+4100
+5400
+0.747
+JM205110
+1.9685
+3.5433
+1.1024
+1.1027
+0.9055
+23900
+31500
+1.65
+JHM807045/
+50.000
+105.000
+37.000
+36000
+29.000
+138000
+189000
+3600
+4800
+1.52
+JHM807012
+1.9685
+4.13339
+1.4567
+1.4173
+1.1417
+31000
+42500
+3.35
+396/
+50.000
+110.000
+22.000
+21.996
+18.824
+89500
+120000
+3200
+4300
+1.06
+394A
+1.9685
+4.3307
+0.8661
+0.8660
+0.7411
+20100
+27000
+2.34
+LM104949/
+50.800
+82.550
+21.590
+22.225
+16.510
+69500
+94000
+4300
+5700
+0.419
+LM104911
+2.0000
+3.2500
+0.8500
+0.8750
+0.6500
+15700
+21100
+0.924
+LM104949/
+50.800
+82.931
+21.590
+22.225
+16.510
+69500
+94000
+4300
+5700
+0.425
+LM104912
+2.0000
+3.2650
+0.8500
+0.8750
+0.6500
+15700
+21100
+0.937
+18790/
+50.800
+85.000
+17.462
+17.462
+13.495
+49500
+65000
+4200
+5600
+0.374
+18720
+2.0000
+3.3465
+0.6875
+0.6875
+0.5313
+11100
+14600
+0.825
+18790/
+50.800
+88.900
+17.462
+17.462
+13.495
+49500
+65000
+4200
+5600
+0.431
+18724
+2.0000
+3.5000
+0.6875
+0.6875
+0.5313
+11100
+14600
+0.950
+3689
+50.800
+88.900
+20.638
+22.225
+16.513
+76500
+90500
+4100
+5500
+0.519
+362A
+2.0000
+3.5000
+0.8125
+0.8750
+0.6501
+17200
+20.400
+1.14
+368A/
+50.800
+88.900
+20.638
+22.225
+16.513
+76500
+90500
+4100
+5500
+0.516
+362A
+2.0000
+3.5000
+0.8125
+0.8750
+0.6501
+17200
+20400
+1.14
+370A/
+50.800
+88.900
+20.638
+22.225
+16.513
+76500
+90500
+4100
+5500
+0.511
+362A
+2.0000
+3.5000
+0.8125
+0.8750
+0.6501
+17200
+20400
+1.13
+108
+
+---
+
+Single Row (Inch)
+d 50.800~52.388mm
+2.0000~2.0625inch
+368A/
+50.800
+90.000
+20.000
+22.225
+15.875
+76500
+90500
+4100
+5500
+0.525
+362
+2.0000
+3.5433
+0.7874
+0.8750
+0.6250
+17200
+20400
+1.16
+368A/
+50.800
+90.000
+20.000
+22.225
+20.000
+76500
+90500
+4100
+5500
+0.556
+363
+2.0000
+3.5433
+0.7874
+0.8750
+0.7874
+17200
+20400
+1.23
+28580/
+50.800
+92.075
+24.608
+25.400
+19.845
+83500
+116000
+4000
+5300
+0.703
+28521
+2.0000
+3.6250
+0.9688
+1.0000
+0.7813
+18800
+26100
+1.55
+3775/
+50.800
+93.264
+30.162
+30.302
+23.812
+102000
+134000
+4000
+5300
+0.852
+3720
+2.0000
+3.6718
+1.1875
+1.1930
+0.9375
+22900
+30000
+1.88
+3780/
+50.800
+93.264
+30.162
+30.302
+23.812
+102000
+134000
+4000
+5300
+0.848
+3720
+2.0000
+3.6718
+1.1875
+1.1930
+0.9375
+22900
+30000
+1.87
+3780/
+50.800
+93.264
+30.162
+30.302
+23.812
+102000
+134000
+4000
+5300
+0.854
+3730
+2.0000
+3.6718
+1.1875
+1.1930
+0.9375
+22900
+30000
+1.88
+3784/
+50.800
+93.264
+30.162
+30.302
+23.812
+102000
+134000
+4000
+5300
+0.839
+3720
+2.0000
+3.6718
+1.1875
+1.1930
+0.9375
+22900
+30000
+1.85
+33889/
+50.800
+95.250
+27.783
+28.575
+22.225
+107000
+139000
+3900
+5200
+0.876
+33821
+2.0000
+3.7500
+1.0938
+1.1250
+0.8750
+24100
+31000
+1.93
+3780/
+50.800
+95.250
+30.162
+30.302
+23.812
+102000
+134000
+4000
+5300
+0.903
+3726
+2.0000
+3.7500
+1.1875
+1.1930
+0.9375
+22900
+30000
+1.99
+385A/
+50.800
+96.838
+21.000
+21.946
+15.875
+78000
+96500
+3700
+5000
+0.676
+382A
+2.0000
+3.8125
+0.8268
+0.8640
+0.6250
+17600
+21700
+1.49
+28678/
+50.800
+97.630
+24.608
+24.608
+19.446
+88500
+128000
+3700
+4900
+0.852
+28622
+2.0000
+3.8437
+0.9688
+0.9688
+0.7656
+19900
+28700
+1.88
+3780/
+50.800
+98.425
+30.162
+30.302
+23.812
+102000
+134000
+4000
+5300
+0.993
+3732
+2.0000
+3.8750
+1.1875
+1.1930
+0.9375
+22900
+30000
+2.19
+49585/
+50.800
+101.600
+31.750
+31.750
+25.400
+110000
+136000
+3700
+5000
+1.13
+49520
+2.0000
+4.0000
+1.2500
+1.2500
+1.0000
+24800
+30500
+2.49
+529/
+50.800
+101.600
+34.925
+36.068
+26.988
+135000
+165000
+3800
+5000
+1.24
+522
+2.0000
+4.0000
+1.3750
+1.4200
+1.0625
+30500
+37000
+2.73
+529X
+50.800
+101.600
+34.925
+36.068
+26.988
+135000
+165000
+3800
+5000
+1.23
+522
+2.0000
+4.0000
+1.3750
+1.4200
+1.0625
+30500
+37000
+2.71
+455/
+50.800
+104.775
+30.162
+29.317
+24.605
+115000
+148000
+3500
+4700
+1.19
+453X
+2.0000
+4.1250
+1.1875
+1.1542
+0.9687
+25800
+33000
+2.62
+455S/
+50.800
+104.775
+30.162
+29.317
+24.605
+115000
+148000
+3500
+4700
+1.18
+453X
+2.0000
+4.1250
+1.1875
+1.1542
+0.9687
+25800
+33000
+2.60
+45284/
+50.800
+104.775
+30.162
+30.958
+23.812
+130000
+169000
+3500
+4700
+1.22
+45220
+2.0000
+4.1250
+1.1875
+1.2188
+0.9375
+29200
+38000
+2.69
+45285/
+50.0800
+104.775
+30.162
+30.958
+23.812
+130000
+169000
+3500
+4700
+1.23
+45220
+2.0000
+4.1250
+1.1875
+1.2188
+0.9375
+29200
+38000
+2.71
+45285A/
+50.800
+104.775
+30.162
+30.958
+23.812
+130000
+169000
+3500
+4700
+1.23
+45220
+2.0000
+4.1250
+1.1875
+1.2188
+0.9375
+29200
+38000
+2.71
+HM807046/
+50.800
+104.775
+36.512
+36.512
+28.575
+138000
+189000
+3600
+4800
+1.49
+HM807010
+2.0000
+4.1250
+1.4375
+1.4375
+1.1250
+31000
+42500
+3.29
+59200/
+50.800
+104.775
+36.512
+36.512
+28.575
+143000
+178000
+3700
+4900
+1.44
+59412
+2.0000
+4.1250
+1.4375
+1.4375
+1.1250
+32000
+4000
+3.18
+537/
+50.800
+107.950
+36.512
+36.957
+28.575
+141000
+177000
+3600
+4800
+1.55
+532X
+2.0000
+4.2500
+1.4375
+1.4550
+1.1250
+32000
+4000
+3.42
+HM907643/
+50.800
+111.125
+30.162
+28.575
+20.638
+104000
+136000
+3200
+4200
+1.36
+HM907614
+2.0000
+4.3750
+1.1875
+1.1250
+0.8125
+23400
+30500
+3.00
+55200C/
+50.800
+112.712
+30.162
+26.909
+20.638
+104000
+136000
+3200
+4200
+1.34
+55443
+2.0000
+4.4375
+1.1875
+1.0594
+0.8125
+23400
+30500
+2.95
+3975/
+50.800
+112.712
+30.162
+30.048
+23.812
+119000
+174000
+3200
+4300
+1.53
+3920
+2.0000
+4.4375
+1.1875
+1.1830
+0.9375
+26800
+390000
+3.37
+39573/
+50.800
+112.712
+30.162
+30.162
+23.812
+138000
+195000
+3200
+4200
+1.55
+39520
+2.0000
+4.4375
+1.1875
+1.1875
+0.9375
+31000
+43500
+3.42
+39575/
+50.800
+112.712
+30.162
+30.162
+23.812
+138000
+195000
+3200
+4200
+1.54
+39520
+2.000
+4.4375
+1.1875
+1.1875
+0.9375
+31000
+43500
+3.40
+66200/
+50.800
+117.475
+33.338
+31.750
+23.812
+130000
+153000
+3300
+4400
+1.67
+66462
+2.0000
+4.6250
+1.3125
+1.2500
+0.9375
+29100
+345000
+3.68
+619/
+50.800
+120.650
+41.275
+41.275
+31.750
+172000
+21300
+3300
+4400
+2.30
+612
+2.0000
+4.7500
+1.6250
+1.6250
+1.2500
+38500
+4800
+5.07
+72200C/
+50.800
+123.825
+36.512
+32.791
+25.400
+154000
+18800
+2900
+3900
+2.10
+72487
+2.0000
+4.8750
+1.4375
+1.2910
+1.0000
+34500
+42500
+4.63
+72201C/
+50.800
+123.825
+36.512
+32.791
+25.400
+154000
+18800
+2900
+3900
+2.10
+72487
+2.0000
+4.8750
+1.4375
+1.2910
+1.0000
+34500
+42500
+4.63
+555/
+50.800
+123.825
+38.100
+36.678
+30.162
+158000
+216000
+3000
+4100
+2.34
+552A
+2.0000
+4.8750
+1.500
+1.4440
+1.1875
+35500
+48500
+5.16
+368S/
+51.592
+88.900
+20.638
+22.225
+16.513
+76500
+90500
+4100
+5500
+0.507
+362A
+2.0312
+3.5000
+0.8125
+0.8750
+0.6501
+17200
+20400
+1.12
+28584/
+52.388
+92.075
+24.608
+25.400
+19.845
+83500
+116000
+4000
+5300
+0.677
+28521
+2.0625
+3.6250
+0.9688
+1.0000
+0.7813
+18800
+26100
+1.49
+3767/
+52.388
+93.264
+30.162
+30.302
+23.812
+102000
+134000
+4000
+5300
+0.819
+3720
+2.0625
+3.6718
+1.1875
+1.1930
+0.9375
+22900
+3000
+1.81
+Dimensions
+Basic Load Ratings
+Limiting Speeds
+Weight
+Bearing
+mm
+N
+kg
+Number
+inch
+lbf
+rev/min
+Ib
+d
+D
+t
+B
+C
+Cr
+Cor
+Grease
+Oil
+109
+Tapered Roller Bearings
+
+---
+
+Tapered Roller Bearings
+Single Row (Inch)
+d 57.150~60.325mm
+2.2500~2.3750inch
+Dimensions
+Basic Load Ratings
+Limiting Speeds
+Weight
+Bearing
+mm
+N
+kg
+Number
+inch
+lbf
+rev/min
+Ib
+d
+D
+t
+B
+C
+Cr
+Cor
+Grease
+Oil
+28682/
+57.150
+97.630
+24.608
+24.608
+19.446
+885000
+128000
+3700
+4900
+0.747
+28622
+2.2500
+3.8437
+0.9688
+0.9688
+0.7656
+19900
+28700
+1.65
+387A/
+57.150
+98.425
+21.000
+21.946
+17.826
+78000
+96500
+3700
+5000
+0.628
+382
+2.2500
+3.8750
+0.8268
+0.8640
+0.7018
+17600
+21700
+1.38
+387A/
+57.150
+100.000
+21.000
+21.946
+17.826
+78000
+96500
+3700
+5000
+0.660
+383A
+2.2500
+3.9370
+0.8268
+0.8640
+0.7018
+17600
+21700
+1.46
+462/
+57.150
+104.775
+30.162
+29.317
+24.605
+115000
+148000
+3500
+4700
+1.06
+453X
+2.2500
+4.1250
+1.1875
+1.1542
+0.9687
+25800
+33000
+2.34
+469/
+57.150
+104.775
+30.162
+29.317
+24.605
+115000
+148000
+3500
+4700
+1.06
+453X
+2.2500
+4.1250
+1.1875
+1.1542
+0.9687
+25800
+33000
+2.34
+45289/
+57.150
+104.775
+30.162
+30.958
+23.812
+130000
+169000
+3500
+4700
+1.10
+45220
+2.2500
+4.1250
+1.1875
+1.2188
+0.9375
+29200
+38000
+2.43
+45290/
+57.150
+104.775
+30.162
+30.958
+23.812
+130000
+169000
+3500
+4700
+1.10
+45220
+2.2500
+4.1250
+1.18754
+1.2188
+0.9375
+29200
+38000
+2.43
+45291/
+57.150
+104.775
+30.162
+30.958
+23.812
+13000
+169000
+3500
+4700
+1.09
+45220
+2.2500
+4.1250
+1.1875
+1.2188
+0.9375
+29200
+38000
+2.40
+469/
+57.150
+107.950
+27.783
+29.317
+22.225
+115000
+148000
+3500
+4700
+1.11
+453A
+2.2500
+4.2500
+1.0938
+1.1542
+0.8750
+25800
+33000
+2.45
+390/
+57.150
+110.000
+22.000
+21.946
+18.824
+89500
+120000
+3200
+4300
+0.954
+394A
+2.2500
+4.3307
+0.8661
+0.8640
+0.7411
+20100
+27000
+2.10
+469/
+57.150
+110.000
+27.795
+29.317
+27.000
+115000
+148000
+3500
+4700
+1.24
+454
+2.2500
+4.3307
+1.0943
+1.1542
+1.0630
+25800
+33000
+2.73
+3979/
+57.150
+112.712
+30.162
+30.048
+23.812
+119000
+174000
+3200
+4300
+1.40
+3920
+2.2500
+4.4375
+1.1875
+1.1830
+0.9375
+26800
+39000
+3.09
+39580/
+57.150
+112.712
+30.162
+30.162
+23.812
+138000
+195000
+3200
+4200
+1.41
+39520
+2.2500
+4.4375
+1.1875
+1.1875
+0.9375
+31000
+43500
+3.11
+39581/
+57.150
+112.712
+30.162
+30.162
+23.812
+138000
+195000
+3200
+4200
+1.40
+39520
+2.2500
+4.4375
+1.1875
+1.1875
+0.9375
+31000
+43500
+3.09
+33225/
+57.150
+117.475
+30.162
+30.162
+23.812
+117000
+175000
+3000
+4000
+1.58
+33462
+2.2500
+4.6250
+1.1875
+1.1875
+0.9375
+26200
+39500
+3.48
+66225/
+57.150
+117.475
+33.338
+31.750
+23.812
+130000
+153000
+3300
+4400
+1.54
+66462
+2.2500
+4.6250
+1.3125
+1.2500
+0.9375
+29100
+34500
+3.40
+623/
+57.150
+120.650
+41.275
+41.275
+31.750
+172000
+213000
+3300
+4400
+2.12
+612
+2.2500
+4.7500
+1.6250
+1.6250
+1.2500
+38500
+48000
+4.67
+72225C/
+57.150
+123.825
+36.512
+32.791
+25.400
+154000
+188000
+2900
+3900
+1.96
+72487
+2.2500
+4.8750
+1.4375
+1.291
+1.0000
+34500
+42500
+4.32
+555S/
+57.150
+123.825
+38.100
+36.678
+30.162
+158000
+216000
+3000
+4100
+2.18
+552A
+2.2500
+4.8750
+1.5000
+1.4440
+1.1875
+35500
+48500
+4.81
+78225/
+57.150
+104.030
+36.512
+33.236
+23.520
+171000
+212000
+2600
+3400
+2.69
+78551
+2.2500
+5.5130
+1.4375
+1.3085
+0.9260
+38500
+47500
+5.93
+388A/
+57.531
+96.838
+21.000
+21.946
+15.875
+78000
+96500
+3700
+5000
+0.575
+382A
+2.2650
+3.8125
+0.8268
+0.8640
+0.6250
+17600
+21700
+1.27
+66589/
+59.972
+122.238
+33.338
+31.750
+23.812
+134000
+163000
+3100
+4200
+1.66
+66520
+2.3611
+4.8125
+1.3125
+1.2500
+0.9375
+30000
+36500
+3.66
+H913840/
+59.987
+146.050
+41.275
+39.688
+25.400
+199000
+234000
+2400
+3200
+3.22
+H913810
+2.3617
+5.7500
+1.6250
+1.5625
+1.0000
+744500
+52500
+7.10
+JLM508748/
+60.000
+95.000
+24.000
+24.000
+19.000
+83000
+122000
+3700
+4900
+0.606
+JLM508710
+2.3622
+3.7402
+0.9449
+0.9449
+0.7480
+18700
+27300
+1.34
+29580/
+60.000
+107.950
+25.400
+25.400
+19.050
+91500
+140000
+3200
+4300
+0.992
+29520
+2.3622
+4.2500
+1.0000
+1.0000
+0.7500
+20600
+31500
+2.19
+29582/
+60.000
+107.950
+25.400
+25.400
+19.050
+91500
+140000
+3200
+4300
+0.997
+29520
+2.3622
+4.2500
+1.0000
+1.0000
+0.7500
+20600
+31500
+2.20
+397/
+60.000
+110.000
+22.000
+21.996
+18.824
+89500
+120000
+3200
+4300
+0.910
+394A
+2.3622
+4.3307
+0.8661
+0.8660
+0.7411
+20100
+27000
+2.01
+JHM911244/
+60.000
+130.000
+34.100
+30.924
+22.650
+156000
+186000
+2700
+3600
+2.01
+JHM911211
+2.3622
+5.1181
+1.3425
+1.2175
+0.8917
+35000
+42000
+4.43
+28985/
+60.325
+99.979
+24.605
+25.400
+19.050
+90500
+134000
+3500
+4700
+0.762
+28919
+2.3750
+3.9362
+0.9687
+1.0000
+0.7500
+20300
+3000
+1.68
+28925/
+60.325
+100.000
+25.400
+25.400
+19.845
+90500
+134000
+3500
+4700
+0.772
+28921
+2.3750
+3.9370
+1.0000
+1.0000
+0.7813
+20300
+30000
+1.70
+28985/
+60.325
+101.600
+25.400
+25.400
+19.845
+90500
+134000
+3500
+4700
+0.811
+28920
+2.3750
+4.0000
+1.0000
+1.0000
+0.7813
+20300
+30000
+1.79
+3980/
+60.325
+112.712
+30.162
+30.048
+23.812
+119000
+174000
+3200
+4300
+1.33
+3920
+2.3750
+4.4375
+1.1875
+1.1830
+0.9375
+26800
+39000
+2.93
+HM212044/
+60.325
+122.238
+38.100
+38.354
+29.718
+187000
+244000
+3100
+4100
+2.02
+HM212011
+2.3750
+4.8125
+1.5000
+1.5100
+1.1700
+42000
+55000
+4.45
+5583/
+60.325
+122.238
+43.658
+43.764
+36.512
+194000
+283000
+3100
+4100
+2.44
+5535
+2.3750
+4.8125
+1.7188
+1.7230
+1.4375
+43500
+63500
+5.38
+558/
+60.325
+123.825
+38.100
+36.678
+30.162
+158000
+216000
+3000
+4100
+2.10
+552A
+2.3750
+4.8750
+1.5000
+1.4440
+1.1875
+35500
+48500
+4.63
+110
+
+---
+
+Dimensions
+Basic Load Ratings
+Limiting Speeds
+Weight
+Bearing
+mm
+N
+kg
+Number
+inch
+lbf
+rev/min
+Ib
+d
+D
+t
+B
+C
+Cr
+Cor
+Grease
+Oil
+33890/
+52.388
+95.250
+27.783
+28.575
+22.225
+107000
+139000
+3900
+5200
+0.851
+33821
+2.0625
+3.7500
+1.0938
+1.1250
+0.8750
+24100
+31000
+1.88
+33891/
+52.388
+95.250
+27.783
+28.575
+22.225
+107000
+139000
+3900
+5200
+0.847
+33821
+2.0625
+3.7500
+1.0938
+1.1250
+0.8750
+24100
+31000
+1.87
+LM806649/
+53.975
+88.900
+19.050
+19.050
+13.492
+61000
+82500
+4000
+5300
+0.437
+LM806610
+2.1250
+3.5000
+0.7500
+0.7500
+0.5312
+13700
+18600
+0.963
+33895/
+53.975
+95.250
+27.783
+28.575
+22.225
+107000
+139000
+3900
+5200
+0.821
+33821
+2.1250
+3.7500
+1.1938
+1.1250
+0.8750
+24100
+31000
+1.81
+33895/
+53.975
+95.250
+27.783
+28.575
+22.225
+107000
+139000
+3900
+5200
+0.824
+33822
+2.1250
+3.7500
+1.0938
+1.1250
+0.8750
+24100
+31000
+1.82
+389A/
+53.975
+96.838
+21.000
+121.946
+15.875
+78000
+96500
+3700
+5000
+0.633
+382A
+2.1250
+3.8125
+0.8268
+0.8640
+0.6250
+17600
+21700
+1.40
+45287/
+53.975
+104.775
+30.162
+30.958
+23.812
+130000
+169000
+3500
+4700
+1.17
+45220
+2.1250
+4.1250
+1.1875
+1.2188
+0.9375
+29200
+38000
+2.58
+HM807049/
+53.975
+104.775
+36.512
+36.512
+28.575
+138000
+189000
+3600
+4800
+1.41
+HM807010
+2.1250
+4.1250
+1.4375
+1.4375
+1.1250
+31000
+42500
+3.11
+539/
+53.975
+107.950
+36.512
+36.957
+28.575
+141000
+177000
+3600
+4800
+1.47
+532X
+2.1250
+4.2500
+1.4375
+1.4550
+1.1250
+32000
+4000
+3.24
+539A/
+53.975
+107.950
+36.512
+36.957
+28.575
+141000
+177000
+3600
+4800
+1.47
+532X
+2.1250
+4.2500
+1.4375
+1.4550
+1.1250
+32000
+40000
+3.24
+539/
+53.975
+111.125
+38.100
+36.957
+30.162
+141000
+177000
+3600
+4800
+1.65
+532A
+2.1250
+4.3750
+1.5000
+1.4550
+1.1875
+32000
+40000
+3.64
+621/
+53.975
+120.650
+41.275
+41.275
+31.750
+172000
+213000
+3300
+4400
+2.21
+612
+2.1250
+4.7500
+1.6250
+1.6250
+1.250
+38500
+48000
+4.87
+66584/
+53.975
+122.238
+33.338
+31.750
+23.812
+134000
+163000
+3100
+4200
+1.79
+66520
+2.1250
+4.8125
+1.3125
+1.2500
+0.9375
+30000
+36500
+3.95
+5578/
+53.975
+122.238
+43.658
+43.764
+36.51
+194000
+283000
+3100
+4100
+2.64
+5535
+2.1250
+4.8125
+1.7188
+1.7230
+1.4375
+43500
+63500
+5.82
+72212C/
+53.975
+123.825
+36.512
+32.791
+25.400
+154000
+188000
+2900
+3900
+2.03
+72487
+2.1250
+4.8750
+1.4375
+1.2910
+1.0000
+34500
+42500
+4.48
+557S/
+533975
+123.825
+38.100
+36.678
+30.162
+158000
+216000
+3000
+4100
+2.26
+552A
+2.1250
+4.8750
+1.5000
+1.4440
+1.1875
+35500
+48500
+4.98
+HM911242/
+53.975
+130.175
+36.512
+33.338
+23.812
+156000
+186000
+2700
+3600
+2.27
+HM911210
+2.1250
+5.1250
+1.4375
+1.3125
+0.9375
+35000
+42000
+5.00
+78214C/
+53.975
+140.030
+36.512
+33.236
+23.520
+171000
+212000
+2600
+3400
+2.77
+788551
+2.1250
+5.5130
+1.4375
+1.3085
+0.9260
+38500
+47500
+6.11
+78215C/
+53.975
+140.030
+36.512
+33.236
+23.520
+171000
+212000
+2600
+3400
+2.76
+78551
+2.1250
+5.5130
+1.4375
+1.3085
+0.9260
+38500
+47500
+6.09
+HM807048/
+54.488
+140.775
+36.512
+36.512
+28.575
+138000
+189000
+3600
+4800
+1.40
+HM807010
+2.1452
+4.1250
+1.4375
+1.4375
+1.1250
+31000
+42500
+3.09
+JLM506849/
+55.000
+90.000
+23.000
+23.000
+18.500
+77500
+109000
+3900
+5300
+0.558
+JLM506810
+2.1654
+3.5433
+0.9055
+0.9055
+0.7283
+17400
+24400
+1.23
+JM207049/
+55.000
+95.000
+29.000
+29.000
+23.500
+107000
+144000
+3800
+5100
+0.820
+JM207010
+2.1654
+3.7402
+1.1417
+1.1417
+0.9252
+24000
+32500
+1.81
+385/
+55.000
+96.838
+21.000
+21.946
+15.875
+78000
+96500
+3700
+5000
+0.616
+382A/
+2.1654
+3.8125
+0.8268
+0.8640
+0.6250
+17600
+21700
+1.36
+385X/
+55.000
+96.838
+21.000
+21.946
+15.875
+78000
+96500
+3700
+5000
+0.614
+382A
+2.1654
+3.8125
+0.8268
+0.8640
+0.6250
+17600
+21700
+1.35
+JH307749/
+55.000
+110.000
+39.000
+39.000
+32.000
+173000
+219000
+3500
+4600
+1.71
+JH307710
+2.1654
+4.3307
+1.5354
+1.5354
+1.2598
+39000
+49500
+3.77
+28680/
+55.562
+97.630
+24.608
+24.608
+19.446
+88500
+128000
+3700
+4900
+0.774
+28622
+2.1875
+3.8437
+0.9688
+0.9688
+0.7656
+19900
+28700
+1.71
+72218C/
+55.562
+123.825
+36.512
+32.791
+25.400
+154000
+188000
+2900
+3900
+1.99
+72487
+2.1875
+4.8750
+1.4375
+1.2910
+1.0000
+34500
+42500
+4.39
+HM813840/
+55.562
+127.000
+36.512
+36.512
+26.988
+163000
+22800
+2900
+3800
+2.34
+HM813810
+2.1875
+5.0000
+1.4375
+1.4375
+1.0625
+36500
+51500
+5.16
+389/
+55.575
+96.838
+21.000
+21.946
+15.875
+78000
+96500
+3700
+5000
+0.608
+382A
+2.1880
+3.8125
+0.8268
+0.8640
+0.6250
+17600
+21700
+1.34
+387/
+57.150
+96.838
+21.000
+21.946
+15.875
+78000
+96500
+3700
+5000
+0.583
+382A
+2.2500
+3.8125
+0.8268
+0.8640
+0.6250
+17600
+21700
+1.29
+387A/
+57.150
+96.838
+21.000
+21.946
+15.875
+78000
+96500
+3700
+5000
+0.581
+382A
+2.2500
+3.8125
+0.8268
+0.8640
+0.6250
+17600
+21700
+1.28
+387AS/
+57.150
+96.838
+21.000
+21.946
+15.875
+78000
+96500
+3700
+5000
+0.576
+382A
+2.2500
+3.8125
+0.8268
+0.8640
+0.6250
+17600
+21700
+1.27
+387S/
+57.150
+96.838
+21.000
+21.946
+15.875
+78000
+96500
+3700
+5000
+0.585
+382A
+2.2500
+3.8125
+0.8268
+0.8640
+0.6250
+17600
+21700
+1.29
+387A/
+57.150
+96.838
+25.400
+21.946
+20.274
+78000
+96500
+3700
+5000
+0.650
+382S
+2.2500
+3.8125
+1.0000
+0.8640
+0.7982
+17600
+21700
+1.43
+Single Row (Inch)
+d 52.388~57.150mm
+2.0625~2.2500inch
+111
+Tapered Roller Bearings
+
+---
+
+Tapered Roller Bearings
+Single Row (Inch)
+d 60.325~65.088mm
+2.3750~2.5625inch
+Dimensions
+Basic Load Ratings
+Limiting Speeds
+Weight
+Bearing
+mm
+N
+kg
+Number
+inch
+lbf
+rev/min
+Ib
+d
+D
+t
+B
+C
+Cr
+Cor
+Grease
+Oil
+HM813841/
+60.325
+127.000
+36.512
+36.512
+26.988
+163000
+228000
+2900
+3800
+2.21
+HM813810
+2.3750
+5.0000
+1.4375
+1.4375
+1.0625
+36500
+51500
+4.87
+HM813841A/
+60.325
+127.000
+36.512
+36.512
+26.988
+163000
+228000
+2900
+3800
+2.20
+HM813810
+2.3750
+5.0000
+1.4375
+1.4375
+1.0625
+36500
+51500
+4.85
+65237/
+60.325
+127.000
+44.450
+44.450
+34.925
+203000
+263000
+3100
+4200
+2.65
+65500
+2.3750
+5.0000
+1.7500
+1.7500
+1.3750
+45500
+59000
+5.84
+HM911245/
+60.325
+130.175
+36.512
+33.338
+23.812
+156000
+186000
+2700
+3600
+2.12
+HM911210
+2.3750
+5.1250
+1.4375
+1.3125
+0.9375
+35000
+42000
+4.67
+HM911245/
+60.325
+134.983
+35.862
+33.338
+21.948
+156000
+186000
+2700
+3600
+2.25
+HM911216
+2.3750
+5.3143
+1.4119
+1.3125
+0.8641
+35000
+4200
+4.96
+392
+61.912
+110.000
+22.000
+21.996
+18.824
+89500
+120000
+3200
+4300
+0.879
+394A
+2.4375
+4.3307
+0.8661
+0.8660
+0.7411
+20100
+27000
+1.94
+H715334/
+61.912
+136.525
+46.038
+46.038
+36.512
+224000
+355000
+2600
+3500
+3.47
+H715311
+2.4375
+5.3750
+1.8125
+1.8125
+1.4375
+50500
+80000
+7.65
+H913842/
+61.912
+146.050
+41.275
+39.688
+25.400
+199000
+234000
+2400
+3200
+3.17
+H913810
+2.4375
+5.7500
+1.6250
+1.5625
+1.0000
+44500
+52500
+6.99
+28990/
+61.976
+101.600
+24.608
+24.608
+19.845
+905000
+134000
+3500
+4700
+0.768
+28920
+2.4400
+4.0000
+0.9688
+0.9688
+0.7813
+20300
+3000
+1.69
+28995/
+62.738
+101.600
+25.400
+25.400
+19.845
+905000
+134000
+3500
+4700
+0.764
+28920
+2.4700
+4.0000
+1.0000
+1.0000
+0.7813
+20300
+3000
+1.68
+L610549/
+63.500
+94.458
+19.050
+19.050
+15.083
+60500
+103000
+3600
+4800
+0.449
+L610510
+2.5000
+3.7188
+0.7500
+0.7500
+0.5938
+13600
+23100
+0.990
+29585/
+63.500
+107.950
+25.400
+25.400
+19.050
+91500
+140000
+3200
+4300
+0.924
+29520
+2.5000
+4.2500
+1.0000
+1.0000
+0.7500
+20600
+31500
+2.04
+29585/
+63.500
+107.950
+25.400
+25.400
+19.050
+91500
+140000
+3200
+4300
+0.931
+29522
+2.5000
+4.2500
+1.0000
+1.0000
+0.7500
+20600
+31500
+2.05
+29586/
+63.500
+107.950
+25.400
+25.400
+19.050
+91500
+140000
+3200
+4300
+0.929
+29520
+2.5000
+4.2500
+1.0000
+1.0000
+0.7500
+20600
+31500
+2.05
+390A/
+63.500
+110.000
+22.000
+21.996
+18.824
+89500
+120000
+3200
+4300
+0.851
+394A
+2.5000
+4.3307
+0.8661
+0.8660
+0.7411
+20100
+27000
+1.88
+390A/
+63.500
+110.000
+22.000
+21.996
+18.824
+89500
+120000
+3200
+4300
+0.845
+394AS
+2.5000
+4.3307
+0.8661
+0.8660
+0.7411
+20100
+2700
+1.86
+395/
+63.500
+110.000
+22.000
+21.996
+18.824
+89500
+120000
+3200
+4300
+0.847
+394A
+2.5000
+4.3307
+0.8661
+0.8660
+0.7411
+20100
+27000
+1.87
+29585/
+63.500
+110.000
+25.400
+25.400
+19.050
+91500
+140000
+3200
+4300
+0.982
+29521
+2.5000
+4.3307
+1.0000
+1.0000
+0.7500
+20600
+31500
+2.17
+3982/
+63.500
+112.712
+30.162
+30.048
+23.812
+119000
+174000
+3200
+4300
+1.26
+3920
+2.5000
+4.4375
+1.1875
+1.1830
+0.9375
+26800
+39000
+2.78
+39585/
+63.500
+112.712
+30.162
+30.162
+23.812
+138000
+195000
+3200
+4200
+1.27
+39520
+2.5000
+4.4375
+1.1875
+1.1875
+0.9375
+31000
+43500
+2.80
+39585A/
+63.500
+112.712
+30.162
+30.162
+23.812
+138000
+195000
+3200
+4200
+1.28
+39520
+2.5000
+4.4375
+1.1875
+1.1875
+0.9375
+31000
+43500
+2.82
+477/
+63.500
+120.000
+29.794
+29.007
+24.237
+128000
+177000
+3000
+4000
+1.49
+472
+2.5000
+4.7244
+1.1730
+1.1420
+0.9542
+28700
+40000
+3.29
+483/
+63.500
+120.000
+29.794
+29.007
+24.237
+128000
+177000
+3000
+4000
+1.48
+472
+2.5000
+4.7244
+1.1730
+1.1420
+0.9542
+28700
+40000
+3.26
+HM212046/
+63.500
+122.238
+38.100
+38.354
+29.718
+187000
+244000
+3100
+4100
+1.95
+HM212011
+2.5000
+4.8125
+1.5000
+1.5100
+1.1700
+42000
+55000
+4.30
+HM212047/
+63.500
+122.238
+38.100
+38.354
+29.718
+187000
+244000
+3100
+4100
+1.94
+HM21201
+2.5000
+4.8125
+1.5000
+1.5100
+1.1700
+42000
+55000
+4.28
+5584/
+63.500
+122.238
+43.658
+43.764
+36.512
+194000
+283000
+3100
+4100
+2.34
+5535
+2.5000
+4.8125
+1.7188
+1.7230
+1.4375
+43500
+63500
+5.16
+559/
+63.500
+123.825
+38.100
+36.678
+30.162
+158000
+216000
+3000
+4100
+2.01
+552A
+2.5000
+4.8750
+1.5000
+1.4440
+1.1875
+35500
+48500
+4.43
+565/
+63.500
+127.000
+36.51
+36.170
+28.575
+163000
+229000
+2900
+3800
+2.11
+563
+2.5000
+5.0000
+1.4375
+1.4240
+1.1250
+36500
+51500
+4.65
+HM813842/
+63.500
+127.000
+36.512
+36.512
+26.988
+163000
+22800
+2900
+3800
+2.12
+HM813810
+2.5000
+5.0000
+1.4375
+1.4375
+1.0625
+36500
+51500
+4.67
+639/
+63.500
+136.525
+41.275
+41.275
+31.750
+194000
+26200
+2800
+3800
+2.85
+632
+2.5000
+5.3750
+1.6250
+1.6250
+1.2500
+43500
+59000
+6.28
+78250/
+63.500
+140.030
+36.51
+33236
+23.520
+171000
+21200
+2600
+3400
+2.54
+78551
+2.5000
+5.5130
+1.4375
+1.3085
+0.9260
+38500
+47500
+5.60
+JLM710949/
+65.000
+105.000
+24.000
+23.000
+18.500
+85000
+11700
+3300
+4500
+0.742
+JLM710910
+2.5591
+4.1339
+0.9449
+0.9055
+0.7283
+19200
+26200
+1.64
+JM511946/
+65.000
+110.000
+28.000
+28.000
+22.500
+119000
+17400
+3200
+4300
+1.08
+JM511910
+2.5591
+4.3307
+1.1024
+1.1024
+0.8858
+26800
+39000
+2.38
+JH211749/
+65.000
+120.000
+39.000
+38.500
+32.000
+185000
+248000
+3100
+4100
+1.90
+JH211710
+2.5591
+4.7244
+1.5354
+1.5157
+1.2598
+41500
+55500
+4.19
+6379/
+65.088
+135.755
+53.975
+56.007
+44.450
+278000
+380000
+2900
+3800
+3.71
+6320
+2.5625
+5.3447
+2.1250
+2.2050
+1.7500
+62500
+8500
+8.18
+112
+
+---
+
+Single Row (Inch)
+d 66.675~69.952mm
+2.6250~2.7540inch
+Dimensions
+Basic Load Ratings
+Limiting Speeds
+Weight
+Bearing
+mm
+N
+kg
+Number
+inch
+lbf
+rev/min
+Ib
+d
+D
+t
+B
+C
+Cr
+Cor
+Grease
+Oil
+L812148/
+66.675
+103.213
+17.602
+17.602
+11.989
+60000
+78000
+3300
+4400
+0.480
+L812111
+2.6250
+4.0635
+0.6930
+0.6930
+0.4720
+13400
+17600
+1.06
+29590/
+66.675
+107.950
+25.400
+25.400
+19.050
+91500
+14000
+3200
+4300
+0.860
+29520
+2.6250
+4.2500
+1.0000
+1.0000
+0.7500
+20600
+31500
+1.90
+395A/
+66.675
+110.000
+22.000
+21.996
+18.824
+89500
+120000
+3200
+4300
+0.796
+394A
+2.6250
+4.3307
+0.8661
+0.8660
+0.7411
+20100
+27000
+1.76
+395S/
+66.675
+110.000
+22.000
+21.996
+18.824
+89500
+120000
+3200
+4300
+0.791
+394A
+2.6250
+4.3307
+0.8661
+0.8660
+0.7411
+20100
+27000
+1.74
+3984/
+66.675
+112.712
+30.162
+30.048
+23.812
+119000
+174000
+3200
+4300
+1.18
+3920
+2.6250
+4.4375
+1.1875
+1.1830
+0.9375
+26800
+39000
+2.60
+3984/
+66.675
+112.712
+30.162
+30.048
+23.812
+119000
+174000
+3200
+4300
+1.19
+3925
+2.6250
+4.4375
+1.1875
+1.1830
+0.9375
+26800
+39000
+2.62
+3994/
+66.675
+112.712
+30.162
+30.048
+23.812
+119000
+174000
+3200
+4300
+1.18
+3920
+2.6250
+4.4375
+1.1875
+1.1830
+0.9375
+26800
+39000
+2.60
+39590/
+66.675
+112.712
+30.162
+30.162
+23.812
+138000
+195000
+3200
+4200
+1.19
+39520
+2.26250
+4.4375
+1.1875
+1.1875
+0.9375
+31000
+43500
+2.62
+HM212049/
+66.675
+122.238
+38.100
+38.354
+29.718
+178000
+244000
+3100
+4100
+1.86
+HM212010
+2.6250
+4.8105
+1.5000
+1.5100
+1.1700
+42000
+5500
+4.10
+HM212049/
+66.675
+122.238
+38.100
+38.354
+29.718
+187000
+244000
+3100
+4100
+1.85
+HM212011
+2.6250
+4.8125
+1.5000
+1.5100
+1.1700
+42000
+55000
+4.08
+560/
+66.675
+123.825
+38.100
+36.678
+30.162
+158000
+216000
+3000
+4100
+1.92
+552A
+2.6250
+4.8750
+1.5000
+1.4440
+1.1875
+35500
+48500
+4.23
+HM813844/
+66.675
+127.000
+36.512
+36.510
+26.988
+163000
+228000
+2900
+3800
+2.03
+HM813810
+2.6250
+5.0000
+1.4375
+1.4375
+1.0625
+36500
+51500
+4.48
+641/
+66.675
+130.175
+41.275
+41.275
+31.750
+194000
+26200
+2800
+3800
+2.41
+633
+2.6250
+5.1250
+1.6250
+1.6250
+1.2500
+43500
+59000
+5.31
+6386/
+66.675
+135755
+53.975
+56.007
+44.450
+278000
+380000
+2900
+3800
+3.64
+6320
+2.6250
+5.3447
+2.1250
+2.2050
+1.7500
+62500
+85000
+8.03
+6389/
+66.675
+135.755
+53.975
+56.007
+44.450
+278000
+380000
+2900
+3800
+3.63
+6320
+2.6250
+5.3447
+2.1250
+2.2050
+1.7500
+62500
+85000
+8.00
+641/
+66.675
+136.525
+41.275
+41.275
+31.750
+194000
+262000
+2800
+3800
+2.74
+632
+2.6250
+5.3750
+1.6250
+1.6250
+1.2500
+43500
+59000
+6.04
+H414242/
+66.675
+136.525
+41.275
+41.275
+31.750
+226000
+293000
+2700
+3700
+2.75
+H414210
+2.6250
+5.3750
+1.6250
+1.6250
+1.2500
+51000
+66000
+6.06
+399A
+68.262
+110.000
+22.000
+21.996
+18.824
+89500
+120000
+3200
+4300
+0.764
+394A
+2.6875
+4.3307
+0.8661
+0.8660
+0.7411
+20100
+27000
+1.68
+399AS/
+68.262
+11.000
+22.000
+21.996
+18.824
+89500
+120000
+3200
+4300
+0.756
+394A
+2.6875
+4.3307
+0.8661
+0.8660
+0.7411
+20100
+27000
+1.67
+480/
+68.262
+120.000
+29.794
+29.007
+24.237
+128000
+177000
+3000
+4000
+1.37
+472
+2.6875
+4.7244
+1.1730
+1.1420
+0.9542
+28700
+4000
+3.02
+560S/
+68.262
+123.825
+38.100
+36.678
+30.162
+158000
+216000
+3000
+4100
+1.87
+552A
+2.6875
+4.5750
+1.5000
+1.4440
+1.1875
+35500
+48500
+4.12
+H414245/
+68.262
+136.525
+41.275
+41.275
+31.750
+226000
+293000
+2700
+3700
+2.70
+H414210
+2.6875
+5.3750
+1.6250
+1.6250
+1.2500
+51000
+66000
+5.95
+H715343/
+68.262
+136.525
+46.038
+46.038
+36.512
+224000
+355000
+2600
+3500
+3.24
+H715311
+2.6875
+5.3750
+1.8125
+1.812
+1.4375
+50500
+80000
+7.14
+29675/
+69.850
+112.712
+25.400
+25.400
+19.050
+95500
+151000
+3100
+4100
+0.949
+29620
+2.7500
+4.4375
+1.0000
+1.0000
+0.7500
+21500
+34000
+2.09
+33275/
+69.850
+117.475
+30.162
+30.162
+23.812
+117000
+175000
+3000
+4000
+1.28
+33462
+2.7500
+4.6250
+1.1875
+1.1875
+0.9375
+26200
+39500
+2.82
+482/
+69.850
+120.000
+29.002
+29.007
+23.444
+128000
+177000
+3000
+4000
+1.30
+472A
+2.7500
+4.7244
+1.1418
+1.1420
+0.9230
+28700
+40000
+2.87
+482/
+69.850
+120.000
+29.794
+29.007
+24.237
+128000
+177000
+3000
+4000
+1.33
+472
+2.7500
+4.7244
+1.1730
+1.1420
+0.9542
+28700
+40000
+2.93
+47487/
+69.850
+120.000
+32.545
+32.545
+26.195
+147000
+214000
+3000
+4000
+1.47
+47420
+2.7500
+4.7244
+1.2813
+1.2813
+1.0313
+33000
+48000
+3.24
+29675/
+69.850
+120.650
+25.400
+25.400
+19.050
+95500
+151000
+3100
+4100
+1.17
+29630
+2.7500
+4.7500
+1.0000
+1.000
+0.7500
+21500
+3400
+2.58
+566/
+69.850
+127.000
+36.512
+36.170
+28.575
+163000
+229000
+2900
+3800
+1.92
+563
+2.7500
+5.0000
+1.4375
+1.424
+1.1250
+36500
+51500
+4.23
+643/
+69.850
+136.525
+41.275
+41.275
+31.750
+194000
+26200
+2800
+3800
+2.63
+632
+2.7500
+5.3750
+1.6250
+1.625
+01.2500
+43500
+59000
+5.80
+655/
+69.850
+146.050
+41.275
+41.275
+31.750
+206000
+295000
+2500
+3300
+3.28
+653
+2.7500
+5.7500
+1.6250
+1.6250
+1.2500
+46500
+66500
+7.23
+745A/
+69.850
+150.089
+44.450
+46.672
+36.512
+261000
+360000
+2400
+3200
+3.92
+742
+2.7500
+5.9090
+1.7500
+1.8375
+1.4375
+585000
+81000
+8.64
+835/
+69.850
+168.275
+53.975
+56.363
+41.275
+340000
+460000
+2200
+3000
+6.13
+832
+2.7500
+6.250
+2.1250
+2.2190
+1.6250
+76000
+103000
+13.5
+34274/
+69.952
+121.442
+24.608
+23.012
+17.462
+91000
+127000
+2900
+3800
+1.11
+34478
+2.7540
+4.7812
+0.9688
+0.9060
+0.6875
+20500
+28600
+2.45
+34274/
+69.952
+125.052
+23.731
+23.012
+16.400
+91000
+127000
+2900
+3800
+1.18
+34492A
+2.7540
+4.9233
+0.9343
+0.9060
+0.6457
+20500
+28600
+2.60
+113
+Tapered Roller Bearings
+
+---
+
+Tapered Roller Bearings
+Single Row (Inch)
+d 70.000~76.200mm
+2.7559~3.0000inch
+Dimensions
+Basic Load Ratings
+Limiting Speeds
+Weight
+Bearing
+mm
+N
+kg
+Number
+inch
+lbf
+rev/min
+Ib
+d
+D
+t
+B
+C
+Cr
+Cor
+Grease
+Oil
+JLM81349/
+70.000
+110.000
+26.000
+25.000
+20.5000
+97000
+150000
+3200
+4200
+0.889
+JLM813010
+2.7559
+4.3307
+1.0236
+0.9843
+0.8071
+21800
+33500
+1.96
+JM612940/
+70.000
+115.000
+29.000
+29.000
+23.000
+124000
+171000
+3100
+4100
+1.13
+JM612910
+2.7559
+4.5276
+1.1417
+1.1417
+0.9055
+28000
+38500
+2.49
+484/
+70.000
+120.000
+29.794
+29.007
+24.237
+128000
+177000
+3000
+4000
+1.33
+472
+2.7559
+4.7244
+1.1730
+1.1420
+0.9542
+28700
+40000
+2.93
+JH913848/
+70.000
+150.000
+41.275
+39.688
+25.400
+199000
+234000
+2400
+3200
+6.08
+JH913811
+2.7559
+5.9055
+1.6250
+1.5625
+1.0000
+445000
+52500
+6.79
+33281/
+71.438
+117.475
+30.162
+30.162
+23.812
+117000
+175000
+3000
+4000
+1.24
+33462
+2.8125
+4.6250
+1.1875
+1.1875
+0.9375
+26200
+39500
+2.73
+47490
+71.438
+120.000
+32.545
+32.545
+26.195
+14700
+214000
+3000
+4000
+1.42
+47420
+2.8125
+4.7244
+1.2813
+1.2813
+1.0313
+33000
+48000
+3.13
+567A/
+71.438
+127.000
+36.512
+36.170
+28.575
+163000
+229000
+2900
+3800
+1.87
+563
+2.8125
+5.0000
+1.4375
+1.4240
+1.1250
+36500
+51500
+4.12
+644/
+71.438
+136.525
+41.275
+41.275
+31.750
+194000
+262000
+2800
+3800
+2.57
+632
+2.8125
+5.3750
+1.6250
+1.6250
+1.2500
+43500
+59000
+5.67
+H414249/
+71.438
+136.525
+41.275
+41.275
+31.750
+226000
+293000
+2700
+3700
+2.58
+H414210
+2.8125
+5.3750
+1.6250
+1.625
+01.2500
+51000
+66000
+5.69
+H715345/
+71.438
+136.525
+46.038
+46.038
+36.512
+224000
+355000
+2600
+3500
+3.11
+H715311
+2.8125
+5.3750
+1.8125
+1.812
+51.4375
+50500
+80000
+6.86
+29685/
+73.025
+112.712
+25.400
+25.400
+19.050
+95500
+151000
+3100
+4100
+0.873
+29620
+2.8750
+4.4375
+1.0000
+1.0000
+0.7500
+211500
+34000
+1.93
+33287/
+73.025
+117.475
+30.162
+30.162
+23.812
+11700
+175000
+3000
+4000
+1.19
+33462
+2.875
+4.6250
+1.1875
+1.1875
+0.9375
+26200
+39500
+2.62
+33287/
+73.025
+120.000
+29.794
+30.162
+23.444
+11700
+175000
+3000
+4000
+1.28
+33472
+2.8750
+4.7244
+1.1730
+1.1875
+0.9230
+26200
+39500
+2.82
+567/
+73.025
+127.000
+36.512
+36.170
+28.575
+163000
+229000
+2900
+3800
+1.82
+563
+2.8750
+5.000
+1.4375
+1.4240
+1.1250
+36500
+51500
+4.01
+576/
+73.025
+139.992
+36.512
+36.098
+28.575
+178000
+265000
+2600
+3400
+2.53
+572
+2.8750
+5.5115
+1.4375
+1.4212
+1.1250
+40000
+59500
+5.58
+4640/
+73.025
+149.225
+53.975
+54.229
+44.450
+287000
+410000
+2500
+3400
+4.42
+6420
+2.8750
+5.8750
+2.1250
+2.1350
+1.7500
+64500
+92000
+9.74
+744/
+73.025
+150.089
+44.45
+046.672
+36.512
+261000
+3960000
+2400
+3200
+3.79
+742
+2.8750
+5.9090
+1.7500
+1.8375
+1.4375
+58500
+81000
+8.36
+29688/
+73.817
+112.712
+25.400
+25.400
+19.050
+95500
+151000
+3100
+4100
+0.860
+29620
+2.9062
+4.4375
+1.0000
+1.0000
+0.7500
+21500
+34000
+1.90
+568/
+73.817
+127.000
+36.512
+36.170
+28.575
+163000
+229000
+2900
+3800
+1.80
+563
+2.9062
+5.0000
+1.4375
+1.4240
+1.1250
+36500
+51500
+3.97
+577/
+74.612
+139.992
+36.512
+36.098
+28.575
+178000
+265000
+2600
+3400
+2.48
+572
+2.9375
+5.5515
+1.4375
+1.4212
+1.1250
+40000
+59500
+5.47
+JLM714149/
+75.000
+115.000
+25.000
+25.000
+19.000
+94500
+143000
+3000
+4000
+0.875
+JLM714110
+2.9528
+4.5276
+0.9843
+0.9843
+0.7480
+21300
+3200
+1.93
+JM714249/
+75.000
+120.000
+31.000
+29.500
+25.000
+131000
+197000
+2900
+3900
+1.29
+JM714210
+2.9528
+4.7244
+1.2205
+1.1614
+0.9843
+29400
+44500
+2.84
+JH415647/
+75.000
+145.000
+51.000
+51.000
+42.000
+287000
+410000
+2500
+3400
+3.81
+JH415610
+2.9528
+5.7087
+2.0079
+2.0079
+1.6535
+64500
+92000
+8.40
+L814749/
+79.200
+109.538
+19.050
+19.050
+15.083
+63000
+115000
+3100
+4100
+0.579
+L814710
+3.0000
+4.3125
+0.7500
+0.7500
+0.5938
+14200
+25800
+1.28
+34300/
+76.200
+121.442
+24.608
+23.012
+17.462
+91000
+127000
+2900
+3800
+0.982
+34478
+3.0000
+4.7812
+0.9688
+0.9060
+0.6875
+20500
+286000
+2.17
+34301/
+76.200
+121.442
+24.608
+23.012
+17.462
+91000
+127000
+2900
+3800
+0.977
+34478
+3.0000
+4.7812
+0.9688
+0.9060
+0.6875
+30500
+286000
+2.15
+42687/
+76.200
+127.000
+30.162
+31.000
+22.225
+135000
+194000
+2800
+3700
+1.46
+46260
+3.0000
+5.0000
+1.1875
+1.2205
+0.8750
+30500
+43500
+3.22
+42688/
+76.200
+127.000
+30.162
+31.000
+22.225
+135000
+194000
+2800
+3700
+1.44
+42620
+3.0000
+5.000
+1.1875
+1.2205
+0.8750
+30500
+43500
+3.18
+47678/
+76.200
+133.350
+33.338
+33.338
+26.195
+153000
+235000
+2600
+3500
+1.92
+47620
+3.0000
+5.2500
+1.3125
+1.3125
+1.0313
+34500
+53000
+4.23
+47679/
+76.200
+133.350
+33.338
+33.338
+26.195
+153000
+235000
+2600
+3500
+1.93
+47620
+3.0000
+5.2500
+1.3125
+1.3125
+1.0313
+34500
+5300
+4.26
+47680/
+76.200
+133.350
+33.338
+33.338
+26.195
+153000
+235000
+2600
+3500
+1.94
+47620
+3.0000
+5.2500
+1.3125
+1.3125
+1.0313
+34500
+53000
+4.28
+HM516442/
+796.200
+133.350
+39.688
+39.688
+32.545
+177000
+305000
+2600
+3500
+2.43
+HM516410
+3.0000
+5.2500
+1.5625
+1.5625
+1.2813
+40000
+68000
+5.36
+5760/
+76.200
+135.733
+44.450
+46.100
+34.925
+211000
+33000
+2700
+3500
+2.75
+5735
+3.0000
+5.3438
+1.7500
+1.8150
+1.3750
+47500
+74500
+6.06
+495A/
+76.200
+136.525
+30..162
+29.769
+22.225
+129000
+189000
+2600
+3500
+1.83
+493
+3.0000
+5.3750
+1.1875
+1.1720
+0.8750
+29000
+42500
+4.03
+495AX/
+76.200
+136.525
+30.162
+29.769
+2.225
+129000
+189000
+2600
+3500
+1.82
+493
+3.0000
+5.3750
+1.1878
+1.1720
+0.8750
+29000
+42500
+4.01
+114
+
+---
+
+Single Row (Inch)
+d 76.200~82.550mm
+3.0000~3.2500inch
+Dimensions
+Basic Load Ratings
+Limiting Speeds
+Weight
+Bearing
+mm
+N
+kg
+Number
+inch
+lbf
+rev/min
+Ib
+d
+D
+t
+B
+C
+Cr
+Cor
+Grease
+Oil
+575/
+76.200
+139.992
+36.512
+36.098
+28.575
+178000
+265000
+2600
+3400
+2.43
+572
+3.0000
+5.5115
+1.4375
+1.4212
+1.1250
+40000
+549500
+5.36
+575S/
+76.200
+139.992
+36.51
+36.098
+28.575
+178000
+265000
+2600
+3400
+2.41
+572
+3.0000
+5.5115
+1.4375
+1.4212
+1.1250
+40000
+59500
+5.31
+659/
+76.200
+146.050
+41.275
+41.275
+31.750
+206000
+295000
+2500
+3300
+3.04
+653
+3.0000
+5.7500
+1.6250
+1.6250
+1.2500
+46500
+66500
+6.70
+6461/
+76.200
+149.225
+53.975
+54.229
+44.450
+287000
+410000
+2500
+3400
+4.26
+6420
+3.0000
+5.8750
+2.1250
+2.1350
+1.7500
+64500
+92000
+9.39
+6461A/
+76.200
+149.225
+53.975
+54.229
+44.450
+287000
+410000
+2500
+3400
+4.23
+6420
+3.000
+5.8750
+2.1250
+2.1350
+1.7500
+64500
+92000
+9.33
+748S/
+76.200
+150.089
+44.450
+46.672
+36.51
+261000
+360000
+2400
+3200
+3.66
+742
+3.0000
+5.9090
+1.7500
+1.8375
+1.4375
+58500
+81000
+8.07
+6576/
+76.200
+161.925
+53.975
+55.100
+42.862
+310000
+460000
+2300
+3000
+5.44
+6535
+3.000
+6.3750
+2.1250
+2.1693
+1.6875
+69000
+104000
+12.0
+H917840/
+76.200
+180.975
+53.975
+53.183
+53.720
+325000
+415000
+1900
+2600
+6.57
+H917840
+3.0000
+7.1250
+2.1250
+2.0938
+1.4063
+725000
+93500
+14.5
+HH221430/
+76.200
+190.500
+57.150
+57.531
+46.038
+445000
+610000
+1900
+2600
+8.69
+HH221410
+3.0000
+7.500
+2.2500
+2.2650
+1.8125
+99500
+137000
+19.2
+LM814849/
+77.788
+117.475
+25.400
+25.400
+19.050
+99500
+162000
+2900
+3900
+0.932
+LM814810
+3.0625
+4.6250
+1.0000
+1.000
+0.7500
+22400
+36500
+2.06
+34306/
+77.788
+121.442
+24.608
+23.012
+17.462
+91000
+127000
+2900
+3800
+0.943
+34478
+3.0625
+4.7812
+0.9688
+0.9060
+0.6875
+20500
+28600
+2.08
+34307/
+77.788
+121.442
+24.608
+23.012
+23.012
+17.462
+91000
+2900
+3800
+0.930
+34478
+3.0625
+4.7812
+0.9688
+0.9060
+0.6875
+20500
+28600
+2.05
+42690/
+77.788
+127.000
+30.162
+31.000
+22.225
+135000
+194000
+2800
+3700
+1.41
+42620
+3.0625
+5.0000
+1.1875
+1.2205
+0.8750
+30500
+43500
+3.11
+495AS/
+77.788
+136.525
+30.162
+26.769
+22.225
+129000
+189000
+2600
+3500
+1.78
+493
+3.0625
+5.3750
+1.1875
+1.1720
+0.8750
+29000
+42500
+3.92
+H715348/
+77.788
+136.525
+46.038
+46.038
+36.512
+224000
+355000
+2600
+3500
+2.84
+H715311
+3.0625
+5.3750
+1.8125
+1.812
+1.4375
+50500
+80000
+6.26
+661/
+79.375
+146.050
+41.275
+41.275
+31.750
+206000
+295000
+2500
+3300
+2.91
+653
+3.1250
+5.7500
+1.6250
+1.6250
+1.2500
+46500
+66500
+6.42
+756A/
+79.375
+161.925
+47.625
+48.260
+38.100
+270000
+385000
+2300
+3100
+4.55
+752
+3.1250
+6.3750
+1.8750
+1.9000
+1.5000
+60500
+86500
+10.0
+HH221431/
+79.375
+190.500
+57.150
+57.531
+46.038
+445000
+610000
+1900
+2600
+8.52
+HH221410
+3.1250
+7.5000
+2.2500
+2.2650
+1.8125
+99500
+137000
+18.8
+JM515649/
+80.000
+130.000
+35.000
+34.000
+28.500
+166000
+249000
+2700
+3600
+1.73
+JM515610
+3.1496
+5.1181
+1.3780
+1.3386
+1.1220
+37500
+56000
+3.81
+47681/
+80.962
+133.350
+33.338
+33.338
+26.195
+153000
+235000
+2600
+3500
+1.78
+47620
+3.1875
+5.2500
+1.3125
+1.3125
+1.0313
+34500
+5300
+3.92
+496/
+80.962
+136.525
+30.162
+29.769
+22.225
+129000
+189000
+2600
+3500
+1.69
+493
+3.1875
+5.3750
+1.1875
+1.1720
+0.8750
+29000
+42500
+3.75
+581/
+80.962
+139.992
+36.512
+36.098
+28.575
+178000
+265000
+2600
+3400
+2.26
+572
+3.1875
+5.5115
+1.4375
+1.4212
+1.1250
+40000
+59500
+4.98
+740/
+80.962
+150.089
+44.450
+46.672
+36.51
+261000
+360000
+2400
+3200
+3.43
+742
+3.1875
+5.9090
+1.7500
+1.8375
+1.4375
+58500
+81000
+7.56
+27687/
+82.550
+125.412
+25.400
+25.400
+19845
+102000
+163000
+2700
+3600
+1.07
+27620
+3.2500
+4.9375
+1.0000
+1.000
+0.7813
+22900
+36500
+2.36
+47686/
+82.550
+133.350
+33.338
+33.338
+26.195
+153000
+235000
+2600
+3500
+1.72
+47620
+3.2500
+5.2500
+1.3125
+1.3125
+1.0313
+34500
+53000
+3.79
+47686/
+82.550
+133.350
+33.338
+33.338
+26.195
+153000
+235000
+2600
+3500
+1.73
+47620A
+3.2500
+5.2500
+1.3125
+1.3125
+1.0313
+34500
+53000
+3.81
+47687/
+82.550
+133.350
+33.338
+33.338
+26.195
+153000
+235000
+2600
+3500
+1.71
+47620
+3.2500
+5.2500
+1.3125
+1.3125
+1.0313
+34500
+53000
+3.77
+HM516448/
+82.550
+133.350
+39.688
+39.688
+32.545
+177000
+305000
+2600
+3500
+2.16
+HM516410
+3.2500
+5.2500
+1.5625
+1.5625
+1.2813
+40000
+68000
+4.76
+HM516449/
+82.550
+133.350
+39.688
+39.688
+32.545
+177000
+305000
+2600
+3500
+2.18
+HM516410
+3.2500
+5.2500
+1.5625
+1.5625
+1.2813
+40000
+68000
+4.81
+495/
+82.550
+136.525
+30.162
+29.769
+22.225
+129000
+189000
+2600
+3500
+1.64
+493
+3.2500
+5.3750
+1.1875
+1.1720
+0.8750
+29000
+42500
+3.62
+580/
+82.550
+139.992
+36.512
+36.098
+28.575
+178000
+265000
+2600
+3400
+2.20
+572
+3.2500
+5.5115
+1.4375
+1.4212
+1.1250
+40000
+59500
+4.85
+582/
+82.550
+139.992
+36.512
+36.098
+28.575
+178000
+265000
+2600
+3400
+2.19
+572
+3.2500
+5.5115
+1.4375
+1.4212
+1.1250
+40000
+59500
+4.83
+663/
+82.550
+146.050
+41.275
+41.275
+31.750
+206000
+295000
+2500
+3300
+2.78
+653
+3.2500
+5.7500
+1.6250
+1.6250
+1.2500
+465000
+66500
+6.13
+749A/
+82.550
+150.089
+44.450
+46.672
+36.512
+261000
+360000
+2400
+3200
+3.37
+742
+3.2500
+5.9090
+1.7500
+1.8375
+1.4375
+58500
+81000
+7.43
+595/
+82.550
+152.400
+36.688
+36.322
+30.162
+180000
+279000
+2300
+3100
+3.02
+592A
+3.2500
+6.0000
+1.5625
+1.4300
+1.1875
+40500
+62500
+6.66
+115
+Tapered Roller Bearings
+
+---
+
+Tapered Roller Bearings
+Single Row (Inch)
+d 82.550~90.000mm
+3.2500~3.5433inch
+Dimensions
+Basic Load Ratings
+Limiting Speeds
+Weight
+Bearing
+mm
+N
+kg
+Number
+inch
+lbf
+rev/min
+Ib
+d
+D
+t
+B
+C
+Cr
+Cor
+Grease
+Oil
+663/
+82.550
+152.400
+41.275
+41.275
+31.750
+206000
+295000
+2500
+3300
+3.15
+652
+3.2500
+6.000
+1.6250
+1.6250
+1.2500
+46500
+66500
+6.94
+757/
+82.550
+161.925
+47.625
+48.260
+38.100
+270000
+385000
+2300
+3100
+4.42
+752
+3.2500
+6.3750
+1.8750
+1.9000
+1.5000
+60500
+86500
+9.74
+6559C/
+82.550
+161.925
+53.975
+55.100
+42.862
+310000
+460000
+2300
+3000
+5.09
+6535
+3.2500
+6.3750
+2.1250
+2.1693
+1.6875
+69000
+104000
+11.2
+842/
+82.550
+168.275
+53.975
+56.363
+41.275
+340000
+460000
+2200
+3000
+5.46
+832
+3.2500
+6.6250
+2.1250
+2.2190
+1.6250
+76000
+103000
+12.0
+27689/
+83.345
+125.412
+25.400
+25.400
+19.84
+102000
+163000
+2700
+3600
+1.06
+27620
+3.2813
+4.9375
+1.0000
+1.000
+0.7813
+22900
+36500
+2.34
+27690/
+83.345
+125.412
+25.400
+25.400
+19.845
+102000
+163000
+2700
+3600
+1.05
+27620
+3.2813
+4.9375
+1.0000
+1.0000
+0.7813
+22900
+36500
+2.32
+27691/
+83.345
+125.412
+25.400
+25.400
+19845
+102000
+163000
+2700
+3600
+1.04
+27620
+3.2813
+4.9375
+1.000
+1.000
+0.7813
+229000
+365000
+2.29
+498/
+84.138
+136.525
+30.162
+29.769
+22.225
+129000
+189000
+2600
+3500
+1.60
+493
+3.3125
+5.3750
+1.1875
+1.1720
+0.8750
+29000
+42500
+3.53
+JM716648/
+88.000
+130.000
+30.000
+29.000
+24.000
+135000
+214000
+2600
+3500
+1.37
+JM716610
+3.3465
+5.1181
+1.1811
+1.1417
+0.9449
+30500
+48000
+3.02
+JM716649/
+85.000
+130.000
+30.000
+29.000
+24.000
+135000
+214000
+2600
+3500
+1.39
+JM716610
+3.3465
+5.1181
+1.1811
+1.1417
+0.9449
+30500
+48000
+3.06
+JHM516849/
+85.000
+140.000
+39.000
+38.000
+31.500
+197000
+297000
+2500
+3400
+2.30
+JHM516810
+3.3465
+5.5118
+1.5354
+1.4961
+1.2402
+44500
+67000
+5.07
+749/
+85.026
+150.089
+44.450
+46.672
+36.512
+261000
+260000
+2400
+3200
+3.25
+742
+3.3475
+5.9090
+1.7500
+1.8375
+1.4375
+58500
+8100
+7.17
+749S/
+85.026
+150.089
+44.450
+46.672
+36.512
+261000
+360000
+2400
+3200
+3.24
+742
+3.3475
+5.9090
+1.7500
+1.8375
+1.4375
+58500
+81000
+7.14
+497/
+85.725
+133.350
+30.162
+29.769
+22.225
+129000
+189000
+2600
+3500
+1.43
+492A
+3.3.750
+5.2500
+1.1875
+1.1720
+0.8750
+29000
+42500
+3.15
+497/
+85.725
+136.525
+30.162
+29.769
+22.225
+129000
+189000
+2600
+3500
+1.55
+493
+3.3750
+5.3750
+1.1875
+1.1720
+0.8750
+29000
+42500
+3.42
+497A/
+85.725
+136.525
+30.162
+29.769
+22.225
+129000
+189000
+2600
+3500
+1.53
+493
+3.3750
+5.3750
+1.1875
+1.1720
+0.8750
+29000
+42500
+3.37
+HM617049/
+85.725
+142.138
+42.862
+42.862
+34.133
+216000
+350000
+2500
+3300
+2.69
+HM617010
+3.3750
+5.5960
+1.6875
+1.6875
+1.3438
+48500
+78500
+5.93
+665/
+85.725
+146.050
+41.275
+41.275
+31.750
+206000
+295000
+2500
+3300
+2.65
+653
+3.3750
+5.7500
+1.6250
+1.6250
+1.2500
+46500
+66500
+5.84
+665A/
+85.725
+146.050
+41.275
+41.275
+31.750
+206000
+295000
+2500
+3300
+2.63
+653
+3.3750
+5.7500
+1.6250
+1.6250
+1.2500
+46500
+66500
+5.80
+596/
+85.725
+152.400
+39.688
+36.322
+30.162
+180000
+279000
+2300
+3100
+2.90
+592A
+3.3750
+6.0000
+1.5625
+1.4300
+1.1875
+40500
+62500
+6.39
+758
+85.725
+161.925
+47.625
+48.260
+38.100
+270000
+385000
+2300
+3100
+4.26
+752
+3.3750
+6.3750
+1.8750
+1.9000
+1.5000
+60500
+86500
+9.39
+42346
+87.960
+148.430
+28.575
+28.971
+21.433
+138000
+215000
+2300
+3100
+1.99
+42584
+3.4630
+5.8437
+1.1250
+1.1406
+0.8438
+31000
+48500
+4.39
+LL217849/
+88.900
+121.442
+15.083
+15.083
+11.112
+56500
+88000
+2700
+3600
+0.452
+LL217810
+3.5000
+4.7812
+0.5938
+0.5938
+0.4375
+12700
+19800
+0.996
+L217849/
+88.900
+123.825
+20.638
+20.638
+16.670
+80000
+141000
+2700
+3500
+0.737
+L217810
+3.5000
+4.8750
+0.8125
+0.8125
+0.6563
+18000
+31500
+1.63
+42350/
+88.900
+148.430
+28.575
+28.971
+21.433
+138000
+215000
+2300
+3100
+1.96
+42584
+3.5000
+5.8437
+1.1250
+1.1406
+0.8438
+31000
+485000
+4.32
+593/
+88.900
+152.400
+39.688
+36.322
+30.162
+18000
+279000
+2300
+3100
+2.78
+592A
+3.5000
+6.0000
+1.5625
+1.4300
+1.1875
+40500
+625000
+6.13
+593A/
+88.900
+152.400
+39.688
+36.322
+30.162
+180000
+279000
+2300
+3100
+2.76
+592A
+3.5000
+6.0000
+1.5625
+1.4300
+1.1875
+40500
+625000
+6.09
+759/
+88.900
+161.925
+47.625
+48.260
+38.100
+270000
+385000
+2300
+3100
+4.06
+752
+3.5000
+6.3750
+1.8750
+1.9000
+1.5000
+60500
+86500
+9.02
+766/
+88.900
+161.925
+47.625
+48.260
+38.100
+270000
+385000
+2300
+3100
+4.07
+752
+3.5000
+6.3750
+1.8750
+1.9000
+1.5000
+60500
+86500
+8.97
+6580/
+88.900
+161.925
+53.975
+55.100
+42.862
+310000
+460000
+2300
+3000
+4.73
+6535
+3.5000
+6.3750
+2.1250
+2.1693
+1.6875
+69000
+104000
+10.40
+850/
+88.900
+168.275
+53.975
+56.363
+41.275
+340000
+460000
+2200
+3000
+5.08
+832
+3.5000
+6.250
+2.1250
+2.2190
+1.6250
+76000
+103000
+11.20
+HM218248/
+89.974
+146.975
+40.000
+40.000
+32.500
+227000
+340000
+2400
+3200
+2.55
+HM21821
+3.5423
+5.7864
+1.5748
+1.5748
+1.2795
+51000
+76500
+2.62
+JM718149/
+90.000
+145.000
+35.000
+34.000
+27.000
+189000
+27900
+2400
+3200
+2.14
+JM718110
+3.5433
+5.7087
+1.3780
+1.3386
+1.0630
+42500
+62500
+4.72
+116
+
+---
+
+Single Row (Inch)
+d 90.000~101.600mm
+3.5433~4.000inch
+Dimensions
+Basic Load Ratings
+Limiting Speeds
+Weight
+Bearing
+mm
+N
+kg
+Number
+inch
+lbf
+rev/min
+Ib
+d
+D
+t
+B
+C
+Cr
+Cor
+Grease
+Oil
+JHM318448/
+90.000
+155.000
+44.000
+44.000
+35.500
+270000
+385000
+2300
+3100
+3.32
+JHM318410
+3.5433
+6.1024
+1.7323
+1.7323
+1.3976
+60500
+86500
+7.32
+J90354/
+90.000
+190.000
+50.800
+46.038
+31.750
+281000
+365000
+1800
+2400
+6.32
+J90748
+3.5433
+7.4803
+2.0000
+1.8125
+1.2500
+63500
+82000
+13.9
+760/
+90.488
+161.925
+47.625
+48.260
+38.100
+270000
+385000
+2300
+3100
+4.01
+752
+3.5625
+6.3750
+1.8750
+1.9000
+1.5000
+60500
+86500
+8.84
+47890/
+92.075
+146.050
+33.338
+34.925
+26.195
+163000
+266000
+2400
+3100
+2.08
+47820
+3.6250
+5.7500
+1.3125
+1.3750
+1.0313
+37000
+59500
+4.59
+598/
+92.075
+152.400
+39.688
+36.322
+30.162
+180000
+279000
+2300
+3100
+2.65
+592A
+3.6250
+6.0000
+1.5625
+1.4300
+1.1875
+40500
+62500
+5.84
+598A/
+92.075
+152.400
+39.688
+36.322
+30.162
+180000
+279000
+2300
+3100
+2.63
+592A
+3.6250
+6.0000
+1.5625
+1.4300
+1.1875
+40500
+62500
+5.80
+681/
+92.075
+168.275
+41.275
+41.275
+30.162
+222000
+340000
+2100
+2800
+3.87
+672
+3.6250
+6.6250
+1.6250
+1.6250
+1.1875
+50000
+77000
+8.53
+681A/
+92.075
+168.275
+41.275
+41.275
+30.162
+222000
+340000
+2100
+2800
+3.86
+672
+3.6250
+6.6250
+1.6250
+1.6250
+1.1875
+50000
+77000
+8.51
+42368/
+93.662
+148.430
+28.575
+28.971
+21.433
+138000
+215000
+2300
+3100
+1.80
+42584
+3.6875
+5.8437
+1.1250
+1.1406
+0.8438
+31000
+48500
+3.97
+JM719149/
+95.000
+150.000
+35.000
+34.000
+27.000
+180000
+278000
+2300
+3100
+2.19
+JM719113
+3.7402
+5.9055
+1.3780
+1.3386
+1.0630
+40500
+62500
+4.83
+L319249/
+95.250
+130.175
+20.638
+21.433
+16.670
+81000
+147000
+2500
+3300
+0.789
+L319210
+3.7500
+5.1250
+0.8125
+0.8438
+0.6536
+18300
+33000
+1.74
+47896/
+95.250
+146.050
+33.338
+34.925
+26.195
+163000
+266000
+2400
+3100
+1.95
+47820
+3.7500
+5.7500
+1.3125
+1.3750
+1.0313
+37000
+59500
+4.30
+594A/
+95.250
+147.638
+35.717
+36.322
+26.192
+180000
+279000
+2300
+3100
+2.09
+592XE
+3.7500
+5.8125
+1.4062
+1.4300
+1.0312
+40500
+62500
+4.61
+594A/
+95.250
+147.638
+35.717
+36.322
+26.192
+180000
+279000
+2300
+3100
+2.09
+592XS
+3.7500
+5.8125
+1.4062
+1.4300
+1.0312
+40500
+62500
+4.61
+42375/
+95.250
+148.430
+28.575
+28.971
+21.433
+138000
+215000
+2300
+3100
+1.75
+42584
+3.7500
+5.8437
+1.1250
+1.1406
+0.8438
+31000
+48500
+3.86
+594/
+95.250
+152.400
+39.688
+36.322
+30.162
+180000
+279000
+2300
+3100
+2.51
+592A
+3.7500
+6.0000
+1.5625
+1.4300
+1.1875
+40500
+62500
+5.53
+594A/
+95.250
+152.400
+39.688
+36.322
+30.162
+180000
+279000
+2300
+3100
+2.51
+592A
+3.7500
+6.0000
+1.5625
+1.4300
+1.1875
+40500
+62500
+5.53
+52375/
+95.250
+157.162
+36.512
+36.116
+26.195
+188000
+305000
+2200
+2900
+2.76
+52618
+3.7500
+6.1875
+1.4375
+1.4219
+1.0313
+42000
+68000
+6.09
+683/
+95.250
+168.275
+41.275
+41.275
+30.162
+222000
+340000
+2100
+2800
+3.72
+672
+3.7500
+6.6250
+1.6250
+1.6250
+1.1875
+50000
+77000
+8.20
+HH221440/
+95.250
+190.500
+57.150
+57.531
+46.038
+445000
+610000
+1900
+2600
+7.50
+HH221410
+3.7500
+7.5000
+2.2500
+2.2650
+1.8125
+99500
+13700
+16.5
+42381/
+96.838
+148.430
+28.575
+28.971
+21.433
+138000
+215000
+2300
+3100
+1.69
+42584
+3.8125
+5.8437
+1.1250
+1.1406
+0.8428
+31000
+48500
+3.73
+90381/
+96.838
+188.912
+50.800
+46.038
+31.750
+281000
+365000
+1800
+2400
+5.67
+90744
+3.8125
+7.4375
+2.0000
+1.8125
+1.2500
+63500
+82000
+12.5
+52387/
+98.425
+157.162
+36.512
+36.116
+26.195
+188000
+305000
+2200
+2900
+2.62
+52618
+3.8750
+6.1875
+1.4375
+1.4219
+1.0313
+42000
+68000
+5.78
+685/
+98.425
+168.275
+41.275
+41.275
+30.162
+222000
+340000
+2100
+2800
+3.56
+672
+3.8750
+6.6250
+1.6250
+1.6250
+1.1875
+50000
+77000
+7.85
+HH224334/
+99.974
+212.725
+66.675
+66.675
+53.975
+575000
+810000
+1700
+2300
+11.5
+HH224310
+3.9360
+8.3750
+2.6250
+2.6250
+2.1250
+129000
+182000
+25.4
+JM720249/
+100.000
+155.000
+36.000
+35.000
+28.000
+192000
+31000
+2200
+2900
+2.40
+JM720210
+3.9370
+6.1024
+1.4173
+1.3780
+1.1024
+43000
+69500
+5.29
+JHM720249/
+100.000
+160.000
+41.000
+40.000
+32.000
+235000
+370000
+2200
+2900
+3.04
+JHM720210
+3.9370
+6.2992
+1.6142
+1.5748
+1.2598
+53000
+83500
+6.70
+52393/
+100.012
+157.162
+36.512
+36.116
+26.195
+188000
+305000
+2200
+2900
+2.55
+52618
+3.9375
+6.1875
+1.4375
+1.4219
+1.0313
+42000
+68000
+5.62
+52400/
+101.600
+157.162
+36.512
+36.116
+26.195
+188000
+305000
+2200
+2900
+2.48
+52618
+4.0000
+6.1875
+1.4375
+1.4219
+1.0313
+42000
+68000
+5.47
+52400/
+101.600
+161.925
+39.688
+36.116
+29.370
+188000
+305000
+2200
+2900
+2.89
+52618
+4.0000
+6.3750
+1.5625
+1.4219
+1.1563
+42000
+68000
+6.37
+687/
+101.600
+168.275
+41.275
+41.275
+30.162
+222000
+340000
+2100
+2800
+3.40
+672
+4.0000
+6.6250
+1.6250
+1.6250
+1.1875
+50000
+77000
+7.50
+780/
+101.600
+180.975
+47.625
+48.006
+38.100
+285000
+430000
+2000
+2700
+5.11
+772
+4.0000
+7.1250
+1.8750
+1.8900
+1.5000
+64000
+96500
+11.3
+861/
+101.600
+190.500
+57.150
+57.531
+44.450
+380000
+555000
+2000
+2600
+7.00
+854
+4.0000
+7.5000
+2.2500
+2.2650
+1.7500
+855000
+124000
+15.4
+117
+Tapered Roller Bearings
+
+---
+
+Spherical Roller Bearings
+Single Row (Inch)
+d 101.600~127.000mm
+4.0000~5.0000inch
+Dimensions
+Basic Load Ratings
+Limiting Speeds
+Weight
+Bearing
+mm
+N
+kg
+Number
+inch
+lbf
+rev/min
+Ib
+d
+D
+t
+B
+C
+Cr
+Cor
+Grease
+Oil
+HH221449/
+101.600
+190.500
+57.150
+57.531
+46.038
+445000
+610000
+1900
+2600
+7.06
+HH221410
+4.0000
+7.5000
+2.2500
+2.2650
+1.8125
+99500
+137000
+15.6
+HH221449A/
+101.600
+190.500
+57.150
+57.531
+46.038
+445000
+610000
+1900
+2600
+7.06
+HH221410
+4.0000
+7.5000
+2.2500
+2.2650
+1.8125
+99500
+137000
+15.6
+941/
+101.600
+212.725
+66.675
+66.675
+53.975
+475000
+695000
+1800
+2300
+11.2
+932
+4.0000
+8.3750
+2.6250
+2.6250
+2.1250
+107000
+156000
+24.7
+HH224335/
+101.600
+212.725
+66.675
+66.675
+53.975
+575000
+810000
+1700
+2300
+11.3
+HH224310
+4.0000
+8.3750
+2.6250
+2.6250
+2.1250
+129000
+182000
+24.9
+782/
+104.775
+180.975
+47.625
+48.006
+38.100
+285000
+430000
+2000
+2700
+4.92
+772
+4.1250
+7.1250
+1.8750
+1.8900
+1.5000
+64000
+96500
+10.8
+786/
+104.775
+180.975
+47.625
+48.006
+38.100
+285000
+430000
+2000
+2700
+4.90
+772
+4.1250
+7.1250
+1.8750
+1.8900
+1.5000
+64000
+96500
+10.8
+787/
+104.775
+180.975
+47.625
+48.006
+38.100
+285000
+430000
+2000
+2700
+4.90
+772
+4.1250
+7.1250
+1.8750
+1.8900
+1.5000
+64000
+96500
+10.8
+37425/
+107.950
+158.750
+23.020
+21.438
+15.875
+102000
+166000
+2100
+2800
+1.37
+37625
+4.2500
+6.2500
+0.9063
+0.8440
+0.6250
+23000
+37500
+3.02
+M522546/
+107.950
+159.987
+34.925
+34.925
+26.988
+167000
+320000
+2100
+2800
+2.37
+M522510
+4.2500
+6.2987
+1.3750
+1.3750
+1.0625
+375000
+72500
+5.23
+56425/
+107.950
+165.100
+36.51
+36.512
+26.988
+191000
+315000
+2100
+2700
+2.69
+56650
+4.2500
+6.5000
+1.4375
+1.4375
+1.0625
+43000
+70500
+5.93
+56425/
+107.950
+168.275
+36.512
+36.512
+26.988
+191000
+315000
+2100
+2700
+2.87
+56662
+4.2500
+6.6250
+1.4375
+1.4375
+1.0625
+43000
+70500
+6.33
+936/
+107.950
+212.725
+66.675
+66.675
+53.975
+475000
+695000
+1800
+2300
+10.7
+932
+4.2500
+8.3750
+2.6250
+2.6250
+2.1250
+107000
+156000
+23.6
+37431/
+109.538
+158.750
+23.020
+21.438
+15.875
+102000
+166000
+2100
+2800
+1.33
+37625
+4.3125
+6.2500
+0.9063
+0.8440
+0.6250
+23000
+37500
+2.93
+LM522548/
+109.987
+159.987
+34.925
+34.925
+26.988
+167000
+320000
+2100
+2800
+2.24
+LM522510
+4.3302
+6.2987
+1.3750
+1.3750
+1.0625
+37500
+72500
+4.94
+LM522549/
+109.987
+159.987
+34.925
+34.925
+26.988
+167000
+320000
+2100
+2800
+2.27
+LM522510
+4.3302
+6.2987
+1.3750
+1.3750
+1.0625
+37500
+72500
+5.00
+64433/
+109.992
+177.800
+41.275
+41.275
+30.162
+232000
+375000
+1900
+2600
+3.77
+64700
+4.3304
+7.0000
+1.6250
+1.6250
+1.1875
+52000
+84000
+8.31
+JM822049/
+110.000
+165.000
+35.000
+35.000
+26.500
+191000
+315000
+2100
+2700
+2.52
+JM822010
+4.3307
+6.4961
+1.3780
+1.3780
+1.4033
+43000
+70500
+5.56
+JHM522649/
+110.000
+180.000
+47.000
+46.000
+38.000
+305000
+480000
+1900
+2600
+4.61
+JHM522610
+4.3307
+7.0866
+1.8504
+1.8110
+1.4961
+68500
+108000
+10.2
+H924045/
+111.125
+214.312
+55.562
+52.388
+39.688
+405000
+560000
+1500
+2000
+8.18
+H924010
+4.3750
+8.4375
+2.1875
+2.0625
+1.5625
+91000
+126000
+18.0
+64450/
+114.300
+177.800
+41.275
+41.275
+30.162
+232000
+375000
+1900
+2600
+3.52
+64700
+4.5000
+7.0000
+1.6250
+1.6250
+1.1875
+52000
+84000
+7.76
+64450/
+114.300
+179.974
+41.275
+41.275
+30.162
+232000
+375000
+1900
+2600
+3.67
+64708
+4.5000
+7.0856
+1.6250
+1.6250
+1.1875
+52000
+84000
+8.09
+68450/
+114.300
+180.975
+34.925
+31.750
+25.400
+169000
+245000
+1900
+2500
+2.93
+68712
+4.5000
+7.1250
+1.3750
+1.2500
+1.0000
+38000
+55000
+6.46
+938/
+114.300
+212.725
+66.675
+66.675
+53.975
+475000
+695000
+1800
+2300
+10.1
+932
+4.5000
+8.3750
+2.6250
+2.6250
+2.1250
+107000
+156000
+22.3
+HH224346/
+114.300
+212.725
+66.675
+66.675
+53.975
+575000
+810000
+1700
+2300
+10.2
+HH224310
+4.5000
+8.3750
+2.6250
+2.6250
+2.1250
+129000
+182000
+22.5
+HM926740/
+114.300
+228.600
+53.975
+49.428
+38.100
+430000
+620000
+1400
+1900
+9.76
+HM926710
+4.5000
+9.0000
+2.1250
+1.9460
+1.5000
+96500
+140000
+21.5
+71453/
+115.087
+190.500
+47.625
+49.212
+34.925
+300000
+475000
+1400
+2500
+5.11
+71750
+4.531
+07.5000
+1.8750
+1.9375
+1.3750
+67500
+107000
+11.3
+71455/
+115.087
+190.500
+47.625
+49.212
+34.925
+300000
+475000
+1800
+2500
+5.08
+71750
+4.5310
+7.5000
+1.8750
+1.9375
+1.3750
+67500
+107000
+11.2
+68462/
+117.475
+180.975
+34.925
+31.750
+25.400
+169000
+245000
+1900
+2500
+2.78
+68712
+4.6250
+7.1250
+1.3750
+1.2500
+1.0000
+38000
+550000
+6.13
+JL724348/
+120.000
+170.000
+25.400
+25.400
+19.050
+127000
+210000
+2000
+2600
+1.67
+JL724314
+4.7244
+6.6929
+1.0000
+1.0000
+0.7500
+28600
+47000
+3.68
+95475/
+120.650
+234.950
+63.500
+63.500
+49.212
+525000
+825000
+1500
+2000
+12.6
+95925
+4.7500
+9.2500
+2.5000
+2.5000
+1.9375
+118000
+185000
+27.8
+48286/
+123.825
+182.562
+39.688
+38.100
+33.338
+224000
+435000
+1800
+2400
+3.52
+48220
+4.8750
+7.1875
+1.5625
+1.5000
+1.3125
+50500
+97500
+7.76
+48290/
+127.000
+182.562
+39.688
+38.100
+33.338
+224000
+435000
+1800
+2400
+3.33
+48220
+5.0000
+7.1875
+1.5625
+1.5000
+1.3125
+50500
+97500
+7.34
+118
+
+---
+
+Dimensions
+Basic Load Ratings
+Limiting Speeds
+Weight
+Bearing
+mm
+N
+kg
+Number
+inch
+lbf
+rev/min
+Ib
+d
+D
+t
+B
+C
+Cr
+Cor
+Grease
+Oil
+67388/
+127.000
+196.850
+46.038
+46.038
+38.100
+310000
+550000
+1700
+2200
+5.10
+67322
+5.0000
+7.7500
+1.8125
+1.8125
+1.5000
+69500
+124000
+11.2
+74500/
+127.000
+215.900
+47.625
+47.625
+34.925
+320000
+540000
+1600
+2100
+7.05
+74850
+5.0000
+8.5000
+1.8750
+1.8750
+1.3750
+71500
+121000
+15.5
+97500/
+127.000
+228.600
+53.975
+49.428
+38.100
+320000
+445000
+1400
+1900
+8.43
+97900
+5.0000
+9.0000
+2.1250
+1.9460
+1.5000
+72000
+99500
+18.6
+HM926747/
+127.000
+228.600
+53.975
+49.428
+38.100
+430000
+620000
+1400
+1900
+8.83
+HM926710
+5.0000
+9.0000
+2.1250
+1.9460
+1.5000
+96500
+140000
+19.5
+95500/
+127.000
+230.000
+63.500
+63.500
+49.212
+525000
+825000
+1500
+2000
+12.9
+95905
+5.0000
+9.0551
+2.5000
+2.5000
+1.9375
+118000
+185000
+28.4
+95500/
+127.000
+234.950
+63.500
+63.500
+49.212
+525000
+825000
+1500
+2000
+12.0
+95925
+5.0000
+9.2500
+2.5000
+2.5000
+1.9375
+118000
+185000
+26.5
+HH228349/
+127.000
+254.000
+77.788
+82.550
+61.912
+740000
+1070000
+1400
+1900
+19.5
+HH228310
+5.0000
+10.0000
+3.0625
+3.2500
+2.4375
+166000
+241000
+43.0
+799/
+128.588
+206.375
+47.625
+47.625
+34.925
+315000
+520000
+1700
+2200
+5.77
+792
+5.0625
+8.1250
+1.8750
+1.8750
+1.3750
+70500
+116000
+12.7
+67389/
+130.175
+196.850
+46.038
+46.038
+38.100
+310000
+550000
+1700
+2200
+4.87
+67322
+5.1250
+7.7500
+1.8125
+1.8125
+1.5000
+69500
+124000
+10.7
+799A/
+130.175
+206.375
+47.625
+47.625
+34.925
+315000
+520000
+1700
+2200
+5.65
+792
+5.1250
+8.1250
+1.8750
+1.8750
+1.3750
+70500
+116000
+12.5
+L327249/
+133.350
+177.008
+25.400
+26.195
+20.638
+126000
+259000
+1800
+2400
+1.70
+L327210
+5.2500
+6.9688
+1.0000
+1.0313
+0.8125
+28400
+5800
+3.75
+48385/
+133.350
+190.500
+39.688
+39.688
+33.338
+236000
+475000
+1700
+2300
+3.64
+48320
+5.2500
+7.5000
+1.5625
+1.5625
+1.3125
+53000
+107000
+8.03
+67390/
+133.350
+196.850
+46.038
+46.038
+38.100
+310000
+550000
+1700
+2200
+4.63
+67322
+5.2500
+7.7500
+1.8125
+1.8125
+1.5000
+69500
+124000
+10.2
+67391/
+133.350
+196.850
+46.038
+46.038
+38.100
+310000
+550000
+1700
+2200
+4.59
+67322
+5.2500
+7.7500
+1.8125
+1.8125
+1.5000
+69500
+124000
+10.1
+74525/
+133.350
+215.900
+47.625
+47.625
+34.925
+320000
+540000
+1600
+2100
+6.56
+74850
+5.2500
+8.5000
+1.8750
+1.8750
+1.3750
+71500
+12100
+14.5
+95525/
+133.350
+234.950
+63.500
+63.500
+49.212
+525000
+825000
+1500
+2000
+11.3
+95925
+5.2500
+9.2500
+2.5000
+2.5000
+1.9375
+118000
+185000
+24.9
+95528/
+133.350
+234.950
+63.500
+63.500
+49.212
+525000
+825000
+1500
+2000
+11.4
+95925
+5.3750
+9.2500
+2.5000
+2.5000
+1.9375
+118000
+185000
+25.1
+48393/
+136.525
+190.500
+39.688
+39.688
+33.338
+236000
+475000
+1700
+2300
+3.43
+48320
+5.3750
+7.5000
+1.5625
+1.5625
+1.3125
+53000
+107000
+7.59
+896/
+136.525
+228.600
+57.150
+57.150
+44.450
+445000
+735000
+1500
+2000
+9.07
+892
+5.3750
+9.0000
+2.2500
+2.2500
+1.7500
+100000
+165000
+20.0
+74550/
+139.700
+214.975
+47.625
+47.625
+34.925
+320000
+540000
+1600
+2100
+5.97
+74845
+5.5000
+8.4636
+1.8750
+1.8750
+1.3750
+71500
+121000
+13.2
+74550/
+139.700
+215.900
+47.625
+47.625
+34.925
+320000
+540000
+1600
+2100
+6.05
+74850
+5.5000
+8.5000
+1.8750
+1.8750
+1.3750
+71500
+121000
+13.3
+898/
+139.700
+228.600
+57.150
+57.150
+44.450
+445000
+735000
+1500
+2000
+8.76
+892
+5.5000
+98.0000
+2.2500
+2.2500
+1.7500
+100000
+165000
+19.3
+898A/
+139.700
+228.600
+57.150
+57.150
+44.450
+445000
+735000
+1500
+2000
+8.73
+892
+5.5000
+9.0000
+2.2500
+2.2500
+1.7500
+100000
+165000
+19.2
+99550/
+139.700
+254.000
+66.675
+66.675
+47.625
+550000
+910000
+1400
+1800
+14.3
+99100
+5.5000
+10.0000
+2.6250
+2.6250
+1.8750
+124000
+204000
+31.5
+48684/
+142.875
+200.025
+41.275
+39.688
+34.130
+239000
+490000
+1600
+2100
+3.85
+48620
+5.6250
+7.8750
+1.6250
+1.5625
+1.3437
+53500
+110000
+8.49
+48685/
+142.875
+200.025
+41.275
+39.688
+34.130
+239000
+490000
+1600
+2100
+3.89
+48620
+5.6250
+7.8750
+1.6250
+1.5625
+1.3437
+53500
+110000
+8.58
+36690/
+146.050
+193.675
+28.575
+28.575
+23.020
+165000
+340000
+1600
+2200
+2.27
+36620
+5.7500
+7.6250
+1.1250
+1.1250
+0.9063
+37000
+77000
+5.00
+36691/
+146.050
+193.675
+28.575
+28.575
+23.020
+165000
+340000
+1600
+2200
+2.25
+36620
+5.7500
+7.6250
+1.1250
+1.1250
+0.9063
+37000
+77000
+4.96
+99575/
+146.050
+254.000
+66.675
+66.675
+47.625
+550000
+910000
+1400
+1800
+13.5
+99100
+5.7500
+10.0000
+2.6250
+2.6250
+1.8750
+124000
+204000
+29.8
+L630349/
+152.400
+192.088
+25.000
+24.000
+19.000
+130000
+261000
+1600
+2100
+1.53
+L630310
+6.0000
+7.5625
+0.9843
+0.9449
+0.7480
+29200
+59000
+3.37
+M231648/
+152.400
+222.250
+46.830
+46.830
+34.925
+315000
+585000
+1500
+2000
+5.72
+M231610
+6.0000
+8.7500
+1.8437
+1.8437
+1.3750
+71000
+132000
+12.6
+M231649/
+152.400
+222.250
+46.830
+46.830
+34.925
+315000
+585000
+1500
+2000
+5.77
+M231610
+6.0000
+8.7500
+1.8437
+1.8437
+1.3750
+71000
+132000
+12.7
+L432349/
+158.750
+205.583
+23.812
+23.812
+18.258
+126000
+247000
+1500
+2000
+1.89
+L432310
+6.2500
+8.0938
+0.9375
+0.9375
+0.7188
+28300
+55500
+4.17
+Single Row (Inch)
+d 127.000~158.750mm
+5.0000~6.2500inch
+119
+Tapered Roller Bearings
+
+---
+
+Spherical Roller Bearings
+22200 Series
+22206
+30
+62
+20
+33.50
+38.2
+5300
+6700
+0.287
+22207
+35
+72
+23
+45.20
+59.5
+4800
+6000
+0.432
+22208
+40
+80
+23
+49.80
+68.50
+4500
+5600
+0.555
+22209
+45
+85
+23
+52.20
+73.20
+4000
+5000
+0.590
+22210
+50
+90
+23
+57.20
+73.20
+3800
+4800
+0.692
+22211
+55
+100
+25
+66.00
+87.20
+3400
+4300
+0.860
+22212
+60
+110
+28
+89.98
+122.00
+3200
+4000
+1.198
+22213
+65
+120
+31
+97.35
+128.00
+2800
+3600
+1.551
+22214
+70
+125
+31
+104.50
+142.00
+2600
+3400
+1.660
+22215
+75
+130
+31
+104.50
+142.00
+2400
+3200
+1.730
+22216
+80
+140
+33
+126.50
+180.00
+2200
+3000
+2.280
+22217
+85
+150
+36
+159.50
+228
+2000
+2800
+2.830
+22218
+90
+160
+40
+184.80
+272.00
+1900
+2600
+4.010
+22219
+95
+170
+43
+233.20
+322.00
+1800
+2400
+4.550
+22220
+100
+180
+46
+244.20
+358.00
+1700
+2200
+5.124
+22222
+110
+200
+53
+316.80
+465.00
+1500
+1900
+7.000
+22224
+120
+215
+58
+376.20
+565.00
+1300
+1700
+9.070
+22226
+130
+236
+64
+448.80
+708.00
+1200
+1600
+11.370
+22228
+140
+250
+68
+525.80
+805.00
+1000
+1400
+14.200
+22230
+150
+270
+73
+558.80
+875.00
+950
+1300
+18.420
+22232
+160
+290
+80
+706.20
+1140.00
+900
+1200
+23.500
+22234
+170
+310
+86
+792.00
+1300.00
+850
+1100
+28.800
+22236
+180
+320
+86
+808.60
+1370.00
+800
+1000
+30.900
+22238
+190
+340
+92
+899.80
+1510.00
+750
+950
+37.410
+22240
+200
+360
+98
+1518.00
+2640.00
+750
+1000
+43.900
+Dimensions (mm)
+Basic Load Ratings (kN)
+Limiting Speeds (rev/min)
+Weight
+Bearing
+Bore
+OD
+Thickness
+Cr
+Cor
+Grease
+Oil
+kg
+Number
+d
+D
+t
+Straight
+Bore
+Tapered*
+Bore (K)
+120
+Tapered Roller Bearings
+
+---
+
+22308
+40
+90
+33
+73.5
+90.50
+4000
+5000
+1.041
+22309
+45
+100
+36
+108.0
+140.00
+3600
+4500
+1.387
+22310
+50
+110
+40
+140.8
+170.00
+3400
+4300
+1.827
+22311
+55
+120
+43
+170.5
+198.00
+3000
+3800
+2.299
+22312
+60
+130
+46
+184.8
+225.00
+2800
+3600
+2.881
+22313
+65
+140
+48
+206.8
+252.00
+2400
+3200
+3.494
+22314
+70
+150
+51
+253.0
+315.00
+2200
+3000
+4.212
+22315
+75
+160
+55
+288.2
+388.00
+2000
+2800
+5.225
+22316
+80
+170
+58
+316.8
+405.00
+1900
+2600
+6.296
+22317
+85
+180
+60
+338.8
+440.00
+1800
+2400
+7.360
+22318
+90
+190
+64
+401.5
+542.00
+1700
+2200
+8.878
+22139
+95
+200
+67
+423.5
+570.00
+1600
+2000
+10.380
+22320
+100
+215
+73
+495.0
+668.00
+1400
+1800
+12.941
+22322
+110
+240
+80
+599.5
+832.00
+1200
+1600
+17.850
+22324
+120
+260
+86
+709.5
+992.00
+1100
+1500
+22.378
+22326
+130
+280
+93
+794.2
+1140.00
+950
+1300
+28.130
+22328
+140
+300
+102
+907.5
+1340.00
+900
+1200
+34.840
+22330
+150
+320
+108
+1230.0
+1600.00
+1200
+1500
+43.600
+22332
+160
+340
+114
+1380.0
+1790.00
+1100
+1400
+51.900
+22334
+170
+360
+120
+1265.0
+2060.00
+750
+950
+60.750
+22336
+180
+380
+126
+1386.0
+2270.00
+700
+900
+60.080
+22338
+190
+400
+132
+1529.0
+2530.00
+670
+850
+83.220
+Dimensions (mm)
+Basic Load Ratings (kN)
+Limiting Speeds (rev/min)
+Weight
+Bearing
+Bore
+OD
+Thickness
+Cr
+Cor
+Grease
+Oil
+kg
+Number
+d
+D
+t
+22300 Series
+121
+* For Tapered bore bearings add Suffix ‘K’
+Straight
+Bore
+Tapered*
+Bore (K)
+Spherical Roller Bearings
+
+---
+
+Spherical Roller Bearings
+23000 Series
+122
+23022
+110
+170
+45
+286
+478
+2100
+2800
+3.96
+23024
+120
+180
+46
+299
+517
+1900
+2600
+4.35
+23026
+130
+200
+52
+377
+654
+1700
+2300
+6.17
+23028
+140
+210
+53
+428
+737
+1600
+2200
+6.87
+23030
+150
+225
+56
+467
+812
+1500
+2000
+8.25
+23032
+160
+240
+60
+539
+944
+1400
+1900
+10.2
+23034
+170
+260
+67
+609
+1110
+1300
+1700
+13.4
+23036
+180
+280
+74
+710
+1290
+1200
+1600
+17.6
+23038
+190
+290
+75
+736
+1370
+1100
+1500
+18.8
+23040
+200
+310
+82
+890
+1670
+1000
+1400
+24.10
+Principal Dimensions (mm)
+Basic Load Ratings (kN)
+Limiting Speeds (rev/min)
+Weight
+d
+D
+t
+Cr
+Cor
+Grease
+Oil
+kg
+Bearing
+Number
+Tapered*
+Bore (K)
+Straight
+Bore
+* For Tapered bore bearings add Suffix ‘K’
+23120
+100
+165
+52
+297
+493
+2200
+3000
+4.58
+23122
+110
+180
+56
+346
+591
+2000
+2700
+5.76
+23124
+120
+200
+62
+447
+760
+1800
+2400
+8.33
+23128
+140
+225
+68
+561
+934
+1500
+2100
+10.80
+23136
+180
+300
+96
+1000
+1800
+1100
+1500
+28.40
+23140
+200
+340
+112
+1240
+2250
+980
+1300
+43.70
+23144
+220
+370
+120
+1440
+2700
+880
+1200
+54.80
+23100 Series
+
+---
+
+Dimensions (mm)
+Basic Load Rating
+Weight
+Bearing Number
+kN
+α°
+kg
+d
+D
+t
+C
+d1min
+Dynamic
+Static
+≈
+Spherical Plain
+Radial Bearings
+with Fitting Crack
+And Fitting Groove
+GE4E
+        -------
+4
+12
+5
+3
+6
+2
+10
+16
+0.003
+GE5E
+        -------
+5
+14
+6
+4
+7
+3.4
+17
+13
+0.005
+GE6E
+        -------
+6
+14
+6
+4
+8
+3.4
+17
+13
+0.004
+GE8E
+        -------
+8
+16
+8
+5
+10
+5.5
+27
+15
+0.008
+GE10E
+        -------
+10
+19
+9
+6
+13
+8.1
+40
+12
+0.011
+GE12E
+        -------
+12
+22
+10
+7
+15
+10
+54
+10
+0.015
+GE15ES
+GE15ES-2RS
+15
+26
+12
+9
+18
+17
+85
+8
+0.027
+GE17ES
+GE17ES-2RS
+17
+30
+14
+10
+20
+21
+106
+10
+0.041
+GE20ES
+GE20ES-2RS
+20
+35
+16
+12
+24
+30
+146
+9
+0.066
+GE25ES
+GE25ES-2RS
+25
+42
+20
+16
+29
+48
+240
+7
+0.119
+GE30ES
+GE30ES-2RS
+30
+47
+22
+18
+34
+62
+310
+6
+0.513
+GE35ES
+GE35ES-2RS
+35
+55
+25
+20
+39
+80
+400
+6
+0.233
+GE40ES
+GE40ES-2RS
+40
+62
+28
+22
+45
+100
+500
+7
+0.306
+GE45ES
+GE45ES-2RS
+45
+68
+32
+25
+50
+127
+640
+7
+0.427
+GE50ES
+GE50ES-2RS
+50
+75
+35
+28
+55
+156
+780
+6
+0.546
+GE60ES
+GE60ES-2RS
+60
+90
+44
+36
+66
+245
+1220
+6
+1.04
+GE70ES
+GE70ES-2RS
+70
+105
+49
+40
+77
+315
+1560
+6
+1.55
+GE80ES
+GE80ES-2RS
+80
+120
+55
+45
+88
+400
+2000
+6
+2.31
+GE90ES
+GE90ES-2RS
+90
+130
+60
+50
+98
+490
+2450
+5
+2.75
+GE100ES
+GE100ES-2RS
+100
+150
+70
+55
+109
+610
+3050
+7
+4.45
+GE110ES
+GE110ES-2RS
+110
+160
+70
+55
+120
+655
+3250
+6
+4.82
+GE120ES
+GE120ES-2RS
+120
+180
+85
+70
+130
+950
+4750
+6
+8.05
+GE140ES
+GE140ES-2RS
+140
+210
+90
+70
+150
+1080
+5400
+7
+11.02
+GE160ES
+GE160ES-2RS
+160
+230
+105
+80
+170
+1370
+6800
+8
+14.01
+GE180ES
+GE180ES-2RS
+180
+260
+105
+80
+192
+1530
+7650
+6
+18.65
+GE200ES
+GE200ES-2RS
+200
+290
+130
+100
+212
+2120
+10600
+7
+28.03
+GE220ES
+GE220ES-2RS
+220
+320
+135
+100
+238
+2320
+11600
+8
+35.51
+GE240ES
+GE240ES-2RS
+240
+340
+140
+100
+265
+2550
+12700
+8
+39.91
+GE260ES
+GE260ES-2RS
+260
+370
+150
+110
+285
+3050
+15300
+7
+51.54
+GE280ES
+GE280ES-2RS
+280
+400
+155
+120
+310
+3550
+18000
+6
+65.06
+GE300ES
+GE300ES-2RS
+300
+430
+165
+120
+330
+3800
+19000
+7
+78.07
+123
+Spherical Plain Bearings
+
+---
+
+Spherical Plain Bearings
+Medium (GE..) Series
+124
+GEG4E
+         ------
+4
+14
+7
+4
+7
+3.4
+17
+20
+0.005
+GEG5E
+         ------
+5
+16
+9
+5
+8
+5.5
+27
+21
+0.008
+GEG6E
+         ------
+6
+16
+9
+6
+9
+8.1
+27
+21
+0.006
+GEG8E
+         ------
+8
+19
+11
+6
+11
+8.1
+40
+21
+0.014
+GEG10E
+         ------
+10
+22
+12
+7
+13
+10
+54
+18
+0.021
+GEG12E
+         ------
+12
+26
+15
+9
+16
+17
+85
+18
+0.033
+GEG15ES
+GEG15ES-2RS
+15
+30
+16
+10
+19
+21
+106
+16
+0.049
+GEG17ES
+GEG17ES-2RS
+17
+35
+20
+12
+21
+30
+146
+19
+0.083
+GEG20ES
+GEG20ES-2RS
+20
+42
+25
+16
+24
+48
+240
+17
+0.153
+GEG25ES
+GEG25ES-2RS
+25
+47
+28
+18
+29
+62
+310
+17
+0.203
+GEG30ES
+GEG30ES-2RS
+30
+55
+32
+20
+34
+80
+400
+17
+0.304
+GEG35ES
+GEG35ES-2RS
+35
+62
+35
+22
+39
+100
+500
+16
+0.408
+GEG40ES
+GEG40ES-2RS
+40
+68
+40
+25
+44
+127
+640
+17
+0.542
+GEG45ES
+GEG45ES-2RS
+45
+75
+43
+28
+50
+156
+780
+15
+0.713
+GEG50ES
+GEG50ES-2RS
+50
+90
+56
+36
+57
+245
+1220
+17
+1.44
+GEG60ES
+GEG60ES-2RS
+60
+105
+63
+40
+67
+315
+1560
+17
+1.60
+GEG70ES
+GEG70ES-2RS
+70
+120
+70
+45
+77
+400
+2000
+16
+3.01
+GEG80ES
+GEG80ES-2RS
+80
+130
+75
+50
+87
+490
+2450
+14
+3.64
+GEG90ES
+GEG90ES-2RS
+90
+150
+85
+55
+98
+610
+3050
+15
+5.22
+GEG100ES
+GEG100ES-2RS
+100
+160
+85
+55
+110
+655
+3250
+14
+6.05
+GEG110ES
+GEG110ES-2RS
+110
+180
+100
+70
+122
+950
+4750
+12
+9.68
+GEG120ES
+GEG120ES-2RS
+120
+210
+115
+70
+132
+1080
+5400
+16
+14.72
+GEG140ES
+GEG140ES-2RS
+140
+230
+130
+80
+151
+1370
+6800
+16
+19.01
+GEG160ES
+GEG160ES-2RS
+160
+260
+135
+80
+176
+1530
+7650
+16
+20.02
+GEG180ES
+GEG180ES-2RS
+180
+290
+155
+100
+196
+2120
+10600
+14
+32.21
+GEG200ES
+GEG200ES-2RS
+200
+320
+165
+100
+220
+2320
+11600
+15
+45.28
+GEG220ES
+GEG220ES-2RS
+220
+340
+175
+100
+243
+2550
+12700
+16
+51.12
+GEG240ES
+GEG240ES-2RS
+240
+370
+190
+110
+263
+3050
+15300
+15
+65.12
+GEG260ES
+GEG260ES-2RS
+260
+400
+205
+120
+285
+3550
+18000
+15
+82.44
+GEG280ES
+GEG280ES-2RS
+280
+430
+210
+120
+310
+3800
+19000
+15
+97.21
+Dimensions (mm)
+Basic Load Rating
+Weight
+Bearing Number
+(kN)
+α°
+kg
+d
+D
+t
+C
+d1min
+Dynamic
+Static
+≈
+
+---
+
+With Wide Inner Ring
+and Fitting Crack
+GEE...
+125
+Dimensions
+Basic Load Rating
+Weight
+Bearing Number
+mm
+(kN)
+α°
+kg
+d
+D
+t
+C
+d1min
+Dynamic
+Static
+≈
+GEEW12ES*
+GEEW12ES-2RS*
+12
+22
+12
+7
+15.5
+10
+54
+4
+0.022
+GEEW15ES
+GEEW15ES-2RS
+15
+26
+15
+9
+18.5
+17
+85
+5
+0.031
+GEEW16ES
+GEEW16ES-2RS
+16
+28
+16
+9
+20
+17
+85
+4
+0.035
+GEEW17ES
+GEEW17ES-2RS
+17
+30
+17
+10
+21
+21
+106
+7
+0.044
+GEEW20ES
+GEEW20ES-2RS
+20
+35
+20
+12
+25
+30
+146
+4
+0.071
+GEEW25ES
+GEEW25ES-2RS
+25
+42
+25
+16
+30.5
+48
+240
+4
+0.131
+GEEW30ES
+GEEW30ES-2RS
+30
+47
+30
+18
+34
+62
+310
+4
+0.168
+GEEW32ES
+GEEW32ES-2RS
+32
+52
+32
+18
+37
+62
+310
+4
+0.182
+GEEW35ES
+GEEW35ES-2RS
+35
+55
+35
+20
+40
+80
+400
+4
+0.253
+GEEW40ES
+GEEW40ES-2RS
+40
+62
+40
+22
+46
+100
+500
+4
+0.338
+GEEW45ES
+GEEW45ES-2RS
+45
+68
+45
+25
+52
+127
+640
+4
+0.481
+GEEW50ES
+GEEW50ES-2RS
+50
+75
+50
+28
+57
+156
+780
+4
+0.558
+GEEW60ES
+GEEW60ES-2RS
+60
+90
+60
+36
+68
+245
+1220
+3
+1.15
+GEEW63ES
+GEEW63ES-2RS
+63
+95
+65
+36
+71.5
+245
+1220
+4
+1.23
+GEEW70ES
+GEEW70ES-2RS
+70
+105
+70
+40
+78
+315
+1560
+4
+1.71
+GEEW80ES
+GEEW80ES-2RS
+80
+120
+80
+45
+91
+400
+2000
+4
+2.39
+GEEW100ES
+GEEW100ES-2RS
+100
+150
+100
+55
+113
+610
+3050
+4
+4.80
+*A lubrication groove and holes in the outer ring only.
+Spherical Plain Bearings
+
+---
+
+Spherical Plain Bearings
+Two Piece With Two Seals
+GEK..XS-2RS
+Dimensions
+Basic Load Rating
+Weight
+Bearing Number
+mm
+kN
+α°
+kg
+d
+D
+t
+C
+d1min
+Dynamic
+Static
+≈
+126
+GEK30XS-2RS
+30
+70
+47
+32
+37.3
+163
+813
+19
+0.785
+GEK35XS-2RS
+35
+80
+54
+38
+443.5
+226
+1130
+17
+1.23
+GEK40XS-2RS
+40
+90
+64
+44
+48
+298
+1490
+19
+1.83
+GEK45XS-2RS
+45
+100
+72
+52
+54
+398
+1990
+17
+2.56
+GEK50XS-2RS
+50
+110
+80
+58
+60
+493
+2450
+17
+3.43
+GEK55XS-2RS
+55
+125
+90
+64
+63.2
+598
+2990
+19
+5.02
+GEK60XS-2RS
+60
+135
+98
+72
+69.3
+732
+3660
+17
+6.43
+With Inlaid Liner
+GEBK..S
+GEBK5S
+5
+16
+8
+6
+7.7
+2.5
+7.8
+13
+0.0085
+GEBK6S
+6
+18
+9
+6.75
+9
+3.1
+9.8
+13
+0.013
+GEBK8S
+8
+22
+12
+9
+10.4
+5.7
+16
+14
+0.024
+GEBK10S
+10
+26
+14
+10.5
+12.9
+7.8
+23
+14
+0.039
+GEBK12S
+12
+30
+16
+12
+15.4
+10.2
+31
+13
+0.058
+GEBK14S
+14
+34
+19
+13.5
+16.9
+13.4
+40
+16
+0.084
+GEBK16S
+16
+38
+21
+15
+19.4
+16.4
+50
+15
+0.111
+GEBK18S
+18
+42
+23
+16.5
+21.9
+20.3
+61
+15
+0.160
+GEBK20S
+20
+46
+25
+18
+24.4
+24
+73
+15
+0.21
+GEBK22S
+22
+50
+28
+20
+25.8
+29
+88
+15
+0.26
+GEBK25S
+25
+56
+31
+22
+29.6
+36
+110
+15
+0.39
+GEBK30S
+30
+66
+37
+25
+34.8
+48
+148
+17
+0.61
+Dimensions
+Basic Load Rating
+Weight
+Bearing Number
+mm
+kN
+α°
+kg
+d
+D
+t
+C
+d1min
+Dynamic
+Static
+≈
+
+---
+
+In Inch Dimensions
+With Fitting Crack
+GEZ..ES, GEZ..ES-2RS
+GEZ12ES
+         ------
+12.7
+22.225
+11.1
+9.525
+14.1
+13.7
+41.5
+6
+0.022
+GEZ15ES
+         ------
+15.875
+26.988
+13.894
+11.913
+18.3
+22.0
+65.5
+6
+0.036
+GEZ19ES
+GEZ19ES-2RS
+19.05
+31.75
+16.662
+14.275
+21.8
+31.5
+95.0
+6
+0.053
+GEZ22ES
+GEZ22ES-2RS
+22.225
+36.513
+19.431
+16.662
+25.4
+42.5
+127
+6
+0.085
+GEZ25ES
+GEZ25ES-2RS
+25.4
+41.275
+22.225
+19.05
+27.6
+56.0
+166
+6
+0.121
+GEZ31ES
+GEZ31ES-2RS
+31.75
+50.8
+27.762
+23.8
+36.0
+86.5
+260
+6
+0.232
+ GEZ34ES
+GEZ34ES-2RS
+34.925
+55.563
+30.15
+26.187
+38.6
+102
+310
+6
+0.351
+GEZ38ES
+GEZ38ES-2RS
+38.1
+61.913
+33.325
+28.575
+41.2
+125
+375
+6
+0.422
+GEZ44ES
+GEZ44ES-2RS
+44.45
+71.438
+38.887
+33.325
+50.7
+170
+510
+6
+0.671
+ GEZ50ES
+GEZ50ES-2RS
+50.8
+80.963
+44.45
+38.1
+57.9
+224
+670
+6
+0.932
+GEZ57ES
+GEZ57ES-2RS
+57.15
+90.488
+50.013
+42.85
+64.9
+280
+850
+6
+1.33
+GEZ63ES
+GEZ63ES-2RS
+63.5
+100.013
+55.55
+47.625
+73.3
+355
+1060
+6
+1.85
+ GEZ69ES
+GEZ69ES-2RS
+69.85
+111.125
+61.112
+52.375
+79.1
+415
+1250
+6
+2.42
+GEZ76ES
+GEZ76ES-2RS
+76.2
+120.65
+66.675
+57.15
+86.8
+500
+1500
+6
+3.10
+GEZ82ES
+GEZ82ES-2RS
+82.55
+130.175
+72.238
+61.9
+94.5
+585
+1760
+6
+3.82
+ GEZ88ES
+GEZ88ES-2RS
+88.9
+139.7
+77.775
+66.675
+101.6
+680
+2040
+6
+4.79
+GEZ95ES
+GEZ95ES-2RS
+95.25
+149.225
+83.337
+71.425
+108.7
+780
+2360
+6
+5.78
+GEZ101ES
+GEZ101ES-2RS
+101.6
+158.75
+88.9
+76.2
+115.8
+900
+2650
+6
+6.99
+ GEZ107ES
+GEZ107ES-2RS
+107.95
+168.275
+94.463
+80.95
+122.8
+1000
+3000
+6
+8.41
+GEZ114ES
+GEZ114ES-2RS
+114.3
+177.8
+100.013
+85.725
+130.6
+1120
+3400
+6
+9.79
+GEZ120ES
+GEZ120ES-2RS
+120.65
+187.325
+105.562
+90.475
+137.6
+1250
+3750
+6
+11.5
+ GEZ127ES
+GEZ127ES-2RS
+127
+196.85
+111.125
+95.25
+145.3
+1400
+4150
+6
+13.5
+GEZ152ES
+GEZ152ES-2RS
+152.4
+222.25
+120.65
+104.775
+168.2
+1730
+5200
+5
+17.5
+Dimensions
+Basic Load Rating
+Weight
+Bearing Number
+mm
+(kN)
+α°
+kg
+d
+D
+t
+C
+d1min
+Dynamic
+Static
+≈
+127
+Spherical Plain Bearings
+
+---
+
+Spherical Plain Bearings
+GE12XS/K
+12
+22
+11
+9
+14
+12.9
+39.2
+7
+0.019
+GE15XS/K
+15
+26
+13
+11
+17.5
+19.5
+57.8
+6
+0.028
+GE20XS/K
+20
+32
+16
+14
+23
+31.3
+94.8
+4
+0.053
+GE22XS/K
+22
+37
+19
+16
+25.5
+40.3
+122
+6
+0.085
+GE25XS/K
+25
+42
+21
+18
+29
+51.1
+155
+5
+0.116
+GE30XS/K
+30
+50
+27
+23
+36
+81.2
+248
+6
+0.225
+GE35XS/K
+35
+55
+30
+26
+40
+103
+314
+5
+0.302
+GE40XS/K
+40
+62
+33
+28
+44
+122
+370
+6
+0.375
+GE45XS/K
+45
+72
+36
+31
+50.5
+152
+461
+5
+0.598
+GE50XS/K
+50
+80
+42
+36
+58.5
+225
+622
+5
+0.869
+GE55XS/K
+55
+90
+47
+40
+64.5
+253
+768
+6
+1.26
+GE60XS/K
+60
+100
+53
+45
+72.5
+321
+980
+6
+1.72
+GE65XS/K
+65
+105
+55
+47
+76
+350
+1060
+5
+2.05
+GE70XS/K
+70
+110
+58
+50
+81.5
+396
+1220
+5
+2.23
+GE75XS/K
+75
+120
+64
+55
+89.5
+478
+1450
+5
+3.01
+GE80XS/K
+80
+130
+70
+60
+97.5
+571
+1730
+5
+3.98
+GE85XS/K
+85
+135
+74
+63
+100.5
+624
+1890
+6
+4.31
+GE90XS/K
+90
+140
+796
+65
+105.5
+670
+2030
+5
+4.72
+GE95XS/K
+95
+150
+82
+70
+113.5
+776
+2350
+5
+6.05
+GE100XS/K
+100
+160
+88
+75
+121.5
+891
+2700
+5
+7.43
+GE110XS/K
+110
+170
+93
+80
+130
+1010
+3070
+5
+8.54
+GE115XS/K
+115
+180
+98
+85
+132.5
+1110
+3370
+5
+10.3
+GE120XS/K
+120
+190
+105
+90
+140
+1250
+3780
+6
+12.4
+GE130XS/K
+130
+200
+110
+95
+148.5
+1390
+4220
+5
+13.8
+GE150XS/K
+150
+220
+120
+105
+166
+1710
+5170
+5
+17.1
+Dimensions
+Basic Load Rating
+Weight
+Bearing Number
+mm
+kN
+α°
+kg
+d
+D
+t
+C
+d1min
+Dynamic
+Static
+≈
+With Two Piece
+GE..XS/K
+128
+
+---
+
+Wide Inner Ring
+And Fitting Crack
+With Two Piece
+Dimensions
+Basic Load Rating
+Weight
+Bearing Number
+mm
+kN
+α°
+kg
+d
+D
+t
+C
+d1min
+Dynamic
+Static
+≈
+Normal Series
+GE220XS
+220
+320
+135
+100
+238
+2320
+11600
+8
+35.5
+GE240XS
+240
+340
+140
+100
+265
+2550
+12700
+8
+40
+GE260XS
+260
+370
+150
+110
+285
+3050
+15300
+7
+50
+GE280XS
+280
+400
+155
+120
+310
+3550
+18000
+6
+64
+GE300XS
+300
+430
+165
+120
+330
+3800
+19000
+7
+75
+Series C
+GEC320XS
+320
+440
+160
+135
+340
+4400
+22000
+4
+77
+GEC340XS
+340
+460
+160
+135
+360
+4650
+23200
+3
+82
+GEC360XS
+360
+480
+160
+135
+380
+4800
+24000
+3
+88
+GEC380XS
+380
+520
+190
+160
+400
+6300
+31500
+4
+127
+GEC400XS
+400
+540
+190
+160
+425
+6550
+32500
+3
+132
+GEC420XS
+420
+560
+190
+160
+445
+6800
+34500
+3
+145
+Series GEEM
+GEEM20ES-2RS
+20
+35
+24
+12
+24
+30
+146
+6
+0.073
+GEEM25ES-2RS
+25
+42
+29
+16
+29
+48
+240
+4
+0.13
+GEEM30ES-2RS
+30
+47
+30
+16
+34
+62
+310
+4
+0.17
+GEEM35ES-2RS
+35
+55
+35
+20
+40
+80
+400
+4
+0.25
+GEEM40ES-2RS
+40
+62
+38
+22
+45
+100
+500
+4
+0.35
+GEEM45ES-2RS
+45
+68
+40
+25
+52
+127
+640
+4
+0.49
+GEEM50ES-2RS
+50
+72
+43
+28
+57
+156
+780
+4
+0.60
+GEEM60ES-2RS
+60
+90
+54
+36
+68
+245
+1220
+3
+1.15
+GEEM70ES-2RS
+70
+105
+65
+40
+78
+315
+1560
+4
+1.65
+GEEM80ES-2RS
+80
+120
+74
+45
+90
+400
+2000
+4
+2.50
+129
+Spherical Plain Bearings
+
+---
+
+Spherical Plain Bearings
+130
+Angular Contact Spherical
+Plain Bearings
+GAC..S
+Dimensions (mm)
+Rating Load
+Weight
+Bearing
+kN
+α°
+kg
+Number
+d
+D
+t
+C
+T
+d1
+S
+Dynamic
+Static
+≈
+GAC25S
+25
+47
+15
+14
+15
+42
+0.6
+47.5
+236
+3.5
+0.148
+GAC30S
+30
+55
+17
+15
+17
+49.5
+1.3
+63
+315
+3
+0.208
+GAC35S
+35
+62
+18
+16
+18
+55.5
+2.1
+76.5
+390
+3
+0.268
+GAC40S
+40
+68
+19
+17
+19
+62
+2.8
+90
+450
+3
+0.327
+GAC45S
+45
+75
+20
+18
+20
+68.5
+3.5
+106
+530
+3
+0.416
+GAC50S
+50
+80
+20
+19
+20
+74
+4.3
+118
+585
+3
+0.455
+GAC60S
+60
+95
+23
+21
+23
+88.5
+5.7
+160
+800
+3
+0.714
+GAC70S
+70
+110
+25
+23
+25
+102
+7.2
+208
+1040
+2.5
+1.04
+GAC80S
+80
+125
+29
+25.5
+29
+115
+8.6
+250
+1250
+2.5
+1.54
+GAC90S
+90
+140
+32
+28
+32
+128.5
+10.1
+320
+1600
+2.5
+2.09
+GAC100S
+100
+150
+32
+31
+32
+141
+11.6
+345
+1760
+2
+2.34
+GAC110S
+110
+170
+38
+34
+38
+155
+13
+475
+2360
+2
+3.68
+GAC120S
+120
+180
+38
+37
+38
+168
+14.5
+510
+2550
+2
+3.97
+Spherical Plain
+Thrust Bearings
+GX..S
+GX10S
+10
+30
+9.5
+7.5
+7
+32
+15.5
+27.5
+7
+24
+120
+9
+0.036
+GX12S
+12
+35
+13
+9.5
+9.3
+38
+18
+32
+8
+32.5
+163
+8
+0.072
+GX15S
+15
+42
+15
+11
+10.8
+46
+22.5
+39
+10
+52
+260
+8
+0.108
+GX17S
+17
+47
+16
+11.8
+11.2
+52
+27
+43.5
+11
+58.5
+300
+10
+0.137
+GX20S
+20
+55
+20
+14.5
+13.8
+60
+31
+50
+12.5
+75
+375
+9
+0.246
+GX25S
+25
+62
+22.5
+16.5
+16.7
+68
+34.5
+58.5
+14
+129
+640
+7
+0.415
+GX30S
+30
+75
+26
+19
+19
+82
+42
+70
+17.5
+170
+850
+7
+0.614
+GX35S
+35
+90
+28
+22
+20.7
+98
+50.5
+84
+22
+260
+1290
+8
+0.973
+GX40S
+40
+105
+32
+27
+21.5
+114
+59
+97
+24.5
+375
+1860
+9
+1.59
+GX45S
+45
+120
+36.5
+31
+25.5
+128
+67
+110
+27.5
+490
+2450
+9
+2.24
+GX50S
+50
+130
+42.5
+33
+30.5
+139
+70
+120
+30
+655
+3250
+7
+3.14
+GX60S
+60
+150
+45
+37
+34
+160
+84
+140
+35
+735
+3650
+8
+4.63
+GX70S
+70
+160
+50
+42
+36.5
+176
+94.5
+153
+35
+800
+4050
+8
+5.37
+GX80S
+80
+180
+50
+43.5
+38
+197
+107.5
+172
+42.5
+1040
+5200
+8
+6.91
+GX100S
+100
+210
+59
+51
+46
+222
+127
+198
+45
+1200
+6000
+8
+10.98
+GX120S
+120
+230
+64
+53.5
+50
+250
+145
+220
+52.5
+1250
+6200
+6
+13.97
+Dimensions (mm)
+Basic Load Rating
+Weight
+Bearing
+(kN)
+α°
+kg
+Number
+d
+D
+t
+B
+C
+d1
+d2
+D1
+S
+Dynamic
+Static
+≈
+
+---
+
+DU Bushings
+Dimensions of Thickness for MB..... DU series
+Bushing normal I.D.
+Over
+Or under
+ø3
+ø18
+ø18
+ø25
+ø25
+ø40
+ø40
+ø60
+ø60
+ø160
+Thickness T
+1.0
+0
+– 0.025
+1.5
+0
+– 0.030
+2.0
+0
+– 0.030
+2.5
+0
+– 0.040
+2.47
+0
+– 0.050
+Dry Bushings
+FEATURES
+1.
+The bearing surfaces have such low coefficients
+of static and dynamic friction that they require no
+lubrication.
+DU bearings can also be used in lubricants.
+2.
+The operating temperature range extends from -
+200ºC to 280ºC.
+3.
+DU bearings operate smoothly under loads which
+exert high levels of resistance, impact, intermittent
+motion, and thrust.
+4.
+DU bearings are free from electrostatic induction.
+When installed, each DU bearing has an electrical
+resistance of 1Ω to 10Ω per 1 cm2 wide contact
+area.)
+5.
+The bearing surface is highly resistant to most
+industrial chemicals and solvents including gas,
+oil, and alcohol.
+Smooth, Oilless Operation
+The Dry Bushing (or DU bushing) is the ultimate in
+oilless 
+bearing 
+design, 
+using 
+lead 
+and
+tetrafluoroethylene (Teflon) having excellent wear
+resistance which optimizes metal properties such as
+strength and dimensional stability.
+Coefficients of static and dynamic friction are so small
+that the bearing surfaces run smoothly without
+lubrication, while at the same time eliminating sticking
+and slipping. Unlike regular bearings which require
+constant lubrication, the DU type does away with the
+need for costly maintenance. It is also possible to
+combine them with parts totally submerged in a
+lubricant.
+131
+Design
+Bronze
+Steel Outer Surface
+Mixture of Polyteflon
+6.
+The mating surface (mounting shaft) is wear
+resistant.
+7.
+Service life is extended.
+8.
+DU bearings are light and thin (up to 3 mm thick),
+requering little  space and permit compact
+equipment design.
+9.
+DU bearings minimize operating noise.
+10. Standard DU bearings are available for quick
+delivery.
+Non-standard DU bearings can be made to order.
+DU Bushings
+Characteristics
+Product
+Name
+Specific
+Load
+kgf/cm2
+Max Normal
+Max
+Normal
+Max Min
+Min
+Normal
+DU
+0.03
+0.04
+Dust
+Dry
+1400
+500 or
+60
+15 or
+280
+200 (P270)
+~
+ intrusion
+Bearing
+Under
+Under
+Varies
+0.2
+shall be
+by PV
+ minimized.
+ Value
+Slide Speed
+m/min
+Operating
+Temp.
+Range ºC
+Tolerance
+of Foreign
+Particles
+Friction
+Coefficient
+µ
+
+---
+
+132
+DU Bushing
+DU Bushings
+Bushing
+I.D.
+Tolerances
+Housing
+Shaft
+3
+4
+5
+6
+7
+8
+10
+12
+15
+Dia.
+Dia.
+Bushing Number and Bushing Length (mm)
+3
+5H7 +0.012
+3 - 0.025
+MB0303DU
+MB0304DU
+MB0305DU
+MB0306DU
+0
+- 0.035
+65
+70 ”
+65 + 0.035
++ 0.005
+60
+65 ”
+60 ”
+55
+60 ”
+55 - 0.025
+- 0.055
+50
+55H7 +0.030
+50 ”
+0
+45
+50 ”
+45 ”
+40
+44 ”
+40 ”
+MB4012DU
+MB4015DU
+38
+42 ”
+38 ”
+35
+39 ”
+35 ”
+MB3512DU
+32
+36 ”
+32 ”
+31
+35 ”
+31 - 0.025
+MB3115DU
+- 0.050
+30
+34 ”
+30 ”
+MB3012DU
+MB3015DU
+28
+32H7 +0.025
+28 ”
+MB2812DU
+MB2815DU
+0
+26
+30 ”
+26 ”
+MB2615DU
+25
+28 ”
+25 ”
+MB2510DU
+MB2512DU
+MB2515DU
+24
+27 ”
+24 ”
+MB2415DU
+22
+25 ”
+22 ”
+MB2210DU
+MB2212DU
+MB2215DU
+20
+23 ”
+20 ”
+MB2010DU
+MB2012DU
+MB2015DU
+19
+22 ”
+19
+-0.025
+MB1910DU
+MB1915DU
+-0.046
+18
+20 ”
+18 ”
+MB1810DU
+MB1812DU
+MB1815DU
+17
+19H7 +0.021
+17 ”
+MB1715DU
+0
+16
+18 ”
+16 ”
+MB1610DU
+MB1612DU
+MB1615DU
+15
+17 ”
+15 ”
+MB1508DU
+MB1510DU
+MB1512DU
+MB1515DU
+14
+16 ”
+14 ”
+MB1410DU
+MB1412DU
+MB1415DU
+13
+15 ”
+13 ”
+MB1308DU
+MB1310DU
+MB1315DU
+9
+11H7 +0.018
+9 ”
+MB0910DU
+0
+8
+10 ”
+8 ”
+MB0805DU
+MB0806DU
+MB0807DU
+MB0808DU
+MB0810DU
+MB0821DU
+7
+9 ”
+7 - 0.025
+MB0705DU
+MB0707DU
+MB0710DU
+MB0712DU
+- 0.040
+4
+6 ”
+4 - 0.025
+MB0404DU
+MB0406DU
+MB0408DU
+0.037
+12
+14 ”
+12 - 0.025
+MB1206DU
+MB1208DU
+MB1210DU
+MB1212DU
+MB1215DU
+- 0.043
+70
+75 ”
+70 ”
+80
+85H7 +0.035
+80 ”
+0
+85
+90 ”
+85 + 0.035
+0
+75
+80 ”
+75 ”
+90
+95 ”
+90 ”
+100
+105 ”
+100 ”
+110
+115 ”
+110 ”
+120 125H7 +0.040 120 ”
+0
+130
+135 ”
+130 + 0.035
+0.005
+140
+145 ”
+140 ”
+150
+155 ”
+150 ”
+160
+165 ”
+160 ”
+Note 1. For standard bushing, min. clearance is 0.025mm.
+5
+7H7 +0.015
+5 ”
+MB0504DU
+MB0505DU
+MB0506DU
+MB0508DU
+0
+6
+8 ”
+6 ”
+MB0605DU
+MB0606DU
+MB0607DU
+MB0608DU
+MB0610DU
+10
+12 ”
+10 ”
+MB1006DU
+MB1007DU
+MB1008DU
+MB1010DU
+MB1012DU
+MB1015DU
+
+---
+
+133
+20
+25
+30
+35
+40
+50
+60
+70
+80
+90
+95
+100
+Bushing Number and Bushing Length (mm)
+MB1020DU
+MB1220DU
+MB1420DU
+MB1520DU MB1525DU
+MB1620DU MB1625DU
+MB1820DU MB1825DU
+MB2020DU
+MB2025DU MB2030DU
+MB2220DU
+MB2225DU
+MB2420DU
+MB2425DU MB2430DU
+MB2520DU
+MB2525DU MB2530DU
+MB2535DU
+MB2620DU
+MB2630DU
+MB2820DU
+MB2825DU MB2830DU
+MB3020DU
+MB3025DU MB3030DU
+MB3035DU MB3040DU
+MB3125DU
+MB3140DU
+MB3220DU MB3225DU MB3230DU
+MB3240DU
+MB3520DU MB3525DU MB3530DU
+MB3535DU MB3540DU
+MB3550DU
+MB3820DU MB3825DU MB3830DU
+MB3835DU MB3840DU
+MB4020DU MB4025DU MB4030DU
+MB4035DU MB4040DU
+MB4050DU
+MB4520DU MB4525DU MB4530DU
+MB4535DU MB4540DU
+MB4550DU
+MB5020DU MB5025DU MB5030DU
+MB5035DU MB5040DU
+MB5050DU MB5060DU
+MB5525DU MB5530DU
+MB5535DU MB5540DU
+MB5550DU MB5560DU
+MB6030DU
+MB6035DU MB6040DU
+MB6060DU
+MB6530DU
+MB6540DU
+MB6550DU MB6560DU
+MB7030DU
+MB7035DU MB7040DU
+MB7050DU MB7060DU
+MB7080DU
+MB7530DU
+MB7535DU MB7540DU
+MB7550DU MB7560DU
+MB7580DU
+MB8040DU
+MB8050DU MB8060DU
+MB8080DU
+MB8540DU
+MB8550DU MB8560DU
+MB8580DU
+MB9040DU
+MB9060DU
+MB9090DU
+MB10050DU
+MB10070DU
+MB10095DU
+MB11050DU
+MB11070DU
+MB11095DU
+MB12050DU
+MB12070DU
+MB12095DU
+MB13050DU
+MB13080DU
+MB14050DU
+MB14080DU
+MB140100DU
+MB15050DU
+MB15080DU
+MB150100DU
+MB16050DU
+MB16080DU
+MB160100DU
+DU Bushing
+DU Bushings
+
+---
+
+134
+DU Bushing-Flanged
+3
+7
+4.6H7 + 0.012
+3 - 0.025
+MB0303-7FDU
+0
+- 0.035
+4
+9
+5.6
+4 - 0.025
+MB0404-9FDU
+- 0.037
+5
+10
+7H7 + 0.015
+5
+MB0504-10FDU
+MB0505-10FDU
+0
+6
+12
+8
+6
+MB0605-12FDU
+MB0606-12FDU
+MB0607-12FDU
+7
+13
+9
+7 - 0.025
+MB0705-13FDU
+MB0707-13FDU
+- 0.040
+8
+15
+10
+8
+MB0806-15FDU
+10
+18
+12H7 + 0.018
+10
+MB1006-18FDU
+MB1007-18FDU
+0
+12
+20
+14
+12 - 0.025
+MB1206-20FDU
+- 0.430
+14
+22
+16
+14
+15
+23
+17
+15
+16
+24
+18
+16
+18
+26
+20H7 + 0.021
+18
+0
+20
+31
+23
+20 - 0.025
+- 0.046
+22
+33
+25
+22
+24
+35
+27
+24
+25
+36
+28
+25
+26
+38
+30
+26
+28
+40
+32H7 + 0.025
+28
+0
+30
+42
+34
+30
+31
+45
+35
+31 - 0.025
+- 0.050
+32
+46
+36
+32
+35
+49
+39
+35
+38
+52
+42
+38
+40
+54
+44
+40
+45
+60
+50
+45
+50
+65
+55H7 + 0.030
+50
+0
+55
+70
+60
+55 - 0.025
+- 0.055
+60
+75
+65
+60
+Bushing
+Tolerances
+I.D.
+Flanged
+Housing
+Shaft Dia.
+Bushing T1
+Flanged T2
+3
+4
+5
+6
+7
+O.D.
+Dia.
+Bushing Number and Bushing Length (mm)
+0.8
+0
+0.8
+0
+- 0.25
+- 0.15
+Thickness
+1.0
+0
+1.0
+0
+- 0.25
+- 0.15
+1.5
+0
+1.5
+0
+- 0.030
+- 0.15
+2.0
+0
+2.0
+0
+- 0.030
+- 0.15
+2.5
+0
+2.5
+0
+- 0.040
+- 0.15
+DU Bushings
+
+---
+
+DU Bushing-Flanged
+Bushings of O.D. 10mm or
+under or bushing length 7mm
+or under are not chamfered.
+8
+10
+12
+15
+20
+25
+30
+40
+50
+60
+MB0608-12FDU
+MB0610-12FDU
+MB0710-13FDU MB0712-13FDU
+MB0808-15FDU
+MB0810-15FDU MB0812-15FDU
+MB1008-18FDU
+MB1010-18FDU MB1012-18FDU MB1015-18FDU
+MB1208-20FDU
+MB1210-20FDU MB1212-20FDU MB1215-20FDU MB1220-20FDU
+MB1410-22FDU MB1412-22FDU MB1415-22FDU MB1420-22FDU
+MB1510-12FDU MB1512-23FDU MB1515-23FDU MB1520-23FDU
+MB1525-23FDU
+MB1610-24FDU MB1612-24FDU MB1615-24FDU MB1620-24FDU
+MB1625-24FDU
+MB1810-26FDU MB1812-26FDU MB1815-26FDU MB1820-26FDU
+MB1825-26FDU
+MB2010-31FDU MB2012-21FDU MB2015-31FDU MB2020-31FDU
+MB2025-31FDU MB2030-31FDU
+MB2210-33FDU MB2212-33FDU MB2215-33FDU MB2220-33FDU
+MB2225-33FDU
+MB2415-35FDU MB2420-35FDU
+MB2425-35FDU MB2430-35FDU
+MB2510-36FDU MB2512-36FDU MB2515-36FDU MB2520-36FDU
+MB2525-36FDU MB2530-36FDU
+MB2615-38FDU MB2620-38FDU
+MB2812-40FDU MB2815-40FDU MB2820-40FDU
+MB2830-40FDU
+MB3012-42FDU MB3015-42FDU MB3020-42FDU
+MB3025-42FDU MB3030-42FDU
+MB3040-42FDU
+MB3125-45FDU
+MB3220-46FDU
+MB3225-46FDU MB3230-46FDU
+MB3512-49FDU
+MB3520-49FDU
+MB3525-49FDU MB3530-49FDU
+MB3540-49FDU MB3550-49FDU
+MB3820-52FDU
+MB3830-52FDU
+MB3840-52FDU
+MB4012-54FDU
+MB4020-54FDU
+MB4025-54FDU MB4030-54FDU
+MB4040-54FDU MB4050-54FDU
+MB4520-60FDU
+MB4525-60FDU MB4530-60FDU
+MB4540-60FDU MB4550-60FDU
+MB5020-65FDU
+MB5030-65FDU
+MB5040-65FDU
+MB5060-65FDU
+MB5530-70FDU
+MB5540-70FDU
+MB5560-70FDU
+MB6030-75FDU
+MB6040-75FDU
+MB6060-75FDU
+Bushing Number and Bushing Length (mm)
+135
+DU Bushings
+
+---
+
+Ball Transfer
+Dimensions
+Load (N)
+Bearing
+Equivalent         BALL DIA  d
+D
+D1
+e
+W
+T
+Load
+Load
+Weight
+Number
+Number
+Up
+Down
+(g)
+inch
+mm
+mm
+mm
+mm
+mm
+mm
+C8-Y
+BT254-1 or
+1
+25.4
+42.0
+70.0
+56.0
+50.8
+30.5
+540
+250
+140
+PCP254B
+Deep Groove Ball Bearing
+136
+
+---
+
+With Lock Nuts and Lock Washer
+Series H 200 / HE 200
+HS 200 / HA 200
+H
+205X
+HE
+205
+         –
+          –
+20
+3/4
+–
+–
+26
+38
+8
+0.070
+06X
+06
+         –
+HA
+206
+25
+1
+–
+15/16
+27
+45
+8
+0.099
+07X
+         –
+HS
+207
+07
+30
+–
+11/8
+13/16
+29
+52
+9
+0.125
+H
+208X
+HE
+208
+HS
+208
+          –
+35
+11/4
+13/8
+–
+31
+58
+10
+0.174
+09X
+09
+09
+HA
+209
+40
+11/2
+15/8
+17/16
+33
+65
+11
+0.226
+10X
+10
+         –
+10
+45
+13/4
+–
+111/16
+35
+70
+12
+0.274
+H
+211X
+HE
+211
+HS
+211
+HA
+211
+50
+2
+17/8
+115/16
+37
+75
+12
+0.308
+12X
+         –
+12
+          –
+55
+–
+21/8
+–
+38
+80
+13
+0.346
+13X
+13
+13
+13
+60
+21/4
+23/8
+23/16
+40
+85
+14
+0.401
+H
+214X
+         –
+         –
+          –
+60
+–
+–
+–
+41
+92
+14
+0.550
+15X
+HE
+215
+HS
+215
+HA
+215
+65
+21/2
+25/8
+27/16
+43
+98
+15
+0.708
+16X
+16
+         –
+16
+70
+23/4
+–
+211/16
+46
+105
+17
+0.881
+H
+217X
+HE
+217
+HE
+217
+HE
+217
+75
+3
+27/8
+215/16
+50
+110
+18
+1.02
+18X
+         –
+18
+          –
+80
+–
+31/8
+–
+52
+120
+18
+1.18
+19X
+19
+         –
+          –
+85
+31/4
+–
+–
+55
+125
+19
+1.37
+H
+220X
+HE
+220
+         –
+          –
+90
+31/2
+–
+–
+58
+130
+20
+1.49
+21X
+         –
+         –
+          –
+95
+–
+–
+–
+60
+140
+20
+1.70
+22X
+22
+         –
+          –
+100
+4
+–
+–
+63
+145
+21
+1.93
+d1
+H
+HE
+HS
+(HA)
+H mm
+HEin.
+HSin. HAin.
+Adapter Sleeve Number
+L
+D3
+C
+Weight
+mm
+mm
+mm
+(kg)
+Dimensions
+Adapter Sleeve
+137
+
+---
+
+Adapter Sleeve
+Series
+H 300 / HE 300/ HS 300 / HA 300
+138
+H
+305X
+HE
+305
+         –
+        –
+20
+3/4
+–
+–
+29
+38
+8
+0.075
+06X
+06
+         –
+HA
+306
+25
+1
+–
+15/16
+31
+45
+8
+0.109
+07X
+         –
+HS
+307
+07
+30
+–
+11/8
+13/16
+35
+52
+9
+0.142
+H
+308X
+HE
+308
+HS
+308
+        –
+35
+11/4
+13/8
+–
+36
+58
+10
+0.189
+09X
+09
+09
+HA
+309
+40
+11/2
+15/8
+17/16
+39
+65
+11
+0.248
+10X
+10
+         –
+10
+45
+13/4
+–
+111/16
+42
+70
+12
+0.302
+H
+311X
+HE
+311
+HS
+311
+HA
+311
+50
+2
+17/8
+115/16
+45
+75
+12
+0.345
+12X
+         –
+12
+        –
+55
+–
+21/8
+–
+47
+80
+13
+0.393
+13X
+13
+13
+13
+60
+21/4
+23/8
+23/16
+50
+85
+14
+0.459
+H
+314X
+         –
+         –
+        –
+60
+–
+–
+–
+52
+92
+14
+0.723
+15X
+HE
+315
+HS
+315
+HA
+315
+65
+21/2
+25/8
+27/16
+55
+98
+15
+0.830
+16X
+16
+         –
+16
+70
+23/4
+–
+211/16
+59
+105
+17
+1.03
+H
+317X
+HE
+317
+HE
+317
+HE
+317
+75
+3
+27/8
+215/16
+63
+110
+18
+1.18
+18X
+         –
+18
+        –
+80
+–
+31/8
+–
+65
+120
+18
+1.37
+19X
+19
+         –
+        –
+85
+31/4
+–
+–
+68
+125
+19
+1.56
+H
+320X
+HE
+320
+         –
+        –
+90
+31/2
+–
+–
+71
+130
+20
+1.69
+21X
+         –
+         –
+        –
+95
+–
+–
+–
+74
+140
+20
+1.93
+22X
+22
+         –
+        –
+100
+4
+–
+–
+77
+145
+21
+2.18
+d1
+H
+HE
+HS
+(HA)
+H mm
+HEin.
+HSin. HAin.
+Adapter Sleeve Number
+L
+D3
+C
+Weight
+mm
+mm
+mm
+(kg)
+Dimensions
+
+---
+
+Series
+H 2300 / HE 2300 /
+HS 2300 / HA 2300
+H
+2305X
+HE
+2305            –
+         –
+20
+3/4
+–
+–
+35
+38
+8
+–
+0.087
+06X
+06            –
+HA
+2306
+25
+1
+–
+15/16
+38
+45
+8
+–
+0.126
+07X
+         –
+HS
+2307
+07
+30
+–
+11/8
+13/16
+43
+52
+9
+–
+0.165
+H
+2308X
+HE
+2308
+HS
+2308
+         –
+35
+11/4
+13/8
+–
+46
+58
+10
+–
+0.224
+09X
+09
+09
+HA
+2309
+40
+11/2
+15/8
+17/16
+50
+65
+11
+–
+0.280
+10X
+10            –
+10
+45
+13/4
+–
+111/16
+55
+70
+12
+–
+0.362
+H
+2311X
+HE
+2311
+HS
+2311
+HA
+2311
+50
+2
+17/8
+115/16
+59
+75
+12
+–
+0.420
+12X
+         –
+12
+         –
+55
+–
+21/8
+–
+62
+80
+13
+–
+0.480
+13X
+13
+13
+13
+60
+21/4
+23/8
+23/16
+65
+85
+14
+–
+0.556
+H
+2314X
+         –
+           –
+         –
+60
+–
+–
+–
+68
+92
+14
+–
+0.897
+15X
+HE
+2315
+HS
+2315
+HA
+2315
+65
+21/2
+25/8
+27/16
+73
+98
+15
+–
+1.05
+16X
+16            –
+16
+70
+23/4
+–
+211/16
+78
+105
+17
+–
+1.28
+H
+2317X
+HE
+2317
+HE
+2317
+HE
+2317
+75
+3
+27/8
+215/16
+82
+110
+18
+–
+1.45
+18X
+         –
+18
+         –
+80
+–
+31/8
+–
+86
+120
+18
+–
+1.70
+19X
+19            –
+         –
+85
+31/4
+–
+–
+90
+125
+19
+–
+1.94
+H
+2320X
+HE
+2320            –
+         –
+90
+31/2
+–
+–
+97
+130
+20
+–
+2.15
+         –
+           –
+         –
+–
+–
+–
+–
+–
+–
+–
+–
+–
+22X
+22            –
+         –
+100
+4
+–
+–
+105
+145
+21
+–
+2.74
+H
+2324X
+HE
+2324            –
+         –
+110
+41/4
+–
+–
+112
+155
+22
+–
+3.20
+26X
+26            –
+         –
+115
+41/2
+–
+–
+121
+165
+23
+–
+4.60
+28X
+28            –
+         –
+125
+5
+–
+–
+131
+180
+24
+–
+5.52
+H
+2330X
+HE
+2330            –
+         –
+135
+51/4
+–
+–
+139
+195
+26
+–
+6.60
+32X
+32            –
+         –
+140
+51/2
+–
+–
+147
+210
+28
+–
+9.15
+32X
+34            –
+         –
+150
+6
+–
+–
+154
+220
+29
+–
+10.4
+H
+2336X
+HE
+2336            –
+         –
+160
+61/2
+–
+–
+161
+230
+30
+–
+11.3
+38X
+38            –
+         –
+170
+63/4
+–
+–
+169
+240
+31
+–
+12.6
+40X
+40            –
+         –
+180
+7
+–
+–
+176
+250
+32
+–
+13.9
+H
+2344X
+         –
+           –
+         –
+200
+–
+–
+–
+183
+280
+32
+44
+16.6
+48X
+    –   –
+           –
+         –
+220
+–
+–
+–
+196
+300
+34
+46
+19.7
+52X
+         –
+           –
+         –
+240
+–
+–
+–
+208
+330
+36
+49
+24.2
+H
+2356X
+         –
+           –
+         –
+260
+–
+–
+–
+221
+350
+38
+51
+27.8
+d1
+H
+HE
+HS
+(HA)
+H mm
+HEin.
+HSin. HAin.
+Adapter Sleeve Number
+L
+D3
+C
+C1
+Weight
+mm
+mm
+mm
+mm
+(kg)
+Dimensions
+139
+With Lock Washer
+With Lock Plate
+Adapter Sleeve
+
+---
+
+Adapter Sleeve
+Series H 3000 / HE 3000
+140
+H
+3024 X
+HE
+3024
+110
+41/4
+72
+145
+22
+–
+1.96
+26
+26
+115
+41/2
+80
+155
+23
+–
+2.85
+28
+28
+125
+5
+82
+165
+24
+–
+3.18
+H
+3030
+HE
+3030
+135
+51/4
+87
+180
+26
+–
+3.90
+32
+32
+140
+51/2
+93
+190
+28
+–
+5.20
+34
+34
+150
+6
+101
+200
+29
+–
+6.00
+H
+3036
+HE
+3036
+160
+61/2
+109
+210
+30
+–
+6.85
+38
+38
+170
+63/4
+112
+220
+31
+–
+7.45
+40
+40
+180
+7
+120
+240
+32
+–
+9.20
+H
+3044
+          –
+200
+–
+128
+260
+30
+41
+10.3
+48
+          –
+220
+–
+133
+290
+34
+46
+13.4
+52
+          –
+240
+–
+147
+300
+34
+46
+15.6
+H
+3056
+          –
+260
+–
+152
+330
+38
+50
+17.7
+60
+          –
+280
+–
+168
+360
+42
+54
+22.8
+64
+          –
+300
+–
+171
+380
+42
+55
+24.6
+H
+3068
+          –
+320
+–
+187
+400
+45
+58
+28.6
+72
+          –
+340
+–
+188
+420
+45
+58
+30.6
+76
+          –
+360
+–
+193
+450
+48
+62
+35.8
+H
+3080
+          –
+380
+–
+210
+470
+52
+66
+41.5
+84
+          –
+400
+–
+212
+490
+52
+66
+43.6
+88
+          –
+410
+–
+228
+520
+60
+77
+65.5
+H
+3092
+          –
+430
+–
+234
+540
+60
+77
+69.4
+96
+          –
+450
+–
+237
+560
+60
+77
+73.5
+H
+30/500
+          –
+470
+–
+247
+580
+68
+85
+82.0
+d1
+Adapter Sleeve Number
+L
+D3
+C
+C1
+Weight
+H
+HE
+H mm
+HEin
+mm
+mm
+mm
+mm
+(kg)
+Dimensions
+With Lock Washer
+With Lock Plate
+
+---
+
+Series H 3100 / HE 3100
+H
+3122 X
+HE
+3122
+100
+4
+81
+145
+21
+–
+2.25
+24 X
+24
+110
+41/4
+88
+155
+22
+–
+2.64
+26
+26
+115
+41/2
+92
+165
+23
+–
+3.66
+H
+3128
+HE
+3128
+125
+5
+97
+180
+24
+–
+4.34
+30
+30
+135
+51/4
+111
+195
+26
+–
+5.54
+32
+32
+140
+51/2
+119
+210
+28
+–
+7.70
+H
+3134
+HE
+3134
+150
+6
+122
+220
+29
+–
+8.40
+36
+36
+160
+61/2
+131
+230
+30
+–
+9.50
+38
+38
+170
+63/4
+141
+240
+31
+–
+10.8
+H
+3140
+HE
+3140
+180
+7
+150
+250
+32
+–
+12.1
+44
+            –
+200
+–
+158
+280
+32
+44
+14.7
+48
+            –
+220
+–
+169
+300
+34
+46
+17.3
+H
+3152
+            –
+240
+–
+187
+330
+36
+49
+22.0
+56
+            –
+260
+–
+192
+350
+38
+51
+24.5
+60
+            –
+280
+–
+208
+380
+40
+53
+30.3
+H
+3164
+            –
+300
+–
+226
+400
+42
+56
+35.0
+68
+            –
+320
+–
+254
+440
+55
+72
+49.5
+72
+            –
+340
+–
+259
+460
+58
+75
+54.5
+H
+3176
+            –
+360
+–
+264
+490
+60
+77
+61.6
+80
+            –
+380
+–
+272
+520
+62
+82
+70.8
+84
+            –
+400
+–
+304
+540
+70
+90
+84.5
+H
+3188
+            –
+410
+–
+307
+560
+70
+90
+108.0
+92
+            –
+430
+–
+326
+580
+75
+95
+116.0
+96
+            –
+450
+–
+335
+620
+75
+95
+133.0
+H
+31/500
+            –
+470
+–
+356
+630
+80
+100
+146.0
+d1
+Adapter Sleeve Number
+L
+D3
+C
+C1
+Weight
+H
+HE
+H mm
+HEin
+mm
+mm
+mm
+mm
+(kg)
+Dimensions
+141
+With Lock
+With Lock
+H
+3260
+280
+240
+380
+40
+53
+34.0
+64
+300
+258
+400
+42
+56
+39.4
+68
+320
+288
+440
+55
+72
+54.6
+H
+3272
+340
+299
+460
+58
+75
+60.2
+76
+360
+310
+490
+60
+77
+69.6
+80
+380
+328
+520
+62
+82
+81.0
+H
+3284
+400
+352
+540
+70
+90
+94.0
+88
+410
+361
+560
+70
+90
+118.0
+92
+430
+382
+580
+75
+95
+132.0
+H
+3296
+450
+397
+620
+75
+95
+152.0
+32/500
+470
+428
+630
+80
+100
+166.0
+Adapter Sleeve
+d1
+L
+D3
+C
+C1
+Weight
+Number
+mm
+mm
+mm
+mm
+mm
+(kg)
+Dimensions
+With
+Series H 3200
+Adapter Sleeve
+
+---
+
+Lock Nut and Lock Washer
+Series AN, ANL, AW, AWL
+142
+AN
+00
+AW
+00
+18
+13
+14
+4
+3
+2
+10.5
+–
+–
+–
+–
+–
+M
+10X0.75
+01
+01
+22
+17
+18
+4
+3
+2
+12.5
+–
+–
+–
+–
+–
+12X1
+02
+02
+25
+21
+21
+5
+4
+2
+15.5
+–
+–
+–
+–
+–
+15X1
+AN
+03
+AW
+03
+28
+24
+24
+5
+4
+2
+17.5
+–
+–
+–
+–
+–
+M
+17X1
+04
+04
+32
+26
+28
+6
+4
+2
+20.5
+–
+–
+–
+–
+–
+20X1
+05
+05
+38
+32
+34
+7
+5
+2
+25.8
+–
+–
+–
+–
+–
+25X1.5
+AN
+06
+AW
+06
+45
+38
+41
+7
+5
+2
+30.8
+–
+–
+–
+–
+–
+M
+30X1.5
+07
+07
+52
+44
+48
+8
+5
+2
+35.8
+–
+–
+–
+–
+–
+35X1.5
+08
+08
+58
+50
+53
+9
+6
+2.5
+40.8
+–
+–
+–
+–
+–
+40X1.5
+AN
+09
+AW
+09
+65
+56
+60
+10
+6
+2.5
+45.8
+–
+–
+–
+–
+–
+M
+45X1.5
+10
+10
+70
+61
+65
+11
+6
+2.5
+50.8
+–
+–
+–
+–
+–
+50X1.5
+11
+11
+75
+67
+69
+11
+7
+3
+56
+–
+–
+–
+–
+–
+55X2
+AN
+12
+AW
+12
+80
+73
+74
+11
+7
+3
+61
+–
+–
+–
+–
+–
+M
+60X2
+13
+13
+85
+79
+79
+12
+7
+3
+66
+–
+–
+–
+–
+–
+65X2
+14
+14
+92
+85
+85
+12
+8
+3.5
+71
+–
+–
+–
+–
+–
+70X2
+AN
+15
+AW
+15
+98
+90
+91
+13
+8
+3.5
+76
+–
+–
+–
+–
+–
+M
+75X2
+16
+16
+105
+95
+98
+15
+8
+3.5
+81
+–
+–
+–
+–
+–
+80X2
+17
+17
+110
+102
+103
+16
+8
+3.5
+86
+–
+–
+–
+–
+–
+85X2
+AN
+18
+AW
+18
+120
+108
+112
+16
+10
+4
+91
+–
+–
+–
+–
+–
+M
+90X2
+19
+19
+125
+113
+117
+17
+10
+4
+96
+–
+–
+–
+–
+–
+95X2
+20
+20
+130
+120
+122
+18
+10
+4
+101
+–
+–
+–
+–
+–
+100X2
+AN
+21
+AW
+21
+140
+126
+130
+18
+12
+5
+106
+–
+–
+–
+–
+–
+M
+105X2
+22
+22
+145
+133
+135
+19
+12
+5
+111
+–
+–
+–
+–
+–
+110X2
+23
+23
+150
+137
+140
+19
+12
+5
+116
+–
+–
+–
+–
+–
+115X2
+AN
+24
+AW
+24
+155
+138
+145
+20
+12
+5
+121
+145
+133
+135
+AWL 24
+ANL 24
+M
+120X2
+25
+25
+160
+148
+150
+21
+12
+5
+126
+–
+–
+–
+–
+–
+125X2
+26
+26
+165
+149
+155
+21
+12
+5
+131
+155
+143
+145
+AWL 26
+ANL 26
+130X2
+AN
+27
+AW
+27
+175
+160
+163
+22
+14
+6
+136
+–
+–
+–
+–
+–
+M
+135X2
+28
+28
+180
+160
+168
+22
+14
+6
+141
+165
+151
+153
+AWL 28
+ANL 28
+140X2
+29
+29
+190
+171
+178
+24
+14
+6
+146
+–
+–
+–
+–
+–
+145X2
+AN
+30
+AW
+30
+195
+171
+183
+24
+14
+6
+151
+180
+164
+168
+AWL 30
+ANL 30
+M
+150X2
+31
+31
+200
+182
+186
+25
+16
+7
+156.5
+–
+–
+–
+–
+–
+155X3
+32
+32
+210
+182
+196
+25
+16
+7
+161.5
+190
+174
+176
+AWL 32
+ANL 32
+160X3
+AN
+33
+AW
+33
+210
+193
+196
+26
+16
+7
+166.5
+–
+–
+–
+–
+–
+M
+165X3
+34
+34
+220
+193
+206
+26
+16
+7
+171.5
+200
+184
+186
+AWL 34
+ANL 34
+170X3
+36
+36
+230
+203
+214
+27
+18
+8
+181.5
+210
+192
+194
+AWL 36
+ANL 36
+180X3
+AN
+38
+AW
+38
+240
+214
+224
+28
+18
+8
+191.5
+220
+202
+204
+AWL 38
+ANL 38
+M
+190X3
+40
+40
+250
+226
+234
+29
+18
+8
+201.5
+240
+218
+224
+AWL 40
+ANL 40
+200X3
+Lock
+Lock
+Lock
+Lock
+Thread
+Nut
+Washer
+Washer
+Nut
+(Diameter, D
+Number
+Number
+D1
+D2
+D3
+t
+B
+T
+D4
+D1
+D2
+D3
+Number
+Number
+x Pitch)
+AN series
+AN/ANL
+ANL Series
+Series AN
+ANL Series
+Dimensions
+* ANL Nut for H30 Adapter
+Adapter Sleeve
+
+---
+
+AN
+44
+Tr
+220X4
+280
+250
+260
+20
+10
+222
+32
+M
+8X1.25
+15
+238
+48
+240X4
+300
+270
+280
+20
+10
+242
+34
+8X1.25
+15
+258
+52
+260X4
+330
+300
+306
+24
+12
+262
+36
+10X1.5
+18
+281
+AN
+56
+Tr
+280X4
+350
+320
+326
+24
+12
+282
+38
+M
+10X1.5
+18
+301
+60
+300X4
+380
+340
+356
+24
+12
+302
+40
+10X1.5
+18
+326
+64
+320X5
+400
+360
+376
+24
+12
+322.5
+42
+10X1.5
+18
+345
+AN
+68
+Tr
+340X5
+440
+400
+410
+28
+15
+342.5
+55
+M
+12X1.75
+21
+372
+72
+360X5
+460
+420
+430
+28
+15
+362.5
+58
+12X1.75
+21
+392
+76
+380X5
+490
+450
+454
+32
+18
+382.5
+60
+12X1.75
+21
+414
+AN
+80
+Tr
+400X5
+520
+470
+484
+32
+18
+402.5
+62
+M
+16X2
+27
+439
+84
+420X5
+540
+490
+504
+32
+18
+422.5
+70
+16X2
+27
+459
+88
+440X5
+560
+510
+520
+36
+20
+442.5
+70
+16X2
+27
+477
+Nut-Series  ANL *
+AN
+44
+Tr
+220X4
+260
+242
+242
+20
+9
+222
+30
+M
+6X1
+12
+229
+48
+240X4
+290
+270
+270
+20
+10
+242
+34
+8X1.25
+15
+253
+52
+260X4
+310
+290
+290
+20
+10
+262
+34
+8X1.25
+15
+273
+AN
+56
+Tr
+280X4
+330
+310
+310
+24
+10
+282
+38
+M
+8X1.25
+15
+293
+60
+300X4
+360
+336
+336
+24
+12
+302
+42
+8X1.25
+15
+316
+64
+320X5
+380
+356
+356
+24
+12
+322.5
+42
+8X1.25
+15
+335
+AN
+68
+Tr
+340X5
+400
+376
+376
+24
+12
+342.5
+45
+M
+8X1.25
+15
+355
+72
+360X5
+420
+394
+394
+28
+13
+362.5
+45
+8X1.25
+15
+374
+76
+380X5
+450
+422
+422
+28
+14
+382.5
+48
+10X1.5
+18
+398
+AN
+80
+Tr
+400X5
+470
+442
+442
+28
+14
+402.5
+52
+M
+10X1.5
+18
+418
+84
+420X5
+490
+462
+462
+32
+14
+422.5
+52
+10X1.5
+18
+438
+88
+440X5
+520
+490
+490
+32
+15
+442.5
+60
+12X1.75
+21
+462
+AN
+92
+Tr
+460X5
+540
+510
+510
+32
+15
+462.5
+60
+M
+12X1.75
+21
+482
+96
+480X5
+560
+530
+530
+36
+15
+482.5
+60
+12X1.75
+21
+502
+Lock
+Thread
+Thread
+Nut
+(Diameter, D
+(Diameter, D
+Number
+x Pitch)
+D1
+D2
+D3
+B
+T
+D4
+t
+x Pitch)
+l
+D1
+Lock Nut
+Series AN, ANL
+143
+* ANL Nut for H30 Adapter
+PLATE HOLE
+Dimensions (mm)
+Adapter Sleeve
+
+---
+
+144
+Plummer
+Blocks
+SN500 Series
+SN505
+20
+3/4
+52
+165
+46
+22
+25
+40
+67
+75
+130
+SN506
+25
+1
+62
+185
+52
+22
+30
+50
+77
+90
+150
+SN507
+30
+1-1/8
+72
+185
+52
+22
+33
+50
+82
+95
+150
+SN508
+35
+1-1/4
+80
+205
+60
+25
+33
+60
+85
+110
+170
+SN509
+40
+1-1/2
+85
+205
+60
+25
+31
+60
+85
+112
+170
+SN510
+45
+1-3/4
+90
+205
+60
+25
+33
+60
+90
+115
+170
+SN511
+50
+2
+100
+255
+70
+28
+33
+70
+95
+130
+210
+SN512
+55
+2-1/8
+110
+255
+70
+30
+38
+70
+105
+135
+210
+SN513
+60
+2-1/4
+120
+275
+80
+30
+43
+80
+110
+150
+230
+SN515
+65
+2-1/2
+130
+280
+80
+30
+41
+80
+115
+155
+230
+SN516
+70
+2-3/4
+140
+315
+90
+32
+43
+95
+120
+175
+260
+SN517
+75
+3
+150
+320
+90
+32
+46
+95
+125
+185
+260
+SN518
+80
+3-1/4
+160
+345
+100
+35
+62.4
+100
+145
+195
+290
+SN519
+85
+170
+345
+100
+35
+53
+112
+140
+210
+290
+SN520
+90
+3-1/2
+180
+380
+110
+40
+70.3
+112
+160
+218
+320
+SN522
+100
+4
+200
+410
+120
+45
+80
+125
+175
+240
+350
+SN524
+110
+4-1/4
+215
+410
+120
+45
+86
+140
+185
+270
+350
+SN526
+115
+4-1/2
+230
+445
+130
+50
+90
+150
+190
+290
+380
+SN528
+125
+5
+250
+500
+150
+50
+98
+150
+205
+305
+420
+SN530
+135
+5-1/4
+270
+530
+160
+60
+106
+160
+220
+325
+450
+SN532
+140
+5-1/2
+290
+550
+160
+60
+114
+170
+235
+345
+470
+Shaft Dia.
+d1/2
+Dimensions (mm)
+Housing
+No.
+mm
+in*
+D
+a
+b
+c
+g
+h
+L
+W
+m
+*Adapter sleeve for inch shaft.
+Plumber Block
+
+---
+
+145
+Dimensions (mm)
+Number
+mm
+QTY
+Housing
+No.
+Adapter. Sleeve
+inch
+Locating Ring
+Housing
+Weight kg
+Bearing
+No.
+s
+u
+v
+M12
+15
+20
+1.40
+1205K
+H 205
+HE 205
+SR52 x 5
+2
+SN505
+2205K
+22205K
+H 305
+HE305
+SR52 x 7
+1
+M12
+15
+20
+2.15
+1206K
+H 206
+HE 206
+SR62 x 7
+2
+SN506
+2206K
+22206K
+H 306
+HE 306
+SR62 x 10
+1
+M12
+15
+20
+2.35
+1207K
+H 207
+HE 207
+SR72 x 8
+2
+SN507
+2207K
+22207K
+H 307
+HE 307
+SR72 x 10
+1
+M12
+15
+20
+3.20
+1208K
+H 208
+HE 208
+SR80 x 7.5
+2
+SN508
+2208K
+22208K
+H 308
+HE 308
+SR80 x 10
+1
+M12
+15
+20
+3.00
+1209K
+H 209
+HE 209
+SR85 x 6
+2
+SN509
+4.40
+2209K
+22209K
+H 309
+HE 309
+SR85 x 8
+1
+M12
+15
+20
+3.75
+1210K
+H 210
+HE 210
+SR90 x 6.5
+2
+SN510
+5.00
+2210K
+22210K
+H 310
+HE 310
+SR90 x 10
+1
+M16
+18
+23
+5.30
+1211K
+H 211
+HE 211
+SR100 x 6
+2
+SN511
+7.15
+2211K
+22211K
+H 311
+HE 311
+SR100 x 8
+1
+M16
+18
+23
+6.3
+1212K
+H212
+HE 212
+SR110 x 8
+2
+SN512
+7.95
+2212K
+22212K
+H312
+HE 312
+SR110 x 10
+1
+M16
+18
+23
+6.80
+1213K
+H 213
+HE 213
+SR120 x 10
+2
+SN513
+9.90
+2213K
+22213K
+H 313
+HE 313
+SR120 x 12
+1
+M16
+18
+23
+7.40
+1215K
+H 215
+HE 215
+SR130 x 8
+2
+SN515
+9.30
+2215K
+22215K
+H 315
+HE 315
+SR130 x 10
+1
+M20
+22
+27
+11.40
+1216K
+H 216
+HE 216
+SR140 x 8.5
+2
+SN516
+14.50
+2216K
+22216K
+H 316
+HE 316
+SR140 x 10
+1
+M20
+22
+27
+11.10
+1217K
+H 217
+HE 217
+SR150 x 9
+2
+SN517
+15.50
+2217K
+22217K
+H 317
+HE 317
+SR150 x 10
+1
+1218K
+H 218
+HE 218
+SR160 x 16.2
+2
+SN518
+M20
+22
+27
+17.00
+2218K
+22218K
+H 318
+HE 318
+SR160 x 11.2
+2
+20.2
+23218K
+H 2318
+HE 2318
+SR160 x 10
+1
+M20
+22
+27
+15.5
+1219K
+H 219
+HE 219
+SR170 x 10.5
+2
+SN519
+2219K
+22219K
+H 319
+HE 319
+SR170 x 10
+1
+M24
+26
+32
+23.00
+2220K
+22220K
+H 320
+HE 320
+SR180 x 12.1
+2
+SN520
+27.50
+23220K
+H 2320
+HE 2320
+SR180 x 10
+1
+M24
+26
+32
+29.00
+2222K
+22222K
+H 322
+HE 322
+SR200 x 13.5
+2
+SN522
+35.00
+23222K
+H 2322
+HE 2322
+SR200 x 10
+1
+M24
+26
+32
+33.60
+22224K
+H 3124
+HE 3124
+SR215 x 14
+2
+SN524
+43.80
+23224K
+H 2324
+HE 2324
+SR215 x 10
+1
+M24
+28
+36
+41.00
+22226K
+H 3126
+HE 3126
+SR 230 x 13
+2
+SN526
+50.40
+23226K
+H 2326
+HE 2326
+SR230 x 10
+1
+M30
+33
+42
+49.00
+22228K
+H 3128
+HE 3128
+SR250 x 15
+2
+SN528
+62.00
+23228K
+H 2328
+HE 2328
+SR250 x 10
+1
+M30
+33
+42
+60.00
+22230K
+H 3130
+HE 3130
+SR270 x 16.5
+2
+SN530
+75.00
+23230K
+H 2330
+HE 2330
+Sr270 x 10
+1
+M30
+33
+42
+68.80
+22232K
+H 3132
+HE 3132
+SR290 x 17
+2
+SN532
+87.00
+23232K
+H 2332
+HE 2332
+SR290 x 10
+1
+Plumber Block
+
+---
+
+Conversion Table
+146
+Conversion Table
+inch
+0”
+1”
+2”
+3”
+4”
+5”
+6”
+7”
+8”
+.0
+25.4
+50.8
+76.2
+101.6
+127
+152.4
+177.8
+203.2
+1/64
+.015625
+0.3969
+25.7969
+51.1969
+75.5969
+101.9969
+127.3969
+152.7969
+178.1969
+203.5969
+1/32
+.03125
+0.7938
+26.1938
+51.5938
+76.9938
+102.3938
+127.7938
+153.1938
+178.5938
+203.9938
+3/64
+.046875
+1.1906
+26.5906
+51.9906
+77.3906
+102.7906
+128.1906
+153.5906
+178.9906
+204.3906
+1/16
+.0625
+1.5875
+26.9875
+52.3875
+77.7875
+103.1875
+128.5875
+153.9875
+179.3875
+204.7875
+5/64
+.078125
+1.9844
+27.3844
+52.7844
+78.1844
+103.5844
+128.9844
+154.3844
+179.7844
+205.1844
+3/32
+.09375
+2.3813
+27.7813
+53.1813
+78.5813
+103.9813
+129.3813
+154.7813
+180.1813
+205.5813
+7/64
+.109375
+2.7781
+28.1781
+53.5781
+78.9781
+104.3781
+129.7781
+155.1781
+180.5781
+205.9781
+1/8
+.125
+3.175
+28.575
+53.975
+79.375
+104.775
+130.175
+155.575
+180.975
+206.375
+9/64
+.140625
+3.5719
+28.9719
+54.3719
+79.7719
+105.1719
+130.5719
+155.9719
+181.3719
+206.7719
+5/32
+.15625
+3.9688
+29.3688
+54.7688
+80.1688
+105.5688
+130.9688
+156.3688
+181.7688
+207.1688
+11/64
+.171875
+4.3656
+29.7656
+55.1656
+80.5656
+105.9656
+131.3656
+156.7656
+182.1656
+207.5656
+3/16
+.1875
+4.7625
+30.1625
+55.5625
+80.9625
+106.3625
+131.7625
+157.1625
+182.5625
+207.9625
+13/64
+.203125
+5.1594
+30.5594
+55.9594
+81.3594
+106.7594
+132.1594
+157.5594
+182.9594
+208.3594
+7/32
+.21875
+5.5563
+30.9563
+56.3563
+81.7563
+107.1563
+132.5563
+157.9563
+183.3563
+208.7563
+15/64
+.234375
+5.9531
+31.3531
+56.7531
+82.1531
+107.5531
+132.9531
+158.3531
+183.7531
+209.1531
+1/4
+.256.35
+31.75
+57.15
+82.55
+107.95
+133.35
+158.75
+184.15
+209.55
+17/64
+.265625
+6.7469
+32.1469
+57.5469
+82.9469
+108.3469
+133.7469
+159.1469
+184.5469
+209.9469
+9/32
+.28125
+7.1438
+32.5438
+57.9438
+83.3438
+108.7438
+134.1438
+159.5438
+184.9438
+210.3438
+15/64
+.296875
+7.5406
+32.9406
+58.3406
+83.7406
+109.1406
+134.5406
+159.9406
+185.3406
+210.7406
+5/16
+.3125
+7.9375
+33.3375
+58.7375
+84.1375
+109.5375
+134.9375
+160.3375
+185.7375
+211.1375
+21/64
+.328125
+8.3344
+33.7344
+59.1344
+84.5344
+109.9344
+135.3344
+160.7344
+186.1344
+211.5344
+11/32
+.34375
+8.7313
+34.1313
+59.5313
+84.9313
+110.3313
+135.7313
+161.1313
+186.5313
+211.9313
+23/64
+.359375
+9.5281
+32.9406
+59.9281
+85.3281
+110.7281
+136.1281
+161.5281
+186.9281
+212.3281
+3/83
+.375
+9.525
+34.925
+60.325
+85.725
+111.125
+136.525
+161.925
+187.325
+212.725
+25/64
+.390625
+9.9219
+35.3219
+60.7219
+86.1219
+111.5219
+136.9219
+162.3219
+187.7219
+213.1219
+13/32
+.40625
+10.3188
+35.7188
+61.1188
+86.5188
+111.9188
+137.3188
+162.7188
+188.1188
+213.5188
+27/64
+.471875
+10.7156
+36.1156
+61.5156
+86.9156
+112.3156
+137.7156
+163.1156
+188.5156
+213.9156
+7/16
+.4375
+11.1125
+36.5125
+61.9125
+87.3125
+112.7125
+138.1125
+163.5125
+188.9125
+214.3125
+29/64
+.453125
+11.5094
+36.9094
+62.3094
+87.7094
+113.1094
+138.5094
+163.9094
+189.3094
+214.7094
+15/32
+.46875
+11.9063
+37.3063
+62.7063
+88.1063
+113.5063
+138.9063
+164.3063
+189.7063
+215.1063
+31/64
+.484375
+12.3031
+37.7031
+63.1031
+88.5031
+113.9031
+139.3031
+164.7031
+190.1031
+215.5031
+1/2
+.5
+12.7
+38.1
+63.5
+88.9
+114.3
+139.7
+165.1
+190.5
+215.9
+33/64
+.515625
+13.0969
+38.4969
+63.8969
+89.2969
+114.6969
+140.0969
+165.4969
+190.8969
+216.2969
+17/32
+.53125
+13.4838
+38.8938
+64.2938
+89.6938
+115.0938
+140.4938
+165.8938
+191.2938
+216.6938
+35/64
+.546875
+13.8906
+39.2906
+64.6906
+90.0906
+115.4906
+140.8906
+166.2906
+191.6906
+217.0906
+9/16
+.5625
+14.2875
+39.6875
+65.0875
+90.4875
+115.8875
+141.2875
+166.6875
+192.0875
+217.4875
+37/64
+.578125
+14.6844
+40.844
+65.4844
+90.8844
+116.2844
+141.6844
+167.0844
+192.4844
+217.8844
+19/32
+.59375
+15.0813
+40.4813
+65.8813
+91.2813
+116.6813
+142.0813
+167.4813
+192.8813
+218.2813
+39/64
+.609375
+15.4781
+40.8781
+66.2781
+91.6781
+117.0781
+142.4781
+167.8781
+193.2781
+218.6781
+5/8
+.625
+15.875
+41.275
+65.675
+92.075
+117.475
+142.875
+168.275
+193.675
+219.075
+41/64
+.640625
+16.2719
+41.6719
+67.0719
+92.4719
+117.8719
+143.2719
+168.6719
+194.0719
+219.4719
+21/32
+.65625
+16.6688
+42.0688
+67.4688
+92.8688
+118.2688
+143.6688
+169.0688
+194.4688
+219.8688
+43/64
+.671875
+17.0656
+42.4656
+67.8656
+93.2656
+118.6656
+144.0656
+169.4656
+194.8656
+220.2656
+11/16
+.6875
+17.4625
+42.8625
+68.2625
+93.6625
+119.0625
+144.4625
+169.8625
+195.2625
+220.6625
+45/64
+.703125
+17.8594
+43.2594
+68.6594
+94.0594
+119.4594
+144.8594
+170.2594
+195.6594
+221.0594
+23/32
+.71875
+18.2563
+43.6563
+69.0563
+94.4563
+119.8563
+145.2563
+170.6536
+196.0563
+221.4563
+47/64
+.734375
+18.6531
+44.0531
+69.4531
+94.8531
+120.2531
+145.6531
+171.0531
+196.4531
+221.8531
+3/4
+.75
+19.05
+44.45
+69.85
+95.25
+120.65
+1469.05
+171.45
+196.85
+222.25
+49/64
+.765625
+19.4469
+44.8469
+70.2469
+95.6469
+121.0469
+146.4469
+171.8469
+197.2469
+222.6469
+25/32
+.78125
+19.8438
+45.2438
+70.6438
+96.0438
+121.4438
+146.8438
+172.3438
+197.6438
+223.0438
+51/64
+.796875
+20.2406
+45.6406
+71.0406
+96.4406
+121.8406
+174.2406
+1726406
+198.0406
+223.4406
+13/16
+.8125
+20.6375
+46.0375
+71.4375
+96.8375
+122.2375
+147.6375
+173.0375
+198.4375
+223.8375
+53/64
+.828125
+21.0344
+46.4344
+71.8344
+97.2344
+122.6344
+148.0344
+173.4344
+198.8344
+224.2344
+27/32
+.84375
+21.4313
+46.8313
+72.2313
+97.6313
+123.0313
+148.4313
+173.8313
+199.2313
+224.6313
+55/64
+.859375
+21.8281
+47.2281
+72.6281
+98.0281
+123.4281
+148.8281
+174.2281
+199.6281
+225.0281
+7/8
+.875
+22.225
+47.625
+73.025
+98.425
+123.825
+149.225
+174.625
+200.025
+225.425
+57/64
+.890625
+22.6219
+48.0219
+73.4219
+98.8219
+124.2219
+149.6219
+175.0219
+200.4219
+225.8219
+29/32
+.90625
+23.0188
+48.4188
+73.8188
+99.2188
+124.6188
+150.0188
+175.4188
+200.8188
+226.2188
+59/64
+.921875
+23.4156
+48.8156
+74.2156
+99.6156
+125.0156
+150.4156
+175.8156
+201.2156
+226.6156
+15/16
+.9375
+23.8125
+49.2125
+74.6125
+100.0125
+125.4125
+150.8125
+176.2125
+201.6125
+227.0125
+61/64
+.953125
+24.2094
+493.6094
+75.0094
+100.4094
+125.8094
+151.2094
+176.6094
+202.0094
+227.4094
+31/32
+.96875
+24.6063
+50.0063
+75.4063
+100.8063
+126.2063
+151.6063
+177.0063
+202.4063
+227.8063
+63/64
+.984375
+25.0031
+50.4031
+75.8031
+101.2031
+126.6031
+152.0031
+177.4031
+202.8031
+227.2031
+Fraction
+Decimal
+
+---
+
+147
+Bearings And Housings
+Matching Table
+P
+UCP
+UKP
+NAP
+SAP
+SBP
+Housing
+Bearing
+PFL
+UCPFL
+UKPFL
+NAPFL
+SAPFL
+SBPFL
+PF
+UCPF
+UKPF
+NAPF
+SAPF
+SBPF
+PP
+UCPP
+UKPP
+NAPP
+SAPP
+SBPP
+FD
+SAFD
+SBFD
+FL
+SALF
+SBLF
+LP
+SALP
+SBLP
+C
+UCC
+UKC
+NAC
+SAC
+SBC
+FA
+UNFA
+UKFA
+NAFA
+FB
+UCFB
+UKFB
+NAFB
+HA
+UCHA
+UKHA
+NAHA
+PA
+UCPA
+UKPA
+NAPA
+SAPA
+SBPA
+PH
+UCPH
+UKPH
+NAPH
+SAPH
+SBPH
+FC
+UCFC
+UKFC
+NAFC
+SAFC
+SBFC
+T
+UCT
+UKT
+NAT
+SAT
+SBT
+FL
+UCFL
+UKFL
+NAFL
+SAFL
+SBFL
+F
+UCF
+UKF
+NAF
+SAF
+SBF
+UC
+UK
+NA
+SA
+SB
+Matching Table
+
+---
+
+CONVERSION GUIDE
+CONVERSION FORMULAE
+LENGTH
+To convert
+Multiply by
+milli-inches into micrometres
+25.4
+inches into millimetres
+25.4
+inches into centimetres
+2.54
+inches into metres
+0.0254
+feet into millimetres
+304.8
+feet into centimetres
+30.48
+feet into metres
+0.3048
+yards into metres
+0.9144
+fathoms into metres
+1.8288
+chains into metres
+20.1168
+furlongs into metres
+201.168
+miles, statute into kilometres
+201.168
+miles, nautical into kilometres
+1.852
+VOLUME & CAPACITY
+To convert
+Multiply by
+cubic inches into cubic centimetres
+16.387064
+cubic inches into litres
+0.016387
+cubic feet into cubic metres
+0.0283168
+cubic feet into litres
+28.316847
+cubic yards into cubic metres
+0.7645549
+UK pints into litres
+0.5682613
+UK quarts into litres
+1.1365225
+UK gallons into litres
+4.54609
+UK gallons into cubic metres
+0.0045461
+UK fluid ounces into cubic centimetres
+28.413063
+AREA
+To convert
+Multiply by
+square inches into square millimetres
+645.16
+square inches into square centimetres
+6.4516
+square feet into square centimetres
+929.0304
+square feet into square metres
+0.092903
+square yards into square metres
+0.836127
+square yards into acres
+0.083613
+acres into square metres
+4046.8564
+acres into hectares
+0.4046856
+square miles into square kilometres
+2.589988
+MASS
+To convert
+Multiply by
+grains into milligrams
+64.79891
+grains into metric carats
+0.323995
+grains into grams
+0.064799
+pennyweights into grams
+1.555174
+ounces into grams
+28.349523
+ounces troy into grams
+31.103477
+ounces into kilograms
+0.0283495
+pounds into kilograms
+0.4535924
+stones into kilograms
+6.3502932
+hundredweights into kilograms
+50.802345
+tons into kilograms
+1016.0469
+tons into metric tonnes
+1.01605
+tahils into grams
+37.799
+kati into kilograms
+0.60479
+POWER
+To concert  Multiply by
+foot pounds-force per second into watts
+1.35582
+horsepower into watts
+745.7
+foot pounds-force per second into kilowatts
+0.001356
+horsepower into kilowatts
+0.7457
+horsepower into metric horsepower
+1.01387
+VELOCITY
+To convert
+Multiply by
+feet per second into centimetres per second
+30.48
+feet per second into metres per second
+0.3048
+miles per hour into kilometres per hour
+1.609344
+FORCE
+To convert
+Multiply by
+pounds force into newtons
+4.44822
+poundals into newtons
+0.138255
+TEMPERATURE
+To convert from degrees                       To convert from degrees Centigrade to
+Fahrenheir to Centigrade:                     Fahrenheit:
+(Y
+oC x 9 ) + 32 = X
+oF
+5
+(X
+oF - 32) x 5 = Y
+oC
+9
+FUEL CONSUMPTION
+L/100km
+=
+mile/gal
+mile/gal
+=
+L/100km
+6.0
+=
+  47.06
+    10
+=
+ 28.248
+7.0
+=
+  40.34
+    12
+=
+ 23.540
+8.0
+=
+  35.30
+    14
+=
+ 20.177
+8.5
+=
+  33.22
+    16
+=
+ 17.655
+9.0
+=
+  31.38
+    18
+=
+ 15.693
+9.5
+=
+  29.73
+    20
+=
+ 14.124
+    10.0
+=
+  28.24
+    22
+=
+ 12.840
+    10.5
+=
+  26.90
+    24
+=
+ 11.710
+    11.0
+=
+  25.67
+    26
+=
+ 10.864
+    11.5
+=
+  24.56
+    28
+=
+ 10.088
+    12.0
+=
+  23.53
+    30
+=
+   9.416
+    12.5
+=
+  22.59
+    32
+=
+   8.827
+    13.0
+=
+  21.72
+    34
+=
+   8.308
+    13.5
+=
+  20.92
+    36
+=
+   7.846
+    14.0
+=
+  20.17
+    38
+=
+   7.433
+    14.5
+=
+  19.48
+    40
+=
+   7.062
+    15.0
+=
+  18.83
+    42
+=
+   6.726
+    16.0
+=
+  17.65
+    43
+=
+   6.561
+    17.0
+=
+  16.61
+    44
+=
+   6.420
+    18.0
+=
+  15.69
+    45
+=
+   6.279
+    19.0
+=
+  14.86
+    46
+=
+   6.137
+    20.0
+=
+  14.12
+    47
+=
+   5.996
+    21.0
+=
+  13.44
+    48
+=
+   5.855
+    22.0
+=
+  12.83
+    49
+=
+   5.713
+    23.0
+=
+  12.27
+    50
+=
+   5.572
+TYRE PRESSURE
+Ibf/in2
+=
+kPa
+kPa
+=
+Ibf/in2
+ 25
+=
+172.36
+155
+=
+22.48
+ 26
+=
+179.26
+160
+=
+23.20
+ 27
+=
+186.16
+165
+=
+23.93
+ 28
+=
+193.05
+170
+=
+24.66
+ 29
+=
+199.95
+175
+=
+25.38
+ 30
+=
+206.84
+180
+=
+26.11
+ 31
+=
+213.74
+185
+=
+26.83
+ 32
+=
+220.63
+190
+=
+27.56
+ 33
+=
+227.53
+195
+=
+28.28
+ 34
+=
+234.42
+200
+=
+29.00
+ 35
+=
+241.31
+205
+=
+29.73
+SPEED
+km/h
+=
+mile/h
+mile/h
+=
+km/h
+  5.00
+=
+ 3.12
+ 10
+=
+ 16
+ 10.00
+=
+ 6.25
+ 15
+=
+ 24
+ 15.00
+=
+ 9.37
+ 20
+=
+ 32
+ 20.00
+=
+12.50
+ 25
+=
+ 40
+ 25.00
+=
+15.62
+ 30
+=
+ 48
+ 30.00
+=
+18.75
+ 35
+=
+ 56
+ 35.00
+=
+21.87
+ 40
+=
+ 64
+ 40.00
+=
+25.00
+ 45
+=
+ 72
+ 45.00
+=
+28.12
+ 50
+=
+ 80
+ 50.00
+=
+31.25
+ 55
+=
+ 88
+ 55.00
+=
+34.37
+ 60
+=
+ 96
+ 60.00
+=
+37.50
+ 65
+=
+104
+ 65.00
+=
+40.62
+ 70
+=
+112
+ 70.00
+=
+43.75
+ 75
+=
+120
+ 75.00
+=
+46.87
+ 80
+=
+128
+ 80.00
+=
+50.00
+ 85
+=
+136
+ 85.00
+=
+53.12
+ 90
+=
+144
+ 90.00
+=
+56.25
+ 95
+=
+152
+ 95.00
+=
+59.37
+100
+=
+160
+100.00
+=
+62.50
+105
+=
+168
+105.00
+=
+65.62
+110
+=
+176
+110.00
+=
+68.75
+115
+=
+184
+115.00
+=
+71.87
+120
+=
+192
+120.00
+=
+75.00
+125
+=
+200
+130.00
+=
+81.25
+130
+=
+208
+140.00
+=
+87.50
+135
+=
+216
+150.00
+=
+93.75
+140
+=
+224
+MOTORING CONVERSIONS
+These Conversion charts indicate relative values. They are intended only as
+a guide and should not be used to calculate higher values where more than
+three decimal places would be needed.
+148
+
+---
+
+149
+IMPERIAL SYSTEM
+LENGTH
+1000 milli-inches
+=
+1 inch
+12 inches
+=
+1 foot
+3 feet
+=
+1 yard
+5.5 yards
+=
+1 rod
+220 yards
+=
+1 furlong
+40 rods
+=
+1 furlong
+5280 feet
+=
+1 mile
+1760 yards
+=
+1 mile
+8 furlongs
+=
+1 mile
+3 miles
+=
+1 league
+25 links
+=
+1 rod
+100 links
+=
+1 chain
+66 feet
+=
+1 chain
+22 yards
+=
+1 chain
+4 rods
+=
+1 chain
+LENGTH (NAUTICAL)
+6 feet
+=
+1 fathom
+100 fathoms
+=
+1 cable length
+(approx)
+10 cable lengths
+=
+1 nautical mile
+AREA
+144 sq ins
+=
+1 sq foot
+9 sq feet
+=
+1 sq yard
+30.25 sq
+=
+1 sq rod
+484 sq yds
+=
+1 sq chain
+1210 sq yds
+=
+1 rood
+4840 sq yds
+=
+1 acre
+160 sq rods
+=
+1 acre
+640 acres
+=
+1 sq mile
+AVOIRDUPOIS WEIGHT
+437.5 grains
+=
+1 ounce
+16 drams
+=
+1 ounce
+7000 grains
+=
+1 pound
+256 drams
+=
+1 pound
+16 ounces
+=
+1 pound
+14 pounds
+=
+1 stone
+2 stones
+=
+1 quarter
+100 pounds
+=
+1 cental
+112 pounds
+=
+1 cwt
+4 quarters
+=
+1 cwt
+35840 ounces
+=
+1 ton
+2240 pounds
+=
+1 ton
+20 cwts
+=
+1 ton
+APOTHECARIES’WEIGHT
+20 grains
+=
+1 scuple
+3 scuples
+=
+1 dram
+8 drams
+=
+1 ounce
+12 ounces
+=
+1 pound
+Ounce and pound are the same as in
+Troy Weight.
+TROY WEIGHT
+24 grains
+=
+1 pwt
+20 pwt
+=
+1 ounce
+12 ounces
+=
+1 pound
+Used for weighting gold, silver and
+jewels.
+VOLUME
+1728 cu ins
+=
+1 cu foot
+46656 cu ins
+=
+1 cu yard
+27 cu ins
+=
+1 cu yard
+CAPACITY
+8 fluid drams
+= 1 fluid ounce
+5 fluid ounces
+= 1 gill
+20 fluid ounces
+= 1 pint
+4 gills
+= 1 pint
+40 fluid ounces
+= 1 quart
+2 pints
+= 1 quart
+160 fluid ounces
+= 1 gallon
+8 pints
+= 1 gallon
+4 quarts
+= 1 gallon
+2 gallons
+= 1 peck
+4 pecks
+= 1 bushel
+8 gallons
+= 1 bushel
+64 gallons
+= 1 quarter
+31 1/2 gallons
+= 1 barrel
+2 barrels
+= 1 hogshead
+MARINERS’ MEASURE
+6 feet
+= 1 fathom
+120 fathoms
+= 1 cable length
+7 1/2 cable
+= 1 mile
+lengths
+5,280.2 feet
+= 1 statute mile
+6,080.2 feet
+= 1 nautical mile
+SURVEYORS’ MEASURE
+7.92 inches
+= 1 link
+25 links
+= 1 rod
+4 rods
+= 1 chain
+10 sq chains
+= 1 acre
+or 160 sq rods
+640 acres
+= 1 square mile
+36 sq miles
+= 1 township
+(6 miles sq)
+METRIC SYSTEM
+LENGTH
+1000
+picometres
+= 1 nanometre
+1000
+nanometres
+= 1 micrometre
+1000
+micrometres
+= 1 millimetre
+10
+millimetres
+= 1 centimetre
+100
+millimetres
+= 1 decimetre
+10
+centimetres
+= 1 decimetre
+1000
+millimetres
+= 1 metre
+100
+millimetres
+= 1 metre
+10
+decimetres
+= 1 metre
+100
+metres
+= 1 hectometre
+1000
+metres
+= 1 kilometre
+1852
+nautical metres
+= 1 international
+nautical mile
+AREA
+100
+sq millimetres
+= 1 sq centimetre
+100
+sq centimetres
+= 1 sq decimetre
+10 000 sq centimetres
+= 1 sq metre
+100
+sq decimetres
+= 1 sq metre
+10 000 sq metres
+= 1 hectare
+100
+hectares
+= 1 sq kilometre
+MASS
+1000
+micrograms
+= 1 milligram
+200
+milligrams
+= 1 metric carat
+1000
+milligrams
+= 1 gram
+5
+metric carats
+= 1 gram
+1000
+grams
+= 1 kilogram
+1000
+kilograms
+= 1 megagram
+= 1 tonne
+ENERGY (WORK & HEAT)
+1000
+millijoules
+= 1 joule
+1000
+joules
+= 1 kilojoule
+1000
+kilojoules
+= 1 megajoule
+3.6
+megajoules
+= 1 kilowatt hour
+1000
+megajoules
+= 1 gigajoule
+1000
+gigajoules
+= 1 terajoule
+TIME
+1000 nanoseconds
+=  1 microsecond
+1000 microseconds
+=  1 millisecond
+1000 milliseconds
+=  1 second
+1000 seconds
+=  1 kilosecond
+VELOCITY
+3.6    kilometres    =
+1 metre per
+         per hour
+   second
+3600 kilometres    =   1 kilometre per
+         per hour
+second
+ELECTRICITY & MAGNETISM
+1000 picoamperes
+= 1 nanoampere
+1000 nanoamperes = 1 microampere
+1000 microamperes = 1 milliampere
+1000 milliamperes
+= 1 ampere
+1000 amperes
+= 1 kiloampere
+1000 milliculombs
+= 1 coulomb
+1000 coulombs
+= 1 kilocoulomb
+1000 microvolts
+= 1 millivolt
+1000 millivolts
+= 1 volt
+1000 volts
+= 1 kilovolt
+1000 kilovolts
+= 1 megavolt
+1000 microhms
+= 1 milliohm
+1000 milliohms
+= 1 ohm
+1000 ohms
+= 1 kilohm
+1000 kilohms
+= 1 megohm
+1000 megohms
+= 1 gigohm
+1000 millisiemens
+= 1 siemen
+1000 millihenrys
+= 1 henry
+1000 milliteslas
+= 1 tesla
+POWER
+1000 microwatts
+= 1 milliwatt
+1000 milliwatts
+= 1 watt
+1000 watts
+= 1 kilowatt
+1000 kilowatts
+= 1 megawatt
+1000 megawatts
+= 1 gigawatt
+1000 gigawatts
+= 1 terawatt
+VOLUME & CAPACITY
+1000 cu millimetres
+=
+1 cu millimetre
+1000 centimetres
+=
+1 cu decimetre
+1000 cu decimetres
+=
+1 cu metre
+1       millilitre
+=
+1 centimetre
+10     millilitres
+=
+1 centilitre
+10     centilitres
+=
+1 decilitre
+1000 millilitres
+=
+1 litre
+100   centilitres
+=
+1 litre
+100   litres
+=
+1 hectolitre
+1000 litres
+=
+1 kilolitre
+=
+1 cu metre
+10 hectolitres
+=
+1 kilolitre
+PRESSURE AND STRESS
+1000 micropascals
+=
+1 millipascal
+1000 millipascals
+=
+1 pascal
+100 pascals
+=
+1 millibar
+1000 pascals
+=
+1 kilopascal
+10 millibars
+=
+1 kilopascal
+1000 kilopascals
+=
+1 megapascal
+1000 megapascals
+=
+1 gigiapascal
+DENSITY & CONCENTRATION
+1 gram per cu metre
+=
+1 milligram per
+         cu decimetre
+1000 milligrams
+=
+1 gram per
+per cu decimetre
+       cu decimetre
+=
+1 kilogram per
+                                                  cu metre
+1000 kilograms
+=
+1 tonne per cu metre
+per metre
+=
+1 kilogram per cu
+decimetre
+FORCE
+1000 micronewtons
+=
+1 micronewton
+1000 millinewtons
+=
+1 newton
+1000 newtons
+=
+1 kilonewton
+1000 kilonewtons
+=
+1 meganewton
+
+---
+
+Ball & Roller
+Bearings
+Automotive
+Bearings
+Pillow Block
+Bearings

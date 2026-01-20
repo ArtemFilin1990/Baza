@@ -1,0 +1,50 @@
+# Makefile для автоматизации задач
+# Интегрировано из Baza
+
+.PHONY: help install test lint format clean docker-up docker-down validate
+
+help:
+	@echo "Доступные команды:"
+	@echo "  make install       - Установить зависимости"
+	@echo "  make test          - Запустить тесты"
+	@echo "  make lint          - Проверить код (flake8)"
+	@echo "  make format        - Форматировать код (black, isort)"
+	@echo "  make clean         - Очистить временные файлы"
+	@echo "  make docker-up     - Запустить Docker контейнеры"
+	@echo "  make docker-down   - Остановить Docker контейнеры"
+	@echo "  make validate      - Валидация структуры репозитория"
+	@echo "  make api           - Запустить API сервер"
+
+install:
+	pip install -r api/requirements.txt
+	pip install black flake8 isort pytest
+
+test:
+	pytest api/tests/ -v
+
+lint:
+	flake8 api/ scripts/ --max-line-length=100
+
+format:
+	black api/ scripts/
+	isort api/ scripts/
+
+clean:
+	find . -type d -name "__pycache__" -exec rm -rf {} +
+	find . -type f -name "*.pyc" -delete
+	find . -type f -name "*.pyo" -delete
+	find . -type d -name "*.egg-info" -exec rm -rf {} +
+	rm -rf .pytest_cache
+	rm -rf .coverage
+
+docker-up:
+	docker-compose up -d
+
+docker-down:
+	docker-compose down
+
+validate:
+	python scripts/manage.py validate
+
+api:
+	cd api && python main.py

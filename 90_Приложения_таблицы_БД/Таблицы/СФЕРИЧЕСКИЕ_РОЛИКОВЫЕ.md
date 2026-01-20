@@ -1,0 +1,7714 @@
+---
+type: knowledge
+section: Размеры
+language: ru
+entities: 
+  - "1060"
+  - "1000"
+  - "1120"
+  - "1250"
+  - "1600"
+  - "2000"
+  - "38594"
+  - "95484"
+  - "1010"
+  - "1220"
+  - "1190"
+  - "1440"
+  - "1570"
+  - "1070"
+  - "1090"
+  - "1370"
+  - "1520"
+  - "1230"
+  - "1360"
+  - "1690"
+---
+
+BEARINGS 
+SPHERICAL ROLLER 
+and 
+THRUST BEARINGS 
+SPHERICAL ROLLER 
+
+
+SPHERICAL ROLLER BEARINGS
+Tolerance Values
+Internal Clearance
+Dimension Tables
+SPHERICAL ROLLER THRUST BEARINGS
+Tolerance Values
+Dimension Tables
+
+
+Design and configuration
+Spherical Roller Bearings are particularly suitable 
+for applications where misalignment can arise from 
+error in mounting or from shaft deflection.
+NACHI Spherical Roller Bearings are manufactured in a number of design and material configurations depending on the type of application and 
+size of the bearing.
+See the table below for the roller, guide ring and 
+cage design for NACHI Spherical Roller Bearings.
+They can sustain radial and axial loads.
+Attention
+(1) For high axial load applicadtions, the axial load 
+Fa must not exceed 0.6 of the radial load Fr. If the 
+axial load exceeds 0.6 Fr, please contact NACHI
+engineers for design assistance.
+(2) For applications where oscillating loads (such 
+as shaker screen applications) or high speed is 
+involved, please contact NACHI for design assistance.
+(3) In very lightly loaded or no load conditions, 
+sliding motion can occur which could damage the 
+bearing.
+To prevent this damage, bearings must be 
+subjected to a load greater than 0.02 Cr (basic 
+dynamic load rating). 
+(4) The material coefficient number of the 
+bearing is taken into consideration for the dynamic 
+load rating.
+* This only applies to spherical roller bearing.
+Design and conﬁ gurations
+Type
+Series
+EX
+EX1
+E
+E2
+E
+AEX
+AX
+A2X
+AX
+239
+20,26,
+ /1060
+ /1000
+ /600,
+/670,/800
+231
+ /800
+241
+ /500
+222
+05 
+ 68
+05 
+232
+18,20
+16,17,19
+ /600
+213
+04
+10,24
+06 
+223
+08 
+07 
+28, 30
+Cross
+section
+Roller
+Symmetric
+Symmetric
+Nonsymmetric
+Nonsymmetric
+Center guide
+Floating ring
+Inner ring rib
+Inner ring rib
+Inner ring rib
+Cage
+Pressed steel
+Machined high strength brass
+Machined high strength brass
+Pressed high strength brass
+
+
+Lubrication holes and groove
+The outer ring of Spherical Roller Bearings are 
+often made with lubrication holes and a groove for 
+feeding lubricant. The outer ring may also be 
+configured with oil holes only depending on fitting, 
+mounting or service conditions.
+Heat-stabilized bearings
+NACHI Spherical Roller Bearings are subjected to 
+a heat-stabilization treatment as standard.
+They can be used at operating temperature of up to 
+200˚C with minimal dimensional changes occurring.
+Lubrication holes and groove
+Lubrication holes
+du
+Lubrication holes
+Lubrication holes
+du
+Lubrication holes and groove
+Lubrication holes
+22330E W33
+22330E W20
+W33
+Modification to outer ring
+Part No. Example
+Suffix
+W20
+Lubrication holes and groove
+
+
+Misalignment
+Maximum permissible misalignment angle is about 
+2˚ under general service conditions.
+But its angle will vary with the series, service 
+condition and surrounding structure.
+As rotational speed increases, misaligned bearings 
+will tend to generate more noise.
+Due to noise constraints, the practical maximum 
+misalignment in a bearing may be considerably 
+less than the maximum permissible misalignment.
+Mounting bearings with tapered bore
+Mounting bearings with  a tapered bore requires 
+some experience and technique.
+Bearings with tapered bore are always mounted 
+with an interference fit on the shaft.
+To measure the amount of interference fit on the 
+shaft, the axial displacement of the inner ring or 
+the reduction of radial internal clearance due to the 
+interference fit can be used. Generally, the 
+measurement of reduction in radial internal clearance is a more reliable method than measurement 
+of the axial displacement of the inner ring.
+Note: (1) The values are applied for mounting on solid shaft. In case of hollow shaft, larger axial displacement should be applied.
+
+(2) In following cases, please make sure radial internal clearance after mounting.
+
+  - Initial radial clearance is in the lower half of the tolerance range.
+
+  - Large temperature difference exists between inner ring and outer ring in operation.
+
+Internal clearance after mounting must be equal to or over these values.
+1120
+1120
+0.015
+0.020
+0.025
+0.030
+0.040
+0.045
+0.050
+0.065
+0.075
+0.080
+0.090
+0.100
+0.110
+0.120
+0.130
+0.150
+0.170
+0.200
+0.210
+0.240
+0.260
+0.300
+0.340
+0.370
+0.410
+0.450
+0.490
+0.020
+0.025
+0.030
+0.040
+0.050
+0.060
+0.070
+0.090
+0.100
+0.110
+0.130
+0.140
+0.150
+0.170
+0.190
+0.210
+0.230
+0.260
+0.280
+0.320
+0.350
+0.400
+0.450
+0.500
+0.550
+0.600
+0.650
+0.3
+0.45
+0.6
+0.7
+0.75
+1.2
+1.3
+1.4
+1.6
+1.7
+1.9
+2.4
+2.6
+3.1
+3.3
+3.7
+4.6
+5.3
+5.7
+6.3
+6.8
+7.4
+0.4
+0.45
+0.6
+0.75
+0.9
+1.4
+1.6
+1.7
+2.2
+2.4
+2.7
+3.3
+3.6
+4.4
+5.4
+6.2
+7.0
+7.8
+8.5
+9.0
+9.8
+Taper
+Axial displacement (1)
+  1.7
+  1.9
+  2.7
+  3.2
+  3.5
+  4.2
+  4.7
+  6.5
+  7.7
+  8.2
+  9.2
+11.5
+13.3
+14.3
+15.8
+17
+18.5
+  2.2
+  2.7
+  3.5
+  4.2
+  5.5
+  6.7
+  8.2
+  9.0
+12.5
+13.5
+15.5
+17.5
+19.5
+0.015
+0.015
+0.020
+0.025
+0.025
+0.035
+0.050
+0.055
+0.055
+0.060
+0.070
+0.080
+0.090
+0.100
+0.110
+0.120
+0.130
+0.130
+0.160
+0.170
+0.200
+0.210
+0.230
+0.270
+0.300
+0.320
+0.340
+0.020
+0.025
+0.030
+0.035
+0.040
+0.050
+0.065
+0.080
+0.090
+0.100
+0.100
+0.120
+0.130
+0.140
+0.150
+0.170
+0.190
+0.200
+0.230
+0.250
+0.290
+0.310
+0.350
+0.390
+0.430
+0.480
+0.540
+Normal
+C3
+C4
+0.035
+0.040
+0.050
+0.055
+0.070
+0.080
+0.100
+0.110
+0.130
+0.150
+0.160
+0.180
+0.200
+0.220
+0.240
+0.260
+0.290
+0.310
+0.350
+0.360
+0.410
+0.450
+0.510
+0.570
+0.640
+0.700
+0.770
+1 : 12
+1 : 30
+Unit: mm
+Nominal bore diameter
+Radial clearance
+reduction
+Internal clearance after mounting (2)
+
+
+0,1,2,3,4 
+Diameter series 
+Single plane mean bore diameter deviation (2) 
+Deviation of a single 
+bore diameter (2) 
+Bearing with 
+bore diameter 
+Tolerance Values of Inner Ring and of Outer Ring Width 
+Notes:
+Remarks:    The high deviation of bearing cylindrical bore diameter specified in this table does not apply within a distance of 1.2     r (max) from the ring face.
+(1)  This diameter is included in this group.
+(2)  Applicable to bearings with cylindrical bore.
+(3)  Width deviation and variation of outer ring are the same with of inner ring. Outer ring width variation of classes 5 and 4 are listed on page 7.
+(4)  Applicable to the rings of single bearings made for combination bearing.
+(5)  Applicable ro radial ball bearings such as deep groove ball bearings or angular contact ball bearings.
+s 
+Inner ring  
+(or outer ring)  (3) 
+Single bearing 
+Combination bearing  (4) 
+bore diameter
+Deviation of a single inner ring width (or a single outer ring width)  (3) 
+s(or 
+s) 
+C
+Inner (or outer) ring width variation
+VBs(orVCs)
+Tolerance Values for Radial Bearings 
+Inner ring 
+ ( 1 )
+ 0.6
+-- 10
+-- 12
+-- 15
+-- 20
+-- 25
+-- 25
+-- 30
+-- 35
+-- 40
+-- 45
+-- 50
+-- 75
+-- 100
+-- 125
+-- 160
+-- 200
+-- 7
+-- 7
+-- 7
+-- 10
+-- 12
+-- 15
+-- 18
+-- 18
+-- 22
+-- 25
+-- 30
+-- 35
+-- 40
+-- 5
+-- 5
+-- 5
+-- 6
+-- 9
+-- 10
+-- 13
+-- 13
+-- 15
+-- 18
+-- 23
+-- 4
+-- 4
+-- 4
+-- 5
+-- 6
+-- 7
+-- 10
+-- 10
+-- 12
+-- 4
+-- 4
+-- 4
+-- 5
+-- 6
+-- 7
+-- 10
+-- 10
+-- 12
+ 0.6
+-- 40
+-- 120
+-- 120
+-- 120
+-- 120
+-- 150
+-- 200
+-- 300
+-- 350
+-- 400
+-- 450
+-- 500
+-- 750
+-- 1000
+-- 1250
+-- 1600
+-- 2000
+-- 40
+-- 40
+-- 80
+-- 120
+-- 120
+-- 150
+-- 200
+-- 300
+-- 350
+-- 400
+-- 380
+-- 380
+-- 500
+-- 500
+-- 500
+-- 500
+-- 630
+-- 380
+-- 380
+-- 380
+-- 500
+-- 500
+-- 630
+ ( 1 )
+
+
+Diameter series 
+cylindrical bore 
+7,8,9 
+Bore diameter variation in a single radial plane (2)
+Vd p
+bore diameter 
+0,1 
+2,3,4 
+7,8,9 
+0,1 
+2,3,4 
+Diameter series 
+Diameter series 
+Mean bore diameter variation (2)
+Vd mp
+7,8,9 
+0,1,2,3,4 
+Diameter series 
+7,8,9 
+0,1,2,3,4 
+bore diameter 
+Radial runout of assembled bearing inner ring
+Kia
+Unit:   m 
+Unit:   m 
+Inner ring reference face
+runout with bore   Sd
+Assembled bearing inner ring
+face runout with raceway   Sia (5)
+ ( 1 )
+ 0.6
+63
+63
+17
+17
+3.5
+ 0.6
+ ( 1 )
+
+
+0,1,2,3,4 
+Diameter series 
+Bearing 
+Tolerance Values of Outer Ring 
+s 
+Single plane mean outside diameter deviation 
+Deviation of a single 
+outside diameter 
+outside diameter 
+outside diameter 
+Tolerance Values for Radial Bearings 
+Radial runout of assembled bearing outer ring
+Kea
+Bearing outside diameter 
+Mean outside diameter variation  (2)
+VDmp
+Notes:
+Remarks:    The low deviation of bearing outside diameter specified in this table does not apply within a distance of 1.2     r (max) from the ring face.
+(1)  This diameter is included in this group.
+(2)  Applicable without internal or external snap ring.
+(3)  Applicable to radial ball bearings such as deep groove ball bearings or angular contact ball bearings.
+(4)  Outer ring width variation of class 0 and 6 are listed on page 4.
+ ( 1 )
+3.5
+ ( 1 )
+-- 9
+-- 11
+-- 13
+-- 15
+-- 18
+-- 25
+-- 30
+-- 35
+-- 40
+-- 45
+-- 50
+-- 75
+-- 100
+-- 125
+-- 160
+-- 200
+-- 7
+-- 7
+-- 9
+-- 11
+-- 13
+-- 15
+-- 18
+-- 20
+-- 25
+-- 28
+-- 33
+-- 38
+-- 45
+-- 60
+-- 5
+-- 5
+-- 6
+-- 7
+-- 9
+-- 10
+-- 11
+-- 13
+-- 15
+-- 18
+-- 20
+-- 23
+-- 28
+-- 35
+-- 4
+-- 4
+-- 5
+-- 6
+-- 7
+-- 9
+-- 10
+-- 11
+-- 13
+-- 15
+-- 4
+-- 4
+-- 5
+-- 6
+-- 7
+-- 9
+-- 10
+-- 11
+-- 13
+-- 15
+
+
+outside diameter 
+7,8,9 
+0,1 
+0,1 
+Outside diameter variation in a single radial plane  (2)
+VDp
+outside diameter 
+2,3,4 
+2,3,4 
+2,3,4 
+7,8,9 
+7,8,9 
+7,8,9 
+Diameter series 
+0,1,2,3,4 
+0,1,2,3,4 
+0,1,2,3,4 
+Diameter series 
+Open bearing 
+Open bearing 
+bearing 
+Diameter series 
+Open bearing 
+Seal · shield 
+Diameter series 
+Open bearing 
+bearing 
+Seal · shield 
+outside diameter 
+Variation of bearing outside 
+suface generarix inclination 
+with outer ring reference face 
+Assembled bearing outer ring face
+runout with raceway  Sea   (3)
+Outer ring width variation 
+Unit:   m 
+Unit:   m 
+SD
+VC S
+(1)
+(1)
+17
+63
+94
+125
+63
+94
+125
+
+
+Tolerances for Tapered Bores 
+Nominal bearing bore diameter 
+Basic diameter at the theoretical 
+large end of a tapered bore 
+in case of 1/12 taper      d1 = d+     B 
+in case of 1/30 taper      d1 = d+     B 
+
+Mean bore diameter deviation at 
+theoretical small end of a tapered bore 
+Mean bore diameter deviation at 
+theoretical large end of a tapered bore 
+Nominal bearing inner ring width 
+Nominal taper angle (half of cone angle) 
+in case of 1/12 taper 
+
+in case of 1/30 taper 
+: 
+: 
+
+: 
+
+: 
+
+: 
+: 
+d1 
+
+1mp 
+
+= 2˚ 23' 9.4" 
+= 2.38594˚ 
+= 0.041643 rad 
+= 0˚ 57' 17.4" 
+= 0.95484˚ 
+= 0.016665 rad 
+φd 
+Theoretical 
+tapered bore 
+Tapered bore with 
+actual mean diameters 
+at their deviations 
+φ(d+                ) 
+φ(d  +                ) 
+φd 1 
+mp – 
+bore dimension 
+Bore diameter 
+variation in a 
+single radial 
+plane  (1)(2) 
+Note: (1)  Applicable to all radial planes of tapered bore. 
+(2)  Not applicable to bearings of diameter series 7 and 8.
+1/12 Tapered Bore (Class 0) 
+Mean bore diameter 
+deviation at theoretical 
+small end of a 
+tapered bore 
+Bore diameter 
+variation in a 
+single radial 
+plane  (1)(2) 
+Note:
+Mean bore diameter 
+deviation at theoretical 
+small end of a 
+tapered bore 
+bore dimension 
+(1)  Applicable to all radial planes of tapered bore. 
+(2)  Not applicable to bearings of diameter series 7 and 8.
+1/30 Tapered Bore (Class 0) 
+Tolerances for Tapered Bores 
+Unit:   m 
+Unit:   m 
+Vdp 
+1mp – 
+1mp – 
+Vdp 
+
+α 
+α 
+α 
+α 
+α 
++ 22
++ 27
++ 33
++ 39
++ 46
++ 54
++ 63
++ 72
++ 81
++ 89
++ 97
++ 110
++ 125
++ 140
++ 165
++ 195
+63
++ 15
++ 18
++ 21
++ 25
++ 30
++ 35
++ 40
++ 46
++ 52
++ 57
++ 63
++ 70
++ 80
++ 90
++ 105
++ 125
++ 15
++ 20
++ 25
++ 30
++ 35
++ 40
++ 45
++ 50
+63
++ 30
++ 35
++ 40
++ 46
++ 52
++ 57
++ 63
++ 70
+
+
+Radial clearance 
+C2 
+bore diameter 
+d(mm) 
+CN(Normal) 
+C3 
+C4 
+C5 
+Radial Internal Clearance of Spherical Roller Bearings with Tapered Bore (ISO) 
+Radial clearance 
+C2 
+bore diameter 
+d(mm) 
+CN(Normal) 
+C3 
+C4 
+C5 
+Radial Internal Clearance of Spherical Roller Bearings with Cylindrical Bore (ISO) 
+Internal Clearance 
+Unit:   m 
+Unit:   m 
+145
+145
+700
+770
+860
+930
+700
+770
+860
+930
+145
+660
+780
+850
+920
+1010
+1120
+1220
+145
+660
+780
+850
+920
+1010
+1120
+1220
+125
+470
+690
+820
+1190
+1440
+1570
+930
+930
+470
+680
+760
+850
+960
+1070
+1190
+470
+680
+760
+850
+960
+1070
+1190
+590
+870
+980
+1090
+1220
+1370
+1520
+590
+870
+980
+1090
+1220
+1370
+1520
+105
+470
+680
+740
+820
+910
+1230
+1360
+1690
+1860
+
+
+With machined
+brass cage
+With oil holes 
+/ oil groove (W33)
+N-     d0
+Bore Diameter : 20
+60mm
+
+Cr (N)
+Cor (N)
+Limiting speed (min-1)
+21304E
+21304EK
+47000
+33500
+11000 
+14000 
+22205EX
+22205EXK
+63000
+48000
+10500 
+13000 
+22205AEX
+22205AEXK
+48500
+34500
+13300 
+16500 
+62
+17
+21305E
+21305EK
+64000
+47500
+9000 
+11500 
+62
+22206EX
+22206EXK
+84500
+65000
+8500 
+11000 
+62
+22206AEX
+22206AEXK
+68000
+48500
+11200 
+14400 
+72
+21306E
+21306EK
+83000
+62500
+8000 
+9500 
+72
+21306AX
+21306AXK
+73000
+50900
+9700 
+12700 
+72
+22207EX
+22207EXK
+112000
+88500
+7500 
+9500 
+72
+22207AEX
+22207AEXK
+94500
+70000
+9600 
+12400 
+21307E
+21307EK
+96000
+76000
+7000 
+8500 
+21307AX
+21307AXK
+89000
+63100
+9000 
+11200 
+22307AEX
+22307AEXK
+145000
+107000
+9000 
+11500 
+22208EX
+22208EXK
+126000
+102000
+6700 
+8500 
+22208AEX
+22208AEXK
+106000
+81000
+8500 
+10900 
+21308E
+21308EK
+119000
+95500
+6000 
+7500 
+21308AX
+21308AXK
+116000
+84400
+7500 
+9750 
+22308EX
+22308EXK
+185000
+151000
+5300 
+6700 
+22308AEX
+22308AEXK
+172000
+134000
+7800 
+10000 
+22209EX
+22209EXK
+133000
+110000
+6000 
+7500 
+22209AEX
+22209AEXK
+113000
+85500
+7900 
+10200 
+21309E
+21309EK
+150000
+124000
+5000 
+6300 
+21309AX
+21309AXK
+143000
+105000
+6750 
+9000 
+22309EX
+22309EXK
+230000
+182000
+5600 
+22309AEX
+22309AEXK
+208000
+157000
+7050 
+9150 
+22210EX
+22210EXK
+142000
+122000
+5600 
+7100 
+22210AEX
+22210AEXK
+119000
+93500
+7350 
+9600 
+21310E
+21310EK
+178000
+151000
+5600 
+21310AX
+21310AXK
+170000
+127000
+6000 
+8250 
+22310EX
+22310EXK
+280000
+235000
+4300 
+5300 
+22310AEX
+22310AEXK
+254000
+205000
+6300 
+8250 
+22211EX
+22211EXK
+171000
+144000
+5300 
+6700 
+22211AEX
+22211AEXK
+150000
+118000
+6750 
+8550 
+21311EX1
+21311EX1K
+200000
+165000
+5600 
+21311AX
+21311AXK
+206000
+171000
+6000 
+7500 
+22311EX
+22311EXK
+325000
+263000
+3800 
+4800 
+22311AEX
+22311AEXK
+294000
+227000
+6000 
+7650 
+22212EX
+22212EXK
+210000
+179000
+4800 
+6000 
+22212AEX
+22212AEXK
+179000
+144000
+6150 
+7800 
+21312EX1
+21312EX1K
+238000
+193000
+3800 
+4800 
+21312AX
+21312AXK
+228000
+192000
+5250 
+6750 
+22312EX
+22312EXK
+390000
+330000
+22312AEX
+22312AEXK
+340000
+275000
+5400 
+6900 
+Note:  Sufﬁ x K or K30 means tapered bore (1/12 or 1/30).
+
+
+• Dynamic equivalent radial load
+  Pr=XFr+YFa
+Values of Y1, Y2  and e from table.
+• Static equivalent radial load
+  Por=Fr+Y0Fa
+  Values Y0 from table.
+0.67
+Dimensions of 
+lubrication holes
+and grooves
+Constant
+Axial load factor
+diameter 
+do
+Groove 
+width 
+count 
+N
+Y0
+27.0
+45.0
+2.20
+3.27
+2.15
+21304E
+21304EK
+30.5
+46.5
+1.91
+2.85
+1.87
+0.19
+22205EX
+22205EXK
+30.5
+46.5
+0.43
+1.57
+2.33
+1.53
+22205AEX
+22205AEXK
+32.0
+53.0
+2.39
+3.56
+2.34
+21305E
+21305EK
+35.5
+56.5
+3.04
+2.00
+22206EX
+22206EXK
+35.5
+56.5
+1.70
+2.53
+1.66
+22206AEX
+22206AEXK
+38.0
+65.0
+2.49
+3.71
+2.43
+0.43
+21306E
+21306EK
+38.0
+65.0
+1.95
+2.90
+1.90
+0.43
+21306AX
+21306AXK
+42.0
+65.0
+2.10
+3.13
+2.06
+0.46
+22207EX
+22207EXK
+42.0
+65.0
+2.60
+1.71
+0.46
+22207AEX
+22207AEXK
+44.0
+71.0
+2.49
+3.71
+2.43
+0.57
+21307E
+21307EK
+44.0
+71.0
+2.03
+3.03
+1.99
+0.56
+21307AX
+21307AXK
+43.5
+71.5
+0.48
+1.41
+2.10
+1.38
+0.78
+22307AEX
+22307AEXK
+47.0
+73.0
+2.37
+3.53
+2.32
+0.56
+22208EX
+22208EXK
+47.0
+73.0
+1.99
+2.96
+1.94
+0.56
+22208AEX
+22208AEXK
+50.0
+81.0
+2.55
+3.80
+0.78
+21308E
+21308EK
+50.0
+81.0
+3.11
+0.79
+21308AX
+21308AXK
+48.5
+81.5
+2.72
+1.79
+1.07
+22308EX
+22308EXK
+48.5
+81.5
+0.43
+1.55
+2.31
+1.54
+1.05
+22308AEX
+22308AEXK
+52.0
+78.0
+2.55
+3.80
+0.61
+22209EX
+22209EXK
+52.0
+78.0
+2.15
+3.21
+2.11
+0.60
+22209AEX
+22209AEXK
+55.0
+92.0
+2.62
+3.90
+2.56
+1.05
+21309E
+21309EK
+55.0
+92.0
+2.16
+3.22
+2.11
+1.05
+21309AX
+21309AXK
+53.5
+91.5
+2.72
+1.79
+1.41
+22309EX
+22309EXK
+53.5
+91.5
+0.43
+1.57
+2.34
+1.54
+1.41
+22309AEX
+22309AEXK
+57.0
+83.0
+2.79
+4.15
+2.73
+0.65
+22210EX
+22210EXK
+57.0
+83.0
+2.34
+3.48
+2.28
+0.65
+22210AEX
+22210AEXK
+61.0
+101.0
+2.71
+4.04
+2.65
+1.36
+21310E
+21310EK
+61.0
+101.0
+2.24
+3.34
+2.19
+1.36
+21310AX
+21310AXK
+60.0
+100.0
+1.85
+1.81
+1.92
+22310EX
+22310EXK
+60.0
+100.0
+0.42
+1.62
+2.42
+1.59
+1.88
+22310AEX
+22310AEXK
+63.5
+91.5
+2.84
+4.23
+2.78
+0.88
+22211EX
+22211EXK
+63.5
+91.5
+2.34
+3.48
+2.28
+0.89
+22211AEX
+22211AEXK
+65.0
+110.0
+2.71
+4.03
+2.65
+1.70
+21311EX1
+21311EX1K
+65.0
+110.0
+2.32
+3.45
+2.27
+1.77
+21311AX
+21311AXK
+65.0
+110.0
+1.85
+1.81
+2.40
+22311EX
+22311EXK
+65.0
+110.0
+0.43
+1.56
+2.33
+1.53
+2.39
+22311AEX
+22311AEXK
+68.5
+101.5
+2.74
+4.08
+2.68
+1.20
+22212EX
+22212EXK
+68.5
+101.5
+2.29
+3.41
+2.24
+1.22
+22212AEX
+22212AEXK
+72.0
+118.0
+2.78
+4.14
+2.72
+2.10
+21312EX1
+21312EX1K
+72.0
+118.0
+2.36
+3.52
+2.31
+2.19
+21312AX
+21312AXK
+72.0
+118.0
+1.86
+2.77
+3.05
+22312EX
+22312EXK
+72.0
+118.0
+0.41
+1.65
+2.46
+1.62
+3.01
+22312AEX
+22312AEXK
+
+
+With machined
+brass cage
+With oil holes 
+/ oil groove (W33)
+N-     d0
+Cr (N)
+Cor (N)
+Limiting speed (min-1)
+22213EX
+22213EXK
+246000
+209000
+4300 
+5300 
+22213AEX
+22213AEXK
+213000
+169000
+5700 
+7200 
+21313EX1
+21313EX1K
+270000
+232000
+21313AX
+21313AXK
+261000
+222000
+5100 
+6400 
+22313EX
+22313EXK
+415000
+355000
+3200 
+4000 
+22313AEX
+22313AEXK
+380000
+310000
+4950 
+6450 
+125
+22214EX
+22214EXK
+257000
+220000
+4000 
+5300 
+125
+22214AEX
+22214AEXK
+225000
+185000
+5400 
+6900 
+21314EX1
+21314EX1K
+310000
+260000
+3200 
+4000 
+21314AX
+21314AXK
+305000
+268000
+6000 
+22314EX
+22314EXK
+480000
+415000
+3800 
+22314AEX
+22314AEXK
+445000
+365000
+4650 
+6000 
+22215EX
+22215EXK
+265000
+234000
+4000 
+5000 
+22215AEX
+22215AEXK
+234000
+191000
+5100 
+6600 
+21315EX1
+21315EX1K
+340000
+298000
+3200 
+4000 
+21315AX
+21315AXK
+325000
+286000
+4350 
+5550 
+22315EX
+22315EXK
+550000
+475000
+22315AEX
+22315AEXK
+495000
+415000
+4350 
+5500 
+22216EX
+22216EXK
+299000
+269000
+22216AEX
+22216AEXK
+279000
+230000
+4800 
+6100 
+44.4
+23216E
+23216EK
+335000
+335000
+4350 
+39
+21316EX1
+21316EX1K
+380000
+339000
+3800 
+39
+21316AX
+21316AXK
+355000
+318000
+4200 
+5250 
+22316EX
+22316EXK
+595000
+520000
+2600 
+3400 
+22316AEX
+22316AEXK
+550000
+465000
+4050 
+5250 
+22217EX
+22217EXK
+355000
+320000
+3400 
+4300 
+22217AEX
+22217AEXK
+310000
+260000
+4200 
+5700 
+49.2
+23217E
+23217EK
+395000
+405000
+3150 
+4050 
+21317EX1
+21317EX1K
+415000
+372000
+4000 
+21317AX
+21317AXK
+400000
+364000
+3900 
+5100 
+22317EX
+22317EXK
+665000
+585000
+3200 
+22317AEX
+22317AEXK
+590000
+500000
+3900 
+4950 
+22218EX
+22218EXK
+410000
+375000
+3200 
+4000 
+22218AEX
+22218AEXK
+360000
+310000
+4000 
+5400 
+52.4
+23218EX1
+23218EX1K
+470000
+482000
+3100 
+4200 
+21318EX1
+21318EX1K
+460000
+410000
+21318AX
+21318AXK
+460000
+416000
+3700 
+4800 
+22318EX
+22318EXK
+745000
+660000
+22318AEX
+22318AEXK
+690000
+585000
+3700 
+4800 
+22219EX
+22219EXK
+465000
+420000
+3800 
+22219AEX
+22219AEXK
+410000
+360000
+3900 
+5100 
+55.6
+23219E
+23219EK
+500000
+510000
+21319EX1
+21319EX1K
+500000
+461000
+3400 
+21319AX
+21319AXK
+495000
+450000
+3400 
+22319EX
+22319EXK
+815000
+725000
+2900 
+22319AEX
+22319AEXK
+755000
+645000
+3450 
+Note:  Sufﬁ x K or K30 means tapered bore (1/12 or 1/30).
+Bore Diameter : 65
+95mm
+
+
+• Dynamic equivalent radial load
+  Pr=XFr+YFa
+Values of Y1, Y2  and e from table.
+• Static equivalent radial load
+  Por=Fr+Y0Fa
+  Values Y0 from table.
+0.67
+Dimensions of 
+lubrication holes
+and grooves
+Constant
+Axial load factor
+diameter 
+do
+Groove 
+width 
+count 
+N
+Y0
+73.5
+111.5
+2.69
+4.00
+2.63
+1.56
+22213EX
+22213EXK
+73.5
+111.5
+2.26
+3.36
+2.21
+1.60
+22213AEX
+22213AEXK
+77.0
+128.0
+2.83
+4.21
+2.76
+2.60
+21313EX1
+21313EX1K
+77.0
+128.0
+2.40
+3.57
+2.35
+2.69
+21313AX
+21313AXK
+77.0
+128.0
+1.93
+3.67
+22313EX
+22313EXK
+77.0
+128.0
+1.72
+2.55
+1.68
+3.64
+22313AEX
+22313AEXK
+78.5
+116.5
+2.87
+4.27
+2.80
+1.65
+22214EX
+22214EXK
+78.5
+116.5
+2.39
+3.55
+2.33
+22214AEX
+22214AEXK
+82.0
+138.0
+2.84
+4.23
+2.78
+3.10
+21314EX1
+21314EX1K
+82.0
+138.0
+2.45
+3.64
+2.39
+3.30
+21314AX
+21314AXK
+82.0
+138.0
+1.93
+4.45
+22314EX
+22314EXK
+82.0
+138.0
+1.71
+2.54
+1.67
+4.46
+22314AEX
+22314AEXK
+83.5
+121.5
+3.07
+4.58
+3.01
+22215EX
+22215EXK
+83.5
+121.5
+2.51
+3.73
+2.46
+1.76
+22215AEX
+22215AEXK
+87.0
+148.0
+2.87
+4.27
+2.80
+3.80
+21315EX1
+21315EX1K
+87.0
+148.0
+3.72
+2.44
+3.95
+21315AX
+21315AXK
+87.0
+148.0
+1.95
+2.90
+1.91
+5.44
+22315EX
+22315EXK
+87.0
+148.0
+1.72
+2.56
+1.68
+5.44
+22315AEX
+22315AEXK
+90.0
+3.07
+4.58
+3.01
+2.19
+22216EX
+22216EXK
+90.0
+2.51
+3.74
+2.46
+2.24
+22216AEX
+22216AEXK
+90.0
+2.35
+3.50
+2.30
+2.95
+23216E
+23216EK
+92.0
+158.0
+2.88
+4.29
+2.82
+4.50
+21316EX1
+21316EX1K
+92.0
+158.0
+2.55
+3.80
+4.67
+21316AX
+21316AXK
+92.0
+158.0
+1.95
+2.90
+1.91
+6.42
+22316EX
+22316EXK
+92.0
+158.0
+1.75
+2.61
+1.72
+6.43
+22316AEX
+22316AEXK
+95.0
+3.01
+4.48
+22217EX
+22217EXK
+95.0
+2.47
+3.67
+2.41
+2.82
+22217AEX
+22217AEXK
+95.0
+2.24
+3.34
+2.19
+3.78
+23217E
+23217EK
+99.0
+166.0
+2.89
+4.30
+2.83
+5.30
+21317EX1
+21317EX1K
+99.0
+166.0
+2.55
+3.79
+2.49
+5.52
+21317AX
+21317AXK
+99.0
+166.0
+2.02
+3.00
+1.97
+7.46
+22317EX
+22317EXK
+99.0
+166.0
+2.65
+7.47
+22317AEX
+22317AEXK
+100.0
+150.0
+2.79
+4.15
+2.73
+3.50
+22218EX
+22218EXK
+100.0
+150.0
+2.42
+3.60
+2.36
+3.56
+22218AEX
+22218AEXK
+100.0
+150.0
+2.14
+3.19
+4.57
+23218EX1
+23218EX1K
+104.0
+176.0
+2.91
+4.33
+2.84
+6.10
+21318EX1
+21318EX1K
+104.0
+176.0
+2.55
+3.80
+6.45
+21318AX
+21318AXK
+104.0
+176.0
+2.00
+2.98
+1.96
+8.82
+22318EX
+22318EXK
+104.0
+176.0
+1.73
+2.57
+8.91
+22318AEX
+22318AEXK
+107.0
+158.0
+2.76
+4.11
+2.70
+4.24
+22219EX
+22219EXK
+107.0
+158.0
+2.38
+3.55
+2.33
+4.35
+22219AEX
+22219AEXK
+107.0
+158.0
+2.24
+3.34
+2.19
+5.46
+23219E
+23219EK
+109.0
+186.0
+2.92
+4.35
+2.86
+7.10
+21319EX1
+21319EX1K
+109.0
+186.0
+2.54
+3.79
+2.49
+7.44
+21319AX
+21319AXK
+109.0
+186.0
+2.02
+3.00
+1.97
+10.2
+22319EX
+22319EXK
+109.0
+186.0
+2.59
+1.70
+10.3
+22319AEX
+22319AEXK
+
+
+With machined
+brass cage
+With oil holes 
+/ oil groove (W33)
+N-     d0
+Cr (N)
+Cor (N)
+Limiting speed (min-1)
+23920E
+23920EK
+197000
+233000
+3400 
+23020E
+23020EK
+286000
+325000
+3700 
+23020AX
+23020AXK
+267000
+298000
+4200 
+5400 
+165
+23120EX1
+23120EX1K
+450000
+500000
+165
+23120AX
+23120AXK
+450000
+538000
+22220EX
+22220EXK
+520000
+480000
+22220AEX
+22220AEXK
+465000
+410000
+3700 
+4800 
+60.3
+23220EX1
+23220EX1K
+595000
+629000
+3750 
+60.3
+23220AX
+23220AXK
+575000
+599000
+3100 
+4200 
+47
+21320EX1
+21320EX1K
+580000
+524000
+47
+21320AX
+21320AXK
+545000
+488000
+4200 
+73
+22320EX
+22320EXK
+975000
+875000
+73
+22320AEX
+22320AEXK
+890000
+775000
+4200 
+23022E
+23022EK
+415000
+475000
+23022AX
+23022AXK
+415000
+478000
+3750 
+4800 
+23122EX1
+23122EX1K
+540000
+610000
+23122AX
+23122AXK
+535000
+605000
+4050 
+24122EX1
+24122EX1K30
+633000
+743000
+24122AX
+24122AXK30
+620000
+654000
+53
+22222EX
+22222EXK
+680000
+640000
+2600 
+3200 
+53
+22222AEX
+22222AEXK
+605000
+550000
+4350 
+69.8
+23222EX1
+23222EX1K
+750000
+793000
+2550 
+69.8
+23222AX
+23222AXK
+740000
+801000
+2850 
+3750 
+21322EX1
+21322EX1K
+675000
+635000
+2850 
+21322AX
+21322AXK
+655000
+601000
+3750 
+22322EX
+22322EXK
+1150000
+1040000
+1950 
+22322AEX
+22322AEXK
+1030000
+940000
+3750 
+23024E
+23024EK
+430000
+515000
+2550 
+23024AX
+23024AXK
+430000
+516000
+3450 
+24024EX1
+24024EX1K30
+540000
+683000
+2550 
+3450 
+24024AX
+24024AXK30
+540000
+627000
+2550 
+3450 
+62
+23124EX1
+23124EX1K
+675000
+720000
+62
+23124AX
+23124AXK
+645000
+734000
+24124EX1
+24124EX1K30
+815000
+970000
+24124AX
+24124AXK30
+780000
+850000
+22224EX
+22224EXK
+785000
+765000
+22224AEX
+22224AEXK
+700000
+650000
+3150 
+4050 
+76
+23224EX1
+23224EX1K
+860000
+956000
+2250 
+3150 
+76
+23224AX
+23224AXK
+860000
+962000
+2550 
+3450 
+21324E
+21324EK
+790000
+765000
+1950 
+86
+22324EX
+22324EXK
+1250000
+1130000
+2600 
+86
+22324AEX
+22324AEXK
+1180000
+1040000
+3450 
+Note:  Sufﬁ x K or K30 means tapered bore (1/12 or 1/30).
+Bore Diameter : 100
+120mm
+
+
+• Dynamic equivalent radial load
+  Pr=XFr+YFa
+Values of Y1, Y2  and e from table.
+• Static equivalent radial load
+  Por=Fr+Y0Fa
+  Values Y0 from table.
+0.67
+Dimensions of 
+lubrication holes
+and grooves
+Constant
+Axial load factor
+diameter 
+do
+Groove 
+width 
+count 
+N
+Y0
+107.0
+133.0
+0.20
+3.42
+5.08
+3.34
+1.46
+23920E
+23920EK
+117.0
+141.0
+3.01
+4.48
+2.33
+23020E
+23020EK
+117.0
+141.0
+2.64
+3.93
+2.58
+2.40
+23020AX
+23020AXK
+110.0
+155.0
+2.33
+3.47
+2.28
+4.49
+23120EX1
+23120EX1K
+110.0
+155.0
+1.93
+4.70
+23120AX
+23120AXK
+112.0
+168.0
+2.74
+4.08
+2.68
+5.10
+22220EX
+22220EXK
+112.0
+168.0
+2.37
+3.52
+2.31
+5.24
+22220AEX
+22220AEXK
+112.0
+168.0
+3.11
+6.76
+23220EX1
+23220EX1K
+112.0
+168.0
+1.88
+2.80
+1.84
+6.88
+23220AX
+23220AXK
+114.0
+201.0
+3.02
+4.49
+2.95
+8.70
+21320EX1
+21320EX1K
+114.0
+201.0
+2.62
+3.91
+2.57
+9.06
+21320AX
+21320AXK
+114.0
+201.0
+1.95
+2.90
+1.91
+13.1
+22320EX
+22320EXK
+114.0
+201.0
+1.72
+2.57
+13.2
+22320AEX
+22320AEXK
+120.0
+160.0
+2.84
+4.23
+2.78
+3.84
+23022E
+23022EK
+120.0
+160.0
+2.42
+3.61
+2.37
+3.90
+23022AX
+23022AXK
+120.0
+170.0
+2.36
+3.51
+2.31
+5.70
+23122EX1
+23122EX1K
+120.0
+170.0
+3.03
+1.99
+5.80
+23122AX
+23122AXK
+120.0
+170.0
+1.84
+2.74
+1.80
+6.89
+24122EX1
+24122EX1K30
+120.0
+170.0
+1.80
+2.69
+1.76
+6.85
+24122AX
+24122AXK30
+122.0
+188.0
+2.64
+3.93
+2.58
+7.36
+22222EX
+22222EXK
+122.0
+188.0
+2.31
+3.44
+2.26
+7.53
+22222AEX
+22222AEXK
+122.0
+188.0
+1.99
+2.96
+1.94
+9.60
+23222EX1
+23222EX1K
+122.0
+188.0
+2.65
+10.0
+23222AX
+23222AXK
+124.0
+226.0
+0.21
+3.19
+4.75
+3.12
+11.6
+21322EX1
+21322EX1K
+124.0
+226.0
+2.78
+4.14
+2.72
+12.2
+21322AX
+21322AXK
+124.0
+226.0
+2.03
+3.02
+18.1
+22322EX
+22322EXK
+124.0
+226.0
+1.77
+2.63
+1.73
+18.2
+22322AEX
+22322AEXK
+170.0
+2.95
+4.39
+2.89
+4.20
+23024E
+23024EK
+170.0
+2.52
+3.76
+2.47
+4.20
+23024AX
+23024AXK
+170.0
+2.23
+3.32
+2.18
+5.36
+24024EX1
+24024EX1K30
+170.0
+2.21
+3.29
+2.16
+5.26
+24024AX
+24024AXK30
+190.0
+2.34
+3.49
+2.29
+7.90
+23124EX1
+23124EX1K
+190.0
+2.00
+2.99
+1.96
+8.10
+23124AX
+23124AXK
+190.0
+2.65
+10.1
+24124EX1
+24124EX1K30
+190.0
+1.73
+2.58
+9.90
+24124AX
+24124AXK30
+132.0
+203.0
+2.60
+3.87
+2.54
+9.28
+22224EX
+22224EXK
+132.0
+203.0
+2.28
+3.40
+2.23
+9.35
+22224AEX
+22224AEXK
+132.0
+203.0
+1.97
+1.93
+12.0
+23224EX1
+23224EX1K
+132.0
+203.0
+1.73
+2.57
+12.3
+23224AX
+23224AXK
+134.0
+246.0
+0.21
+3.17
+4.72
+3.10
+15.3
+21324E
+21324EK
+134.0
+246.0
+2.03
+3.02
+22.6
+22324EX
+22324EXK
+134.0
+246.0
+1.77
+2.64
+1.73
+22.2
+22324AEX
+22324AEXK
+
+
+With machined
+brass cage
+With oil holes 
+/ oil groove (W33)
+N-     d0
+Cr (N)
+Cor (N)
+Limiting speed (min-1)
+23926E
+23926EK
+284000
+355000
+3450 
+23026E
+23026EK
+555000
+660000
+23026AX
+23026AXK
+560000
+664000
+3150 
+4050 
+24026EX1
+24026EX1K30
+710000
+900000
+3150 
+24026AX
+24026AXK30
+680000
+803000
+3150 
+23126EX1
+23126EX1K
+690000
+799000
+23126AX
+23126AXK
+705000
+827000
+24126EX1
+24126EX1K30
+840000
+1030000
+24126AX
+24126AXK30
+815000
+918000
+22226EX
+22226EXK
+910000
+915000
+2600 
+22226AEX
+22226AEXK
+815000
+765000
+3700 
+23226EX1
+23226EX1K
+980000
+1090000
+23226AX
+23226AXK
+965000
+1070000
+3100 
+93
+22326EX
+22326EXK
+1450000
+1340000
+1700 
+93
+22326AEX
+22326AEXK
+1370000
+1220000
+23928AX
+23928AXK
+345000
+466000
+2550 
+53
+23028E
+23028EK
+585000
+710000
+53
+23028AX
+23028AXK
+580000
+711000
+3900 
+24028EX1
+24028EX1K30
+720000
+920000
+24028AX
+24028AXK30
+720000
+819000
+68
+23128EX1
+23128EX1K
+790000
+940000
+2850 
+68
+23128AX
+23128AXK
+790000
+934000
+3100 
+24128EX1
+24128EX1K30
+950000
+1180000
+24128AX
+24128AXK30
+930000
+1030000
+68
+22228EX
+22228EXK
+1050000
+1030000
+68
+22228AEX
+22228AEXK
+945000
+890000
+3400 
+88
+23228EX1
+23228EX1K
+1130000
+1290000
+88
+23228AX
+23228AXK
+1120000
+1270000
+102
+22328E
+22328EK
+1540000
+1520000
+102
+22328A2X
+22328A2XK
+1560000
+1540000
+23930AX
+23930AXK
+465000
+622000
+23030E
+23030EK
+640000
+790000
+23030AX
+23030AXK
+640000
+791000
+72
+24030EX1
+24030EX1K30
+815000
+1060000
+24030AX
+24030AXK30
+815000
+924000
+23130EX1
+23130EX1K
+1000000
+1230000
+23130AX
+23130AXK
+1030000
+1310000
+24130EX1
+24130EX1K
+1230000
+1520000
+24130AX
+24130AXK30
+1120000
+1340000
+73
+22230EX
+22230EXK
+1200000
+1200000
+73
+22230AEX
+22230AEXK
+1060000
+1020000
+3100 
+96
+23230EX1
+23230EX1K
+1340000
+1540000
+96
+23230AX
+23230AXK
+1320000
+1530000
+108
+22330E
+22330EK
+1770000
+1740000
+108
+22330A2X
+22330A2XK
+1720000
+1710000
+Note:  Sufﬁ x K or K30 means tapered bore (1/12 or 1/30).
+Bore Diameter : 130
+150mm
+
+
+• Dynamic equivalent radial load
+  Pr=XFr+YFa
+Values of Y1, Y2  and e from table.
+• Static equivalent radial load
+  Por=Fr+Y0Fa
+  Values Y0 from table.
+0.67
+Dimensions of 
+lubrication holes
+and grooves
+Constant
+Axial load factor
+diameter 
+do
+Groove 
+width 
+count 
+N
+Y0
+138.5
+171.5
+3.66
+5.46
+3.58
+2.87
+23926E
+23926EK
+190.0
+2.87
+4.27
+2.80
+6.14
+23026E
+23026EK
+190.0
+3.72
+2.44
+6.10
+23026AX
+23026AXK
+190.0
+2.14
+3.18
+7.93
+24026EX1
+24026EX1K30
+190.0
+3.04
+2.00
+7.77
+24026AX
+24026AXK30
+200.0
+2.42
+3.61
+2.37
+8.60
+23126EX1
+23126EX1K
+200.0
+2.25
+3.34
+2.20
+8.90
+23126AX
+23126AXK
+200.0
+1.90
+2.83
+1.86
+10.7
+24126EX1
+24126EX1K30
+200.0
+2.72
+1.79
+10.5
+24126AX
+24126AXK30
+144.0
+216.0
+2.55
+3.80
+11.6
+22226EX
+22226EXK
+144.0
+216.0
+2.22
+3.30
+2.17
+11.6
+22226AEX
+22226AEXK
+144.0
+216.0
+2.05
+3.05
+2.00
+14.2
+23226EX1
+23226EX1K
+144.0
+216.0
+2.65
+14.5
+23226AX
+23226AXK
+148.0
+262.0
+2.03
+3.02
+28.4
+22326EX
+22326EXK
+148.0
+262.0
+1.77
+2.64
+1.73
+27.3
+22326AEX
+22326AEXK
+148.5
+181.5
+3.79
+5.65
+3.71
+3.13
+23928AX
+23928AXK
+150.0
+200.0
+2.98
+4.44
+2.91
+6.61
+23028E
+23028EK
+150.0
+200.0
+4.10
+2.69
+6.70
+23028AX
+23028AXK
+150.0
+200.0
+2.28
+3.39
+2.23
+8.40
+24028EX1
+24028EX1K30
+150.0
+200.0
+2.15
+3.20
+2.10
+8.22
+24028AX
+24028AXK30
+152.0
+213.0
+2.45
+3.65
+2.40
+10.5
+23128EX1
+23128EX1K
+152.0
+213.0
+2.27
+3.37
+2.22
+10.8
+23128AX
+23128AXK
+152.0
+213.0
+1.87
+2.79
+13.0
+24128EX1
+24128EX1K30
+152.0
+213.0
+1.87
+2.79
+12.7
+24128AX
+24128AXK30
+154.0
+236.0
+2.60
+3.87
+2.54
+13.9
+22228EX
+22228EXK
+154.0
+236.0
+2.26
+3.37
+2.21
+14.8
+22228AEX
+22228AEXK
+154.0
+236.0
+1.99
+2.96
+1.95
+18.8
+23228EX1
+23228EX1K
+154.0
+236.0
+2.65
+19.3
+23228AX
+23228AXK
+158.0
+282.0
+2.72
+35.9
+22328E
+22328EK
+158.0
+282.0
+2.52
+1.65
+34.5
+22328A2X
+22328A2XK
+200.0
+160.0
+0.20
+3.44
+5.12
+3.36
+5.01
+23930AX
+23930AXK
+162.0
+213.0
+3.04
+4.53
+2.97
+8.01
+23030E
+23030EK
+162.0
+213.0
+2.79
+4.16
+2.73
+8.20
+23030AX
+23030AXK
+162.0
+213.0
+2.23
+3.32
+2.18
+10.5
+24030EX1
+24030EX1K
+162.0
+213.0
+2.10
+3.13
+2.06
+10.4
+24030AX
+24030AXK30
+162.0
+238.0
+2.24
+3.34
+2.19
+16.2
+23130EX1
+23130EX1K
+162.0
+238.0
+1.95
+2.91
+1.91
+16.7
+23130AX
+23130AXK
+162.0
+238.0
+1.77
+2.64
+1.73
+19.6
+24130EX1
+24130EX1K
+162.0
+238.0
+1.76
+2.62
+1.72
+19.5
+24130AX
+24130AXK30
+164.0
+256.0
+2.69
+4.00
+2.63
+18.9
+22230EX
+22230EXK
+164.0
+256.0
+2.30
+3.42
+2.25
+18.1
+22230AEX
+22230AEXK
+164.0
+256.0
+1.96
+2.93
+1.92
+24.2
+23230EX1
+23230EX1K
+164.0
+256.0
+1.70
+2.53
+1.66
+24.8
+23230AX
+23230AXK
+168.0
+302.0
+2.70
+43.3
+22330E
+22330EK
+168.0
+302.0
+1.67
+2.49
+1.63
+41.5
+22330A2X
+22330A2XK
+17
+
+
+With machined
+brass cage
+With oil holes 
+/ oil groove (W33)
+N-     d0
+Cr (N)
+Cor (N)
+Limiting speed (min-1)
+23932AX
+23932AXK
+475000
+649000
+2250 
+23032E
+23032EK
+735000
+915000
+23032AX
+23032AXK
+735000
+917000
+24032EX1
+24032EX1K30
+950000
+1280000
+24032AX
+24032AXK30
+915000
+1110000
+86
+23132EX1
+23132EX1K
+1180000
+1430000
+86
+23132AX
+23132AXK
+1200000
+1460000
+109
+24132EX1
+24132EX1K30
+1450000
+1810000
+109
+24132AX
+24132AXK30
+1340000
+1610000
+22232E
+22232EK
+1230000
+1330000
+22232E2
+22232E2K
+1230000
+1320000
+22232A2X
+22232A2XK
+1210000
+1300000
+104
+23232E
+23232EK
+1500000
+1710000
+104
+23232A2X
+23232A2XK
+1460000
+1650000
+114
+22332E
+22332EK
+1950000
+1950000
+23934AX
+23934AXK
+490000
+691000
+23034E
+23034EK
+880000
+1080000
+23034AX
+23034AXK
+880000
+1080000
+3100 
+24034EX1
+24034EX1K
+1120000
+1480000
+24034AX
+24034AXK30
+1030000
+1320000
+88
+23134EX1
+23134EX1K
+1260000
+1530000
+88
+23134AX
+23134AXK
+1260000
+1500000
+109
+24134AX
+24134AXK30
+1360000
+1650000
+86
+22234E
+22234EK
+1390000
+1510000
+23234E
+23234EK
+1720000
+1970000
+23234A2X
+23234A2XK
+1680000
+1910000
+2250 
+22334E
+22334EK
+2150000
+2200000
+Note:  Sufﬁ x K or K30 means tapered bore (1/12 or 1/30).
+Bore Diameter : 160
+170mm
+
+
+• Dynamic equivalent radial load
+  Pr=XFr+YFa
+Values of Y1, Y2  and e from table.
+• Static equivalent radial load
+  Por=Fr+Y0Fa
+  Values Y0 from table.
+0.67
+Dimensions of 
+lubrication holes
+and grooves
+Constant
+Axial load factor
+diameter 
+do
+Groove 
+width 
+count 
+N
+Y0
+170.0
+210.0
+0.19
+3.60
+5.37
+3.52
+5.29
+23932AX
+23932AXK
+172.0
+228.0
+3.01
+4.48
+9.74
+23032E
+23032EK
+172.0
+228.0
+2.79
+4.16
+2.73
+9.90
+23032AX
+23032AXK
+172.0
+228.0
+2.24
+3.34
+2.19
+12.7
+24032EX1
+24032EX1K30
+172.0
+228.0
+2.12
+3.15
+12.4
+24032AX
+24032AXK30
+172.0
+258.0
+2.22
+3.30
+2.17
+20.5
+23132EX1
+23132EX1K
+172.0
+258.0
+1.96
+2.91
+1.91
+21.2
+23132AX
+23132AXK
+17
+172.0
+258.0
+2.59
+1.70
+25.5
+24132EX1
+24132EX1K30
+17
+172.0
+258.0
+2.59
+1.70
+25.5
+24132AX
+24132AXK30
+174.0
+276.0
+2.57
+3.83
+2.52
+23.7
+22232E
+22232EK
+174.0
+276.0
+2.37
+3.53
+2.32
+24.0
+22232E2
+22232E2K
+174.0
+276.0
+2.20
+3.27
+2.15
+23.8
+22232A2X
+22232A2XK
+174.0
+276.0
+2.71
+30.4
+23232E
+23232EK
+174.0
+276.0
+1.72
+2.56
+1.68
+30.7
+23232A2X
+23232A2XK
+178.0
+322.0
+1.85
+1.81
+51.4
+22332E
+22332EK
+180.0
+220.0
+3.78
+5.63
+3.70
+5.58
+23934AX
+23934AXK
+182.0
+248.0
+2.89
+4.31
+2.83
+13.1
+23034E
+23034EK
+182.0
+248.0
+2.51
+3.74
+2.45
+13.1
+23034AX
+23034AXK
+182.0
+248.0
+2.11
+3.15
+17.3
+24034EX1
+24034EX1K
+182.0
+248.0
+2.00
+2.97
+1.95
+17.0
+24034AX
+24034AXK30
+182.0
+268.0
+2.30
+3.43
+2.25
+21.6
+23134EX1
+23134EX1K
+182.0
+268.0
+2.01
+3.00
+1.97
+22.2
+23134AX
+23134AXK
+17
+182.0
+268.0
+2.70
+26.4
+24134AX
+24134AXK30
+188.0
+292.0
+2.33
+3.47
+2.28
+30.0
+22234E
+22234EK
+188.0
+292.0
+1.85
+1.81
+37.0
+23234E
+23234EK
+188.0
+292.0
+1.71
+2.54
+1.67
+37.6
+23234A2X
+23234A2XK
+188.0
+342.0
+1.85
+1.81
+60.6
+22334E
+22334EK
+
+
+N-      d0
+With oil holes 
+/ oil groove (W33)
+Cr (N)
+Cor (N)
+Limiting speed (min-1)
+23936AX
+23936AXK
+665000
+939000
+23036E
+23036EK
+1070000
+1330000
+23036AX
+23036AXK
+1040000
+1280000
+24036EX1
+24036EX1K
+1330000
+1760000
+24036AX
+24036AXK30
+1230000
+1580000
+96
+23136E
+23136EK
+1490000
+1810000
+96
+23136A2X
+23136A2XK
+1450000
+1740000
+118
+24136E
+24136EK30
+1640000
+2040000
+1350 
+86
+22236E
+22236EK
+1460000
+1610000
+112
+23236E
+23236EK
+1790000
+2100000
+112
+23236A2X
+23236A2XK
+1750000
+2070000
+126
+22336E
+22336EK
+2380000
+2400000
+23938AX
+23938AXK
+675000
+969000
+23038E
+23038EK
+1080000
+1330000
+23038A2X
+23038A2XK
+1080000
+1310000
+24038E
+24038EK30
+1420000
+1920000
+104
+23138E
+23138EK
+1720000
+2120000
+104
+23138A2X
+23138A2XK
+1710000
+2090000
+128
+24138E
+24138EK30
+1900000
+2380000
+92
+22238E
+22238EK
+1590000
+1740000
+23238E
+23238EK
+2070000
+2450000
+23238A2X
+23238A2XK
+2000000
+2370000
+132
+22338E
+22338EK
+2600000
+2670000
+23940AX
+23940AXK
+840000
+1190000
+82
+23040E
+23040EK
+1270000
+1560000
+82
+23040A2X
+23040A2XK
+1270000
+1570000
+109
+24040E
+24040EK30
+1640000
+2230000
+112
+23140E
+23140EK
+1950000
+2390000
+112
+23140A2X
+23140A2XK
+1900000
+2330000
+24140E
+24140EK30
+2220000
+2820000
+98
+22240E
+22240EK
+1810000
+1990000
+128
+23240E
+23240EK
+2290000
+2750000
+128
+23240A2X
+23240A2XK
+2240000
+2680000
+138
+22340E
+22340EK
+2890000
+3000000
+23944E
+23944EK
+840000
+1190000
+23044E
+23044EK
+1470000
+1880000
+23044A2X
+23044A2XK
+1460000
+1860000
+118
+24044E
+24044EK30
+1950000
+2670000
+23144E
+23144EK
+2250000
+2870000
+23144A2X
+23144A2XK
+2210000
+2780000
+24144E
+24144EK30
+2530000
+3250000
+108
+22244E
+22244EK
+2140000
+2380000
+144
+23244E
+23244EK
+2920000
+3500000
+145
+22344E
+22344EK
+3350000
+3600000
+Note:  Sufﬁ x K or K30 means tapered bore (1/12 or 1/30).
+Bore Diameter : 180
+220mm
+
+
+φda 
+φda 
+φDa 
+φDa
+• Dynamic equivalent radial load
+  Pr=XFr+YFa
+Values of Y1, Y2  and e from table.
+• Static equivalent radial load
+  Por=Fr+Y0Fa
+  Values Y0 from table.
+0.67
+Dimensions of 
+lubrication holes
+and grooves
+Constant
+Axial load factor
+diameter 
+do
+Groove 
+width 
+count 
+N
+Y0
+190.0
+240.0
+0.19
+3.55
+5.29
+3.48
+8.10
+23936AX
+23936AXK
+192.0
+268.0
+2.84
+4.23
+2.78
+17.4
+23036E
+23036EK
+192.0
+268.0
+2.47
+3.67
+2.41
+17.5
+23036AX
+23036AXK
+192.0
+268.0
+3.03
+1.99
+22.7
+24036EX1
+24036EX1K
+192.0
+268.0
+2.12
+3.15
+22.5
+24036AX
+24036AXK30
+194.0
+286.0
+2.12
+3.15
+27.9
+23136E
+23136EK
+194.0
+286.0
+3.04
+2.00
+28.2
+23136A2X
+23136A2XK
+194.0
+286.0
+1.73
+2.57
+33.7
+24136E
+24136EK30
+198.0
+302.0
+2.43
+3.61
+2.37
+30.9
+22236E
+22236EK
+198.0
+302.0
+1.87
+2.79
+39.4
+23236E
+23236EK
+198.0
+302.0
+1.75
+2.61
+1.71
+39.0
+23236A2X
+23236A2XK
+198.0
+362.0
+1.87
+2.78
+70.5
+22336E
+22336EK
+200.0
+250.0
+3.69
+5.50
+3.61
+8.46
+23938AX
+23938AXK
+202.0
+278.0
+2.69
+4.00
+2.63
+18.4
+23038E
+23038EK
+202.0
+278.0
+2.55
+3.80
+17.8
+23038A2X
+23038A2XK
+202.0
+278.0
+1.93
+24.6
+24038E
+24038EK30
+204.0
+306.0
+3.11
+35.0
+23138E
+23138EK
+204.0
+306.0
+1.96
+2.92
+1.92
+33.5
+23138A2X
+23138A2XK
+204.0
+306.0
+1.68
+1.64
+42.0
+24138E
+24138EK30
+208.0
+322.0
+2.39
+3.56
+2.34
+37.2
+22238E
+22238EK
+208.0
+322.0
+1.87
+2.79
+48.0
+23238E
+23238EK
+208.0
+322.0
+1.72
+2.59
+1.68
+47.5
+23238A2X
+23238A2XK
+212.0
+378.0
+1.89
+2.81
+1.85
+81.8
+22338E
+22338EK
+212.0
+268.0
+0.20
+3.44
+5.13
+3.37
+11.9
+23940AX
+23940AXK
+212.0
+298.0
+2.64
+3.93
+2.58
+23.4
+23040E
+23040EK
+212.0
+298.0
+2.45
+3.64
+2.39
+23.3
+23040A2X
+23040A2XK
+212.0
+298.0
+1.95
+2.90
+1.91
+31.2
+24040E
+24040EK30
+214.0
+326.0
+2.06
+3.06
+2.01
+42.7
+23140E
+23140EK
+214.0
+326.0
+1.94
+2.83
+1.89
+42.5
+23140A2X
+23140A2XK
+214.0
+326.0
+0.41
+1.63
+2.43
+1.60
+52.9
+24140E
+24140EK30
+218.0
+342.0
+2.35
+3.50
+2.30
+44.8
+22240E
+22240EK
+218.0
+342.0
+1.85
+1.80
+57.7
+23240E
+23240EK
+218.0
+342.0
+1.71
+2.54
+1.67
+57.0
+23240A2X
+23240A2XK
+222.0
+398.0
+1.93
+2.87
+1.88
+93.7
+22340E
+22340EK
+232.0
+288.0
+3.75
+5.59
+3.67
+12.6
+23944E
+23944EK
+234.0
+326.0
+2.64
+3.39
+2.58
+30.7
+23044E
+23044EK
+234.0
+326.0
+2.51
+3.74
+2.45
+30.5
+23044A2X
+23044A2XK
+234.0
+326.0
+2.95
+1.94
+40.3
+24044E
+24044EK30
+238.0
+352.0
+2.06
+3.07
+2.02
+54.3
+23144E
+23144EK
+238.0
+352.0
+1.93
+54.6
+23144A2X
+23144A2XK
+238.0
+352.0
+0.41
+1.66
+2.47
+1.62
+66.3
+24144E
+24144EK30
+238.0
+2.36
+3.52
+2.31
+61.9
+22244E
+22244EK
+238.0
+2.72
+1.79
+81.4
+23244E
+23244EK
+242.0
+438.0
+2.00
+2.98
+1.95
+119
+22344E
+22344EK
+
+
+N-      d0
+With oil holes 
+/ oil groove (W33)
+Cr (N)
+Cor (N)
+Limiting speed (min-1)
+23948E
+23948EK
+870000
+1260000
+92
+23048E
+23048EK
+1530000
+2000000
+92
+23048A2X
+23048A2XK
+1570000
+2090000
+118
+24048E
+24048EK30
+1990000
+2800000
+128
+23148E
+23148EK
+2610000
+3350000
+128
+23148A2X
+23148A2XK
+2540000
+3250000
+24148E
+24148EK30
+2850000
+3700000
+22248E
+22248EK
+2630000
+2930000
+23248E
+23248EK
+3400000
+4100000
+945 
+155
+22348E
+22348EK
+3850000
+4100000
+23952E
+23952EK
+1240000
+1780000
+104
+23052E
+23052EK
+1950000
+2530000
+24052E
+24052EK30
+2630000
+3700000
+940 
+144
+23152E
+23152EK
+3100000
+4000000
+24152E
+24152EK30
+3550000
+4650000
+22252E
+22252EK
+3100000
+3500000
+174
+23252E
+23252EK
+3950000
+4800000
+165
+22352E
+22352EK
+4350000
+4750000
+23956E
+23956EK
+1260000
+1840000
+23056E
+23056EK
+2030000
+2720000
+24056E
+24056EK30
+2680000
+3900000
+146
+23156E
+23156EK
+3200000
+4200000
+24156E
+24156EK30
+3550000
+4800000
+22256E
+22256EK
+3200000
+3700000
+940 
+176
+23256E
+23256EK
+4150000
+5200000
+175
+22356E
+22356EK
+4950000
+5450000
+23960E
+23960EK
+1740000
+2520000
+118
+23060E
+23060EK
+2500000
+3300000
+940 
+24060E
+24060EK30
+3350000
+4850000
+23160E
+23160EK
+3650000
+4750000
+24160E
+24160EK30
+4450000
+6100000
+22260E
+22260EK
+3700000
+4300000
+192
+23260E
+23260EK
+4950000
+6250000
+185
+22360E
+22360EK
+5500000
+6050000
+780 
+970 
+23964E
+23964EK
+1770000
+2610000
+940 
+121
+23064E
+23064EK
+2590000
+3500000
+24064E
+24064EK30
+3400000
+5100000
+176
+23164E
+23164EK
+4350000
+5700000
+218
+24164E
+24164EK30
+5050000
+6900000
+22264E
+22264EK
+4250000
+4900000
+820 
+208
+23264E
+23264EK
+5600000
+7200000
+23968E
+23968EK
+1830000
+2790000
+133
+23068E
+23068EK
+3150000
+4300000
+24068E
+24068EK30
+4100000
+6050000
+23168E
+23168EK
+5150000
+6750000
+243
+24168E
+24168EK30
+6050000
+8300000
+165
+22268E
+22268EK
+5600000
+6850000
+930 
+224
+23268E
+23268EK
+6300000
+8000000
+Note:  Sufﬁ x K or K30 means tapered bore (1/12 or 1/30).
+Bore Diameter : 240
+340mm
+
+
+φda 
+φda 
+φDa 
+φDa
+• Dynamic equivalent radial load
+  Pr=XFr+YFa
+Values of Y1, Y2  and e from table.
+• Static equivalent radial load
+  Por=Fr+Y0Fa
+  Values Y0 from table.
+0.67
+Dimensions of 
+lubrication holes
+and grooves
+Constant
+Axial load factor
+diameter 
+do
+Groove 
+width 
+count 
+N
+Y0
+252.0
+308.0
+0.17
+3.95
+5.87
+3.86
+13.7
+23948E
+23948EK
+254.0
+346.0
+2.76
+4.11
+2.70
+33.5
+23048E
+23048EK
+254.0
+346.0
+2.53
+3.77
+2.47
+33.5
+23048A2X
+23048A2XK
+254.0
+346.0
+2.10
+3.13
+2.05
+43.3
+24048E
+24048EK30
+258.0
+2.13
+3.17
+2.08
+66.6
+23148E
+23148EK
+258.0
+2.02
+3.00
+1.97
+68.5
+23148A2X
+23148A2XK
+258.0
+2.51
+1.65
+81.6
+24148E
+24148EK30
+258.0
+422.0
+2.37
+3.53
+2.32
+82.8
+22248E
+22248EK
+258.0
+422.0
+1.80
+2.68
+1.76
+109
+23248E
+23248EK
+262.0
+487.0
+2.00
+2.98
+1.96
+151
+22348E
+22348EK
+272.0
+348.0
+0.19
+3.54
+5.27
+3.46
+23.7
+23952E
+23952EK
+278.0
+2.66
+3.97
+2.61
+48.9
+23052E
+23052EK
+278.0
+1.93
+65.7
+24052E
+24052EK30
+278.0
+422.0
+2.06
+3.06
+2.01
+92.0
+23152E
+23152EK
+278.0
+422.0
+0.42
+1.59
+2.37
+1.56
+113
+24152E
+24152EK30
+282.0
+458.0
+2.40
+3.57
+2.34
+107
+22252E
+22252EK
+282.0
+458.0
+2.65
+142
+23252E
+23252EK
+288.0
+512.0
+3.03
+1.99
+187
+22352E
+22352EK
+292.0
+368.0
+3.75
+5.59
+3.67
+24.9
+23956E
+23956EK
+298.0
+402.0
+2.79
+4.15
+2.73
+52.7
+23056E
+23056EK
+298.0
+402.0
+3.11
+69.6
+24056E
+24056EK30
+302.0
+438.0
+2.12
+3.15
+98.4
+23156E
+23156EK
+302.0
+438.0
+2.59
+1.70
+24156E
+24156EK30
+302.0
+478.0
+2.53
+3.77
+2.47
+113
+22256E
+22256EK
+302.0
+478.0
+2.87
+2.79
+152
+23256E
+23256EK
+308.0
+552.0
+3.09
+2.03
+228
+22356E
+22356EK
+314.0
+406.0
+0.20
+3.42
+5.08
+3.34
+39.7
+23960E
+23960EK
+318.0
+442.0
+2.71
+4.04
+2.65
+72.8
+23060E
+23060EK
+318.0
+442.0
+1.99
+2.96
+1.94
+98.7
+24060E
+24060EK30
+322.0
+478.0
+2.06
+3.06
+2.01
+129
+23160E
+23160EK
+322.0
+478.0
+1.68
+1.64
+24160E
+24160EK30
+322.0
+518.0
+2.49
+3.71
+2.43
+144
+22260E
+22260EK
+322.0
+518.0
+1.84
+2.73
+1.80
+196
+23260E
+23260EK
+336.0
+584.0
+3.11
+279
+22360E
+22360EK
+334.0
+426.0
+0.19
+3.58
+5.33
+3.50
+41.8
+23964E
+23964EK
+338.0
+462.0
+2.76
+4.11
+2.70
+78.6
+23064E
+23064EK
+338.0
+462.0
+3.11
+104
+24064E
+24064EK30
+342.0
+518.0
+2.03
+3.02
+168
+23164E
+23164EK
+342.0
+518.0
+0.41
+1.65
+2.46
+1.61
+206
+24164E
+24164EK30
+342.0
+558.0
+2.51
+3.73
+2.45
+179
+22264E
+22264EK
+342.0
+558.0
+2.72
+1.76
+244
+23264E
+23264EK
+354.0
+446.0
+3.80
+5.66
+3.72
+44.1
+23968E
+23968EK
+362.0
+498.0
+2.74
+4.08
+2.68
+104
+23068E
+23068EK
+362.0
+498.0
+1.93
+141
+24068E
+24068EK30
+362.0
+558.0
+2.03
+3.02
+212
+23168E
+23168EK
+362.0
+558.0
+0.42
+1.62
+2.42
+1.59
+267
+24168E
+24168EK30
+368.0
+592.0
+2.49
+3.71
+2.43
+224
+22268E
+22268EK
+368.0
+592.0
+2.70
+299
+23268E
+23268EK
+
+
+N-      d0
+With oil holes 
+/ oil groove (W33)
+Cr (N)
+Cor (N)
+Limiting speed (min-1)
+23972E
+23972EK
+1890000
+2960000
+134
+23072E
+23072EK
+3200000
+4500000
+24072E
+24072EK30
+4250000
+6350000
+192
+23172E
+23172EK
+5350000
+7250000
+243
+24172E
+24172EK30
+6250000
+8750000
+232
+23272E
+23272EK
+6950000
+9000000
+23976E
+23976EK
+2390000
+3650000
+23076E
+23076EK
+3300000
+4700000
+940 
+24076E
+24076EK30
+4300000
+6650000
+194
+23176E
+23176EK
+5400000
+7400000
+243
+24176E
+24176EK30
+6450000
+9300000
+680
+23276E
+23276EK
+7500000
+9800000
+23980E
+23980EK
+2470000
+3900000
+940 
+148
+23080E
+23080EK
+3900000
+5500000
+24080E
+24080EK30
+5000000
+7650000
+23180E
+23180EK
+5750000
+7900000
+24180E
+24180EK30
+6900000
+9850000
+256
+23280E
+23280EK
+8500000
+11100000
+23984E
+23984EK
+2520000
+4000000
+23084E
+23084EK
+4050000
+5850000
+24084E
+24084EK30
+5150000
+8000000
+700
+224
+23184E
+23184EK
+6800000
+9250000
+700
+24184E
+24184EK30
+8350000
+12000000
+760
+272
+23284E
+23284EK
+9400000
+12500000
+118
+23988E
+23988EK
+3100000
+4900000
+157
+23088E
+23088EK
+4300000
+6250000
+212
+24088E
+24088EK30
+5750000
+9000000
+226
+23188E
+23188EK
+7150000
+10000000
+24188E
+24188EK30
+8550000
+12700000
+23288E
+23288EK
+10000000
+13300000
+118
+23992E
+23992EK
+3050000
+4900000
+680
+163
+23092E
+23092EK
+4700000
+6850000
+680
+218
+24092E
+24092EK30
+6100000
+9650000
+760
+23192E
+23192EK
+8000000
+11200000
+760
+24192E
+24192EK30
+9450000
+13900000
+830
+296
+23292E
+23292EK
+10600000
+14500000
+128
+23996E
+23996EK
+3300000
+5450000
+645 
+700
+165
+23096E
+23096EK
+4850000
+7250000
+700
+218
+24096E
+24096EK30
+6300000
+10100000
+248
+23196E
+23196EK
+8500000
+12000000
+308
+24196E
+24196EK30
+9950000
+14800000
+870
+23296E
+23296EK
+11300000
+15400000
+128
+239/500E
+239/500EK
+3400000
+5700000
+167
+230/500E
+230/500EK
+5050000
+7650000
+218
+240/500E
+240/500EK30
+6450000
+10500000
+830
+264
+231/500E
+231/500EK
+9300000
+13000000
+830
+325
+241/500E
+241/500EK30
+11000000
+16200000
+920
+336
+232/500E
+232/500EK
+13200000
+17800000
+Note:  Sufﬁ x K or K30 means tapered bore (1/12 or 1/30).
+Bore Diameter : 360
+500mm
+
+
+φda 
+φda 
+φDa 
+φDa
+• Dynamic equivalent radial load
+  Pr=XFr+YFa
+Values of Y1, Y2  and e from table.
+• Static equivalent radial load
+  Por=Fr+Y0Fa
+  Values Y0 from table.
+0.67
+Dimensions of 
+lubrication holes
+and grooves
+Constant
+Axial load factor
+diameter 
+do
+Groove 
+width 
+count 
+N
+Y0
+374.0
+466.0
+0.17
+4.05
+6.03
+3.96
+46.2
+23972E
+23972EK
+518.0
+2.84
+4.23
+2.78
+23072E
+23072EK
+518.0
+2.06
+3.06
+2.01
+148
+24072E
+24072EK30
+578.0
+3.09
+2.03
+23172E
+23172EK
+578.0
+0.42
+1.60
+2.39
+1.57
+279
+24172E
+24172EK30
+388.0
+622.0
+2.70
+342
+23272E
+23272EK
+398.0
+502.0
+0.19
+3.58
+5.33
+3.50
+68.2
+23976E
+23976EK
+402.0
+538.0
+2.92
+4.35
+2.86
+116
+23076E
+23076EK
+402.0
+538.0
+2.15
+3.20
+2.10
+154
+24076E
+24076EK30
+402.0
+598.0
+2.13
+3.17
+2.08
+236
+23176E
+23176EK
+402.0
+598.0
+1.70
+2.53
+1.66
+24176E
+24176EK30
+408.0
+652.0
+1.86
+2.77
+383
+23276E
+23276EK
+418.0
+522.0
+3.75
+5.59
+3.67
+71.4
+23980E
+23980EK
+422.0
+578.0
+2.81
+4.19
+151
+23080E
+23080EK
+422.0
+578.0
+2.03
+3.02
+204
+24080E
+24080EK30
+428.0
+622.0
+2.18
+3.24
+2.13
+266
+23180E
+23180EK
+428.0
+622.0
+1.73
+2.57
+24180E
+24180EK30
+428.0
+692.0
+1.86
+2.77
+461
+23280E
+23280EK
+438.0
+542.0
+3.85
+5.73
+3.76
+74.4
+23984E
+23984EK
+442.0
+598.0
+2.92
+4.35
+2.86
+158
+23084E
+23084EK
+442.0
+598.0
+3.11
+212
+24084E
+24084EK30
+448.0
+672.0
+2.06
+3.06
+2.01
+354
+23184E
+23184EK
+448.0
+672.0
+1.68
+1.64
+437
+24184E
+24184EK30
+456.0
+724.0
+1.84
+2.74
+1.80
+548
+23284E
+23284EK
+458.0
+582.0
+3.66
+5.46
+3.58
+101
+23988E
+23988EK
+468.0
+622.0
+2.87
+4.27
+2.80
+183
+23088E
+23088EK
+468.0
+622.0
+3.11
+247
+24088E
+24088EK30
+468.0
+692.0
+2.13
+3.17
+2.08
+371
+23188E
+23188EK
+468.0
+692.0
+1.73
+2.58
+24188E
+24188EK30
+476.0
+754.0
+1.86
+2.77
+605
+23288E
+23288EK
+478.0
+602.0
+3.85
+5.73
+3.76
+105
+23992E
+23992EK
+488.0
+652.0
+2.92
+4.35
+2.86
+208
+23092E
+23092EK
+488.0
+652.0
+2.12
+3.15
+279
+24092E
+24092EK30
+496.0
+724.0
+2.12
+3.15
+446
+23192E
+23192EK
+496.0
+724.0
+2.52
+1.65
+24192E
+24192EK30
+496.0
+794.0
+1.85
+1.81
+709
+23292E
+23292EK
+502.0
+628.0
+3.75
+5.59
+3.67
+126
+23996E
+23996EK
+508.0
+672.0
+3.01
+4.48
+217
+23096E
+23096EK
+508.0
+672.0
+2.20
+3.27
+2.15
+24096E
+24096EK30
+516.0
+754.0
+2.12
+3.15
+495
+23196E
+23196EK
+516.0
+754.0
+1.71
+2.54
+1.67
+625
+24196E
+24196EK30
+516.0
+834.0
+2.70
+820
+23296E
+23296EK
+522.0
+648.0
+3.85
+5.73
+3.76
+239/500E
+239/500EK
+528.0
+692.0
+3.07
+4.57
+3.00
+228
+230/500E
+230/500EK
+528.0
+692.0
+2.26
+3.37
+2.21
+240/500E
+240/500EK30
+536.0
+794.0
+3.11
+584
+231/500E
+231/500EK
+536.0
+794.0
+1.70
+2.53
+1.66
+718
+241/500E
+241/500EK30
+536.0
+884.0
+2.65
+232/500E
+232/500EK
+
+
+N-      d0
+With oil holes 
+/ oil groove (W33)
+Cr (N)
+Cor (N)
+Limiting speed (min-1)
+136
+239/530E
+239/530EK
+4100000
+6800000
+780
+185
+230/530E
+230/530EK
+6250000
+9450000
+780
+240/530E
+240/530EK30
+7800000
+12500000
+870
+272
+231/530E
+231/530EK
+10200000
+14600000
+980
+9.5
+232/530E
+232/530EK
+15300000
+21000000
+239/560E
+239/560EK
+4250000
+6950000
+820
+195
+230/560E
+230/560EK
+7000000
+10800000
+820
+258
+240/560E
+240/560EK30
+8350000
+13500000
+920
+231/560E
+231/560EK
+11000000
+15800000
+1030
+365
+9.5
+232/560E
+232/560EK
+16000000
+22000000
+239/600E
+239/600EK
+4800000
+8050000
+870
+230/600E
+230/600EK
+7650000
+12000000
+870
+272
+240/600E
+240/600EK30
+9050000
+14900000
+980
+231/600E
+231/600EK
+12100000
+17500000
+1090
+388
+9.5
+232/600E
+232/600EK
+17900000
+25100000
+850
+165
+239/630E
+239/630EK
+5750000
+9700000
+920
+212
+230/630E
+230/630EK
+8350000
+13100000
+1030
+231/630E
+231/630EK
+13500000
+19800000
+239/670E
+239/670EK
+6200000
+10500000
+980
+230/670E
+230/670EK
+9650000
+15300000
+980
+308
+240/670E
+240/670EK30
+12000000
+19800000
+1090
+336
+231/670E
+231/670EK
+15300000
+23000000
+950
+239/710E
+239/710EK
+6950000
+12100000
+1030
+236
+230/710E
+230/710EK
+10300000
+16600000
+1150
+345
+9.5
+231/710E
+231/710EK
+16800000
+25300000
+185
+239/750E
+239/750EK
+7500000
+13200000
+1090
+230/750E
+230/750EK
+11700000
+18900000
+1220
+365
+9.5
+231/750E
+231/750EK
+18100000
+27700000
+1060
+195
+239/800E
+239/800EK
+8150000
+14500000
+1150
+258
+230/800E
+230/800EK
+12200000
+20900000
+1150
+345
+240/800E
+240/800EK30
+15400000
+27200000
+1280
+375
+9.5
+231/800E
+231/800EK
+20000000
+31000000
+850
+1120
+239/850E
+239/850EK
+8600000
+15600000
+1220
+272
+230/850E
+230/850EK
+13600000
+22500000
+285 
+1180
+206
+239/900E
+239/900EK
+9300000
+17000000
+1280
+230/900E
+230/900EK
+14600000
+25400000
+950
+224
+239/950E
+239/950EK
+10800000
+19900000
+1360
+230/950E
+230/950EK
+16100000
+27200000
+1320
+236
+239/1000E
+239/1000EK
+11600000
+21300000
+1420
+308
+230/1000E
+230/1000EK
+17200000
+29700000
+1060
+239/1060E
+239/1060EK
+13200000
+24500000
+Note:  Sufﬁ x K or K30 means tapered bore (1/12 or 1/30).
+Bore Diameter : 530
+1060mm
+
+
+φda 
+φda 
+φDa 
+φDa
+• Dynamic equivalent radial load
+  Pr=XFr+YFa
+Values of Y1, Y2  and e from table.
+• Static equivalent radial load
+  Por=Fr+Y0Fa
+  Values Y0 from table.
+0.67
+Dimensions of 
+lubrication holes
+and grooves
+Constant
+Axial load factor
+diameter 
+do
+Groove 
+width 
+count 
+N
+Y0
+552.0
+688.0
+3.85
+5.73
+3.76
+156
+239/530E
+239/530EK
+558.0
+752.0
+2.98
+4.44
+2.91
+308
+230/530E
+230/530EK
+558.0
+752.0
+2.12
+3.15
+417
+240/530E
+240/530EK30
+566.0
+834.0
+2.13
+3.17
+2.08
+231/530E
+231/530EK
+574.0
+936.0
+1.80
+2.69
+1.76
+1215
+232/530E
+232/530EK
+582.0
+728.0
+0.17
+3.90
+5.80
+3.81
+177
+239/560E
+239/560EK
+588.0
+792.0
+2.95
+4.39
+2.89
+359
+230/560E
+230/560EK
+588.0
+792.0
+2.21
+3.29
+2.16
+468
+240/560E
+240/560EK30
+596.0
+884.0
+2.20
+3.27
+2.15
+732
+231/560E
+231/560EK
+612.0
+992.0
+2.70
+1390
+232/560E
+232/560EK
+622.0
+778.0
+0.17
+3.95
+5.87
+3.86
+214
+239/600E
+239/600EK
+628.0
+842.0
+3.10
+4.62
+3.03
+408
+230/600E
+230/600EK
+628.0
+842.0
+2.20
+3.27
+2.15
+551
+240/600E
+240/600EK30
+636.0
+944.0
+2.20
+3.27
+2.15
+887
+231/600E
+231/600EK
+654.0
+1048
+2.70
+1640
+232/600E
+232/600EK
+658.0
+822.0
+3.71
+5.52
+3.62
+273
+239/630E
+239/630EK
+666.0
+884.0
+3.07
+4.57
+3.00
+487
+230/630E
+230/630EK
+666.0
+994.0
+2.20
+3.27
+2.15
+1070
+231/630E
+231/630EK
+698.0
+872.0
+0.17
+3.90
+5.80
+3.81
+316
+239/670E
+239/670EK
+706.0
+944.0
+3.01
+4.48
+603
+230/670E
+230/670EK
+706.0
+944.0
+2.21
+3.29
+2.16
+801
+240/670E
+240/670EK30
+706.0
+1054
+2.18
+3.24
+2.13
+1260
+231/670E
+231/670EK
+738.0
+922.0
+0.17
+3.90
+5.80
+3.81
+369
+239/710E
+239/710EK
+746.0
+994.0
+3.10
+4.62
+3.03
+676
+230/710E
+230/710EK
+754.0
+1106
+2.24
+3.34
+2.19
+1432
+231/710E
+231/710EK
+778.0
+972.0
+0.17
+4.00
+5.95
+3.91
+417
+239/750E
+239/750EK
+786.0
+1054
+3.10
+4.62
+3.03
+803
+230/750E
+230/750EK
+794.0
+1176
+2.25
+3.34
+2.20
+1710
+231/750E
+231/750EK
+825.0
+1032
+0.17
+4.00
+5.96
+3.91
+470
+239/800E
+239/800EK
+836.0
+1114
+0.21
+3.20
+4.77
+3.13
+910
+230/800E
+230/800EK
+836.0
+1114
+2.43
+3.61
+2.37
+240/800E
+240/800EK30
+844.0
+1236
+2.32
+3.45
+2.26
+1910
+231/800E
+231/800EK
+878.0
+1092
+0.16
+4.16
+6.20
+4.07
+546
+239/850E
+239/850EK
+886.0
+1184
+0.21
+3.20
+4.77
+3.13
+1059
+230/850E
+230/850EK
+928.0
+1152
+0.16
+4.22
+6.28
+4.13
+618
+239/900E
+239/900EK
+936.0
+1244
+0.21
+3.27
+4.87
+3.20
+230/900E
+230/900EK
+986.0
+1214
+0.16
+4.11
+6.12
+4.02
+763
+239/950E
+239/950EK
+986.0
+1324
+0.21
+3.23
+4.82
+3.16
+1450
+230/950E
+230/950EK
+1036
+1284
+0.17
+4.05
+6.03
+3.96
+895
+239/1000E
+239/1000EK
+1036
+1384
+0.21
+3.27
+4.87
+3.20
+1610
+230/1000E
+230/1000EK
+1096
+1364
+0.17
+4.05
+6.03
+3.96
+1077
+239/1060E
+239/1060EK
+
+
+
+
+F
+C
+a
+oa
+min = 1000
+Spherical Roller Thrust Bearings
+Aligning angle
+Maximum permissible misalignment angle is about 
+2˚ under general service conditions. If the aligning 
+advantages of this bearing type are to be realized, 
+care must be taken to provide clearance for parts 
+in the surrounding structure.
+Safety-factor
+The safety-factor "So" must be over 4.
+Minimum axial load
+To prevent damage caused by sliding motion 
+between the rollers and raceway, spherical roller 
+thrust bearings must be subjected to a load more 
+than the minimum load, Fa min.
+Lubrication
+Because there are many sliding surfaces in E type 
+Spherical Roller Thrust Bearings (cage-to-guidesleeve and roller-ends-to-rib),oil lubricant (not 
+grease) should be applied.
+Tolerance Values of Inner Rings
+Tolerance Values of Spherical Roller Thrust Bearings (Class 0)
+-- 15
+-- 20
+-- 25
+-- 30
+-- 35
+-- 40
+-- 45
+Single plane mean
+bore diameter
+deviation
++ 150
++ 200
++ 250
++ 300
++ 350
++ 400
++ 450
+-- 150
+-- 200
+-- 300
+-- 350
+-- 400
+-- 450
+Deviation of
+single height,
+Bore diameter
+variation,
+in a single
+radial plane
+Inner ring
+reference
+face runout
+with bore Sd
+References
+Tolerance Values of Outer Rings
+-- 25
+-- 30
+-- 35
+-- 40
+-- 45
+-- 50
+-- 75
+-- 100
+Outside diameter
+deviation
+bore diameter
+outside diameter
+Remarks:  The high deviation of bearing bore diameter specified in this table does not apply within a distance of 1.2    r (max) from the ring face.
+The low deviation of bearing outside diameter specified in this table does not apply within a distance of 1.2    r (max) from the ring face.
+p
+V 
+Ts 
+Unit:   m
+Unit:   m
+
+
+Spherical Roller Thrust Bearings
+φD
+φD1
+C
+φd1
+φd
+T
+B1
+Type E
+φD
+φD1
+C
+φd1
+φd
+T
+B1
+Type EX
+Ca (N)
+Coa (N)
+Limiting speed  (min-1)
+T
+29412E
+299000
+890000
+29412EX
+350000
+915000
+29413E
+345000
+1040000
+29413EX
+410000
+1110000
+1700
+29414E
+375000
+1110000
+29414EX
+490000
+1350000
+29415E
+445000
+1380000
+2300
+29415EX
+525000
+1470000
+2300
+54
+29416E
+480000
+1490000
+54
+29416EX
+580000
+1630000
+39
+29317E
+293000
+990000
+39
+29317EX
+365000
+1060000
+29417E
+540000
+1720000
+29417EX
+640000
+1810000
+155
+39
+29318E
+300000
+1040000
+155
+39
+29318EX
+355000
+1070000
+29418E
+620000
+2020000
+29418EX
+710000
+2080000
+29320E
+355000
+1260000
+29320EX
+435000
+1400000
+29420E
+690000
+2230000
+1700
+29420EX
+870000
+2530000
+1700
+29322E
+470000
+1680000
+29322EX
+550000
+1730000
+73
+29422E
+845000
+2820000
+73
+29422EX
+1060000
+3150000
+950
+54
+29324E
+565000
+2030000
+54
+29324EX
+670000
+2160000
+78
+29424E
+1030000
+3450000
+78
+29424EX
+1210000
+3750000
+29326E
+665000
+2420000
+29326EX
+770000
+2440000
+29426E
+1140000
+3850000
+29426EX
+1400000
+4300000
+850
+29328E
+700000
+2560000
+29328EX
+860000
+2840000
+950
+29428E
+1200000
+4050000
+29428EX
+1410000
+4350000
+850
+39
+29230E
+335000
+1390000
+29330E
+735000
+2840000
+29430E
+1330000
+4600000
+29430EX
+1630000
+5150000
+39
+29232E
+345000
+1470000
+29332E
+880000
+3400000
+29332EX
+1040000
+3500000
+850
+29432E
+1510000
+5350000
+29432EX
+1820000
+5750000
+29234E
+390000
+1700000
+29334E
+900000
+3550000
+103
+29434E
+1670000
+5900000
+950
+29236E
+420000
+1900000
+73
+29336E
+1020000
+3950000
+109
+29436E
+1950000
+7000000
+860
+Note: For heavy load application, da should be large enough to support the shaft washer rib.
+Bore Diameter : 60
+180mm
+
+
+φDa
+φda
+• Dynamic equivalent axial load
+  Pa=Fa+1.2Fr
+• Static equivalent axial load
+  Poa=Fa+2.7Fr
+    where,
+    However Fr/Fa     0.55  must be satisfied
+:Axial load 
+:Radial load 
+φdb1
+30°
+φdb2
+Reference Dimensions (mm)
+Spacer 
+dimensions 
+d1
+D1
+B1
+C
+db1
+db2
+123
+89
+39.5
+108
+29412E
+113
+87
+37.1
+108
+66.0
+66.0
+29412EX
+133
+96
+42.5
+99
+115
+3.41
+29413E
+123
+93.5
+29.5
+99
+115
+72.0
+72.0
+3.20
+29413EX
+142
+103
+17
+45.5
+125
+4.16
+29414E
+128.3
+98.4
+42.7
+125
+75.5
+77.5
+3.82
+29414EX
+152
+109
+47
+113
+132
+4.98
+29415E
+105.6
+34.5
+45.6
+47
+113
+132
+82.5
+82.5
+4.70
+29415EX
+162
+5.95
+29416E
+149
+113
+48.2
+88.0
+88.0
+5.60
+29416EX
+143.5
+114
+115
+2.87
+29317E
+134
+110.5
+115
+90.0
+90.0
+2.67
+29317EX
+125
+54
+7.19
+29417E
+158.2
+120.5
+50.6
+54
+94.0
+94.0
+6.69
+29417EX
+148.5
+3.06
+29318E
+135.2
+116
+23.8
+35.1
+95.0
+95.0
+29318EX
+132
+157
+8.28
+29418E
+162
+127
+40.5
+53
+157
+99.0
+99.0
+7.83
+29418EX
+163
+129
+20.8
+3.91
+29320E
+146.9
+126
+38.2
+20.8
+105.0
+107.0
+3.61
+29320EX
+146
+62
+175
+11.2
+29420E
+181
+139
+44.5
+59.6
+62
+175
+108.0
+110.0
+10.6
+29420EX
+182
+143
+45.5
+145
+165
+5.67
+29322E
+165.1
+140.6
+30.9
+145
+165
+116.0
+117.0
+5.22
+29322EX
+162
+165
+14.7
+29422E
+199.6
+153.4
+64.4
+165
+119.5
+120.0
+14.0
+29422EX
+159
+7.90
+29324E
+184.5
+155
+34.5
+48.7
+127.0
+128.0
+7.30
+29324EX
+236
+174
+205
+18.5
+29424E
+218
+166.5
+54
+70.9
+205
+131.0
+132.0
+17.6
+29424EX
+171
+76
+195
+9.45
+29326E
+197.4
+165.8
+36.8
+52.7
+76
+195
+136.0
+138.0
+8.82
+29326EX
+255
+189
+195
+23.5
+29426E
+236.4
+181
+195
+141.5
+143.0
+22.3
+29426EX
+183
+82
+185
+205
+11.2
+29328E
+218.4
+179
+38.5
+54.8
+82
+185
+205
+147.5
+149.0
+10.5
+29328EX
+268
+199
+86
+205
+24.6
+29428E
+246
+196
+53.6
+74.4
+86
+205
+153.0
+160.0
+22.8
+29428EX
+208
+178
+82
+179
+196
+4.60
+29230E
+194
+87
+195
+11.7
+29330E
+285
+214
+86
+92
+29.6
+29430E
+264.4
+207.5
+58.5
+80.8
+92
+163.0
+169.0
+27.8
+29430EX
+219
+188
+189
+206
+4.70
+29232E
+208
+92
+15.5
+29332E
+243.4
+199.8
+61.4
+92
+166.0
+174.0
+14.5
+29332EX
+306
+229
+99
+265
+35.9
+29432E
+283.8
+222
+62.5
+85.7
+99
+265
+174.5
+181.0
+33.4
+29432EX
+233
+198
+92
+201
+218
+6.00
+29234E
+216
+96
+245
+16.3
+29334E
+324
+243
+99
+104
+245
+285
+44.0
+29434E
+243
+208
+211
+228
+6.30
+29236E
+232
+103
+20.7
+29336E
+342
+255
+39
+105
+52.2
+29436E
+
+
+Spherical Roller Thrust Bearings
+      D1
+C
+      d1
+T
+B1
+Type E
+Ca (N)
+Coa (N)
+Limiting speed  (min-1)
+T
+29238E
+540000
+2300000
+78
+29338E
+1170000
+4550000
+115
+29438E
+2120000
+7750000
+29240E
+550000
+2410000
+29340E
+1350000
+5250000
+122
+29440E
+2350000
+8450000
+740
+29244E
+595000
+2750000
+29344E
+1410000
+5750000
+122
+29444E
+2410000
+8950000
+29248E
+890000
+4000000
+29348E
+1410000
+5850000
+980
+122
+29448E
+2480000
+9450000
+29252E
+915000
+4250000
+29352E
+1810000
+7500000
+860
+132
+29452E
+2940000
+11600000
+29256E
+935000
+4500000
+29356E
+1850000
+7950000
+145
+29456E
+3450000
+13500000
+73
+29260E
+1220000
+5850000
+109
+29360E
+2310000
+10000000
+145
+29460E
+3650000
+14800000
+73
+29264E
+1270000
+6150000
+980
+109
+29364E
+2370000
+10600000
+155
+29464E
+4050000
+16800000
+73
+29268E
+1290000
+6350000
+950
+122
+29368E
+2850000
+12400000
+29468E
+4750000
+19300000
+29272E
+1650000
+8050000
+830
+122
+29372E
+2900000
+12900000
+29472E
+4900000
+20500000
+29276E
+1780000
+8800000
+132
+29376E
+3400000
+15300000
+175
+29476E
+5200000
+22000000
+29280E
+1840000
+9250000
+132
+29380E
+3550000
+16300000
+185
+29480E
+5850000
+25000000
+29284E
+2260000
+11300000
+700
+29384E
+3900000
+17900000
+730
+185
+29484E
+6050000
+26000000
+29288E
+2290000
+11800000
+660
+680
+145
+29388E
+4050000
+19000000
+780
+206
+9.5
+29488E
+6950000
+30000000
+29292E
+2290000
+11900000
+660
+29392E
+4600000
+21700000
+206
+9.5
+29492E
+7150000
+31500000
+103
+29296E
+2530000
+13200000
+730
+29396E
+4630000
+21900000
+850
+224
+9.5
+29496E
+8250000
+36000000
+103
+292/500E
+2590000
+13800000
+293/500E
+4700000
+22600000
+870
+224
+9.5
+294/500E
+8250000
+35000000
+109
+292/530E
+2820000
+15100000
+Note: For heavy load application, da should be large enough to support the shaft washer rib.
+Bore Diameter : 190
+530mm
+
+
+• Dynamic equivalent axial load
+  Pa=Fa+1.2Fr
+• Static equivalent axial load
+  Poa=Fa+2.7Fr
+    where,
+    However Fr/Fa     0.55  must be satisfied
+:Axial load 
+:Radial load 
+Reference Dimensions (mm)
+Spacer 
+dimensions 
+d1
+D1
+B1
+C
+db1
+db2
+262
+223
+104
+245
+8.50
+29238E
+308
+246
+275
+25.5
+29338E
+271
+111
+275
+61.4
+29438E
+271
+236
+108
+255
+9.08
+29240E
+325
+261
+116
+265
+295
+32.0
+29340E
+286
+59
+122
+335
+73.0
+29440E
+292
+254
+275
+9.84
+29244E
+345
+125
+285
+34.5
+29344E
+308
+132
+74.2
+29444E
+283
+285
+305
+17.1
+29248E
+365
+36.3
+29348E
+326   
+59
+142 
+375
+83.0
+29448E
+302
+139
+305
+325
+18.5
+29252E
+405
+329
+148
+365
+51.5
+29352E
+357
+127
+154
+405
+29452E
+323
+325
+345
+19.5
+29256E
+423
+348
+158
+54.0
+29356E
+495
+387
+68
+166
+137
+29456E
+405
+353
+162
+31.0
+29260E
+379
+105
+168
+75.4
+29360E
+515
+402
+175
+146
+29460E
+372
+172
+375
+32.8
+29264E
+482
+399
+105
+53
+80.0
+29364E
+555
+435
+149
+191
+435
+495
+179
+29464E
+445
+395
+183
+395
+34.5
+29268E
+428
+59
+192
+470
+29368E
+590
+462
+61
+164
+82
+201
+465
+228
+29468E
+485
+423
+194
+455
+50.4
+29272E
+448
+59
+202
+495
+111
+29372E
+610
+61
+164
+82
+485
+234
+29472E
+505
+441
+202
+475
+52.8
+29276E
+477
+127
+63
+216
+525
+29376E
+504
+63
+168
+575
+263
+29476E
+526
+212
+55.1
+29280E
+596
+494
+127
+146
+29380E
+680
+534
+178
+89
+236
+610
+314
+29480E
+564
+489
+525
+74.9
+29284E
+626
+68
+525
+575
+29384E
+700
+556
+178
+89
+244
+325
+29484E
+585
+508
+49
+545
+79.0
+29288E
+655
+548
+49
+245
+192
+29388E
+745
+588
+199
+595
+421
+29488E
+605
+245
+80.9
+29292E
+685
+567
+144
+72
+257
+575
+216
+29392E
+765
+608
+199
+272
+615
+690
+435
+29492E
+635
+556
+99
+259
+555
+595
+97.5
+29296E
+705
+590
+144
+72
+595
+224
+29396E
+810
+638
+216
+108
+645
+730
+543
+29496E
+654
+574
+99
+268
+575
+615
+101
+292/500E
+725
+611
+144
+615
+231
+293/500E
+830
+661
+216
+107
+559
+294/500E
+692
+612
+105
+288
+615
+653
+292/530E
+Reference Dimensions (mm)
+Spacer 
+dimensions 
+d1
+D1
+B1
+C
+db1
+db2
+262
+223
+104
+245
+8.50
+29238E
+308
+246
+275
+25.5
+29338E
+271
+111
+275
+61.4
+29438E
+271
+236
+108
+255
+9.08
+29240E
+325
+261
+116
+265
+295
+32.0
+29340E
+286
+59
+122
+335
+73.0
+29440E
+292
+254
+275
+9.84
+29244E
+345
+125
+285
+34.5
+29344E
+308
+132
+74.2
+29444E
+283
+285
+305
+17.1
+29248E
+365
+36.3
+29348E
+326   
+59
+142 
+375
+83.0
+29448E
+302
+139
+305
+325
+18.5
+29252E
+405
+329
+148
+365
+51.5
+29352E
+357
+127
+154
+405
+29452E
+323
+325
+345
+19.5
+29256E
+423
+348
+158
+54.0
+29356E
+495
+387
+68
+166
+137
+29456E
+405
+353
+162
+31.0
+29260E
+379
+105
+168
+75.4
+29360E
+515
+402
+175
+146
+29460E
+372
+172
+375
+32.8
+29264E
+482
+399
+105
+53
+80.0
+29364E
+555
+435
+149
+191
+435
+495
+179
+29464E
+445
+395
+183
+395
+34.5
+29268E
+428
+59
+192
+470
+29368E
+590
+462
+61
+164
+82
+201
+465
+228
+29468E
+485
+423
+194
+455
+50.4
+29272E
+448
+59
+202
+495
+111
+29372E
+610
+61
+164
+82
+485
+234
+29472E
+505
+441
+202
+475
+52.8
+29276E
+477
+127
+63
+216
+525
+29376E
+504
+63
+168
+575
+263
+29476E
+526
+212
+55.1
+29280E
+596
+494
+127
+146
+29380E
+680
+534
+178
+89
+236
+610
+314
+29480E
+564
+489
+525
+74.9
+29284E
+626
+68
+525
+575
+29384E
+700
+556
+178
+89
+244
+325
+29484E
+585
+508
+49
+545
+79.0
+29288E
+655
+548
+49
+245
+192
+29388E
+745
+588
+199
+595
+421
+29488E
+605
+245
+80.9
+29292E
+685
+567
+144
+72
+257
+575
+216
+29392E
+765
+608
+199
+272
+615
+690
+435
+29492E
+635
+556
+99
+259
+555
+595
+97.5
+29296E
+705
+590
+144
+72
+595
+224
+29396E
+810
+638
+216
+108
+645
+730
+543
+29496E
+654
+574
+99
+268
+575
+615
+101
+292/500E
+725
+611
+144
+615
+231
+293/500E
+830
+661
+216
+107
+559
+294/500E
+692
+612
+105
+288
+615
+653
+292/530E
+
+
+B1032E-5
+2008.10.V-ABE-ABE

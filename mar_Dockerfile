@@ -1,0 +1,41 @@
+# Dockerfile для полного стека
+# Включает API и утилиты обработки данных
+
+FROM python:3.11-slim
+
+# Установка системных зависимостей
+RUN apt-get update && apt-get install -y \
+    postgresql-client \
+    git \
+    curl \
+    && rm -rf /var/lib/apt/lists/*
+
+# Рабочая директория
+WORKDIR /app
+
+# Копирование requirements
+COPY api/requirements.txt ./requirements.txt
+
+# Установка Python зависимостей
+RUN pip install --no-cache-dir -r requirements.txt
+
+# Копирование кода
+COPY api/ ./api/
+COPY scripts/ ./scripts/
+COPY data/ ./data/
+COPY knowledge-base/ ./knowledge-base/
+
+# Переменные окружения
+ENV PYTHONPATH=/app
+ENV API_HOST=0.0.0.0
+ENV API_PORT=8000
+
+# Открытие порта
+EXPOSE 8000
+
+# Healthcheck
+HEALTHCHECK --interval=30s --timeout=3s --start-period=5s --retries=3 \
+  CMD curl -f http://localhost:8000/health || exit 1
+
+# Команда по умолчанию
+CMD ["python", "api/main.py"]

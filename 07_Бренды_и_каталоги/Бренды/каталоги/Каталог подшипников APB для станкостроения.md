@@ -1,0 +1,755 @@
+# Каталог подшипников APB для станкостроения.
+
+**Language:** английский, немецкий о производителе ...
+
+**Size:** 19,3Mb
+
+**Source:** [PDF]()
+
+---
+
+## Content
+
+w w w . a p b - b e a r i n g s . c o m
+lager für
+werkzeugmaschinen-
+anwendungen
+bearings for machine
+tool applications
+
+-- 1 of 16 --
+
+unsere kunden / our customers
+SCHIESS
+PEISELER
+FIBRO
+TSUDAKOMA
+NICOLAS CORREA
+SCHMIDER & JAUCH
+CME
+HOMAG Group
+MCM
+SCM Group
+WEMHOENER ANLAGEN
+FAGOR
+WILLEMIN MACODEL
+KELLENBERGER
+GORATU
+WEINGÄRTNER
+LINSINGER
+RICHARDON
+SIMSAV
+PARPAS
+MORBIDELLI
+DALCOS
+FPT
+KMF
+HAAS CNC
+UNISIGN
+RUEKLE
+ROMI + BRAZILIAN MANUFACTURERS
+TAIWANESE MANUFACTURERS
+CHINESE MANUFACTURERS
+ARGENTINA MANUFACTURERS
+sowie viele weitere kunden... /
+as well as many further customers
+referenzliste präzisionsmaschinenhersteller
+referencelist of manufactures of precision machines
+inhalt
+serie AXZF.xxxx.TN / AXZF.xxxx.L.TN
+nadel axial zylinderrollenlager >>>
+needle roller/axial cylindrical roller bearings
+4
+serie AXZNxxx.TN / AXZNxxx.L.TN
+nadel axial zylinderrollenlager >>>
+needle roller/axial cylindrical roller bearings
+6
+serie AXSF
+axial schrägkugellager >>>
+axial angular contact ball bearings
+8
+serie AXSN
+axial schrägkugellager >>>
+axial angular contact ball bearings
+10
+serie AXRY
+axial-radiallager >>>
+axial-radial bearings
+12
+einbauwerte für die serie axry /
+mounting values for axry series
+zusätzliche technische daten / additional technical data
+14
+page
+
+-- 2 of 16 --
+
+die 	marke
+seit 2004 premiummarke der thb gmbh
+fertigungsstätten aller produkte und
+komponenten in westeuropa
+zertifizierte materialien
+(einsatz + durchhärtend) aus westeuropa
+modernster maschinenpark
+audit der produktionsstandorte
+jederzeit möglich
+breiter standardbereich (z.t. bevorratungs-
+programm) und sonderlösungen
+höchstmögliche fertigungsflexibilität
+the 	brand
+thb´s premiumbrand since 2004
+all production facilities and components
+located/made in west europe
+certified materials (case + through hardening) –
+only source: west europe
+top modern machinery equipment
+factories are always auditable
+broad standard range (stock programme) and
+special solutions (tailor made)
+highest possible flexibility in
+manufacturing
+premiummarke der thb
+premium brand owned by thb
+w w w . a p b - b e a r i n g s . c o m
+
+-- 3 of 16 --
+
+• präzisionslager beispielsweise für gewindetriebe / precision bearings for e. g. screw drives
+• zweiseitig wirkende axial zylinderrollenlager mit radialer führung durch nadellager / double
+direction axial cylindrical roller bearings, radial guided through a needle roller bearing
+• geeignet für hohe axiallast, sowie kippmomente / suitable for high axial loads,
+as well as tilting moments
+• leichte montage durch einbaulöcher im außenring / easy to mount with fitting holes in the outer ring
+• axiale vorspannung durch präzisionsmutter / axial preloading with precision locknut
+• einsatz einer langen wellenscheibe bei nicht ausreichender
+axialer abstützung der wellenscheibe oder zur
+erzeugung einer dichtungslaufbahn / usage of the
+long locating washer in case of an insufficient
+support of the locating washer or for
+generating a seal-raceway
+>>> 	move 	on
+nadel axial zylinderrollenlager >>>
+needle roller/axial cylindrical roller bearings
+serie AXZF.xxxx.TN / AXZF.xxxx.L.TN
+4
+
+-- 4 of 16 --
+
+bezeichnung 	gewicht
+designation 	mass
+AXZF.1762.L.TN 	0,52 kg 17 	62 	57 	9 	14 	23 11 	8 	38 28 38 39 26 41,5 48 0,6 0,3 3,2 26,15 56,9 14,15 	20 7750 2150 	39 	26
+AXZF.2068.L.TN 	0,61 kg 20 	68 	60 	10 	14 	24 11 	8 	42 30 40 43 28 	43 53 0,6 0,3 3,2 33,6 75,9 	15 22,5 6900 1950 	43 	28
+AXZF.2080.L.TN 	1,22 kg 20 	80 	75 12,5 	18 27,5 11 	10 	52 40 50 53 38 	53 63 0,6 0,3 3,2 	64 	140 22,5 35,5 6100 1550 	53 	38
+AXZF.2575.L.TN 	0,84 kg 25 	75 	65 	10 	18 	25 11 	10 	47 36 45 48 34 	48 58 0,6 0,3 3,2 35,4 85,5 22,5 35,5 6000 1910 	48 	34
+AXZF.2590.L.TN 	1,75 kg 25 	90 	75 12,5 	18 27,5 11 	10 	62 48 60 63 45 	53 73 0,6 0,3 3,2 81,5 199,5 24,2 41,3 4850 1360 	63 	45
+AXZF.3080.L.TN 	0,90 kg 30 	80 	65 	10 	18 	25 11 	10 	52 40 50 53 38 	48 63 0,6 0,3 3,2 	39 	100 24,1 41,6 5450 1820 	53 	38
+AXZF.30105.L.TN 	2,15 kg 30 105 	82 	14 	18 	30 12 	10 	68 52 66 69 50 	57 85 0,6 0,3 3,2 	107 	265 	26 	47 4400 1300 	69 	50
+AXZF.3590.L.TN 	1,25 kg 35 	90 	70 	11 	18 	27 12 	10 	60 45 58 61 43 	51 73 0,6 0,3 3,2 55,5 147,5 25,5 46,5 4900 1800 	61 	43
+AXZF.35110.L.TN 	1,85 kg 35 110 	82 	14 	18 	30 12 	10 	73 60 73 74 58 	57 88 0,6 0,3 3,2 104,5 	265 	27 52,5 3950 1220 	74 	58
+AXZF.40100.L.TN 	1,45 kg 40 100 	70 	11 	18 	27 12 	10 	65 50 63 66 48 	51 80 0,6 0,3 3,2 58,6 162,25 	27 52,5 4410 1620 	66 	48
+AXZF.40115.L.TN 	3,00 kg 40 115 	93 	16 22,5 	34 12 12,5 	78 60 78 79 58 65,5 94 0,6 0,3 	6 	116 	314 37,5 73,5 3650 1220 	79 	58
+AXZF.45105.L.TN 	1,85 kg 45 105 	75 11,5 22,5 26,5 12 12,5 	70 56 68 71 54 	55 85 0,6 0,3 	6 	62 	178 	39 	75 4030 1520 	71 	54
+AXZF.45130.L.TN 	4,30 kg 45 130 103 17,5 22,5 38,5 14 12,5 	90 70 88 91 68 	72 105 0,6 0,3 	6 	155 	406 	41 	83 3305 1160 	91 	68
+AXZF.50115.L.TN 	2,45 kg 50 115 	78 11,5 22,5 26,5 12 12,5 	78 60 78 79 58 	58 94 0,6 0,3 	6 	89 	299 	39 	81 3550 1150 	79 	58
+AXZF.50140.L.TN 	4,65 kg 50 140 103 17,5 22,5 38,5 14 12,5 	95 75 93 96 73 	72 113 0,6 0,3 	6 	174 	483 	45 	92 3150 1150 	96 	73
+AXZF.55145.L.TN 	5,00 kg 55 145 103 17,5 22,5 38,5 14 12,5 100 80 98 101 78 	72 118 0,6 0,3 	6 	180 	510 	45 	92 2950 1050 101 	78
+AXZF.60150.L.TN 	5,35 kg 60 150 103 17,5 22,5 38,5 16 12,5 105 90 105 106 88 	72 123 0,6 0,3 	6 	190 	560 	47 	94 2800 1000 106 	88
+AXZF.65155.L.TN 	5,70 kg 65 155 103 17,5 22,5 38,5 16 12,5 110 90 108 111 88 	72 128 0,6 0,3 	6 	175 	510 	57 106 2700 	950 111 	88
+AXZF.70160.L.TN 	5,95 kg 70 160 103 17,5 22,5 38,5 16 12,5 115 100 115 116 98 	72 133 0,6 0,3 	6 	205 	635 	58 121 2500 	850 116 	98
+AXZF.75185.L.TN 	10,60 kg 75 185 125 	21 	27 	46 16 	15 135 115 135 136 110 	87 155 	1 0,3 	6 	300 	900 	75 135 2200 	750 136 110
+AXZF.90210.L.TN 	15,10 kg 90 210 135 22,5 	32 47,5 16 17,5 160 130 158 161 125 94,5 180 	1 0,3 	8 	330 1150 100 215 1900 	750 161 125
+08090600010d
+abmessungen / dimensions (mm)
+bezeichnung 	gewicht
+designation 	mass
+tragzahlen radial
+radial load ratings
+dyn.
+Ca
+kN
+stat.
+C0a
+kN
+tragzahlen axial
+axial load ratings
+abmessungen / dimensions (mm)
+AXZF.1762.TN 	0,49 kg 	17 	62 	43 	9 	14 	38 	27,5 	8 	48 	0,6 	0,3 	3,2 	26,15 	56,9 14,15 	20 	7750 	2150 	39 	28
+AXZF.2068.TN 	0,56 kg 	20 	68 	46 	10 	14 	42 	29 	8 	53 	0,6 	0,3 	3,2 	33,6 	75,9 	15 	22,5 	6900 	1950 	43 	33
+AXZF.2080.TN 	1,10 kg 	20 	80 	60 12,5 	18 	52 	38 	10 	63 	0,6 	0,3 	3,2 	64 	140 	22,5 	35,5 	6100 	1550 	53 	38
+AXZF.2575.TN 	0,78 kg 	25 	75 	50 	10 	18 	47 	33 	10 	58 	0,6 	0,3 	3,2 	35,4 	85,5 	22,5 	35,5 	6000 	1910 	48 	39
+AXZF.2590.TN 	1,60 kg 	25 	90 	60 12,5 	18 	62 	38 	10 	73 	0,6 	0,3 	3,2 	81,5 	199,5 	24,2 	41,3 	4850 	1360 	63 	45
+AXZF.3080.TN 	0,85 kg 	30 	80 	50 	10 	18 	52 	33 	10 	63 	0,6 	0,3 	3,2 	39 	100 	24,1 	41,6 	5450 	1820 	53 	44
+AXZF.30105.TN 	1,95 kg 	30 	105 	66 	14 	18 	68 	41 	10 	85 	0,6 	0,3 	3,2 	107 	265 	26 	47 	4400 	1300 	69 	52
+AXZF.3590.TN 	1,12 kg 	35 	90 	54 	11 	18 	60 	35 	10 	73 	0,6 	0,3 	3,2 	55,5 	147,5 	25,5 	46,5 	4900 	1800 	61 	50
+AXZF.35110.TN 	1,60 kg 	35 	110 	66 	14 	18 	73 	41 	10 	88 	0,6 	0,3 	3,2 	104,5 	265 	27 	52,5 	3950 	1220 	74 	60
+AXZF.40100.TN 	1,35 kg 	40 	100 	54 	11 	18 	65 	35 	10 	80 	0,6 	0,3 	3,2 	58,6 162,25 	27 	52,5 	4410 	1620 	66 	55
+AXZF.40115.TN 	2,70 kg 	40 	115 	75 	16 	22,5 	78 	47,5 12,5 	94 	0,6 	0,3 	6 	116 	314 	37,5 	73,5 	3650 	1220 	79 	65
+AXZF.45105.TN 	1,70 kg 	45 	105 	60 11,5 	22,5 	70 	40 12,5 	85 	0,6 	0,3 	6 	62 	178 	39 	75 	4030 	1520 	71 	60
+AXZF.45130.TN 	3,90 kg 	45 	130 	82 17,5 	22,5 	90 	51 12,5 105 	0,6 	0,3 	6 	155 	406 	41 	83 	3305 	1160 	91 	70
+AXZF.50115.TN 	2,10 kg 	50 	115 	60 11,5 	22,5 	78 	40 12,5 	94 	0,6 	0,3 	6 	89 	299 	39 	81 	3550 	1150 	79 	67
+AXZF.50140.TN 	4,20 kg 	50 	140 	82 17,5 	22,5 	95 	51 12,5 113 	0,6 	0,3 	6 	174 	483 	45 	92 	3150 	1150 	96 	75
+AXZF.55145.TN 	4,50 kg 	55 	145 	82 17,5 	22,5 100 	51 12,5 118 	0,6 	0,3 	6 	180 	510 	45 	99 	2950 	1050 	101 	85
+AXZF.60150.TN 	4,70 kg 	60 	150 	82 17,5 	22,5 105 	51 12,5 123 	0,6 	0,3 	6 	190 	560 	47 	94 	2800 	1000 	106 	90
+AXZF.65155.TN 	5,10 kg 	65 	155 	82 17,5 	22,5 110 	51 12,5 128 	0,6 	0,3 	6 	175 	510 	57 	106 	2700 	950 	111 	97
+AXZF.70160.TN 	5,20 kg 	70 	160 	82 17,5 	22,5 115 	51 12,5 133 	0,6 	0,3 	6 	205 	635 	58 	121 	2500 	850 	116 	100
+AXZF.75185.TN 	9,40 kg 	75 	185 100 	21 	27 135 	62 	15 155 	1 	0,3 	6 	300 	900 	75 	135 	2200 	750 	136 	113
+AXZF.90210.TN 	13,70 kg 	90 	210 110 22,5 	32 160 	69,5 17,5 180 	1 	0,3 	8 	330 	1150 	100 	215 	1900 	750 	161 	130
+ausführung mit langer
+wellenscheibe / version with
+long locating washer
+ausführung mit kurzer
+wellenscheibe / version with
+short locating washer
+d 	D 	H 	B 	C 	D1 	H1 	C1 	J 	r1min rmin 	d1 	Da
+von
+from
+da
+bis
+to
+dyn.
+Cr
+kN
+nG
+öl/oil
+1/min
+stat.
+C0r
+kN
+nG
+fett/grease
+1/min
+montage-
+abmessungen
+mounting dimensions
+grenzdrehzahlen
+limiting speeds
+d 	D 	H 	B 	C 	B1 	B2 	C1 	D1 D2 D3
+Da
+max
+da
+min H1 	J r1min rmin d1 	Da
+von
+from
+da
+bis
+to
+dyn.
+Ca
+kN
+stat.
+C0a
+kN
+dyn.
+Cr
+kN
+stat.
+C0r
+kN
+tragzahlen axial
+axial load ratings
+tragzahlen radial
+radial load ratings
+montage-
+abmessungen
+mounting dimensions
+grenzdrehzahlen
+limiting speeds
+nG
+öl/oil
+1/min
+nG
+fett/grease
+1/min
+w w w . a p b - b e a r i n g s . c o m
+
+-- 5 of 16 --
+
+• präzisionslager bspw. für gewindetriebe / precision bearings e. g. screw drives
+• zweiseitig wirkende axial zylinderrollanlager mit radialer führung durch nadellager / double
+direction axial cylindrical roller bearings, radial guided through a needle roller bearing
+• geeignet für hohe axiallast, sowie kippmomente / suitable for high axial loads,
+as well as tilting moments
+• axiale vorspannung durch präzisionsmutter / axial preloading with precision locknut
+• einsetzen einer langen wellenscheibe bei nicht ausreichender
+axialer abstützung der wellenscheibe oder zur
+erzeugung einer dichtungslaufbahn / usage of the
+long locating washer in case of an insufficient
+support of the locating washer or for
+generating a seal-raceway
+>>> 	move 	on
+nadel axial zylinderrollenlager >>>
+needle roller/axial cylindrical roller bearings
+serie AXZNxxx.TN /AXZNxxx.L.TN
+6
+
+-- 6 of 16 --
+
+AXZN.1747.TN 	0,37 kg 	17 	47 	43 	9 	16 	38 	29,5 	0,6 	0,3 	26,5 	58 	14,5 	20,4 	7850 	2200 	39 	28
+AXZN.2052.TN 	0,41 kg 	20 	52 	46 	10 	16 	42 	31 	0,6 	0,3 	34 	77 	15 	22,6 	7050 	2100 	43 	33
+AXZN.2062.TN 	0,87 kg 	20 	62 	60 	12,5 	20 	52 	40 	0,6 	0,3 	65 	143 	23 	37,3 	6050 	1550 	53 	38
+AXZN.2557.TN 	0,53 kg 	25 	57 	50 	10 	20 	47 	35 	0,6 	0,3 	36 	87 	23 	37,3 	6050 	1980 	48 	39
+AXZN.2572.TN 	1,17 kg 	25 	72 	60 	12,5 	20 	62 	40 	0,6 	0,3 	81 	200 	25 	42,2 	5050 	1830 	63 	45
+AXZN.3062.TN 	0,60 kg 	30 	62 	50 	10 	20 	52 	35 	0,6 	0,3 	40 	102,5 	24,9 	42,7 	5900 	2050 	53 	44
+AXZN.3080.TN 	1,50 kg 	30 	80 	66 	14 	20 	68 	43 	0,6 	0,3 107,6 	266,1 	27 	49 	4510 	1350 	69 	52
+AXZN.3570.TN 	0,80 kg 	35 	70 	54 	11 	20 	60 	37 	0,6 	0,3 	56,5 	149 	26,5 	48 	4850 	1750 	61 	50
+AXZN.3585.TN 	1,65 kg 	35 	85 	66 	14 	20 	73 	43 	0,6 	0,3 	106 	267 	28 	54 	4000 	1250 	74 	60
+AXZN.4075.TN 	0,90 kg 	40 	75 	54 	11 	20 	65 	37 	0,6 	0,3 	60 	164 	28 	54 	4420 	1610 	66 	55
+AXZN.4090.TN 	2,09 kg 	40 	90 	75 	16 	25 	78 	50 	0,6 	0,3 	118 	317 	38,5 	75 	3750 	1220 	79 	65
+AXZN.45105.TN 	3,02 kg 	45 	105 	82 	17,5 	25 	90 	53,5 	0,6 	0,3 	155 	406 	40 	82 	3350 	1170 	91 	70
+AXZN.4580.TN 	1,12 kg 	45 	80 	60 	11,5 	25 	70 	42,5 	0,6 	0,3 	61 	177 	38 	75 	4050 	1530 	71 	60
+AXZN 50110.TN 	3,30 kg 	50 	110 	82 	17,5 	25 	95 	53,5 	0,6 	0,3 	173 	482 	42,5 	91 	3150 	1120 	96 	75
+AXZN 5090.TN 	1,43 kg 	50 	90 	60 	11,5 	25 	78 	42,5 	0,6 	0,3 	90 	300 	40 	82 	3650 	1250 	79 	67
+AXZN.55115.TN 	3,5 kg 	55 	115 	82 	17,5 	25 100 	53,5 	0,6 	0,3 	178 	502 	44,5 	99 	2900 	1050 	101 	85
+AXZN.60120.TN 	3,7 kg 	60 	120 	82 	17,5 	25 105 	53,5 	0,6 	0,3 	188 	552 	46 	93 	2750 	970 	106 	90
+AXZN.65125.TN 	4,00 kg 	65 	125 	82 	17,5 	25 110 	53,5 	0,6 	0,3 	173 	501 	54,5 	105 	2650 	910 	111 	97
+AXZN.70130.TN 	4,10 kg 	70 	130 	82 	17,5 	25 115 	53,5 	0,6 	0,3 	202 	632 	56,5 	120 	2400 	850 	116 	100
+AXZN.75155.TN 	7,90 kg 	75 	155 	100 	21 	30 135 	65 	1 	0,3 	291 	891 	73 	134 	2120 	715 	136 	113
+AXZN.90180.TN 	11,80 kg 	90 	180 	110 	22,5 	35 160 	72,5 	1 	0,3 	326 	1032 	98,5 	211 	1850 	720 	161 	130
+abmessungen / dimensions (mm)
+bezeichnung 	gewicht
+designation 	mass
+d 	D 	H 	B 	B1 	B2 	C 	D1 	D2 	D3 	H1 r1 min rmin 	Ca 	C0a 	Cr 	C0r nG öl/oil nG fett
+tragzahlen axial
+axial load ratings
+grenzdrehzahlen
+limiting speeds
+1/min grease 1/min
+ausführung mit langer wellen-
+scheibe / version with long
+locating washer
+tragzahlen radial
+radial load ratings
+bezeichnung 	gewicht
+designation 	mass d 	D 	H 	B 	C 	D1
+nG
+öl/oil
+1/min
+nG
+fett/grease
+1/min
+von
+from
+Da
+max
+bis
+to
+da
+	min
+H1 	r1 min r min
+dyn.
+Ca
+kN
+stat.
+C0a
+kN
+dyn.
+Cr
+kN
+stat.
+C0r
+kN
+von
+from
+Da
+bis
+to
+da
+montage abmes-
+sungen /mounting
+dimensions
+kN 	kN 	kN 	kN
+abmessungen / dimensions (mm)
+ausführung mit kurzer
+wellenscheibe / version with
+short shaft locating washer tragzahlen radial
+radial load ratings
+tragzahlen axial
+axial load ratings
+grenzdrehzahlen
+limiting speeds
+montage abmessungen/
+mounting dimensions
+10040700037d/e
+AXZN.1747.L.TN 	0,41 kg 17 	47 	57 	9 	23 11 16 	38 	28 	38 	43,5 	0,6 	0,3 	26,5 	58 	14,5 	20,4 	7850 	2200 	39 	26
+AXZN.2052.L.TN 	0,46 kg 20 	52 	60 	10 	24 11 16 	42 	30 	40 	45 	0,6 	0,3 	34 	77 	15 	22,6 	7050 	2100 	43 	28
+AXZN.2062.L.TN 	0,99 kg 20 	62 	75 12,5 	27,5 11 20 	52 	40 	50 	55 	0,6 	0,3 	65 	143 	23 	37,3 	6050 	1550 	53 	38
+AXZN.2557.L.TN 	0,59 kg 25 	57 	65 	10 	25 11 20 	47 	36 	45 	50 	0,6 	0,3 	36 	87 	23 	37,3 	6050 	1980 	48 	34
+AXZN.2572.L.TN 	1,32 kg 25 	72 	75 12,5 	27,5 11 20 	62 	48 	60 	55 	0,6 	0,3 	81 	200 	25 	42,2 	5000 	1450 	63 	45
+AXZN.3062.L.TN 	0,75 kg 30 	62 	65 	10 	25 11 20 	52 	40 	50 	50 	0,6 	0,3 	40 	102,5 	24,9 	42,7 	5550 	1830 	53 	38
+AXZN.3080.L.TN 	1,70 kg 30 	80 	82 	14 	30 12 20 	68 	52 	66 	59 	0,6 	0,3 107,6 	266,1 	27 	49 	4510 	1350 	69 	50
+AXZN.3570.L.TN 	0,93 kg 35 	70 	70 	11 	27 12 20 	60 	45 	58 	53 	0,6 	0,3 	56,5 	149 	26,5 	48 	4850 	1750 	61 	43
+AXZN.3585.L.TN 	1,80 kg 35 	85 	82 	14 	30 12 20 	73 	60 	73 	59 	0,6 	0,3 	106 	267 	28 	54 	4000 	1250 	74 	58
+AXZN.4075.L.TN 	1,00 kg 40 	75 	70 	11 	27 12 20 	65 	50 	63 	53 	0,6 	0,3 	60 	164 	28 	54 	4420 	1610 	66 	48
+AXZN.4090.L.TN 	2,39 kg 40 	90 	93 	16 	34 12 25 	78 	60 	78 	68 	0,6 	0,3 	118 	317 	38,5 	75 	3750 	1220 	79 	58
+AXZN.45105.L.TN 	3,42 kg 45 105 103 17,5 	38,5 14 25 	90 	70 	88 	74,5 	0,6 	0,3 	155 	406 	40 	82 	3350 	1170 	91 	68
+AXZN.4580.L.TN 	1,27 kg 45 	80 	75 11,5 	26,5 12 25 	70 	56 	68 	57,5 	0,6 	0,3 	61 	177 	38 	75 	4050 	1530 	71 	54
+AXZN.50110.L.TN 	3,75 kg 50 110 103 17,5 	38,5 14 25 	95 	75 	93 	74,5 	0,6 	0,3 	173 	482 	42,5 	91 	3150 	1120 	96 	73
+AXZN.5090.L.TN 	1,78 kg 50 	90 	78 11,5 	26,5 12 25 	78 	60 	78 	60,5 	0,6 	0,3 	90 	300 	40 	82 	3650 	1250 	79 	58
+AXZN.55115.L.TN 	4,00 kg 55 115 103 17,5 	38,5 14 25 100 	80 	98 	74,5 	0,6 	0,3 	178 	502 	44,5 	99 	2900 	1050 	101 	78
+AXZN.60120.L.TN 	4,85 kg 60 120 103 17,5 	38,5 16 25 105 	90 	105 	74,5 	0,6 	0,3 	188 	552 	46 	93 	2750 	970 	106 	88
+AXZN.65125.L.TN 	4,60 kg 65 125 103 17,5 	38,5 16 25 110 	90 	108 	74,5 	0,6 	0,3 	173 	501 	54,5 	105 	2650 	910 	111 	88
+AXZN.70130.L.TN 	4,85 kg 70 130 103 17,5 	38,5 16 25 115 100 	115 	74,5 	0,6 	0,3 	202 	632 	56,5 	120 	2400 	850 	116 	98
+AXZN.75155.L.TN 	9,10 kg 75 155 125 	21 	46 16 30 135 115 	135 	90 	1 	0,3 	291 	891 	73 	134 	2120 	715 	136 	110
+AXZN.90180.L.TN 	13,20 kg 90 180 135 22,5 	47,5 16 35 160 130 	158 	97,5 	1 	0,3 	326 	1032 	98,5 	211 	1850 	720 	161 	125
+dyn. 	dyn.	stat. 	stat.
+w w w . a p b - b e a r i n g s . c o m
+
+-- 7 of 16 --
+
+• präzisionslager bspw. für gewindetriebe / precision bearings e. g. screw drives
+• zweiseitig wirkende schrägkugellager mit 60° druckwinkel in O - anordnung
+double direction angular contact ball bearings with a 60° contact angle in an o-arrangement
+• beidseitig axial belastbar (zusätzlich auch radiallasten möglich)
+can support axial loads in both directions - additional radial loads applicable
+• vorspannung durch präzionsmutter / to be preloaded with precision locknuts
+• abgedichtet / sealed
+• vorgefettet mit lithiumseifenfett / pregreased with lithium complex soap grease
+• nachschmierbar / relubricable
+• für betriebstemperaturen von -30° bis +120° C
+for operating temperatures from -30° to +120° C
+• sonderausführungen auf anfrage
+tailor made solutions upon request
+>>> 	move 	on
+axial schrägkugellager >>>
+axial angular contact ball bearings
+serie AXSF
+8
+
+-- 8 of 16 --
+
+w w w . a p b - b e a r i n g s . c o m
+J
+J
+zweiseitig wirkendes lager / double direction
+mit schrauben fixierbar / able to be mounted with screws
+spaltdichtung beidseitig / gap seals on both sides
+“ap” ausführung gepaart / “ap” version is matched
+gehäuse und schaft
+housing and shaft
+designation 	mass
+AXSF 1762.2RS 	0,45 kg 	17 	62 	25 	30 	38 	0,3 	0,6 	48 	6,5 	3 	17 	3x120° 18,8 	31 	3300 	37 	23 	M6 	3
+AXSF 1762.2Z 	0,45 kg 	17 	62 	25 	30 	38 	0,3 	0,6 	48 	6,5 	3 	17 	3x120° 18,8 	31 	6600 	37 	23 	M6 	3
+AXSF 1762.2RS.2AP 	0,9 kg 	17 	62 	50 	30 	38 	0,3 	0,6 	48 	6,5 	3 	42 	6x60° 	30,5 	62 	3300 	37 	23 	M6x60 	5
+AXSF 2068.2RS 	0,61 kg 	20 	68 	28 	34,5 	44 	0,3 	0,6 	53 	6,5 	3 	19 	4x90° 	26 	47 	3000 	43 	25 	M6 	4
+AXSF 2068.2Z 	0,61 kg 	20 	68 	28 	34,5 	44 	0,3 	0,6 	53 	6,5 	3 	19 	4x90° 	26 	47 	5400 	43 	25 	M6 	4
+AXSF 2068.2RS.2AP 1,22 kg 	20 	68 	56 	34,5 	44 	0,3 	0,6 	53 	6,5 	3 	47 	8x45° 	42 	94 	3000 	43 	25 	M6x70 	7
+AXSF 2575.2RS 	0,72 kg 	25 	75 	28 	40,5 	49 	0,3 	0,6 	58 	6,5 	3 	19 	4x90° 	27,5 	55 	2600 	48 	32 	M6 	4
+AXSF 2575.2Z 	0,72 kg 	25 	75 	28 	40,5 	49 	0,3 	0,6 	58 	6,5 	3 	19 	4x90° 	27,5 	55 	4700 	48 	32 	M6 	4
+AXSF 2575.2RS.2AP 1,44 kg 	25 	75 	56 	40,5 	49 	0,3 	0,6 	58 	6,5 	3 	47 	8x45° 	44,5 	111 	2600 	48 	32 	M6x70 	7
+AXSF 3080.2RS 	0,78 kg 	30 	80 	28 	45,5 	54 	0,3 	0,6 	63 	6,5 	3 	19 	6x60° 	29 	64 	2200 	53 	40 	M6 	6
+AXSF 3080.2Z 	0,78 kg 	30 	80 	28 	45,5 	54 	0,3 	0,6 	63 	6,5 	3 	19 	6x60° 	29 	64 	4300 	53 	40 	M6 	6
+AXSF 3080.2RS.2AP 1,56 kg 	30 	80 	56 	45,5 	54 	0,3 	0,6 	63 	6,5 	3 	47 	12x30° 47,5 	127 	2200 	53 	40 	M6x70 	11
+AXSF 3590.2RS 	1,13 kg 	35 	90 	34 	52 	63 	0,3 	0,6 	75 	8,5 	3 	25 	4x90° 	41 	89 	2000 	62 	45 	M8 	4
+AXSF 3590.2Z 	1,13 kg 	35 	90 	34 	52 	63 	0,3 	0,6 	75 	8,5 	3 	25 	4x90° 	41 	89 	3800 	62 	45 	M8 	4
+AXSF 3590.2RS.2AP 2,26 kg 	35 	90 	68 	52 	63 	0,3 	0,6 	75 	8,5 	3 	59 	8x45° 	66 	177 	2000 	62 	45 	M8x80 	7
+AXSF 40100.2RS 	1,46 kg 	40 	100 	34 	58 	68 	0,3 	0,6 	80 	8,5 	3 	25 	4x90° 	43 	101 	1800 	67 	50 	M8 	4
+AXSF 40100.2Z 	1,46 kg 	40 	100 	34 	58 	68 	0,3 	0,6 	80 	8,5 	3 	25 	4x90° 	43 	101 	3300 	67 	50 	M8 	4
+AXSF 40100.2RS.2AP 2,92 kg 	40 	100 	68 	58 	68 	0,3 	0,6 	80 	8,5 	3 	59 	8x45° 	70 	202 	1800 	67 	50 	M8x80 	7
+AXSF 50115.2RS 	1,86 kg 	50 	115 	34 	72 	82 	0,3 	0,6 	94 	8,5 	3 	25 	6x60° 	46,5 	126 	1500 	82 	63 	M8 	6
+AXSF 50115.2Z 	1,86 kg 	50 	115 	34 	72 	82 	0,3 	0,6 	94 	8,5 	3 	25 	6x60° 	46,5 	126 	3000 	82 	63 	M8 	6
+AXSF 50115.2RS.2AP 3,72 kg 	50 	115 	68 	72 	82 	0,3 	0,6 	94 	8,5 	3 	59 	12x30° 	76 	250 	1500 	82 	63 	M8x80 	11
+AXSF 60145.2Z 	4,3 kg 	60 	145 	45 	85 100 	0,6 	0,6 	120 	8,5 	3 	35 	8x45° 	84 	214 	2400 	100 	82 	M8 	8
+AXSF 70155.2Z 	4,9 kg 	70 	155 	45 	95 110 	0,6 	0,6 	130 	8,5 	3 	35 	8x45° 	88 	241 	2200 	110 	92 	M8 	8
+AXSF 80165.2Z 	5,3 kg 	80 	165 	45 	105 120 	0,6 	0,6 	140 	8,5 	3 	35 	8x45° 	91 	265 	2100 	120 	102 	M8 	8
+AXSF 90190.2Z 	8,7 kg 	90 	190 	55 	120 138 	0,6 	0,6 	165 10,5 	3 	45 	8x45° 	135 	395 	1800 	138 	116 	M10 	8
+AXSF 100200.2Z 	9,3 kg 100 	200 	55 	132 150 	0,6 	0,6 	175 10,5 	3 	45 	8x45° 	140 	435 	1700 	150 	128 	M10 	8
+abmessungen / dimensions (mm) fettschmierung
+limiting speed
+for grease
+tragzahl axial
+axial load rating
+bezeichnung 	gewicht d 	D 	B 	d1 	D1 	rmin r1min 	J 	d2 	b 	I
+von
+from
+Da
+bis
+to
+da
+dyn. Ca
+kN
+stat. C 0a
+kN
+n G
+min -1
+0809060009d
+montage abmessungen
+mounting dimensions
+anzahl d. teil-
+ung x winkel
+number of
+pitches x angle
+schrauben din 912 10,9
+screws din 912 10,9
+type anzahl
+quantity
+lager 2ap / version 2ap
+lager 2ap / version 2ap
+
+-- 9 of 16 --
+
+• präzisionslager bspw. für gewindetriebe / precision bearings e. g. screw drives
+• zweiseitig wirkende schrägkugellager mit 60° druckwinkel in O - anordnung
+double direction angular contact ball bearings with a 60° contact angle in an o-arrangement
+• beidseitig axial belastbar (zusätzlich auch radiallasten möglich)
+can support axial loads in both directions (additional radial loads applicable)
+• vorspannung durch präzionsmutter / to be preloaded with precision locknuts
+• abgedichtet / sealed
+• vorgefettet mit lithiumseifenfett / pregreased with lithium complex soap grease
+• nachschmierbar / relubricable
+• für betriebstemperaturen von -30° bis + 120° C
+for operating temperatures from -30° to + 120° C
+• sonderausführungen auf anfrage
+tailor made solutions upon request
+>>> 	move 	on
+axial schrägkugellager >>>
+axial angular contact ball bearings
+serie AXSN
+10
+
+-- 10 of 16 --
+
+designation 	mass
+AXSN 1747.2RS 	0,22 kg 	17 	47 	25 	30 	38 	0,3 	0,6 	37 	23 	18,8 	31 	3300
+AXSN 1747.2Z 	0,22 kg 	17 	47 	25 	30 	38 	0,3 	0,6 	37 	23 	18,8 	31 	6600
+AXSN 1747.2RS.2AP 0,44 kg 	17 	47 	50 	30 	38 	0,3 	0,6 	37 	23 	30,5 	62 	3300
+AXSN 2052.2RS 	0,31 kg 	20 	52 	28 	34,5 	44 	0,3 	0,6 	43 	25 	26 	47 	3000
+AXSN 2052.2Z 	0,31 kg 	20 	52 	28 	34,5 	44 	0,3 	0,6 	43 	25 	26 	47 	5400
+AXSN 2052.2RS.2AP 0,62 kg 	20 	52 	56 	34,5 	44 	0,3 	0,6 	43 	25 	42 	94 	3000
+AXSN 2557.2RS 	0,34 kg 	25 	57 	28 	40,5 	49 	0,3 	0,6 	48 	32 	28 	55 	2600
+AXSN 2557.2Z 	0,34 kg 	25 	57 	28 	40,5 	49 	0,3 	0,6 	48 	32 	28 	55 	4700
+AXSN 2557.2RS.2AP 0,68 kg 	25 	57 	56 	40,5 	49 	0,3 	0,6 	48 	32 	44,5 	111 	2600
+AXSN 3062.2RS 	0,39 kg 	30 	62 	28 	45,5 	54 	0,3 	0,6 	53 	40 	29 	65 	2200
+AXSN 3062.2Z 	0,39 kg 	30 	62 	28 	45,5 	54 	0,3 	0,6 	53 	40 	29 	65 	4300
+AXSN 3062.2RS.2AP 0,78 kg 	30 	62 	56 	45,5 	54 	0,3 	0,6 	53 	40 	47,5 	127 	2200
+AXSN 3572.2RS 	0,51 kg 	35 	72 	34 	52 	63 	0,3 	0,6 	62 	45 	41 	89 	2000
+AXSN 3572.2Z 	0,51 kg 	35 	72 	34 	52 	63 	0,3 	0,6 	62 	45 	41 	89 	3800
+AXSN 3572.2RS.2AP 1,02 kg 	35 	72 	68 	52 	63 	0,3 	0,6 	62 	45 	66 	177 	2000
+AXSN 4075.2RS 	0,61 kg 	40 	75 	34 	58 	68 	0,3 	0,6 	67 	50 	43 	102 	1800
+AXSN 4075.2Z 	0,61 kg 	40 	75 	34 	58 	68 	0,3 	0,6 	67 	50 	43 	102 	3300
+AXSN 4075.2RS.2AP 1,22 kg 	40 	75 	68 	58 	68 	0,3 	0,6 	67 	50 	70 	202 	1800
+AXSN 5090.2RS 	0,88 kg 	50 	90 	34 	72 	82 	0,3 	0,6 	82 	63 	47 	126 	1500
+AXSN 5090.2Z 	0,88 kg 	50 	90 	34 	72 	82 	0,3 	0,6 	82 	63 	47 	126 	3000
+AXSN 5090.2RS.2AP 1,76 kg 	50 	90 	68 	72 	82 	0,3 	0,6 	82 	63 	76 	250 	1500
+AXSN 60110.2Z 	2,2 kg 	60 	110 	45 	85 	100 	0,6 	0,6 	100 	82 	84 	214 	2400
+AXSN 70120.2Z 	2,4 kg 	70 	120 	45 	95 	110 	0,6 	0,6 	110 	92 	88 	241 	2200
+AXSN 80130.2Z 	2,7 kg 	80 	130 	45 	105 	120 	0,6 	0,6 	120 	102 	91 	265 	2100
+AXSN 90150.2Z 	4,5 kg 	90 	150 	55 	120 	138 	0,6 	0,6 	138 	116 	135 	395 	1800
+AXSN 100160.2Z 	4,9 kg 	100 	160 	55 	132 	150 	0,6 	0,6 	150 	128 	140 	435 	1700
+abmessungen / dimensions (mm)
+grenzdrehzahl für fett-
+schmierung / limiting
+speed for grease
+tragzahlen axial
+axial loadratings
+bezeichnung 	gewicht d 	D 	B 	d1 	D1 	rmin 	r1min
+von / from
+Da
+von / from
+da
+dyn. Ca
+(kN)
+stat. C0a
+(kN)
+nG
+fett /grease
+0809060008d
+montage abmessungen
+mounting
+housing and shaft
+gepaarte version 2ap / paired version 2ap
+w w w . a p b - b e a r i n g s . c o m
+gehäuse und schaft
+housing and shaft
+gepaarte version 2ap / paired version 2ap
+
+-- 11 of 16 --
+
+• präzisionslager bspw. für rundtische / precision bearings for e.g. round tables
+• konstruiert für hochgenaue anwendungsfälle mit kombinierten lasten /
+constructed for high-precise applications with combined loadings
+• spielfreie aufnahme von kippmomenten, sowie hohe laufgenauigkeit /
+optimal support of tilting moments, as well as high running accuracy
+• montagefertige einheit / ready-to mount-unit
+• radiale und axiale vorspannung nach dem einbau /
+radial and axial preloading after mounting
+• sonderausführungen auf anfrage / tailor made solutions upon request
+>>> 	move 	on
+axial-radiallager >>>
+axial-radial bearings
+serie AXRY.xxx
+12
+
+-- 12 of 16 --
+
+abmessungen / dimensions (mm)
+bezeichnung 	gewicht
+designation 	mass 	d 	nAG
+10040700036d/e
+tragzahlen axial
+axial load rating
+grenzdreh-
+zahl / limi-
+ting speed
+AXRY 50 	1,60 kg 	50 	126 	30 	20 	10 10 	105 	63 	116 	5,6 	- 	- 10 12 2 12 X 30° 	- 8,5 	57 	282 	29 	50 450
+AXRY 80* 	2,40 kg 	80 	146 	35 23,35 11,65 12 	130 	92 	138 	5,6 10 	4 10 12 2 12 X 30° 	- 8,5 	39 	160 	45 	100 380
+AXRY 100 	4,10 kg 	100 	185 	38 	25 	13 12 	160 112 	170 	5,6 10 5,4 16 15 2 18 X 20° 	3 X M5 8,5 	74 	372 	52 	108 285
+AXRY 120 	5,30 kg 	120 	210 	40 	26 	14 12 	185 135 	195 	7 11 6,2 22 21 2 24 X 15° 	3 X M8 	14 	80 	446 	71 	149 240
+AXRY 150 	6,20 kg 	150 	240 	40 	26 	14 12 	214 165 	225 	7 11 6,2 34 33 2 36 X 10° 	3 X M8 	14 	86 	511 	78 	179 220
+AXRY 180 	7,70 kg 	180 	280 	43 	29 	14 15 	244 194 	260 	7 11 6,2 46 45 2 48 X 7,5° 	3 X M8 	14 	93 	582 	84 	210 195
+AXRY 200 	9,70 kg 	200 	300 	45 	30 	15 15 	274 215 	285 	7 11 6,2 46 45 2 48 X 7,5° 	3 X M8 	14 	99 	653 	89 	237 180
+AXRY 260 	18,30 kg 	260 	385 	55 	36,5 18,5 18 	345 280 	365 	9,3 15 8,2 34 33 2 36 X 10° 3 X M12 	34 	110 	813 102 	310 140
+AXRY 325* 	25,00 kg 	325 	450 	60 	40 	20 20 	415 342 	430 	9,3 15 8,2 34 33 2 36 X 10° 3 X M12 	34 	186 1712 135 	418 125
+AXRY 395 	33,00 kg 	395 	525 	65 	42,5 22,5 20 	486 415 	505 	9,3 15 8,2 46 45 2 48 X 7,5° 3 X M12 	34 	202 2010 134 	437 100
+AXRY 460 	45,00 kg 	460 	600 	70 	46 	24 22 	560 482 	580 	9,3 15 8,2 46 45 2 48 X 7,5° 3 X M12 	34 	219 2305 188 	652 	90
+AXRY 580 	89,00 kg 	580 	750 	90 	60 	30 30 	700 610 	720 11,4 18 	11 46 42 2 48 X 7,5° 6 X M12 	68 	394 3610 211 	820 	65
+AXRY 650 	170,00 kg 	650 	870 122 	78 	44 34 	800 680 	830 	14 20 	13 46 42 2 48 X 7,5° 6 X M12 116 	495 5205 418 1510 	60
+AXRY 850 	253,00 kg 	850 1095 124 	80,5 43,5 37 1018 890 1055 	18 26 	17 58 54 2 	60 X 6° 6 X M12 284 	560 6600 475 1970 	40
+AXRY 950 	312,00 kg 	950 1200 132 	86 	46 40 1130 990 1160 	18 26 	17 58 54 2 	60 X 6° 6 X M12 284 1040 10300 600 2450 	40
+AXRY 1030 	375,00 kg 1030 1300 145 	92,5 	- 40 1215 1075 1255 	18 26 	17 60 66 12 	72 X 5° 6 X M16 284 1080 11000 620 2650 	35
+D 	H 	C 	D1 	J 	J1 	d1 	d2 	a 	nBi nBa nHs
+anzahl d. teil-
+ung x winkel/
+number of
+pitches x angle
+MA
+Nm
+dyn.
+C0a kN
+stat.
+C0a kN
+dyn.
+Cr kN
+stat.
+C0r kN
+tragzahlen radial
+radial load rating
+nG
+min -1	H1 	H2
+*schraubensenkung
+w w w . a p b - b e a r i n g s . c o m
+kennwerterklärung / characteristic value description:
+nBi 	anzahl der befestigungsbohrungen am innenring /
+no. of fixing holes on the inner ring
+n Ba 	anzahl der befestigungsbohrungen am aussenring /
+no. of fixing holes on the outer ring
+nHs 	anzahl der halteschrauben / no. of retaining screws
+nAG 	anzahl der abdrückgewinde + gewindegröße / no. of
+extraction threads + size of thread
+MA 	anziehdrehmoment / tightening torque
+
+-- 13 of 16 --
+
+axial-radiallager >>> axial-radial bearings
+serie AXRY.xxx
+einbauwerte für die serie axry / mounting values for axry series
+grenzdrehzahl /
+limiting speed (nG)
+min-1
+lagerreibungsmoment /
+bearing frictional torque (MRL)
+Nm
+radiale senksteifigkeit /
+radial rigidity (crL)
+N/μm
+axiale senksteifigkeit /
+axial rigidity (caL)
+N/μm
+bezeichnung
+designation
+kippsteifigkeit /
+tilting rigidity (ckL)
+kNm/mrad
+bei den angegebenen steifigkeitswerten sind folgende faktoren berücksichtigt: verformung der lagerringe und der
+schraubenverbindungen, sowie des wälzkörpersatzes /
+following factors are respected in the indicated rigidity values:
+deformation of bearing rings, the screw connection, as well as
+the roller set
+lange einsatzdauer oder dauerbetrieb bitte in anfragen angeben
+/ please indicate long or
+continuous operations in your inquiries
+apb stellt die axry auch in sonderausführungen her /
+apb produces as well special designs & constructions
+beispiele / examples:
+PRR50 	um 50% eingeschränkter plan-/rundlauf
+concentricity minimized to 50%
+ACXX 	geänderte axiallagerluft
+changed axial clearance
+H1r 	eingeschränkte höhentoleranz
+height tolerance minimized etc...
+AXRY 50 	450 	2,5 	1300 	1100 	1,25
+AXRY 80 	380 	3 	1600 	1800 	2,5
+AXRY 100 	285 	3 	2000 	2000 	5
+AXRY 120 	240 	7 	2100 	2200 	7
+AXRY 150 	220 	13 	2300 	2600 	11
+AXRY 180 	195 	14 	2600 	3000 	17
+AXRY 200 	180 	15 	3000 	3500 	23
+AXRY 260 	140 	25 	3500 	4500 	45
+AXRY 325 	125 	48 	4300 	5000 	80
+AXRY 395 	100 	55 	4900 	6000 	130
+AXRY 460 	90 	70 	5700 	7000 	200
+AXRY 580 	65 	140 	6900 	9000 	380
+AXRY 650 	60 	200 	7600 	10000 	550
+AXRY 850 	40 	300 	9300 	13000 	1100
+AXRY 950 	40 	600 	10400 	14000 	1500
+AXRY 1030 	35 	800 	11200 	16000 	1900
+zusätzliche technische daten / additional technical data
+>>> 	move 	on	
+14
+
+-- 14 of 16 --
+
+aus erfahrung bestens gerüstet für die zukunft
+based on experience - ready for the future
+w w w . a p b - b e a r i n g s . c o m
+hhaannddeellssüübblliicchhee bbeezz.. 	AAPPBB
+ZARF xxxx TV 	AXZF xxxx TN
+ZARF xxxx LTV 	AXZF xxxx LTN
+ZARN xxxx TV 	AXZN xxxx TN
+ZARN xxxx LTV 	AXZN xxxx LTN
+ZKLF xxxx 2RS 	AXSF xxxx 2RS
+ZKLF xxxx 2RS-2AP 	AXSF xxxx 2RS-2AP
+ZKLF xxxx 2RS-PE 	AXSF xxxx 2RS-PE
+ZKLF xxxx 2Z 	AXSF xxxx ZZ
+ZKLN xxxx 2RS 	AXSN xxxx 2RS
+ZKLN xxxx 2RS-2AP 	AXSN xxxx 2RS-2AP
+ZKLN xxxx 2RS-PE 	AXSN xxxx 2RS-PE
+ZKLN xxxx 2Z 	AXSN xxxx ZZ
+YRT50 bis/to YRT1030 	AXRY50 bis/to AXRY1030
+umschlüsselung / interchange table
+vollrollige zylinderrollenlager
+(NNF, NCF, NNCL, NJG, NNCF...)
+axialzylinderrollenlager (811, 812,...)
+stützrollen (NNTR) , spezielle ausführungen
+grossringlager bis D > 2000 mm
+zeichnungslager, vom einzelstück bis zur serie
+integrierte lösungen + komponenten
+dreh- & schleifteile (innenringe / laufringe etc.)
+more APB products
+full complement cylindrical roller bearings
+(NNF, NCF, NNCL, NJG, NNCF,...)
+thrust cylindrical roller bearings (811.., 812.., …)
+back up roller bearings (NNTR) specialized designs
+large size bearings (up to outer diameter >2000 mm)
+tailor made bearings (according to drawings),
+from single piece to large series
+integrated solutions + components
+turning- & grinding parts (inner rings, ball race rings)
+präzisionlager / precision bearings
+weitere APB produkte
+ssoonnddeerraauussffüühhuunnggeenn wwiiee zz..bb.. eeiinnggeeeennggttee ttoolleerraannzzeenn,,
+rruunnddllaauuff,, eettcc.. aauuff aannffrraaggee eerrhhäällttlliicchh //
+ssppeecciiaall ddeessiiggnnss,, aass ff..ee.. rreessttrriicctteedd ttoolleerraanncceess,, rruunnnniinngg
+aaccccuurraannccyy,, eettcc.. aavvaaiillaabbllee uuppoonn rreeqquueesstt
+ccoommmmoonn ddeessiiggnnaattiioonn
+
+-- 15 of 16 --
+
+w w w . a p b - b e a r i n g s . c o m
+t e c h n i s c h e r h a n d e l b r u m m e r
+langwieserstr. 134 - 4802 ebensee
+tel.: +43 6133 5016-0 - fax.: +14
+o f f i c e @ t h b . a t - w w w. t h b . a t
+APB ist eine marke der thb gmbh / APB is a brand owned by thb gmbh
+
+-- 16 of 16 --
+

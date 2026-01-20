@@ -1,0 +1,10249 @@
+Cuscinetti orientabili a rulli
+Self-aligning roller bearings
+
+---
+
+CUSCINETTI ORIENTABILI A RULLI - SELF-ALIGNING ROLLER BEARINGS
+180
+Cuscinetti orientabili a rulli
+I cuscinetti ISB® orientabili a rulli hanno due coro-
+ne di rulli che ruotano in un’unica pista di forma sferica 
+ricavata nell’anello esterno (Fig. 1). Le corrispondenti due 
+piste dell’anello interno sono inclinate rispetto all’asse del 
+cuscinetto. Sono orientabili ed insensibili ai disassamenti 
+di modesta entità dell’albero rispetto all’alloggiamento 
+o all’inflessione dello stesso. Sopportano carichi radiali e 
+assiali in entrambi i sensi.
+Fig. 1
+Cuscinetti Standard
+Per cuscinetti orientabili a rulli si intende:
+••
+Cuscinetti aperti: a seconda di dimensioni e serie sono 
+prodotti in diverse esecuzioni, disponibili con foro conico 
+o cilindrico. Il foro conico ha una conicità o di 1:30 (serie 
+240,241,248 e 249, appellativo nel suffisso K30) o di 1:12 
+con K come suffisso nell’appellativo. Una scanalatura 
+circonferenziale e tre fori di lubrificazione sull’anello 
+esterno facilitano la lubrificazione del cuscinetto (Fig.2). 
+Fig. 2
+••
+Cuscinetti con tenute incorporate: Le tenute sono 
+rinforzate con lamierino d’acciaio e sono di gomma 
+nitrilica (NBR), lubrificati con grasso per altissime 
+pressioni, non devono essere portati a tempera-
+ture superiori agli 80°C e non vanno lavati (Fig. 3). 
+Fig. 3
+••
+Cuscinetti per applicazioni vibranti: le applicazioni vi-
+branti, come vagli o eccitatori, sottopongono i cuscinetti 
+a maggiori sollecitazioni rispetto ai cuscinetti standard .
+Spherical roller bearings
+ISB® spherical roller bearings have two rows of rollers 
+that roll in one spherical raceway in the outer ring (Fig. 1). 
+The two corresponding raceways of the inner ring are set at 
+an angle compared to the bearing’s axis. They are self-aligning 
+and insensitive to slight misalignments of the shaft compared 
+to the housing and to shaft deflections. They withstand radial 
+and axial loads in both directions.
+Standard bearings
+The spherical rollers bearings are:
+••
+Open bearings: based on the size and series, they are ma-
+nufactured in various versions, available with tapered or 
+cylindrical bore. The tapered bore has a taper of either 1:30 
+(series 240,241,248 and 249, designation suffix K30) or of 
+1:12 with designation suffix K. The circumferential groove 
+and three lubrication holes in the outer ring facilitate bea-
+ring lubrication (Fig. 2).
+••
+Sealed bearings: The seals are reinforced with steel and 
+are made of Nitrile-Butadiene-Rubber (NBR), they are lu-
+bricated with grease for very high pressures and must not 
+be heated above 80°C or washed (Fig. 3).
+••
+Bearings for vibratory applications: Vibratory applications, 
+such as vibrating screens or energisers, subject the bearings 
+to greater strain than standard bearings.
+
+---
+
+CUSCINETTI ORIENTABILI A RULLI - SELF-ALIGNING ROLLER BEARINGS
+181
+Cuscinetti su bussole
+I cuscinetti ISB® orientabili a rulli con foro conico 
+possono essere montati su alberi con o senza gradino 
+utilizzando 
+••
+	Bussola di trazione (Fig. 4a);
+••
+	Bussola di pressione (Fig. 4b).
+Queste facilitano il montaggio e smontaggio sempli-
+ficando la disposizione dei cuscinetti.
+Dimensioni
+Le dimensioni sono conformi alla ISO 15:1998. Le di-
+mensioni delle bussole di trazione o pressione sono conformi 
+alla ISO 2982-1:1995.
+Tolleranze
+I cuscinetti ISB® orientabili a rulli con foro conico o ci-
+lindrico vengono costruiti secondo la tolleranza normale.
+Giuoco interno
+I cuscinetti ISB® orientabili a rulli sono costruiti con 
+giuoco interno radiale normale. In grande maggioranza 
+disponibili anche con giuoco interno maggiorato C3 e ancor 
+più maggiorato C4. Alcuni sono forniti con giuoco interno C2 
+che risulta minore del normale. Verificare sempre la dispo-
+nibilità dei giochi interni differenti dal normale (compreso 
+C5, maggiore di C4) prima dell’ordine.
+Disallineamento
+I disallineamenti angolari non influiscono sulle 
+prestazioni in questo tipo di cuscinetto data la sua forma 
+costruttiva.
+Capacità di carico assiale
+Reggono forti carichi assiali grazie alla speciale forma 
+costruttiva interna.
+Appellativi supplementari
+C2	
+Giuoco radiale interno inferiore a normale
+C3	
+Giuoco radiale interno superiore a normale
+C4	
+Giuoco radiale interno maggiore di C3
+C5	
+Giuoco interno radiale maggiore di C4
+2RS	
+Tenuta strisciante in gomma nitrilica (NBR), 
+
+rinforzata con lamierino d’acciaio, su entrambi
+
+i lati del cuscinetto. Scanalatura circonferenziale 
+
+e tre fori di lubrificazione sull’anello esterno
+K	
+Foro conico, conicità 1:12
+K30	
+Foro conico, conicità 1:30
+Fig. 4a
+Fig. 4b
+Bearings on sleeves
+ISB® spherical roller bearings with tapered bore can be 
+fitted on smooth or stepped shafts 
+••
+Adapter sleeve (Fig. 4a);
+••
+Withdrawal sleeve (Fig 4b).
+These sleeves facilitate assembly and disassembly and 
+simplify the arrangement of the bearings.
+Dimensions
+The dimensions comply with standard ISO 15:1998. The 
+dimensions of the adapter or withdrawal sleeves comply with 
+standard ISO 2982-1:1995.
+Tolerances
+ISB® spherical roller bearings with tapered or cylindrical 
+bore are manufactured with Normal tolerance.
+Internal clearance
+ISB® spherical roller bearings are manufactured with 
+Normal internal radial clearance. They are mostly available 
+also with greater internal clearance C3 and much greater cle-
+arance C4. Some are supplied with internal clearance C2 that 
+is smaller than Normal. Always check availability of internal 
+clearances different to standard before placing orders (including 
+C5, greater than C4).
+Misalignment
+Angular misalignments do not affect the performance of 
+this type of bearing thanks to its constructional design.
+Axial load carrying capacity
+These bearings withstand strong axial loads thanks to 
+the special internal constructional design.
+Supplementary designations
+C2	
+Internal radial clearance smaller than Normal.
+C3	
+Internal radial clearance greater than Normal.
+C4	
+Internal radial clearance greater than C3.
+C5	
+Internal radial clearance greater than C4.
+2RS	
+Nitrile-Butadiene-Rubber contact seal (NBR), 
+
+with sheet steel reinforcement, on both sides of 
+
+the bearing. Circumferential groove and three 
+
+lubrication holes in the outer ring.
+K	
+Tapered bore, taper 1:12.
+K30	
+Tapered bore, taper 1:30;
+
+---
+
+CUSCINETTI ORIENTABILI A RULLI - SELF-ALIGNING ROLLER BEARINGS
+182
+P5 	
+Maggiore precisione dimensionale e di rotazione, 	
+
+conforme alla classe di tolleranza 5 della norma 	
+
+ISO
+P6	
+Maggiore precisione dimensionale e di rotazione, 	
+
+conforme alla classe di tolleranza 6 della norma 	
+
+ISO
+P62	
+P6 + C2
+VA	
+Cuscinetti per applicazioni vibranti
+W33	
+Scanalatura circonferenziale e tre fori di 
+
+lubrificazione sull’anello esterno
+P5 	
+Greater dimensional and rotation precision, 
+
+compliant with tolerance class 5 of ISO standard.
+P6	
+Greater dimensional and rotation 
+
+precision, compliant with tolerance class 6 of ISO 	
+
+standard
+P62	
+P6 + C2
+VA	
+Bearings for vibratory applications
+W33	
+Circumferential groove and three lubrication holes 
+
+in outer ring
+
+---
+
+CUSCINETTI ORIENTABILI A RULLI
+SELF-ALIGNING ROLLER BEARINGS
+Foro cilindrico
+Cylindrical bore
+Foro conico
+Tapered bore
+CUSCINETTI ORIENTABILI A RULLI - SELF-ALIGNING ROLLER BEARINGS
+183
+Dimensioni (mm)
+Dimension (mm)
+Coefficiente di carico (KN)
+Load rating (KN)
+Velocità limite (giri/min)
+Speed limit (Rpm)
+Peso (Kg)
+Weight 
+(Kg)
+Sigla
+Designation
+d
+(mm)
+D
+(mm)
+B
+(mm)
+K
+(mm)
+Dinamico
+Dynamic
+C
+Statico
+Static
+C0
+Lubrificazione 
+Lubrication
+Foro cilindrico
+Cylindrical 
+bore
+Foro Conico
+Tapered bore
+Grasso 
+Grease
+Olio
+Oil
+20
+52
+18
+2
+48
+43
+13005
+15300
+0.28
+22205/20
+-
+25
+52
+18
+2
+48
+43
+13005
+15300
+0.26
+22205
+22205 K
+62
+17
+-
+41
+41
+9180
+10800
+0.28
+21305
+-
+30
+62
+20
+2
+63
+59
+10710
+12600
+0.29
+22206
+22206 K
+72
+19
+-
+54
+60
+7650
+9000
+0.41
+21306
+21306 K
+35
+72
+23
+2
+85
+83
+9180
+10800
+0.45
+22207
+22207 K
+80
+21
+-
+64
+71
+7267.5
+8550
+0.55
+21307
+21307 K
+40
+80
+23
+3
+95
+88
+8415
+9900
+0.53
+22208
+22208 K
+90
+23
+3
+102
+106
+7267.5
+8550
+0.75
+21308
+21308 K
+90
+33
+3
+147
+137
+6120
+7200
+1.05
+22308
+22308 K
+45
+85
+23
+3
+100
+96
+7650
+9000
+0.58
+22209
+22209 K
+100
+25
+3
+123
+124
+6502.5
+7650
+0.99
+21309
+21309 K
+100
+36
+3
+179
+179
+5355
+6300
+1.4
+22309
+22309 K
+50
+90
+23
+3
+102
+106
+7267.5
+8550
+0.63
+22210
+22210 K
+110
+27
+3
+153
+163
+5737.5
+6750
+1.35
+21310
+21310 K
+110
+40
+3
+216
+220
+4819.5
+5670
+1.9
+22310
+22310 K
+55
+100
+25
+3
+123
+124
+6502.5
+7650
+0.84
+22211
+22211 K
+120
+29
+3
+153
+163
+5737.5
+6750
+1.7
+21311
+21311 K
+120
+43
+3
+265
+274
+4284
+5040
+2.45
+22311
+22311 K
+60
+110
+28
+3
+153
+163
+5737.5
+6750
+1.15
+22212
+22212 K
+130
+31
+3
+208
+235
+4819.5
+5670
+2.1
+21312
+21312 K
+130
+46
+4.5
+304
+328
+4054.5
+4770
+3.1
+22312
+22312 K
+65
+100
+35
+2
+129
+170
+4819.5
+5670
+0.95
+24013
+24013 K30
+120
+31
+3
+189
+212
+5355
+6300
+1.55
+22213
+22213 K
+140
+33
+3
+231
+265
+4590
+5400
+2.55
+21313
+21313 K
+140
+48
+4.5
+333
+353
+3825
+4500
+3.75
+22313
+22313 K
+70
+125
+31
+3
+204
+223
+5125.5
+6030
+1.55
+22214
+22214 K
+150
+35
+3
+279
+319
+4284
+5040
+3.1
+21314
+21314 K
+150
+51
+4.5
+392
+421
+3442.5
+4050
+4.55
+22314
+22314 K
+75
+115
+40
+3
+170
+227
+4054.5
+4770
+1.55
+24015
+24015 K30
+130
+31
+3
+208
+235
+4819.5
+5670
+1.7
+22215
+22215 K
+160
+37
+3
+279
+319
+4284
+5040
+3.75
+21315
+21315 K
+160
+55
+4.5
+431
+466
+3289.5
+3870
+5.55
+22315
+22315 K
+80
+140
+33
+3
+231
+265
+4590
+5400
+2.1
+22216
+22216 K
+170
+39
+3
+319
+368
+4054.5
+4770
+4.45
+21316
+21316 K
+170
+58
+4.5
+480
+529
+3060
+3600
+6.6
+22316
+22316 K
+85
+150
+36
+3
+279
+319
+4284
+5040
+2.65
+22217
+22217 K
+180
+41
+3
+319
+368
+4054.5
+4770
+5.2
+21317
+21317 K
+180
+60
+4.5
+539
+608
+2907
+3420
+7.65
+22317
+22317 K
+A richiesta disponibile con scanalatura circonferenziale a tre fori di lubrificazione sull’anello esterno.
+Under request avaible with circumferential groove and three lubrification noles in auter ring.
+
+---
+
+CUSCINETTI ORIENTABILI A RULLI
+SELF-ALIGNING ROLLER BEARINGS
+Foro cilindrico
+Cylindrical bore
+Foro conico
+Tapered bore
+CUSCINETTI ORIENTABILI A RULLI - SELF-ALIGNING ROLLER BEARINGS
+184
+Dimensioni (mm)
+Dimension (mm)
+Coefficiente di carico (KN)
+Load rating (KN)
+Velocità limite (giri/min)
+Speed limit (Rpm)
+Peso (Kg)
+Weight 
+(Kg)
+Sigla
+Designation
+d
+(mm)
+D
+(mm)
+B
+(mm)
+K
+(mm)
+Dinamico
+Dynamic
+C
+Statico
+Static
+C0
+Lubrificazione 
+Lubrication
+Foro cilindrico
+Cylindrical 
+bore
+Foro Conico
+Tapered bore
+Grasso 
+Grease
+Olio
+Oil
+90
+160
+40
+3
+319
+368
+4054.5
+4770
+3.4
+22218
+22218 K
+160
+52.4
+3
+348
+431
+2907
+3420
+4.65
+23218
+23218 K
+190
+43
+4.5
+372
+441
+3672
+4320
+6.1
+21318
+21318 K
+190
+64
+6
+598
+681
+2754
+3240
+9.05
+22318
+22318 K
+95
+170
+43
+4.5
+372
+441
+3672
+4320
+4.15
+22219
+22219 K
+200
+45
+4.5
+417
+480
+3442.5
+4050
+7.05
+21319
+21319 K
+200
+67
+6
+657
+750
+2601
+3060
+10.5
+22319
+22319 K
+100
+150
+50
+3
+279
+407
+3060
+3600
+3.15
+24020
+24020 K30
+165
+52
+3
+358
+480
+3060
+3600
+4.55
+23120
+23120 K
+165
+65
+2
+446
+627
+2448
+2880
+5.65
+24120
+24120 K30
+180
+46
+4.5
+417
+480
+3442.5
+4050
+4.9
+22220
+22220 K
+180
+60.3
+4.5
+466
+588
+2601
+3060
+6.85
+23220
+23220 K
+215
+47
+4.5
+417
+480
+3442.5
+4050
+8.6
+21320
+21320 K
+215
+73
+6
+799
+931
+2295
+2700
+13.5
+22320
+22320 K
+110
+170
+45
+3
+304
+431
+3289.5
+3870
+3.8
+23022
+23022 K
+170
+60
+3
+407
+608
+2754
+3240
+5
+24022
+24022 K30
+180
+56
+4.5
+421
+573
+2754
+3240
+5.75
+23122
+23122 K
+180
+69
+3
+510
+735
+2295
+2700
+7.1
+24122
+24122 K30
+200
+53
+4.5
+549
+627
+3060
+3600
+7
+22222
+22222 K
+200
+69.8
+4.5
+588
+750
+2448
+2880
+9.85
+23222
+23222 K
+240
+80
+7.5
+931
+1098
+2142
+2520
+18.4
+22322
+22322 K
+120
+180
+46
+3
+348
+500
+3060
+3600
+4.2
+23024
+23024 K
+180
+60
+3
+421
+657
+2601
+3060
+5.45
+24024
+24024 K30
+200
+62
+4.5
+500
+681
+2601
+3060
+8
+23124
+23124 K
+200
+80
+3
+642
+931
+1989
+2340
+10.3
+24124
+24124 K30
+215
+58
+6
+617
+750
+2907
+3420
+8.7
+22224
+22224 K
+215
+76
+4.5
+681
+911
+2142
+2520
+12
+23224
+23224 K
+260
+86
+7.5
+946
+1098
+1989
+2340
+23
+22324
+22324 K
+130
+200
+52
+4.5
+421
+598
+2754
+3240
+6
+23026
+23026 K
+200
+69
+3
+529
+799
+2295
+2700
+8.05
+24026
+24026 K30
+210
+64
+4.5
+549
+764
+2448
+2880
+8.8
+23126
+23126 K
+210
+80
+3
+666
+980
+1836
+2160
+11
+24126
+24126 K30
+230
+64
+6
+720
+911
+2754
+3240
+11
+22226
+22226 K
+230
+80
+4.5
+764
+1039
+1989
+2340
+14.5
+23226
+23226 K
+280
+93
+9
+1098
+1294
+1836
+2160
+29
+22326
+22326 K
+140
+210
+53
+4.5
+456
+666
+2601
+3060
+6.55
+23028
+23028 K
+210
+69
+3
+559
+882
+2142
+2520
+8.55
+24028
+24028 K30
+225
+68
+4.5
+617
+882
+2142
+2520
+10.5
+23128
+23128 K
+225
+85
+4.5
+750
+1137
+1836
+2160
+13.5
+24128
+24128 K30
+250
+68
+6
+696
+882
+2448
+2880
+14
+22228
+22228 K
+250
+88
+6
+897
+1225
+1836
+2160
+19
+23228
+23228 K
+300
+102
+9
+1264
+1529
+1683
+1980
+36.5
+22328
+22328 K
+A richiesta disponibile con scanalatura circonferenziale a tre fori di lubrificazione sull’anello esterno.
+Under request avaible with circumferential groove and three lubrification noles in auter ring.
+
+---
+
+CUSCINETTI ORIENTABILI A RULLI
+SELF-ALIGNING ROLLER BEARINGS
+Foro cilindrico
+Cylindrical bore
+Foro conico
+Tapered bore
+CUSCINETTI ORIENTABILI A RULLI - SELF-ALIGNING ROLLER BEARINGS
+185
+Dimensioni (mm)
+Dimension (mm)
+Coefficiente di carico (KN)
+Load rating (KN)
+Velocità limite (giri/min)
+Speed limit (Rpm)
+Peso (Kg)
+Weight 
+(Kg)
+Sigla
+Designation
+d
+(mm)
+D
+(mm)
+B
+(mm)
+K
+(mm)
+Dinamico
+Dynamic
+C
+Statico
+Static
+C0
+Lubrificazione 
+Lubrication
+Foro cilindrico
+Cylindrical 
+bore
+Foro Conico
+Tapered bore
+Grasso 
+Grease
+Olio
+Oil
+150
+225
+56
+4.5
+500
+735
+2448
+2880
+7.95
+23030
+23030 K
+225
+75
+3
+642
+1019
+1989
+2340
+10.5
+24030
+24030 K30
+250
+80
+6
+813
+1176
+1989
+2340
+16
+23130
+23130 K
+250
+100
+4.5
+1000
+1499
+1683
+1980
+20
+24130
+24130 K30
+270
+73
+7.5
+833
+1058
+2295
+2700
+18
+22230
+22230 K
+270
+96
+6
+1058
+1431
+1683
+1980
+24.5
+23230
+23230 K
+320
+108
+9
+1431
+1725
+1530
+1800
+43.5
+22330
+22330 K
+160
+240
+60
+6
+573
+862
+2295
+2700
+9.7
+23032
+23032 K
+240
+80
+4.5
+735
+1176
+1836
+2160
+13
+24032
+24032 K30
+270
+86
+7.5
+960
+1343
+1836
+2160
+20.5
+23132
+23132 K
+270
+109
+4.5
+1156
+1725
+1453.5
+1710
+25
+24132
+24132 K30
+290
+80
+7.5
+980
+1264
+2142
+2520
+22.5
+22232
+22232 K
+290
+104
+7.5
+1196
+1627
+1683
+1980
+31
+23232
+23232 K
+340
+114
+9
+1568
+1921
+1453.5
+1710
+52
+22332
+22332 K
+170
+260
+67
+6
+696
+1039
+2142
+2520
+13
+23034
+23034 K
+260
+90
+4.5
+911
+1431
+1836
+2160
+17.5
+24034
+24034 K30
+280
+88
+7.5
+1019
+1470
+1836
+2160
+22
+23134
+23134 K
+280
+109
+4.5
+1196
+1823
+1453.5
+1710
+27.5
+24134
+24134 K30
+310
+86
+9
+1098
+1431
+1989
+2340
+28.5
+22234
+22234 K
+310
+110
+7.5
+1372
+1891
+1530
+1800
+37.5
+23234
+23234 K
+360
+120
+9
+1725
+2117
+1377
+1620
+61
+22334
+22334 K
+180
+250
+52
+3
+422
+813
+2142
+2520
+7.9
+23936
+23936 K
+280
+74
+7.5
+813
+1225
+1989
+2340
+17
+23036
+23036 K
+280
+100
+4.5
+1058
+1695
+1683
+1980
+23
+24036
+24036 K30
+300
+96
+7.5
+1176
+1725
+1683
+1980
+28
+23136
+23136 K
+300
+118
+6
+1372
+2117
+1300.5
+1530
+34.5
+24136
+24136 K30
+320
+86
+9
+1156
+1529
+1989
+2340
+29.5
+22236
+22236 K
+320
+112
+7.5
+1470
+2078
+1453.5
+1710
+39.5
+23236
+23236 K
+380
+126
+9
+1960
+2401
+1300.5
+1530
+71.5
+22336
+22336 K
+190
+260
+52
+3
+406
+784
+1989
+2340
+8.3
+23938
+23938 K
+290
+75
+7.5
+848
+1313
+1836
+2160
+18
+23038
+23038 K
+290
+100
+4.5
+1098
+1764
+1530
+1800
+24.5
+24038
+24038 K30
+320
+104
+7.5
+1343
+2038
+1530
+1800
+35
+23138
+23138 K
+320
+128
+6
+1568
+2450
+1224
+1440
+43
+24138
+24138 K30
+340
+92
+9
+1245
+1666
+1836
+2160
+36.5
+22238
+22238 K
+340
+120
+9
+1627
+2352
+1377
+1620
+48
+23238
+23238 K
+400
+132
+6
+2078
+2597
+1224
+1440
+82.5
+22338
+22338 K
+200
+280
+60
+4.5
+535
+1019
+1836
+2160
+11.5
+23940
+23940 K
+310
+82
+7.5
+980
+1499
+1683
+1980
+23.3
+23040
+23040 K
+310
+109
+6
+1264
+2078
+1453.5
+1710
+31
+24040
+24040 K30
+340
+112
+9
+1568
+2313
+1453.5
+1710
+43
+23140
+23140 K
+340
+140
+6
+1764
+2744
+1147.5
+1350
+53.5
+24140
+24140 K30
+360
+98
+9
+1431
+1891
+1683
+1980
+43.5
+22240
+22240 K
+360
+128
+9
+1823
+2646
+1300.5
+1530
+58
+23240
+23240 K
+420
+138
+12
+2274
+2842
+1147.5
+1350
+95
+22340
+22340 K
+A richiesta disponibile con scanalatura circonferenziale a tre fori di lubrificazione sull’anello esterno.
+Under request avaible with circumferential groove and three lubrification noles in auter ring.
+
+---
+
+CUSCINETTI ORIENTABILI A RULLI
+SELF-ALIGNING ROLLER BEARINGS
+Foro cilindrico
+Cylindrical bore
+Foro conico
+Tapered bore
+CUSCINETTI ORIENTABILI A RULLI - SELF-ALIGNING ROLLER BEARINGS
+186
+Dimensioni (mm)
+Dimension (mm)
+Coefficiente di carico (KN)
+Load rating (KN)
+Velocità limite (giri/min)
+Speed limit (Rpm)
+Peso (Kg)
+Weight 
+(Kg)
+Sigla
+Designation
+d
+(mm)
+D
+(mm)
+B
+(mm)
+K
+(mm)
+Dinamico
+Dynamic
+C
+Statico
+Static
+C0
+Lubrificazione 
+Lubrication
+Foro cilindrico
+Cylindrical 
+bore
+Foro Conico
+Tapered bore
+Grasso 
+Grease
+Olio
+Oil
+220
+300
+60
+4.5
+535
+1058
+1683
+1980
+12.5
+23944
+23944 K
+340
+90
+7.5
+1196
+1823
+1530
+1800
+30.5
+23044
+23044 K
+340
+118
+6
+1529
+2548
+1300.5
+1530
+40
+24044
+24044 K30
+370
+120
+9
+1764
+2695
+1300.5
+1530
+53.5
+23144
+23144 K
+370
+150
+6
+2078
+3283
+1071
+1260
+67
+24144
+24144 K30
+400
+108
+9
+1725
+2313
+1530
+1800
+60.5
+22244
+22244 K
+400
+144
+9
+2313
+3381
+1147.5
+1350
+81.5
+23244
+23244 K
+460
+145
+12
+2646
+3381
+1071
+1260
+120
+22344
+22344 K
+240
+320
+60
+4.5
+553
+1137
+1530
+1800
+13.5
+23948
+23948 K
+360
+92
+7.5
+1264
+2038
+1453.5
+1710
+33.5
+23048
+23048 K
+360
+118
+6
+1568
+2646
+1224
+1440
+43
+24048
+24048 K30
+400
+128
+9
+2038
+3136
+1224
+1440
+66.5
+23148
+23148 K
+400
+160
+6
+2352
+3822
+994.5
+1170
+83
+24148
+24148 K30
+440
+120
+9
+2156
+2940
+1377
+1620
+83
+22248
+22248 K
+440
+160
+9
+2842
+4214
+994.5
+1170
+110
+23248
+23248 K
+500
+155
+12
+3038
+3920
+994.5
+1170
+155
+22348
+22348 K
+260
+360
+75
+4.5
+862
+1764
+1453.5
+1710
+23.5
+23952
+23952 K
+400
+104
+7.5
+1568
+2499
+1300.5
+1530
+48.5
+23052
+23052 K
+400
+140
+6
+1999
+3381
+1071
+1260
+65.5
+24052
+24052 K30
+440
+144
+9
+2499
+3822
+1071
+1260
+90.5
+23152
+23152 K
+440
+180
+6
+2940
+4704
+918
+1080
+110
+24152
+24152 K30
+480
+130
+12
+2597
+3479
+1224
+1440
+110
+22252
+22252 K
+480
+174
+12
+3185
+4655
+918
+1080
+140
+23252
+23252 K
+540
+165
+12
+3479
+4459
+841.5
+990
+190
+22352
+22352 K
+280
+380
+75
+6
+828
+1725
+1300.5
+1530
+25
+23956
+23956 K
+420
+106
+9
+1695
+2793
+1224
+1440
+52.5
+23056
+23056 K
+420
+140
+6
+2117
+3724
+1071
+1260
+69.5
+24056
+24056 K30
+460
+146
+9
+2597
+4165
+994.5
+1170
+97
+23156
+23156 K
+460
+180
+7.5
+3038
+4998
+841.5
+990
+120
+24156
+24156 K30
+500
+130
+12
+2646
+3675
+1147.5
+1350
+115
+22256
+22256 K
+500
+176
+12
+3185
+4802
+841.5
+990
+150
+23256
+23256 K
+580
+175
+12
+3920
+5096
+841.5
+990
+235
+22356
+22356 K
+300
+380
+90
+-
+620
+1560
+1150
+1350
+16.5
+23860
+23860 K
+420
+90
+6
+1176
+2450
+1224
+1440
+39.5
+23960
+23960 K
+460
+118
+9
+2078
+3381
+1147.5
+1350
+71.5
+23060
+23060 K
+460
+160
+7.5
+2646
+4655
+918
+1080
+97
+24060
+24060 K30
+500
+160
+9
+3136
+4998
+918
+1080
+125
+23160
+23160 K
+500
+200
+7.5
+3675
+6174
+765
+900
+160
+24160
+24160 K30
+540
+140
+12
+3087
+4165
+1071
+1260
+145
+22260
+22260 K
+540
+192
+12
+3822
+5733
+765
+900
+190
+23260
+23260 K
+320
+440
+90
+6
+1401
+2646
+1147.5
+1350
+42
+23964
+23964 K
+480
+121
+9
+2195
+3724
+1071
+1260
+78
+23064
+23064 K
+480
+160
+7.5
+2793
+4998
+918
+1080
+100
+24064
+24064 K30
+540
+176
+12
+3675
+5880
+841.5
+990
+165
+23164
+23164 K
+540
+218
+9
+4165
+6958
+688.5
+810
+210
+24164
+24164 K30
+580
+150
+12
+3528
+4802
+994.5
+1170
+175
+22264
+22264 K
+580
+208
+12
+4312
+6566
+726.75
+855
+240
+23264
+23264 K
+A richiesta disponibile con scanalatura circonferenziale a tre fori di lubrificazione sull’anello esterno.
+Under request avaible with circumferential groove and three lubrification noles in auter ring.
+
+---
+
+CUSCINETTI ORIENTABILI A RULLI
+SELF-ALIGNING ROLLER BEARINGS
+Foro cilindrico
+Cylindrical bore
+Foro conico
+Tapered bore
+CUSCINETTI ORIENTABILI A RULLI - SELF-ALIGNING ROLLER BEARINGS
+187
+Dimensioni (mm)
+Dimension (mm)
+Coefficiente di carico (KN)
+Load rating (KN)
+Velocità limite (giri/min)
+Speed limit (Rpm)
+Peso (Kg)
+Weight 
+(Kg)
+Sigla
+Designation
+d
+(mm)
+D
+(mm)
+B
+(mm)
+K
+(mm)
+Dinamico
+Dynamic
+C
+Statico
+Static
+C0
+Lubrificazione 
+Lubrication
+Foro cilindrico
+Cylindrical 
+bore
+Foro Conico
+Tapered bore
+Grasso 
+Grease
+Olio
+Oil
+340
+460
+90
+6
+1431
+2744
+1071
+1260
+45.5
+23968
+23968 K
+520
+133
+12
+2646
+4459
+994.5
+1170
+105
+23068
+23068 K
+520
+180
+9
+3381
+6076
+841.5
+990
+140
+24068
+24068 K30
+580
+190
+12
+4165
+6664
+765
+900
+210
+23168
+23168 K
+580
+243
+9
+5194
+8477
+650.25
+765
+280
+24168
+24168 K30
+620
+224
+12
+4998
+7644
+612
+720
+295
+23268
+23268 K
+360
+480
+90
+6
+1372
+2695
+994.5
+1170
+46
+23972
+23972 K
+540
+134
+12
+2695
+4704
+918
+1080
+110
+23072
+23072 K
+540
+180
+9
+3479
+6419
+765
+900
+145
+24072
+24072 K30
+600
+192
+12
+4214
+6811
+765
+900
+220
+23172
+23172 K
+600
+243
+9
+5488
+9114
+612
+720
+280
+24172
+24172 K30
+650
+170
+12
+4214
+6076
+650.25
+765
+255
+22272
+22272 K
+650
+232
+12
+5292
+8134
+573.75
+675
+335
+23272
+23272 K
+380
+520
+106
+7.5
+1921
+3724
+918
+1080
+69
+23976
+23976 K
+560
+135
+12
+2842
+4900
+918
+1080
+115
+23076
+23076 K
+560
+180
+9
+3528
+6664
+726.75
+855
+150
+24076
+24076 K30
+620
+194
+12
+4312
+6958
+765
+900
+230
+23176
+23176 K
+620
+243
+9
+5586
+9604
+650.25
+765
+300
+24176
+24176 K30
+680
+240
+12
+5733
+8967
+573.75
+675
+375
+23276
+23276 K
+400
+540
+106
+7.5
+1960
+3822
+918
+1080
+71
+23980
+23980 K
+600
+148
+12
+3185
+5586
+841.5
+990
+150
+23080
+23080 K
+600
+200
+12
+4214
+7840
+688.5
+810
+205
+24080
+24080 K30
+650
+200
+12
+4557
+7497
+726.75
+855
+265
+23180
+23180 K
+650
+250
+12
+6076
+10388
+612
+720
+340
+24180
+24180 K30
+720
+256
+12
+6419
+10192
+512.55
+603
+450
+23280
+23280 K
+820
+243
+12
+7350
+10192
+573.75
+675
+650
+22380
+22380 K
+420
+560
+106
+9
+1999
+4067
+841.5
+990
+74.5
+23984
+23984 K
+620
+150
+12
+3332
+5880
+841.5
+990
+155
+23084
+23084 K
+620
+200
+12
+4312
+8134
+688.5
+810
+210
+24084
+24084 K30
+700
+224
+12
+5488
+9114
+688.5
+810
+350
+23184
+23184 K
+700
+280
+12
+7203
+12348
+535.5
+630
+445
+24184
+24184 K30
+760
+272
+12
+7203
+11368
+481.95
+567
+535
+23284
+23284 K
+440
+600
+118
+9
+2401
+4802
+765
+900
+99.5
+23988
+23988 K
+650
+157
+12
+3577
+6419
+765
+900
+180
+23088
+23088 K
+650
+212
+12
+4704
+8967
+650.25
+765
+245
+24088
+24088 K30
+720
+226
+12
+5880
+9800
+650.25
+765
+360
+23188
+23188 K
+720
+280
+12
+7350
+12936
+535.5
+630
+460
+24188
+24188 K30
+790
+280
+12
+7644
+12250
+459
+540
+590
+23288
+23288 K
+460
+580
+118
+6
+1754
+4802
+841.5
+990
+75.5
+24892
+24892 K30
+620
+118
+9
+2450
+4900
+765
+900
+105
+23992
+23992 K
+680
+163
+12
+3822
+6811
+726.75
+855
+205
+23092
+23092 K
+680
+218
+12
+5096
+9800
+612
+720
+275
+24092
+24092 K30
+760
+240
+12
+6272
+10584
+612
+720
+440
+23192
+23192 K
+760
+300
+12
+8134
+14308
+512.55
+603
+560
+24192
+24192 K30
+830
+296
+12
+8330
+13426
+428.4
+504
+695
+23292
+23292 K
+A richiesta disponibile con scanalatura circonferenziale a tre fori di lubrificazione sull’anello esterno.
+Under request avaible with circumferential groove and three lubrification noles in auter ring.
+
+---
+
+CUSCINETTI ORIENTABILI A RULLI
+SELF-ALIGNING ROLLER BEARINGS
+Foro cilindrico
+Cylindrical bore
+Foro conico
+Tapered bore
+CUSCINETTI ORIENTABILI A RULLI - SELF-ALIGNING ROLLER BEARINGS
+188
+Dimensioni (mm)
+Dimension (mm)
+Coefficiente di carico (KN)
+Load rating (KN)
+Velocità limite (giri/min)
+Speed limit (Rpm)
+Peso (Kg)
+Weight 
+(Kg)
+Sigla
+Designation
+d
+(mm)
+D
+(mm)
+B
+(mm)
+K
+(mm)
+Dinamico
+Dynamic
+C
+Statico
+Static
+C0
+Lubrificazione 
+Lubrication
+Foro cilindrico
+Cylindrical 
+bore
+Foro Conico
+Tapered bore
+Grasso 
+Grease
+Olio
+Oil
+480
+600
+90
+7.5
+1411
+3675
+792
+990
+61
+23896
+23896 K
+650
+128
+7.5
+2842
+5586
+765
+900
+125
+23996
+23996 K
+700
+165
+9
+3822
+6664
+726.75
+855
+215
+23096
+23096 K
+700
+218
+12
+5194
+10192
+573.75
+675
+285
+24096
+24096 K30
+790
+248
+12
+6811
+11760
+573.75
+675
+485
+23196
+23196 K
+790
+308
+12
+8820
+15288
+481.95
+567
+605
+24196
+24196 K30
+870
+310
+12
+9114
+14700
+405.45
+477
+800
+23296
+23296 K
+500
+620
+90
+7.5
+1450
+3920
+900
+720
+62
+238/500
+238/500 K
+670
+128
+7.5
+2842
+5880
+726.75
+855
+130
+239/500
+239/500 K
+720
+167
+12
+4067
+7644
+688.5
+810
+225
+230/500
+230/500 K
+720
+218
+12
+5390
+10780
+535.5
+630
+295
+240/500
+240/500 K30
+830
+264
+12
+7497
+12642
+535.5
+630
+580
+231/500
+231/500 K
+830
+325
+12
+9604
+16660
+459
+540
+700
+241/500
+241/500 K30
+920
+336
+12
+10388
+16954
+382.5
+450
+985
+232/500
+232/500 K
+530
+650
+118
+7.5
+1803
+5194
+726.75
+855
+86
+248/530
+248/530 K30
+710
+136
+12
+3136
+6566
+688.5
+810
+155
+239/530
+239/530 K
+780
+185
+12
+4998
+9114
+612
+720
+310
+230/530
+230/530 K
+780
+250
+12
+6566
+12936
+512.55
+603
+410
+240/530
+240/530 K30
+870
+272
+12
+7987
+13720
+512.55
+603
+645
+231/530
+231/530 K
+870
+335
+12
+10388
+18620
+428.4
+504
+830
+241/530
+241/530 K30
+980
+355
+12
+10878
+19992
+367.2
+432
+1200
+232/530
+232/530 K
+560
+750
+140
+12
+3381
+7056
+650.25
+765
+175
+239/560
+239/560 K
+820
+195
+12
+5488
+9996
+573.75
+675
+355
+230/560
+230/560 K
+820
+258
+12
+7203
+14308
+481.95
+567
+465
+240/560
+240/560 K30
+920
+280
+12
+8967
+15680
+481.95
+567
+740
+231/560
+231/560 K
+920
+355
+12
+11760
+21168
+382.5
+450
+985
+241/560
+241/560 K30
+1030
+365
+12
+11270
+21560
+328.95
+387
+1350
+232/560
+232/560 K
+600
+800
+150
+12
+3822
+8134
+573.75
+675
+220
+239/600
+239/600 K
+870
+200
+12
+5880
+11172
+535.5
+630
+405
+230/600
+230/600 K
+870
+272
+12
+7987
+16660
+428.4
+504
+520
+240/600
+240/600 K30
+980
+300
+12
+9996
+17640
+428.4
+504
+895
+231/600
+231/600 K
+980
+375
+12
+11270
+23128
+367.2
+432
+1200
+241/600
+241/600 K30
+1090
+388
+12
+12838
+24990
+306
+360
+1600
+232/600
+232/600 K
+630
+780
+112
+9
+2146
+5978
+573.75
+675
+120
+238/630
+238/630 K
+850
+165
+12
+4557
+9604
+535.5
+630
+280
+239/630
+239/630 K
+920
+212
+12
+6566
+12250
+512.55
+603
+485
+230/630
+230/630 K
+920
+290
+12
+8624
+17640
+405.45
+477
+645
+240/630
+240/630 K30
+1030
+315
+12
+10290
+20384
+405.45
+477
+1050
+231/630
+231/630 K
+1030
+400
+12
+12446
+26460
+344.25
+405
+1400
+241/630
+241/630 K30
+670
+820
+112
+9
+2205
+6272
+535.5
+630
+130
+238/670
+238/670 K
+820
+150
+9
+3048
+9310
+535.5
+630
+172
+248/670
+-
+900
+170
+12
+4900
+10584
+512.55
+603
+315
+239/670
+239/670 K
+980
+230
+12
+7497
+14308
+459
+540
+600
+230/670
+230/670 K
+980
+308
+12
+9800
+19992
+382.5
+450
+790
+240/670
+240/670 K30
+1090
+336
+12
+10682
+21952
+382.5
+450
+1250
+231/670
+231/670 K
+A richiesta disponibile con scanalatura circonferenziale a tre fori di lubrificazione sull’anello esterno.
+Under request avaible with circumferential groove and three lubrification noles in auter ring.
+
+---
+
+CUSCINETTI ORIENTABILI A RULLI
+SELF-ALIGNING ROLLER BEARINGS
+Foro cilindrico
+Cylindrical bore
+Foro conico
+Tapered bore
+CUSCINETTI ORIENTABILI A RULLI - SELF-ALIGNING ROLLER BEARINGS
+189
+Dimensioni (mm)
+Dimension (mm)
+Coefficiente di carico (KN)
+Load rating (KN)
+Velocità limite (giri/min)
+Speed limit (Rpm)
+Peso (Kg)
+Weight 
+(Kg)
+Sigla
+Designation
+d
+(mm)
+D
+(mm)
+B
+(mm)
+K
+(mm)
+Dinamico
+Dynamic
+C
+Statico
+Static
+C0
+Lubrificazione 
+Lubrication
+Foro cilindrico
+Cylindrical 
+bore
+Foro Conico
+Tapered bore
+Grasso 
+Grease
+Olio
+Oil
+670
+1090
+412
+12
+13524
+28420
+306
+360
+1600
+241/670
+241/670 K30
+1220
+438
+12
+15092
+29890
+275.4
+324
+2270
+232/670
+232/670 K
+710
+870
+118
+12
+2528
+7350
+512.55
+603
+153
+238/710
+-
+950
+180
+12
+5488
+11760
+459
+540
+365
+239/710
+239/710 K
+950
+243
+12
+6664
+15288
+382.5
+450
+495
+249/710
+249/710 K30
+1030
+236
+12
+8134
+15974
+428.4
+504
+670
+230/710
+230/710 K
+1030
+315
+12
+10388
+22344
+344.25
+405
+895
+240/710
+240/710 K30
+1150
+345
+12
+11956
+25480
+344.25
+405
+1450
+231/710
+231/710 K
+1150
+438
+12
+14896
+31850
+290.7
+342
+1900
+241/710
+241/710 K30
+1280
+450
+12
+17248
+33810
+244.8
+288
+2610
+232/710
+232/710 K
+750
+920
+128
+12
+2871
+8330
+459
+540
+180
+238/750
+238/750 K
+1000
+185
+12
+5880
+12936
+428.4
+504
+420
+239/750
+239/750 K
+1000
+250
+12
+7497
+17640
+367.2
+432
+560
+249/750
+249/750 K30
+1090
+250
+12
+9457
+18228
+405.45
+477
+795
+230/750
+230/750 K
+1090
+335
+12
+11564
+24500
+328.95
+387
+1065
+240/750
+240/750 K30
+1220
+365
+12
+13524
+28420
+328.95
+387
+1700
+231/750
+231/750 K
+1220
+475
+12
+16954
+36750
+275.4
+324
+2100
+241/750
+241/750 K30
+1360
+475
+12
+18326
+35770
+229.5
+270
+3050
+232/750
+232/750 K
+800
+980
+180
+12
+4057
+12642
+428.4
+504
+300
+248/800
+248/800 K30
+1060
+195
+12
+6272
+14014
+405.45
+477
+470
+239/800
+239/800 K
+1060
+258
+12
+7840
+18914
+328.95
+387
+640
+249/800
+249/800 K30
+1150
+258
+12
+9800
+19600
+367.2
+432
+895
+230/800
+230/800 K
+1150
+345
+12
+12642
+27930
+306
+360
+1200
+240/800
+240/800 K30
+1280
+375
+12
+14504
+30870
+306
+360
+1920
+231/800
+231/800 K
+1280
+475
+12
+18032
+39690
+244.8
+288
+2300
+241/800
+241/800 K30
+850
+1030
+136
+12
+3273
+9800
+405.45
+477
+240
+238/850
+238/850 K
+1120
+200
+12
+6811
+15288
+367.2
+432
+560
+239/850
+239/850 K
+1120
+272
+12
+9114
+22344
+306
+360
+740
+249/850
+249/850 K30
+1220
+272
+12
+9183
+21168
+344.25
+405
+1050
+230/850
+230/850 K
+1220
+365
+12
+12446
+30870
+275.4
+324
+1410
+240/850
+240/850 K30
+1360
+400
+12
+15778
+33810
+275.4
+324
+2200
+231/850
+231/850 K
+1360
+500
+12
+19796
+44100
+229.5
+270
+2710
+241/850
+241/850 K30
+900
+1090
+190
+12
+4567
+14994
+367.2
+432
+370
+248/900
+248/900 K30
+1180
+206
+12
+7350
+16660
+344.25
+405
+605
+239/900
+239/900 K
+1280
+280
+12
+9898
+22736
+306
+360
+1200
+230/900
+230/900 K
+1280
+375
+12
+13328
+33810
+260.1
+306
+1570
+240/900
+240/900 K30
+1420
+515
+12
+20972
+48020
+214.2
+252
+3350
+241/900
+241/900 K30
+950
+1250
+224
+12
+7105
+19208
+328.95
+387
+755
+239/950
+239/950 K
+1250
+300
+12
+9016
+25480
+260.1
+306
+1015
+249/950
+249/950 K30
+1360
+300
+12
+11760
+27930
+290.7
+342
+1450
+230/950
+230/950 K
+1360
+412
+12
+14504
+38220
+229.5
+270
+1990
+240/950
+240/950 K30
+1500
+545
+12
+23422
+53900
+198.9
+234
+3535
+241/950
+241/950 K30
+A richiesta disponibile con scanalatura circonferenziale a tre fori di lubrificazione sull’anello esterno.
+Under request avaible with circumferential groove and three lubrification noles in auter ring.
+
+---
+
+CUSCINETTI ORIENTABILI A RULLI
+SELF-ALIGNING ROLLER BEARINGS
+Foro cilindrico
+Cylindrical bore
+Foro conico
+Tapered bore
+CUSCINETTI ORIENTABILI A RULLI - SELF-ALIGNING ROLLER BEARINGS
+190
+Dimensioni (mm)
+Dimension (mm)
+Coefficiente di carico (KN)
+Load rating (KN)
+Velocità limite (giri/min)
+Speed limit (Rpm)
+Peso (Kg)
+Weight 
+(Kg)
+Sigla
+Designation
+d
+(mm)
+D
+(mm)
+B
+(mm)
+K
+(mm)
+Dinamico
+Dynamic
+C
+Statico
+Static
+C0
+Lubrificazione 
+Lubrication
+Foro cilindrico
+Cylindrical 
+bore
+Foro Conico
+Tapered bore
+Grasso 
+Grease
+Olio
+Oil
+1000
+1220
+165
+12
+4567
+14014
+306
+360
+410
+238/1000
+238/1000 K
+1320
+315
+12
+10192
+28420
+244.8
+288
+1200
+249/1000
+249/1000 K30
+1420
+308
+12
+12446
+29890
+275.4
+324
+1600
+230/1000
+230/1000 K
+1420
+412
+12
+15092
+39690
+214.2
+252
+2140
+240/1000
+240/1000 K30
+1580
+462
+12
+20972
+47040
+214.2
+252
+3500
+231/1000
+231/1000 K
+1580
+580
+12
+26166
+60760
+183.6
+216
+4300
+241/1000
+241/1000 K30
+1060
+1280
+165
+12
+4674.6
+14700
+273.6
+342
+435
+238/1060
+238/1060 K
+1280
+218
+12
+5978
+19600
+273.6
+342
+570
+248/1060
+248/1060 K
+1400
+250
+12
+9359
+25480
+259.2
+324
+1100
+239/1060
+239/1060 K
+1400
+335
+12
+11270
+31850
+201.6
+252
+1400
+249/1060
+249/1060 K
+1500
+325
+12
+13524
+33320
+230.4
+288
+2250
+230/1060
+230/1060 K
+1500
+438
+12
+16954
+44590
+187.2
+234
+2515
+240/1060
+240/1060 K
+1120
+1360
+243
+12
+7105
+23520
+244.8
+306
+735
+248/1120
+248/1120 K
+1460
+335
+12
+11466
+33810
+187.2
+234
+1500
+249/1120
+249/1120 K
+1580
+462
+12
+18326
+4900
+172.8
+216
+2925
+240/1120
+240/1120 K
+1180
+1420
+180
+12
+5752.6
+18228
+230.4
+288
+575
+238/1180
+238/1180 K
+1420
+243
+12
+7555.8
+26460
+230.4
+288
+770
+248/1180
+248/1180 K
+1540
+272
+12
+10878
+30380
+216
+270
+1400
+239/1180
+239/1180 K
+1540
+355
+12
+13328
+39690
+172.8
+216
+1800
+249/1180
+249/1180 K
+1250
+1750
+375
+12
+17542
+44100
+93.6
+117
+2840
+230/1250
+230/1250 K
+1320
+1600
+280
+12
+9584.4
+32830
+187.2
+234
+1160
+248/1320
+248/1320 K
+1720
+400
+12
+15778
+48020
+144
+180
+2500
+249/1320
+249/1320 K
+1500
+1820
+315
+12
+12446
+44100
+144
+180
+1710
+248/1500
+248/1500 K
+1800
+2180
+375
+12
+17248
+61740
+93.6
+117
+2900
+248/1800
+248/1800 K
+A richiesta disponibile con scanalatura circonferenziale a tre fori di lubrificazione sull’anello esterno.
+Under request avaible with circumferential groove and three lubrification noles in auter ring.
+
+---
+
+Foro cilindrico
+Cylindrical bore
+Foro conico
+Tapered bore
+CUSCINETTI ORIENTABILI A RULLI - SELF-ALIGNING ROLLER BEARINGS
+191
+CUSCINETTI ORIENTABILI A RULLI SCHERMATI
+SEALED SELF-ALIGNING ROLLER BEARINGS
+Dimensioni (mm)
+Dimension (mm)
+Coefficiente di carico (KN)
+Load rating (KN)
+Velocità 
+limite 
+(giri/min)
+Speed limit
+(Rpm)
+Peso (Kg)
+Weight 
+(Kg)
+Sigla
+Designation
+d
+(mm)
+D
+(mm)
+B
+(mm)
+K
+(mm)
+Dinamico
+Dynamic
+C
+Statico
+Static
+C0
+Foro cilindrico
+Cylindrical 
+bore
+Foro Conico
+Tapered bore
+25
+52
+23
+2
+48.02
+43.12
+3060
+0.31
+22205-2RS*
+-
+30
+62
+25
+2
+62.72
+58.8
+2380
+0.34
+22206-2RS*
+-
+35
+72
+28
+2
+84.77
+83.3
+2040
+0.52
+22207-2RS*
+-
+40
+80
+28
+3
+94.57
+88.2
+1870
+0.57
+22208-2RS*
+22208-2RSK
+90
+38
+3
+147
+137.2
+1615
+1.2
+22308-2RS
+-
+45
+85
+28
+3
+99.96
+96.04
+1700
+0.66
+22209-2RS*
+22209-2RSK
+50
+90
+28
+3
+101.92
+105.84
+1615
+0.7
+22210-2RS*
+22210-2RSK
+55
+100
+31
+3
+122.5
+124.46
+1445
+1
+22211-2RS*
+22211-2RSK
+120
+49
+3
+264.6
+274.4
+1190
+2.8
+22311-2RS
+-
+60
+110
+34
+3
+152.88
+162.68
+1360
+1.3
+22212-2RS*
+22212-2RSK
+65
+120
+38
+3
+189.14
+211.68
+1275
+1.6
+22213-2RS*
+22213-2RSK
+70
+125
+38
+3
+203.84
+223.44
+1190
+1.8
+22214-2RS*
+22214-2RSK
+75
+130
+38
+3
+207.76
+235.2
+1105
+2.1
+22215-2RS*
+22215-2RSK
+160
+64
+4.5
+431.2
+465.5
+807.5
+6.5
+22315-2RS
+-
+80
+140
+40
+3
+231.28
+264.6
+1020
+2.4
+22216-2RS*
+22216-2RSK
+85
+150
+44
+3
+279.3
+318.5
+935
+3
+22217-2RS*
+22217-2RSK
+90
+160
+48
+3
+318.5
+367.5
+850
+3.7
+22218-2RS*
+22218-2RSK
+100
+180
+55
+4.5
+416.5
+480.2
+765
+5.5
+22220-2RS*
+-
+110
+170
+45
+4.5
+303.8
+431.2
+765
+3.75
+23022-2RS
+-
+180
+56
+4.5
+421.4
+573.3
+680
+5.55
+23122-2RS
+-
+180
+69
+3
+509.6
+735
+535.5
+6.85
+24122-2RS
+-
+200
+63
+4.5
+548.8
+627.2
+680
+7.6
+22222-2RS*
+-
+120
+180
+46
+3
+347.9
+499.8
+722.5
+4.2
+23024-2RS
+-
+180
+60
+3
+421.4
+656.6
+569.5
+5.45
+24024-2RS
+-
+200
+80
+3
+641.9
+931
+476
+10.5
+24124-2RS
+-
+215
+69
+6
+617.4
+749.7
+637.5
+9.75
+22224-2RS*
+-
+130
+200
+52
+4.5
+421.4
+597.8
+680
+6
+23026-2RS
+-
+200
+69
+3
+529.2
+798.7
+510
+8.05
+24026-2RS
+-
+210
+80
+3
+666.4
+980
+450.5
+11
+24126-2RS
+-
+140
+210
+69
+3
+558.6
+882
+476
+8.55
+24028-2RS
+-
+225
+85
+4.5
+749.7
+1136.8
+382.5
+13.5
+24128-2RS
+-
+250
+88
+6
+896.7
+1225
+450.5
+19.5
+23228-2RS
+-
+150
+225
+75
+3
+641.9
+1019.2
+450.5
+10.5
+24030-2RS
+-
+250
+100
+4.5
+999.6
+1499.4
+340
+20
+24130-2RS
+-
+160
+240
+80
+4.5
+735
+1176
+382.5
+13
+24032-2RS
+-
+270
+86
+7.5
+960.4
+1342.6
+450.5
+20.5
+23132-2RS
+-
+* Equivalente SKF BS2-22..-2CS
+* SKF Equivalent BS2-22..-2CS 
+
+---
+
+Foro cilindrico
+Cylindrical bore
+Foro conico
+Tapered bore
+CUSCINETTI ORIENTABILI A RULLI - SELF-ALIGNING ROLLER BEARINGS
+192
+CUSCINETTI ORIENTABILI A RULLI SCHERMATI
+SEALED SELF-ALIGNING ROLLER BEARINGS
+Dimensioni (mm)
+Dimension (mm)
+Coefficiente di carico (KN)
+Load rating (KN)
+Velocità 
+limite 
+(giri/min)
+Speed limit
+(Rpm)
+Peso (Kg)
+Weight 
+(Kg)
+Sigla
+Designation
+d
+(mm)
+D
+(mm)
+B
+(mm)
+K
+(mm)
+Dinamico
+Dynamic
+C
+Statico
+Static
+C0
+Foro cilindrico
+Cylindrical 
+bore
+Foro Conico
+Tapered bore
+170
+260
+90
+4.5
+911.4
+1430.8
+340
+17.5
+24034-2RS
+-
+280
+109
+4.5
+1195.6
+1822.8
+306
+27.5
+24134-2RS
+-
+180
+280
+100
+4.5
+1058.4
+1695.4
+323
+23
+24036-2RS
+-
+190
+320
+128
+6
+1568
+2450
+289
+43
+24138-2RS
+-
+200
+340
+140
+6
+1764
+2744
+272
+53.5
+24140-2RS
+-
+360
+128
+9
+1822.8
+2646
+365.5
+58
+23240-2RS
+-
+220
+300
+60
+4.5
+535.08
+1059
+510
+12.5
+23944-2RS
+-
+
+---
+
+Foro cilindrico
+Cylindrical bore
+Foro conico
+Tapered bore
+CUSCINETTI ORIENTABILI A RULLI - SELF-ALIGNING ROLLER BEARINGS
+193
+CUSCINETTI ORIENTABILI A RULLI PER APPLICAZIONI VIBRANTI
+SELF-ALIGNING ROLLER VIBRATING SCREEN BEARINGS 
+Dimensioni (mm)
+Dimension (mm)
+Coefficiente di carico (KN)
+Load rating (KN)
+Velocità limite (giri/min)
+Speed limit (Rpm)
+Peso (Kg)
+Weight (Kg)
+Sigla
+Designation
+d
+(mm)
+D
+(mm)
+B
+(mm)
+K
+(mm)
+Dinamico
+Dynamic
+C
+Statico
+Static
+C0
+Lubrificazione 
+Lubrication
+Foro cilindrico
+Cylindrical 
+bore
+Foro Conico
+Tapered bore
+Grasso 
+Grease
+Olio
+Oil
+40
+90
+33
+3
+147
+137
+6120
+7200
+1.05
+22308 VA
+-
+45
+100
+36
+3
+179
+179
+5355
+6300
+1.4
+22309 VA
+-
+50
+110
+40
+3
+216
+220
+4820
+5670
+1.9
+22310 VA
+-
+55
+120
+43
+3
+265
+274
+4284
+5040
+2.45
+22311 VA
+22311 KVA
+60
+130
+46
+4.5
+304
+328
+4055
+4770
+3.1
+22312 VA
+22312 KVA
+65
+140
+48
+4.5
+333
+353
+3825
+4500
+3.75
+22313 VA
+22313 KVA
+70
+150
+51
+4.5
+392
+421
+3443
+4050
+4.55
+22314 VA
+22314 KVA
+75
+160
+55
+4.5
+431
+466
+3290
+3870
+5.55
+22315 VA
+22315 KVA
+80
+170
+58
+4.5
+480
+529
+3060
+3600
+6.6
+22316 VA
+22316 KVA
+85
+180
+60
+4.5
+539
+608
+2907
+3420
+7.65
+22317 VA
+22317 KVA
+90
+190
+64
+6
+598
+681
+2754
+3240
+9.05
+22318 VA
+22318 KVA
+95
+200
+67
+6
+657
+750
+2601
+3060
+10.5
+22319 VA
+22319 KVA
+100
+215
+73
+6
+799
+931
+2295
+2700
+13.5
+22320 VA
+22320 KVA
+110
+240
+80
+7.5
+931
+1098
+2142
+2520
+18.4
+22322 VA
+22322 KVA
+120
+260
+86
+7.5
+946
+1098
+1989
+2340
+23
+22324 VA
+22324 KVA
+130
+280
+93
+9
+1098
+1294
+1836
+2160
+29
+22326 VA
+22326 KVA
+140
+300
+102
+9
+1264
+1529
+1683
+1980
+36.5
+22328 VA
+22328 KVA
+150
+320
+108
+9
+1431
+1725
+1530
+1800
+43.5
+22330 VA
+22330 KVA
+160
+340
+114
+9
+1568
+1921
+1454
+1710
+52
+22332 VA
+22332 KVA
+170
+360
+120
+9
+1725
+2117
+1377
+1620
+61
+22334 VA
+22334 KVA
+180
+380
+126
+12
+1960
+2401
+1301
+1530
+71.5
+22336 VA
+22336 KVA
+190
+400
+132
+12
+2078
+2597
+1224
+1440
+82.5
+22338 VA
+22338 KVA
+200
+420
+138
+12
+2274
+2842
+1148
+1350
+95
+22340 VA
+22340 KVA
+220
+460
+145
+12
+2646
+3381
+1071
+1260
+120
+22344 VA
+22344 KVA
+240
+500
+155
+12
+3038
+3920
+995
+1170
+155
+22348 VA
+22348 KVA
+
+---
+
+CUSCINETTI ORIENTABILI A RULLI CON BUSSOLA DI TRAZIONE
+SELF-ALIGNING ROLLER BEARINGS WITH ADAPTER SLEEVE
+CUSCINETTI ORIENTABILI A RULLI - SELF-ALIGNING ROLLER BEARINGS
+194
+Dimensioni (mm)
+Dimension (mm)
+Coefficiente di carico (KN)
+Load rating (KN)
+Velocità limite (giri/min)
+Speed limit (Rpm)
+Peso (Kg)
+Weight 
+(Kg)
+Sigla
+Designation
+d
+(mm)
+D
+(mm)
+B
+(mm)
+K
+(mm)
+B1
+(mm)
+Dinamico
+Dynamic
+C
+Statico
+Static
+C0
+Lubrificazione 
+Lubrication
+Cuscinetto
+Bearing
+Bussola di 
+trazione
+Adapters
+sleeve
+Grasso 
+Grease
+Olio
+Oil
+20
+52
+18
+2
+29
+48
+43
+13005
+15300
+0.33
+22205 EKW33
+H 305
+25
+62
+20
+2
+31
+63
+59
+10710
+12600
+0.39
+22206 EKW33
+H 306 
+72
+19
+-
+31
+54
+60
+7650
+9000
+0.51
+21306 EKW33
+H 306
+30
+72
+23
+2
+53
+85
+83
+9180
+10800
+0.59
+22207 EKW33
+H 307
+80
+21
+-
+35
+64
+71
+7268
+8550
+0.69
+21307 EKW33
+H 307
+35
+80
+23
+3
+36
+95
+88
+8415
+9900
+0.68
+22208 EKW33
+H 308 
+90
+23
+3
+36
+102
+106
+7268
+8550
+0.92
+21308 EKW33
+H 308 
+90
+33
+3
+46
+147
+137
+6120
+7200
+1.25
+22308 EKW33
+H 2308 
+40
+85
+23
+3
+39
+100
+96
+7650
+9000
+0.81
+22209 EKW33
+H 309 
+100
+25
+3
+39
+123
+124
+6503
+7650
+1.2
+21309 EKW33
+H 309 
+100
+36
+3
+50
+179
+179
+5355
+6300
+1.7
+22309 EKW33
+H 2309 
+45
+90
+23
+3
+42
+102
+106
+7268
+8550
+0.9
+22210 EKW33
+H 310 
+110
+27
+3
+42
+153
+163
+5738
+6750
+1.6
+21310 EKW33
+H 310 
+110
+40
+3
+55
+216
+220
+4820
+5670
+2.25
+22310 EKW33
+H 2310 
+50
+100
+25
+3
+45
+123
+124
+6503
+7650
+1.1
+22211 EKW33
+H 311 
+120
+29
+3
+45
+153
+163
+5738
+6750
+1.95
+21311 EKW33
+H 311 
+120
+43
+3
+59
+265
+274
+4284
+5040
+2.85
+22311 EKW33
+H 2311 
+55
+110
+28
+3
+47
+153
+163
+5738
+6750
+1.45
+22212 EKW33
+H 312 
+130
+31
+3
+47
+208
+235
+4820
+5670
+2.35
+21312 EKW33
+H 312 
+130
+46
+4.5
+62
+304
+328
+4055
+4770
+3.5
+22312 EKW33
+H 2312 
+60
+120
+31
+3
+50
+189
+212
+5355
+6300
+1.95
+22213 EKW33
+H 313 
+140
+33
+3
+50
+231
+265
+4590
+5400
+2.9
+21313 EKW33
+H 313 
+140
+48
+4.5
+65
+333
+353
+3825
+4500
+4.2
+22313 EKW33
+H 2313 
+65
+130
+31
+3
+55
+208
+235
+4820
+5670
+2.45
+22215 EKW33
+H 315 
+160
+37
+3
+55
+279
+319
+4284
+5040
+4.5
+21315 EKW33
+H 315 
+160
+55
+4.5
+73
+431
+466
+3290
+3870
+6.5
+22315 EKW33
+H 2315 
+70
+140
+33
+3
+59
+231
+265
+4590
+5400
+3
+22216 EKW33
+H 316 
+170
+39
+3
+59
+319
+368
+4055
+4770
+5.3
+21316 EKW33
+H 316 
+170
+58
+4.5
+78
+480
+529
+3060
+3600
+7.65
+22316 EKW33
+H 2316 
+75
+150
+36
+3
+63
+279
+319
+4284
+5040
+3.7
+22217 EKW33
+H 317 
+180
+41
+3
+63
+319
+368
+4055
+4770
+6.2
+21317 EKW33
+H 317 
+180
+60
+4.5
+82
+539
+608
+2907
+3420
+8.85
+22317 EKW33
+H 2317 
+80
+160
+40
+3
+65
+319
+368
+4055
+4770
+4.55
+22218 EKW33
+H 318 
+160
+52.4
+3
+86
+348
+431
+2907
+3420
+6
+23218 EKW33
+H 2318 
+190
+43
+4.5
+65
+372
+441
+3672
+4320
+7.25
+21318 EKW33
+H 318 
+190
+64
+6
+86
+598
+681
+2754
+3240
+10.5
+22318 EKW33
+H 2318 
+85
+170
+43
+4.5
+68
+372
+441
+3672
+4320
+5.45
+22219 EKW33
+H 319 
+200
+45
+4.5
+68
+417
+480
+3443
+4050
+8.25
+21319 EKW33
+H 319 
+200
+67
+6
+90
+657
+750
+2601
+3060
+12
+22319 EKW33
+H 2319 
+
+---
+
+CUSCINETTI ORIENTABILI A RULLI CON BUSSOLA DI TRAZIONE
+SELF-ALIGNING ROLLER BEARINGS WITH ADAPTER SLEEVE
+CUSCINETTI ORIENTABILI A RULLI - SELF-ALIGNING ROLLER BEARINGS
+195
+Dimensioni (mm)
+Dimension (mm)
+Coefficiente di carico (KN)
+Load rating (KN)
+Velocità limite (giri/min)
+Speed limit (Rpm)
+Peso (Kg)
+Weight 
+(Kg)
+Sigla
+Designation
+d
+(mm)
+D
+(mm)
+B
+(mm)
+K
+(mm)
+B1
+(mm)
+Dinamico
+Dynamic
+C
+Statico
+Static
+C0
+Lubrificazione 
+Lubrication
+Cuscinetto
+Bearing
+Bussola di 
+trazione
+Adapters
+sleeve
+Grasso 
+Grease
+Olio
+Oil
+90
+165
+52
+3
+76
+358
+480
+3060
+3600
+6.15
+23120 EKW33
+H 3120 
+180
+46
+4.5
+71
+417
+480
+3443
+4050
+6.4
+22220 EKW33
+H 320 
+180
+60.3
+4.5
+97
+466
+588
+2601
+3060
+8.75
+23220 EKW33
+H 2320 
+215
+47
+4.5
+71
+417
+480
+3443
+4050
+10.5
+21320 EKW33
+H 320 
+215
+73
+6
+97
+799
+931
+2295
+2700
+15.2
+22320 EKW33
+H 2320 
+100
+170
+45
+3
+77
+304
+431
+3290
+3870
+5.75
+23022 EKW33
+H 322 
+180
+56
+4.5
+81
+421
+573
+2754
+3240
+7.7
+23122 EKW33
+H 3122 
+200
+53
+4.5
+77
+549
+627
+3060
+3600
+8.9
+22222 EKW33
+H 322 
+200
+69.8
+4.5
+105
+588
+750
+2448
+2880
+12.5
+23222 EKW33
+H 2322
+240
+80
+7.5
+105
+931
+1098
+2142
+2520
+21
+22322 EKW33
+H 2322 
+110
+180
+46
+3
+72
+348
+500
+3060
+3600
+5.95
+23024 EKW33
+H 3024 
+200
+62
+4.5
+88
+500
+681
+2601
+3060
+10
+23124 EKW33
+H 3124 
+215
+58
+6
+88
+617
+750
+2907
+3420
+11
+22224 EKW33
+H 3124 
+215
+76
+4.5
+112
+681
+911
+2142
+2520
+14.7
+23224 EKW33
+H 2324
+260
+86
+7.5
+112
+946
+1098
+1989
+2340
+25.5
+22324 EKW33
+H 2324 
+115
+200
+52
+4.5
+80
+421
+598
+2754
+3240
+8.6
+23026 EKW33
+H 3026 
+210
+64
+4.5
+92
+549
+764
+2448
+2880
+12
+23126 EKW33
+H 3126
+230
+64
+6
+92
+720
+911
+2754
+3240
+14
+22226 EKW33
+H 3126 
+230
+80
+4.5
+121
+764
+1039
+1989
+2340
+18.5
+23226 EKW33
+H 2326
+280
+93
+9
+121
+1098
+1294
+1836
+2160
+33
+22326 EKW33
+H 2326 
+125
+210
+53
+4.5
+82
+456
+666
+2601
+3060
+9.4
+23028 EKW33
+H 3028 
+225
+68
+4.5
+97
+617
+882
+2142
+2520
+14.3
+23128 EKW33
+H 3128
+250
+68
+6
+97
+696
+882
+2448
+2880
+17.8
+22228 EKW33
+H 3128 
+250
+88
+6
+131
+897
+1225
+1836
+2160
+24
+23228 EKW33
+H 2328 
+300
+102
+9
+131
+1264
+1529
+1683
+1980
+41
+22328 EKW33
+H 2328 
+135
+225
+56
+4.5
+87
+500
+735
+2448
+2880
+11
+23030 EKW33
+H 3030 
+250
+80
+6
+111
+813
+1176
+1989
+2340
+20.8
+23130 EKW33
+H 3130
+270
+73
+7.5
+111
+833
+1058
+2295
+2700
+22.8
+22230 EKW33
+H 3130 
+270
+96
+6
+139
+1058
+1431
+1683
+1980
+30
+23230 EKW33
+H 2330 
+320
+108
+9
+139
+1431
+1725
+1530
+1800
+47.4
+22330 EKW33
+H 2330 
+140
+240
+60
+6
+93
+573
+862
+2295
+2700
+14.5
+23032 EKW33
+H 3032 
+270
+86
+7.5
+119
+960
+1343
+1836
+2160
+27.3
+23132 EKW33
+H 3132 
+290
+80
+7.5
+119
+980
+1264
+2142
+2520
+29.3
+22232 EKW33
+H 3132 
+290
+104
+7.5
+147
+1196
+1627
+1683
+1980
+38.8
+23232 EKW33
+H 2332 
+340
+114
+9
+147
+1568
+1921
+1454
+1710
+60
+22332 EKW33
+H 2332 
+150
+260
+67
+6
+101
+696
+1039
+2142
+2520
+18.3
+23034 EKW33
+H 3034 
+280
+88
+7.5
+122
+1019
+1470
+1836
+2160
+29.5
+23134 EKW33
+H 3134 
+310
+86
+9
+122
+1098
+1431
+1989
+2340
+36
+22234 EKW33
+H 3134 
+310
+110
+7.5
+154
+1372
+1891
+1530
+1800
+46.4
+23234 EKW33
+H 2334 
+360
+120
+9
+154
+1725
+2117
+1377
+1620
+69.5
+22334 EKW33
+H 2334 
+
+---
+
+CUSCINETTI ORIENTABILI A RULLI CON BUSSOLA DI TRAZIONE
+SELF-ALIGNING ROLLER BEARINGS WITH ADAPTER SLEEVE
+CUSCINETTI ORIENTABILI A RULLI - SELF-ALIGNING ROLLER BEARINGS
+196
+Dimensioni (mm)
+Dimension (mm)
+Coefficiente di carico (KN)
+Load rating (KN)
+Velocità limite (giri/min)
+Speed limit (Rpm)
+Peso (Kg)
+Weight 
+(Kg)
+Sigla
+Designation
+d
+(mm)
+D
+(mm)
+B
+(mm)
+K
+(mm)
+B1
+(mm)
+Dinamico
+Dynamic
+C
+Statico
+Static
+C0
+Lubrificazione 
+Lubrication
+Cuscinetto
+Bearing
+Bussola di 
+trazione
+Adapters
+sleeve
+Grasso 
+Grease
+Olio
+Oil
+160
+250
+52
+3
+87
+422
+813
+2142
+2520
+13.4
+23936 EKW33
+H 3936
+280
+74
+7.5
+109
+813
+1225
+1989
+2340
+23.2
+23036 EKW33
+H 3036 
+300
+96
+7.5
+131
+1176
+1725
+1683
+1980
+37
+23136 EKW33
+H 3136 
+320
+86
+9
+131
+1156
+1529
+1989
+2340
+38.2
+22236 EKW33
+H 3136 
+320
+112
+7.5
+161
+1470
+2078
+1454
+1710
+49.5
+23236 EKW33
+H 2336 
+380
+126
+12
+161
+1960
+2401
+1301
+1530
+80
+22336 EKW33
+H 2336 
+170
+260
+52
+9
+89
+406
+784
+1989
+2340
+14.5
+23938 EKW33
+H 3938
+290
+75
+7.5
+112
+848
+1313
+1836
+2160
+24.8
+23038 EKW33
+H 3038 
+320
+104
+7.5
+141
+1343
+2038
+1530
+1800
+44.5
+23138 EKW33
+H 3138 
+340
+92
+9
+141
+1245
+1666
+1836
+2160
+46
+22238 EKW33
+H 3138 
+340
+120
+9
+169
+1627
+2352
+1377
+1620
+59
+23238 EKW33
+H 2338 
+400
+132
+12
+169
+2078
+2597
+1224
+1440
+93
+22338 EKW33
+H 2338 
+180
+280
+60
+4.5
+98
+535
+1019
+1836
+2160
+19
+23940 EKW33
+H 3940
+310
+82
+7.5
+120
+980
+1499
+1683
+1980
+31.7
+23040 EKW33
+H 3040 
+340
+112
+9
+150
+1568
+2313
+1454
+1710
+55.5
+23140 EKW33
+H 3140 
+360
+98
+9
+150
+1431
+1891
+1683
+1980
+66
+22240 EKW33
+H 3140 
+360
+128
+9
+176
+1823
+2646
+1301
+1530
+70
+23240 EKW33
+H 2340 
+420
+138
+12
+176
+2274
+2842
+1148
+1350
+107
+22340 EKW33
+H 2340 
+200
+300
+60
+4.5
+96
+535
+1058
+1683
+1980
+22.5
+23944 EKW33
+OH 3944 H
+340
+90
+7.5
+126
+1196
+1823
+1530
+1800
+39.4
+23044 EKW33
+OH 3044 H 
+370
+120
+9
+161
+1764
+2695
+1301
+1530
+67.5
+23144 EKW33
+OH 3144 H 
+400
+108
+9
+161
+1725
+2313
+1530
+1800
+74
+22244 EKW33
+OH 3144 H 
+400
+144
+9
+186
+2313
+3381
+1148
+1350
+96.5
+23244 EKW33
+OH 2344 H 
+460
+145
+12
+186
+2646
+3381
+1071
+1260
+135
+22344 EKW33
+OH 2344 H 
+220
+320
+60
+4.5
+101
+553
+1137
+1530
+1800
+24.5
+23948 EKW33
+OH 3948 H
+360
+92
+7.5
+133
+1264
+2038
+1454
+1710
+44.5
+23048 EKW33
+OH 3048 H 
+400
+128
+9
+172
+2038
+3136
+1224
+1440
+80.5
+23148 EKW33
+OH 3148 H 
+440
+120
+12
+172
+2156
+2940
+1377
+1620
+99
+22248 EKW33
+OH 3148 H 
+440
+160
+12
+199
+2842
+4214
+995
+1170
+125
+23248 EKW33
+OH 2348 H 
+500
+155
+12
+199
+3038
+3920
+995
+1170
+170
+22348 EKW33
+OH 2348 H 
+240
+360
+75
+4.5
+116
+862
+1764
+1454
+1710
+35
+23952 EKW33
+OH 3952 H
+400
+104
+9
+145
+1568
+2499
+1301
+1530
+60.5
+23052 EKW33
+OH 3052 H 
+440
+144
+9
+190
+2499
+3822
+1071
+1260
+109
+23152 EKW33
+OH 3152 H 
+480
+130
+12
+190
+2597
+3479
+1224
+1440
+130
+22252 EKW33
+OH 3152 H 
+480
+174
+12
+211
+3185
+4655
+918
+1080
+160
+23252 EKW33
+OH 2352 H 
+540
+165
+12
+211
+3479
+4459
+842
+990
+215
+22352 EKW33
+OH 2352 H 
+260
+380
+75
+6
+121
+828
+1725
+1301
+1530
+40
+23956 EKW33
+OH 3956 H 
+420
+106
+9
+152
+1695
+2793
+1224
+1440
+67
+23056 EKW33
+OH 3056 H 
+460
+146
+9
+195
+2597
+4165
+995
+1170
+115
+23156 EKW33
+OH 3156 H 
+500
+130
+12
+195
+2646
+3675
+1148
+1350
+135
+22256 EKW33
+OH 3156 H 
+500
+176
+12
+224
+3185
+4802
+842
+990
+165
+23256 EKW33
+OH 2356 H 
+580
+175
+12
+224
+3920
+5096
+842
+990
+250
+22356 EKW33
+OH 2356 H 
+
+---
+
+CUSCINETTI ORIENTABILI A RULLI CON BUSSOLA DI TRAZIONE
+SELF-ALIGNING ROLLER BEARINGS WITH ADAPTER SLEEVE
+CUSCINETTI ORIENTABILI A RULLI - SELF-ALIGNING ROLLER BEARINGS
+197
+Dimensioni (mm)
+Dimension (mm)
+Coefficiente di carico (KN)
+Load rating (KN)
+Velocità limite (giri/min)
+Speed limit (Rpm)
+Peso (Kg)
+Weight 
+(Kg)
+Sigla
+Designation
+d
+(mm)
+D
+(mm)
+B
+(mm)
+K
+(mm)
+B1
+(mm)
+Dinamico
+Dynamic
+C
+Statico
+Static
+C0
+Lubrificazione 
+Lubrication
+Cuscinetto
+Bearing
+Bussola di 
+trazione
+Adapters
+sleeve
+Grasso 
+Grease
+Olio
+Oil
+280
+420
+90
+6
+140
+1176
+2450
+1224
+1440
+58.5
+23960 EKW33
+OH 3960 H 
+460
+118
+9
+168
+2078
+3381
+1148
+1350
+90
+23060 EKW33
+OH 3060 H 
+500
+160
+9
+208
+3136
+4998
+918
+1080
+150
+23160 EKW33
+OH 3160 H 
+540
+140
+12
+208
+3087
+4165
+1071
+1260
+170
+22260 EKW33
+OH 3160 H 
+540
+192
+12
+240
+3822
+5733
+765
+900
+210
+23260 EKW33
+OH 3260 H 
+300
+440
+90
+6
+140
+1401
+2646
+1148
+1350
+61
+23964 EKW33
+OH 3964 H 
+480
+121
+9
+171
+2195
+3724
+1071
+1260
+97
+23064 EKW33
+OH 3064 H 
+540
+176
+12
+226
+3675
+5880
+842
+990
+185
+23164 EKW33
+OH 3164 H 
+580
+150
+12
+226
+3528
+4802
+995
+1170
+200
+22264 EKW33
+OH 3164 H 
+580
+208
+12
+258
+4312
+6566
+727
+855
+260
+23264 EKW33
+OH 3264 H 
+320
+460
+90
+6
+144
+1431
+2744
+1071
+1260
+67.5
+23968 EKW33
+OH 3968 H 
+520
+133
+12
+187
+2646
+4459
+995
+1170
+130
+23068 EKW33
+OH 3068 H 
+580
+190
+12
+254
+4165
+6664
+765
+900
+250
+23168 EKW33
+OH 3168 H 
+620
+224
+12
+288
+4998
+7644
+612
+720
+335
+23268 EKW33
+OH 3268 H 
+340
+480
+90
+6
+144
+1372
+2695
+995
+1170
+70.5
+23972 EKW33
+OH 3972 H 
+540
+134
+12
+188
+2695
+4704
+918
+1080
+135
+23072 EKW33
+OH 3072 H 
+600
+192
+12
+259
+4214
+6811
+765
+900
+260
+23172 EKW33
+OH 3172 H 
+650
+170
+12
+259
+4214
+6076
+650
+765
+375
+22272 EKW33
+OH 3172 H 
+650
+232
+12
+299
+5292
+8134
+574
+675
+375
+23272 EKW33
+OH 3272 H 
+360
+520
+106
+7.5
+164
+1921
+3724
+918
+1080
+95
+23976 EKW33
+OH 3976 H 
+560
+135
+12
+193
+2842
+4900
+918
+1080
+145
+23076 EKW33
+OH 3076 H 
+620
+194
+12
+264
+4312
+6958
+765
+900
+275
+23176 EKW33
+OH 3176 H 
+680
+240
+12
+310
+5733
+8967
+574
+675
+420
+23276 EKW33
+OH 3276 H 
+380
+540
+106
+7.5
+168
+1960
+3822
+918
+1080
+100
+23980 EKW33
+OH 3980 H 
+600
+148
+12
+210
+3185
+5586
+842
+990
+180
+23080 EKW33
+OH 3080 H 
+650
+200
+12
+272
+4557
+7497
+727
+855
+325
+23180 EKW33
+OH 3180 H 
+720
+256
+12
+328
+6419
+10192
+513
+603
+505
+23280 EKW33
+OH 3280 H 
+820
+243
+12
+328
+7350
+10192
+574
+675
+735
+22380 EKW33
+OH 3280 H 
+400
+560
+106
+9
+168
+1999
+4067
+842
+990
+105
+23984 EKW33
+OH 3984 H 
+620
+150
+12
+212
+3332
+5880
+842
+990
+190
+23084 EKW33
+OH 3084 H 
+700
+224
+12
+304
+5488
+9114
+689
+810
+410
+23184 EKW33
+OH 3184 H 
+760
+272
+12
+352
+7203
+11368
+482
+567
+590
+23284 EKW33
+OH 3284 H 
+410
+600
+118
+9
+189
+2401
+4802
+765
+900
+150
+23988 EKW33
+OH 3988 H 
+650
+157
+12
+228
+3577
+6419
+765
+900
+235
+23088 EKW33
+OH 3088 H 
+720
+226
+12
+307
+5880
+9800
+650
+765
+430
+23188 EKW33
+OH 3188 H 
+790
+280
+12
+361
+7644
+12250
+459
+540
+670
+23288 EKW33
+OH 3288 H 
+430
+620
+118
+9
+189
+2450
+4900
+765
+900
+160
+23992 EKW33
+OH 3992 H 
+680
+163
+12
+234
+3822
+6811
+727
+855
+265
+23092 EKW33
+OH 3092 H 
+760
+240
+12
+326
+6272
+10584
+612
+720
+530
+23192 EKW33
+OH 3192 H 
+830
+296
+12
+382
+8330
+13426
+428
+504
+790
+23292 EKW33
+2OH 3292 H 
+450
+650
+128
+9
+200
+2842
+5586
+765
+900
+185
+23996 EKW33
+OH 3996 H 
+700
+165
+12
+237
+3822
+6664
+727
+855
+275
+23096 EKW33
+OH 3096 H 
+790
+248
+12
+335
+6811
+11760
+574
+675
+590
+23196 EKW33
+OH 3196 H 
+870
+310
+12
+397
+9114
+14700
+405
+477
+935
+23296 EKW33
+OH 3296 H 
+
+---
+
+CUSCINETTI ORIENTABILI A RULLI CON BUSSOLA DI TRAZIONE
+SELF-ALIGNING ROLLER BEARINGS WITH ADAPTER SLEEVE
+CUSCINETTI ORIENTABILI A RULLI - SELF-ALIGNING ROLLER BEARINGS
+198
+Dimensioni (mm)
+Dimension (mm)
+Coefficiente di carico (KN)
+Load rating (KN)
+Velocità limite (giri/min)
+Speed limit (Rpm)
+Peso (Kg)
+Weight 
+(Kg)
+Sigla
+Designation
+d
+(mm)
+D
+(mm)
+B
+(mm)
+K
+(mm)
+B1
+(mm)
+Dinamico
+Dynamic
+C
+Statico
+Static
+C0
+Lubrificazione 
+Lubrication
+Cuscinetto
+Bearing
+Bussola di 
+trazione
+Adapters
+sleeve
+Grasso 
+Grease
+Olio
+Oil
+470
+670
+128
+12
+208
+2842
+5880
+727
+855
+195
+239/500 EKW33
+OH 39/500 H 
+720
+167
+12
+247
+4067
+7644
+689
+810
+290
+230/500 EKW33
+OH 30/500 H 
+830
+264
+12
+356
+7497
+12642
+536
+630
+690
+231/500 EKW33
+OH 31/500 H 
+920
+336
+12
+428
+10388
+16954
+383
+450
+1100
+232/500 EKW33
+OH 32/500 H 
+500
+710
+136
+12
+216
+3136
+6566
+689
+810
+255
+239/530 EKW33
+OH 39/530 H 
+780
+185
+12
+265
+4998
+9114
+612
+720
+405
+230/530 EKW33
+OH 30/530 H 
+870
+272
+12
+364
+7987
+13720
+513
+603
+785
+231/530 EKW33
+OH 31/530 H 
+980
+355
+12
+447
+10878
+19992
+367
+432
+1360
+232/530 EKW33
+OH 32/530 H
+530
+750
+140
+12
+227
+3381
+7056
+612
+765
+260
+239/560 EKW33
+OH 39/560 H 
+820
+195
+12
+282
+5488
+9996
+540
+675
+445
+230/560 EKW33
+OH 30/560 H 
+920
+280
+12
+377
+8967
+15680
+453.6
+567
+880
+231/560 EKW33
+OH 31/560 H 
+1030
+365
+12
+462
+11270
+21560
+309.6
+387
+1490
+232/560 EKW33
+OH 32/560 H
+560
+800
+150
+12
+239
+3822
+8134
+540
+675
+330
+239/600 EKW33
+OH 39/600 H 
+870
+200
+12
+289
+5880
+11172
+504
+630
+525
+230/600 EKW33
+OH 30/600 H 
+980
+300
+12
+399
+9996
+17640
+403.2
+504
+1070
+231/600 EKW33
+OH 31/600 H 
+1090
+388
+12
+487
+12838
+24990
+288
+360
+1780
+232/600 EKW33
+OH 32/600 H
+600
+850
+165
+12
+254
+4557
+9604
+504
+630
+385
+239/630 EKW33
+OH 39/630 H 
+920
+212
+12
+301
+6566
+12250
+482.4
+603
+595
+230/630 EKW33
+OH 30/630 H 
+1030
+315
+12
+424
+10290
+20384
+381.6
+477
+1240
+231/630 EKW33
+OH 31/630 H 
+630
+900
+170
+12
+264
+4900
+10584
+482.4
+603
+455
+239/670 EKW33
+OH 39/670 H 
+980
+230
+12
+324
+7497
+14308
+432
+540
+755
+230/670 EKW33
+OH 30/670 H 
+1090
+336
+12
+456
+10682
+21952
+360
+450
+1510
+231/670 EKW33
+OH 31/670 H
+1220
+438
+12
+558
+15092
+29890
+259.2
+324
+2535
+232/670 EKW33
+OH 32/670 H
+670
+950
+180
+12
+286
+5488
+11760
+432
+540
+525
+239/710 EKW33
+OH 39/710 H 
+1030
+236
+12
+342
+8134
+15974
+403.2
+504
+860
+230/710 EKW33
+OH 30/710 H 
+1150
+345
+12
+467
+11956
+25480
+324
+405
+1750
+231/710 EKW33
+OH 31/710 H
+1280
+450
+12
+572
+17248
+33810
+230.4
+288
+2995
+232/710 EKW33
+OH 32/710 H
+710
+1000
+185
+12
+291
+5880
+12936
+403.2
+504
+605
+239/750 EKW33
+OH 39/750 H 
+1090
+250
+12
+356
+9457
+18228
+381.6
+477
+990
+230/750 EKW33
+OH 30/750 H 
+1220
+365
+12
+493
+13524
+28420
+309.6
+387
+2045
+231/750 EKW33
+OH 31/750 H
+1360
+475
+12
+603
+18326
+35770
+216
+270
+3485
+232/750 EKW33
+OH 32/750 H
+750
+1060
+195
+12
+303
+6272
+14014
+381.6
+477
+730
+239/800 EKW33
+OH 39/800 H 
+1150
+258
+12
+366
+9800
+19600
+345.6
+432
+1200
+230/800 EKW33
+OH 30/800 H 
+1280
+375
+12
+505
+14504
+30870
+288
+360
+2430
+231/800 EKW33
+OH 31/800 H
+800
+1120
+200
+12
+308
+6811
+15288
+345.6
+432
+950
+239/850 EKW33
+OH 39/850 H 
+1220
+272
+12
+380
+9182.6
+21168
+324
+405
+1390
+230/850 EKW33
+OH 30/850 H
+1360
+400
+12
+536
+15778
+33810
+259.2
+324
+2800
+231/850 EKW33
+OH 31/850 H
+850
+1180
+206
+12
+326
+7350
+16660
+324
+405
+930
+239/900 EKW33
+OH 39/900 H 
+1280
+280
+12
+400
+9898
+22736
+288
+360
+1580
+230/900 EKW33
+OH 30/900 H
+900
+1250
+224
+12
+344
+7105
+19208
+309.6
+387
+1120
+239/950 EKW33
+OH 39/950 H
+1360
+300
+12
+420
+11760
+27930
+273.6
+342
+1870
+230/950 EKW33
+OH 30/950 H
+
+---
+
+CUSCINETTI ORIENTABILI A RULLI CON BUSSOLA DI TRAZIONE
+SELF-ALIGNING ROLLER BEARINGS WITH ADAPTER SLEEVE
+CUSCINETTI ORIENTABILI A RULLI - SELF-ALIGNING ROLLER BEARINGS
+199
+Dimensioni (mm)
+Dimension (mm)
+Coefficiente di carico (KN)
+Load rating (KN)
+Velocità limite (giri/min)
+Speed limit (Rpm)
+Peso (Kg)
+Weight 
+(Kg)
+Sigla
+Designation
+d
+(mm)
+D
+(mm)
+B
+(mm)
+K
+(mm)
+B1
+(mm)
+Dinamico
+Dynamic
+C
+Statico
+Static
+C0
+Lubrificazione 
+Lubrication
+Cuscinetto
+Bearing
+Bussola di 
+trazione
+Adapters
+sleeve
+Grasso 
+Grease
+Olio
+Oil
+950
+1420
+308
+12
+430
+12446
+29890
+259.2
+324
+2070
+230/1000 EKW33 OH 30/1000 H
+1580
+462
+12
+609
+20972
+47040
+201.6
+252
+4340
+231/1000 EKW33 OH 31/1000 H
+1000
+1400
+250
+12
+372
+9359
+25480
+259.2
+324
+1590
+239/1060 EKW33 OH 39/1060 H
+1500
+325
+12
+447
+13524
+33320
+230.4
+288
+2800
+230/1060 EKW33 OH 30/1060 H
+
+---
+
+CUSCINETTI ORIENTABILI A RULLI SU BUSSOLA DI PRESSIONE
+SELF-ALIGNING ROLLER BEARINGS WITH WITHDRAWAL SLEEVE
+CUSCINETTI ORIENTABILI A RULLI - SELF-ALIGNING ROLLER BEARINGS
+200
+Dimensioni (mm)
+Dimension (mm)
+Coefficiente di carico (KN)
+Load rating (KN)
+Velocità limite (giri/min)
+Speed limit (Rpm)
+Peso (Kg)
+Weight (Kg)
+Sigla
+Designation
+d
+(mm)
+D
+(mm)
+B
+(mm)
+K
+(mm)
+Dinamico
+Dynamic
+C
+Statico
+Static
+C0
+Lubrificazione 
+Lubrication
+Cuscinetto
+Bearing
+Bussola di 
+pressione
+Withdrawal 
+sleeve
+Grasso 
+Grease
+Olio
+Oil
+35
+80
+23
+3
+95
+88
+8415.00
+9900
+0.6
+22208 K
+AH 308
+90
+23
+3
+102
+106
+7267.50
+8550
+0.84
+21308 K
+AH 308 
+90
+33
+3
+147
+137
+6120.00
+7200
+1.2
+22308 K
+AH 2308
+40
+85
+23
+3
+100
+96
+7650.00
+9000
+0.7
+22209 K
+AH 309 
+100
+25
+3
+123
+124
+6502.50
+7650
+1.1
+21309 K
+AH 309 
+100
+36
+3
+179
+179
+5355.00
+6300
+1.55
+22309 K
+AH 2309 
+45
+90
+23
+3
+102
+106
+7267.50
+8550
+0.75
+22210 K
+AHX 310 
+110
+27
+3
+153
+163
+5737.50
+6750
+1.45
+21310 K
+AHX 310 
+110
+40
+3
+216
+220
+4819.50
+5670
+2.1
+22310 K
+AHX 2310 
+50
+100
+25
+3
+123
+124
+6502.50
+7650
+0.95
+22211 K
+AHX 311 
+120
+29
+3
+153
+163
+5737.50
+6750
+1.8
+21311 K
+AHX 311
+120
+43
+3
+265
+274
+4284.00
+5040
+2.7
+22311 K
+AHX 2311
+55
+110
+28
+3
+153
+163
+5737.50
+6750
+1.3
+22212 K
+AHX 312
+130
+31
+3
+208
+235
+4819.50
+5670
+2.2
+21312 K
+AHX 312 
+130
+46
+4.5
+304
+328
+4054.50
+4770
+3.3
+22312 K
+AHX 2312
+60
+120
+31
+3
+189
+212
+5355.00
+6300
+1.7
+22213 K
+AH 313 
+140
+33
+3
+231
+265
+4590.00
+5400
+2.75
+21313 K
+AH 313 
+140
+48
+4.5
+333
+353
+3825.00
+4500
+4.1
+22313 K
+AH 2313 
+65
+125
+31
+3
+204
+223
+5125.50
+6030
+1.8
+22214 K
+AH 314 
+150
+35
+3
+279
+319
+4284.00
+5040
+3.35
+21314 K
+AH 314 
+150
+51
+4.5
+392
+421
+3442.50
+4050
+4.9
+22314 K
+AHX 2314 
+70
+130
+31
+3
+208
+235
+4819.50
+5670
+1.95
+22215 K
+AH 315 
+160
+37
+3
+279
+319
+4284.00
+5040
+4.15
+21315 K
+AH 315 
+160
+55
+4.5
+431
+466
+3289.50
+3870
+6
+22315 K
+AHX 2315 
+75
+140
+33
+3
+231
+265
+4590.00
+5400
+2.4
+22216 K
+AH 316
+170
+39
+3
+319
+368
+4054.50
+4770
+4.75
+21316 K
+AH 316 
+170
+58
+4.5
+480
+529
+3060.00
+3600
+7
+22316 K
+AHX 2316
+80
+150
+36
+3
+279
+319
+4284.00
+5040
+3.05
+22217 K
+AHX 317
+180
+41
+3
+319
+368
+4054.50
+4770
+5.55
+21317 K
+AHX 317 
+180
+60
+4.5
+539
+608
+2907.00
+3420
+8.15
+22317 K
+AHX 2317 
+85
+160
+40
+3
+319
+368
+4054.50
+4770
+3.7
+22218 K
+AHX 318 
+160
+52.4
+3
+348
+431
+2907.00
+3420
+5
+23218 EKW33
+AHX 3218 
+190
+43
+4.5
+372
+441
+3672.00
+4320
+6.4
+21318 K
+AHX 318 
+190
+64
+6
+598
+681
+2754.00
+3240
+9.5
+22318 K
+AHX 2318 
+90
+170
+43
+4.5
+372
+441
+3672.00
+4320
+4.6
+22219 K
+AHX 319 
+200
+45
+4.5
+417
+480
+3442.50
+4050
+7.4
+21319 K
+AHX 319 
+200
+67
+6
+657
+750
+2601.00
+3060
+11
+22319 K
+AHX 2319 
+95
+165
+52
+3
+358
+480
+3060.00
+3600
+5
+23120 EKW33
+AHX 3120 
+180
+46
+4.5
+417
+480
+3442.50
+4050
+5.4
+22220 K
+AHX 320 
+180
+60.3
+4.5
+466
+588
+2601.00
+3060
+7.3
+23220 EKW33
+AHX 3220 
+215
+47
+4.5
+417
+480
+3442.50
+4050
+9.1
+21320 K
+AHX 320 
+215
+73
+6
+799
+931
+2295.00
+2700
+14
+22320 K
+AHX 2320 
+
+---
+
+CUSCINETTI ORIENTABILI A RULLI SU BUSSOLA DI PRESSIONE
+SELF-ALIGNING ROLLER BEARINGS WITH WITHDRAWAL SLEEVE
+CUSCINETTI ORIENTABILI A RULLI - SELF-ALIGNING ROLLER BEARINGS
+201
+Dimensioni (mm)
+Dimension (mm)
+Coefficiente di carico (KN)
+Load rating (KN)
+Velocità limite (giri/min)
+Speed limit (Rpm)
+Peso (Kg)
+Weight (Kg)
+Sigla
+Designation
+d
+(mm)
+D
+(mm)
+B
+(mm)
+K
+(mm)
+Dinamico
+Dynamic
+C
+Statico
+Static
+C0
+Lubrificazione 
+Lubrication
+Cuscinetto
+Bearing
+Bussola di 
+pressione
+Withdrawal 
+sleeve
+Grasso 
+Grease
+Olio
+Oil
+105
+170
+45
+3
+304
+431
+3289.50
+3870
+4.45
+23022 EKW33
+AH 322 
+180
+56
+4.5
+421
+573
+2754.00
+3240
+6.35
+23122 EKW33
+AHX 3122 
+180
+69
+3
+510
+735
+2295.00
+2700
+7.7
+24122 EK30W33
+AH 24122 
+200
+53
+4.5
+549
+627
+3060.00
+3600
+7.5
+22222 EKW33
+AHX 3122 
+200
+69.8
+4.5
+588
+750
+2448.00
+2880
+10.5
+23222 EKW33
+AHX 3222  
+240
+80
+7.5
+931
+1098
+2142.00
+2520
+19.5
+22322 EKW33
+AHX 2322  
+115
+180
+46
+3
+348
+500
+3060.00
+3600
+4.8
+23024 EKW33
+AHX 3024 
+180
+60
+3
+421
+657
+2601.00
+3060
+5.95
+24024 EK30W33
+AH 24024 
+200
+62
+4.5
+500
+681
+2601.00
+3060
+8.7
+23124 EKW33
+AHX 3124 
+200
+80
+3
+642
+931
+1989.00
+2340
+10.8
+24124 EK30W33
+AH 24124 
+215
+58
+6
+617
+750
+2907.00
+3420
+9.55
+22224 EKW33
+AHX 3124 
+215
+76
+4.5
+681
+911
+2142.00
+2520
+13
+23224 EKW33
+AHX 3224  
+260
+86
+7.5
+946
+1098
+1989.00
+2340
+24
+22324 EKW33
+AHX 2324  
+125
+200
+52
+4.5
+421
+598
+2754.00
+3240
+6.75
+23026 EKW33
+AHX 3026 
+200
+69
+3
+529
+799
+2295.00
+2700
+8.65
+24026 EK30W33
+AH 24026 
+210
+64
+4.5
+549
+764
+2448.00
+2880
+9.6
+23126 EKW33
+AHX 3126 
+210
+80
+3
+666
+980
+1836.00
+2160
+11.7
+24126 EK30W33
+AH 24126 
+230
+64
+6
+720
+911
+2754.00
+3240
+11.6
+22226 EKW33
+AHX 3126 
+230
+80
+4.5
+764
+1039
+1989.00
+2340
+15.5
+23226 EKW33
+AHX 3226  
+280
+93
+9
+1098
+1294
+1836.00
+2160
+30.5
+22326 EKW33
+AHX 2326  
+135
+210
+53
+4.5
+456
+666
+2601.00
+3060
+7.35
+23028 EKW33
+AHX 3028 
+210
+69
+3
+559
+882
+2142.00
+2520
+9.2
+24028 EK30W33
+AH 24028 
+225
+68
+4.5
+617
+882
+2142.00
+2520
+11.5
+23128 EKW33
+AHX 3128 
+225
+85
+4.5
+750
+1137
+1836.00
+2160
+14.3
+24128 EK30W33
+AH 24128
+250
+68
+6
+696
+882
+2448.00
+2880
+15
+22228 EKW33
+AHX 3128 
+250
+88
+6
+897
+1225
+1836.00
+2160
+20.5
+23228 EKW33
+AHX 3228  
+300
+102
+9
+1264
+1529
+1683.00
+1980
+38
+22328 EKW33
+AHX 2328 
+145
+225
+56
+4.5
+500
+735
+2448.00
+2880
+8.85
+23030 EKW33
+AHX 3030 
+225
+75
+3
+642
+1019
+1989.00
+2340
+11.3
+24030 EK30W33
+AH 24030 
+250
+80
+6
+813
+1176
+1989.00
+2340
+17
+23130 EKW33
+AHX 3130 
+250
+100
+4.5
+1000
+1499
+1683.00
+1980
+21
+24130 EK30W33
+AH 24130 
+270
+73
+7.5
+833
+1058
+2295.00
+2700
+19
+22230 EKW33
+AHX 3130  
+270
+96
+6
+1058
+1431
+1683.00
+1980
+26
+23230 EKW33
+AHX 3230  
+320
+108
+9
+1431
+1725
+1530.00
+1800
+45.5
+22330 EKW33
+AHX 2330  
+150
+240
+60
+6
+573
+862
+2295.00
+2700
+11.5
+23032 EKW33
+AH 3032 
+240
+80
+4.5
+735
+1176
+1836.00
+2160
+14.8
+24032 EK30W33
+AH 24032 
+270
+86
+7.5
+960
+1343
+1836.00
+2160
+23
+23132 EKW33
+AH 3132  
+270
+109
+4.5
+1156
+1725
+1453.50
+1710
+28.5
+24132 EK30W33
+AH 24132 
+290
+80
+7.5
+980
+1264
+2142.00
+2520
+25
+22232 EKW33
+AH 3132 
+290
+104
+7.5
+1196
+1627
+1683.00
+1980
+34.5
+23232 EKW33
+AH 3232 
+340
+114
+9
+1568
+1921
+1453.50
+1710
+56
+22332 EKW33
+AH 2332 
+
+---
+
+CUSCINETTI ORIENTABILI A RULLI SU BUSSOLA DI PRESSIONE
+SELF-ALIGNING ROLLER BEARINGS WITH WITHDRAWAL SLEEVE
+CUSCINETTI ORIENTABILI A RULLI - SELF-ALIGNING ROLLER BEARINGS
+202
+Dimensioni (mm)
+Dimension (mm)
+Coefficiente di carico (KN)
+Load rating (KN)
+Velocità limite (giri/min)
+Speed limit (Rpm)
+Peso (Kg)
+Weight (Kg)
+Sigla
+Designation
+d
+(mm)
+D
+(mm)
+B
+(mm)
+K
+(mm)
+Dinamico
+Dynamic
+C
+Statico
+Static
+C0
+Lubrificazione 
+Lubrication
+Cuscinetto
+Bearing
+Bussola di 
+pressione
+Withdrawal 
+sleeve
+Grasso 
+Grease
+Olio
+Oil
+160
+260
+67
+6
+696
+1039
+2142.00
+2520
+15
+23034 EK30W33
+AH 3034 
+260
+90
+4.5
+911
+1431
+1836.00
+2160
+20
+24034 EK30W33
+AH 24034 
+280
+88
+7.5
+1019
+1470
+1836.00
+2160
+25
+23134 EK30W33
+AH 3134 
+280
+109
+4.5
+1196
+1823
+1453.50
+1710
+30
+24134 EK30W33
+AH 24134 
+310
+86
+9
+1098
+1431
+1989.00
+2340
+31
+22234 EKW33
+AH 3134 
+310
+110
+7.5
+1372
+1891
+1530.00
+1800
+41
+23234 EKW33
+AH 3234 
+360
+120
+9
+1725
+2117
+1377.00
+1620
+65
+22334 EKW33
+AH 2334 
+170
+280
+74
+7.5
+813
+1225
+1989.00
+2340
+19.3
+23036 EKW33
+AH 3036 
+280
+100
+4.5
+1058
+1695
+1683.00
+1980
+25.7
+24036 EK30W33
+AH 24036 
+300
+96
+7.5
+1176
+1725
+1683.00
+1980
+32
+23136 EKW33
+AH 3136 
+300
+118
+6
+1372
+2117
+1300.50
+1530
+37
+24136 EK30W33
+AH 24136 
+320
+86
+9
+1156
+1529
+1989.00
+2340
+32.5
+22236 EKW33
+AH 2236 
+320
+112
+7.5
+1470
+2078
+1453.50
+1710
+43.5
+23236 EKW33
+AH 3236 
+380
+126
+12
+1960
+2401
+1300.50
+1530
+76
+22336 EKW33
+AH 2336 
+180
+290
+75
+7.5
+848
+1313
+1836.00
+2160
+21
+23038 EKW33
+AH 3038 
+290
+100
+4.5
+1098
+1764
+1530.00
+1800
+27.5
+24038 EK30W33
+AH 24038
+320
+104
+7.5
+1343
+2038
+1530.00
+1800
+38.5
+23138 EKW33
+AH 3138 
+320
+128
+6
+1568
+2450
+1224.00
+1440
+46.5
+24138 EK30W33
+AH 24138
+340
+92
+9
+1245
+1666
+1836.00
+2160
+39.5
+22238 EKW33
+AH 2238 
+340
+120
+9
+1627
+2352
+1377.00
+1620
+52.5
+23238 EKW33
+AH 3238 
+400
+132
+12
+2078
+2597
+1224.00
+1440
+87.5
+22338 EKW33
+AH 2338
+190
+310
+82
+7.5
+980
+1499
+1683.00
+1980
+26.3
+23040 EKW33
+AH 3040
+310
+109
+6
+1264
+2078
+1453.50
+1710
+34.5
+24040 EK30W33
+AH 24040 
+340
+112
+9
+1568
+2313
+1453.50
+1710
+48.5
+23140 EKW33
+AH 3140 
+340
+140
+6
+1764
+2744
+1147.50
+1350
+57.5
+24140 EK30W33
+AH 24140 
+360
+98
+9
+1431
+1891
+1683.00
+1980
+47
+22240 EKW33
+AH 2240 
+360
+128
+9
+1823
+2646
+1300.50
+1530
+63
+23240 EKW33
+AH 3240 
+420
+138
+12
+2274
+2842
+1147.50
+1350
+100
+22340 EKW33
+AH 2340 
+200
+340
+90
+7.5
+1196
+1823
+1530.00
+1800
+36.5
+23044 EKW33
+AOH 3044  
+340
+118
+6
+1529
+2548
+1300.50
+1530
+47.5
+24044 EK30W33
+AOH 24044 
+370
+120
+9
+1764
+2695
+1300.50
+1530
+61.5
+23144 EKW33
+AOH 3144 
+370
+150
+6
+2078
+3283
+1071.00
+1260
+76
+24144 EK30W33
+AOH 24144 
+400
+108
+9
+1725
+2313
+1530.00
+1800
+68
+22244 EKW33
+AOH 2244 
+400
+144
+9
+2313
+3381
+1147.50
+1350
+93
+23244 EKW33
+AOH 2344 
+460
+145
+12
+2646
+3381
+1071.00
+1260
+130
+22344 EKW33
+AOH 2344 
+220
+360
+92
+7.5
+1264
+2038
+1453.50
+1710
+40.5
+23048 EKW33
+AOH 3048 
+360
+118
+6
+1568
+2646
+1224.00
+1440
+50.5
+24048 EK30W33
+AOH 24048 
+400
+128
+9
+2038
+3136
+1224.00
+1440
+76.5
+23148 EKW33
+AOH 3148 
+400
+160
+6
+2352
+3822
+994.50
+1170
+91.5
+24148 EK30W33
+AOH 24148 
+440
+120
+12
+2156
+2940
+1377.00
+1620
+95
+22248 EKW33
+AOH 2248 
+440
+160
+12
+2842
+4214
+994.50
+1170
+120
+23248 EKW33
+AOH 2348 
+500
+155
+12
+3038
+3920
+994.50
+1170
+165
+22348 EKW33
+AOH 2348 
+
+---
+
+CUSCINETTI ORIENTABILI A RULLI SU BUSSOLA DI PRESSIONE
+SELF-ALIGNING ROLLER BEARINGS WITH WITHDRAWAL SLEEVE
+CUSCINETTI ORIENTABILI A RULLI - SELF-ALIGNING ROLLER BEARINGS
+203
+Dimensioni (mm)
+Dimension (mm)
+Coefficiente di carico (KN)
+Load rating (KN)
+Velocità limite (giri/min)
+Speed limit (Rpm)
+Peso (Kg)
+Weight (Kg)
+Sigla
+Designation
+d
+(mm)
+D
+(mm)
+B
+(mm)
+K
+(mm)
+Dinamico
+Dynamic
+C
+Statico
+Static
+C0
+Lubrificazione 
+Lubrication
+Cuscinetto
+Bearing
+Bussola di 
+pressione
+Withdrawal 
+sleeve
+Grasso 
+Grease
+Olio
+Oil
+240
+400
+104
+9
+1568
+2499
+1300.50
+1530
+56.5
+23052 EKW33
+AOH 3052 
+400
+140
+6
+1999
+3381
+1071.00
+1260
+75
+24052 EK30W33
+AOH 24052  
+440
+144
+9
+2499
+3822
+1071.00
+1260
+105
+23152 EKW33
+AOH 3152  
+440
+180
+7.5
+2940
+4704
+918.00
+1080
+120
+24152 EK30W33
+AOH 24152 
+480
+130
+12
+2597
+3479
+1224.00
+1440
+120
+22252 EKW33
+AOH 2252  
+480
+174
+12
+3185
+4655
+918.00
+1080
+155
+23252 EKW33
+AOH 2352  
+540
+165
+12
+3479
+4459
+841.50
+990
+205
+22352 EKW33
+AOH 2352  
+260
+420
+106
+9
+1695
+2793
+1224.00
+1440
+62
+23056 EKW33
+AOH 3056 
+420
+140
+6
+2117
+3724
+1071.00
+1260
+79
+24056 EK30W33
+AOH 24056  
+460
+146
+9
+2597
+4165
+994.50
+1170
+110
+23156 EKW33
+AOH 3156  
+460
+180
+7.5
+3038
+4998
+841.50
+990
+130
+24156 EK30W33
+AOH 24156 
+500
+130
+12
+2646
+3675
+1147.50
+1350
+125
+22256 EKW33
+AOH 2256  
+500
+176
+12
+3185
+4802
+841.50
+990
+160
+23256 EKW33
+AOH 2356  
+580
+175
+12
+3920
+5096
+841.50
+990
+245
+22356 EKW33
+ AOH 2356  
+280
+460
+118
+9
+2078
+3381
+1147.50
+1350
+82.5
+23060 EKW33
+AOH 3060 
+460
+160
+7.5
+2646
+4655
+918.00
+1080
+110
+24060 EK30W33
+AOH 24060  
+500
+160
+9
+3136
+4998
+918.00
+1080
+140
+23160 EKW33
+AOH 3160  
+500
+200
+7.5
+3675
+6174
+765.00
+900
+180
+24160 EK30W33
+AOH 24160 
+540
+140
+12
+3087
+4165
+1071.00
+1260
+155
+22260 EKW33
+AOH 2260  
+540
+192
+12
+3822
+5733
+765.00
+900
+200
+23260 EKW33
+AOH 3260  
+300
+480
+121
+9
+2195
+3724
+1071.00
+1260
+89
+23064 EKW33
+AOH 3064  
+480
+160
+7.5
+2793
+4998
+918.00
+1080
+115
+24064 EK30W33
+AOH 24064  
+540
+176
+12
+3675
+5880
+841.50
+990
+175
+23164 EKW33
+AOH 3164  
+540
+218
+9
+4165
+6958
+688.50
+810
+225
+24164 EK30W33
+AOH 24164 
+580
+150
+12
+3528
+4802
+994.50
+1170
+185
+22264 EKW33
+AOH 2264  
+580
+208
+12
+4312
+6566
+726.75
+855
+250
+23264 EKW33
+AOH 3264  
+320
+520
+133
+12
+2646
+4459
+994.50
+1170
+120
+23068 EKW33
+AOH 3068  
+520
+180
+9
+3381
+6076
+841.50
+990
+160
+24068 EK30W33
+AOH 24068 
+580
+190
+12
+4165
+6664
+765.00
+900
+225
+23168 EKW33
+AOH 3168  
+580
+243
+9
+5194
+8477
+650.25
+765
+295
+24168 EK30W33
+AOH 24168 
+620
+224
+12
+4998
+7644
+612.00
+720
+315
+23268 EKW33
+AOH 3268  
+340
+540
+134
+12
+2695
+4704
+918.00
+1080
+125
+23072 EKW33
+AOH 3072  
+540
+180
+9
+3479
+6419
+765.00
+900
+165
+24072 EK30W33
+AOH 24072 
+600
+192
+12
+4214
+6811
+765.00
+900
+235
+23172 EKW33
+AOH 3172  
+600
+243
+9
+5488
+9114
+612.00
+720
+295
+24172 EK30W33
+ AOH 24172 
+650
+170
+12
+4214
+6076
+650.25
+765
+275
+22272 EKW33
+AOH 3172  
+650
+232
+12
+5292
+8134
+573.75
+675
+345
+23272 EKW33
+AOH 3272  
+360
+560
+135
+12
+2842
+4900
+918.00
+1080
+135
+23076 EKW33
+AOH 3076  
+560
+180
+9
+3528
+6664
+726.75
+855
+170
+24076 EK30W33
+AOH 24076 
+620
+194
+12
+4312
+6958
+765.00
+900
+250
+23176 EKW33
+AOH 3176  
+620
+243
+9
+5586
+9604
+650.25
+765
+325
+24176 EK30W33
+AOH 24176 
+680
+240
+12
+5733
+8967
+573.75
+675
+390
+23276 EKW33
+AOH 3276  
+
+---
+
+CUSCINETTI ORIENTABILI A RULLI SU BUSSOLA DI PRESSIONE
+SELF-ALIGNING ROLLER BEARINGS WITH WITHDRAWAL SLEEVE
+CUSCINETTI ORIENTABILI A RULLI - SELF-ALIGNING ROLLER BEARINGS
+204
+Dimensioni (mm)
+Dimension (mm)
+Coefficiente di carico (KN)
+Load rating (KN)
+Velocità limite (giri/min)
+Speed limit (Rpm)
+Peso (Kg)
+Weight (Kg)
+Sigla
+Designation
+d
+(mm)
+D
+(mm)
+B
+(mm)
+K
+(mm)
+Dinamico
+Dynamic
+C
+Statico
+Static
+C0
+Lubrificazione 
+Lubrication
+Cuscinetto
+Bearing
+Bussola di 
+pressione
+Withdrawal 
+sleeve
+Grasso 
+Grease
+Olio
+Oil
+380
+600
+148
+12
+3185
+5586
+841.50
+990
+165
+23080 EKW33
+AOH 3080  
+600
+200
+12
+4214
+7840
+688.50
+810
+220
+24080 EK30W33
+AOH 24080 
+650
+200
+12
+4557
+7497
+726.75
+855
+290
+23180 EKW33
+AOH 3180  
+650
+250
+12
+6076
+10388
+612.00
+720
+365
+24180 EK30W33
+AOH 24180 
+720
+256
+12
+6419
+10192
+512.55
+603
+470
+23280 EKW33
+AOH 3280  
+820
+243
+12
+7350
+10192
+573.75
+675
+675
+22380 EKW33
+AOH 3280  
+400
+620
+150
+12
+3332
+5880
+841.50
+990
+175
+23084 EKW33
+AOH 3084  
+620
+200
+12
+4312
+8134
+688.50
+810
+230
+24084 EK30W33
+AOH 24084 
+700
+224
+12
+5488
+9114
+688.50
+810
+375
+23184 EKW33
+AOH 3184  
+700
+280
+12
+7203
+12348
+535.50
+630
+470
+24184 EK30W33
+AOH 24184 
+760
+272
+12
+7203
+11368
+481.95
+567
+550
+23284 EKW33
+AOH 3284  
+420
+650
+157
+12
+3577
+6419
+765.00
+900
+200
+23088 EKW33
+AOHX 3088  
+650
+212
+12
+4704
+8967
+650.25
+765
+275
+24088 EK30W33
+AOH 24088 
+720
+226
+12
+5880
+9800
+650.25
+765
+380
+23188 EKW33
+AOHX 3188  
+720
+280
+12
+7350
+12936
+535.50
+630
+490
+24188 EK30W33
+AOH 24188 
+790
+280
+12
+7644
+12250
+459.00
+540
+620
+23288 EKW33
+AOHX 3288  
+440
+680
+163
+12
+3822
+6811
+726.75
+855
+225
+23092 EKW33
+AOHX 3092  
+680
+218
+12
+5096
+9800
+612.00
+720
+300
+24092 EK30W33
+AOH 24092 
+760
+240
+12
+6272
+10584
+612.00
+720
+465
+23192 EKW33
+AOHX 3192  
+760
+300
+12
+8134
+14308
+512.55
+603
+590
+24192 EK30W33
+AOH 24192 
+830
+296
+12
+8330
+13426
+428.40
+504
+725
+23292 EKW33
+AOHX 3292  
+460
+700
+165
+12
+3822
+6664
+726.75
+855
+235
+23096 EKW33
+AOHX 3096  
+700
+218
+12
+5194
+10192
+573.75
+675
+310
+24096 EK30W33
+AOH 24096 
+790
+248
+12
+6811
+11760
+573.75
+675
+515
+23196 EKW33
+AOHX 3196  
+790
+308
+12
+8820
+15288
+481.95
+567
+635
+24196 EK30W33
+AOH 24196 
+870
+310
+12
+9114
+14700
+405.45
+477
+860
+23296 EKW33
+AOHX 3296  
+480
+720
+167
+12
+4067
+7644
+688.50
+810
+250
+230/500 EKW33
+AOHX 30/500  
+720
+218
+12
+5390
+10780
+535.50
+630
+325
+240/500 EK30W33
+AOH 240/500 
+830
+264
+12
+7497
+12642
+535.50
+630
+610
+231/500 EKW33
+AOHX 31/500  
+830
+325
+12
+9604
+16660
+459.00
+540
+735
+241/500 EK30W33
+AOH 241/500 
+920
+336
+12
+10388
+16954
+382.50
+450
+1020
+232/500 EKW33
+AOHX 32/500  
+500
+780
+185
+12
+4998
+9114
+612.00
+720
+365
+230/530 EKW33
+AOH 30/530 
+780
+250
+12
+6566
+12936
+512.55
+603
+455
+240/530 EK30W33
+AOH 240/530  
+870
+272
+12
+7987
+13720
+512.55
+603
+720
+231/530 EKW33
+AOH 31/530 
+870
+335
+12
+10388
+18620
+428.40
+504
+885
+241/530 EK30W33
+AOH 241/530  
+980
+355
+12
+10878
+19992
+367.20
+432
+1290
+232/530 EKW33
+AOH 32/530 
+530
+820
+195
+12
+4480
+9180
+540
+675
+430
+230/560 EKW33
+AOH 30/560 
+820
+258
+12
+5880
+13140
+453.6
+567
+515
+240/560 EK30W33
+AOH 240/560  
+920
+280
+12
+7320
+14400
+453.6
+567
+850
+231/560 EKW33
+AOH 31/560 
+920
+355
+12
+9600
+19440
+360
+450
+1060
+241/560 EK30W33
+AOH 241/560  
+1030
+365
+12
+9200
+19800
+309.6
+387
+1500
+232/560 EKW33
+AOH 32/560
+570
+870
+200
+12
+4800
+10260
+504
+630
+480
+230/600 EKW33
+AOH 30/600 
+870
+272
+12
+6520
+15300
+403.2
+504
+600
+240/600 EK30W33
+AOH 240/600 
+980
+300
+12
+8160
+16200
+403.2
+504
+1010
+231/600 EKW33
+AOH 31/600 
+
+---
+
+CUSCINETTI ORIENTABILI A RULLI SU BUSSOLA DI PRESSIONE
+SELF-ALIGNING ROLLER BEARINGS WITH WITHDRAWAL SLEEVE
+CUSCINETTI ORIENTABILI A RULLI - SELF-ALIGNING ROLLER BEARINGS
+205
+Dimensioni (mm)
+Dimension (mm)
+Coefficiente di carico (KN)
+Load rating (KN)
+Velocità limite (giri/min)
+Speed limit (Rpm)
+Peso (Kg)
+Weight (Kg)
+Sigla
+Designation
+d
+(mm)
+D
+(mm)
+B
+(mm)
+K
+(mm)
+Dinamico
+Dynamic
+C
+Statico
+Static
+C0
+Lubrificazione 
+Lubrication
+Cuscinetto
+Bearing
+Bussola di 
+pressione
+Withdrawal 
+sleeve
+Grasso 
+Grease
+Olio
+Oil
+980
+375
+12
+9200
+21240
+345.6
+432
+1290
+241/600 EK30W33
+AOH 241/600
+1090
+388
+12
+10480
+22950
+288
+360
+1760
+232/600 EKW33
+AOH 32/600 
+600
+920
+212
+12
+5360
+11250
+482.4
+603
+575
+230/630 EKW33
+AOH 30/630 
+920
+290
+12
+7040
+16200
+381.6
+477
+730
+240/630 EK30W33
+AOH 240/630  
+1030
+315
+12
+8400
+18720
+381.6
+477
+1190
+231/630 EKW33
+AOH 31/630 
+1030
+400
+12
+10160
+24300
+324
+405
+1500
+241/630 EK30W33
+AOH 241/630 
+630
+980
+230
+12
+6120
+13140
+432
+540
+720
+230/670 EKW33
+AOH 30/670 
+980
+308
+12
+8000
+18360
+360
+450
+900
+240/670 EK30W33
+AOH 240/670  
+1030
+315
+12
+8400
+18720
+381.6
+477
+1430
+231/670 EKW33
+AOH 31/670
+1090
+412
+12
+11040
+26100
+288
+360
+1730
+241/670 EK30W33
+AOH 241/670
+1220
+438
+12
+12320
+27450
+259.2
+324
+2500
+232/670 EKW33
+AOH 32/670 
+670
+1030
+236
+12
+6640
+14670
+403.2
+504
+800
+230/710 EKW33
+AOH 30/710 
+1030
+315
+12
+8480
+20520
+324
+405
+1010
+240/710 EK30W33
+AOH 240/710  
+1150
+345
+12
+9760
+23400
+324
+405
+1650
+231/710 EKW33
+AOH 31/710
+1150
+438
+12
+12160
+29250
+273.6
+342
+2040
+241/710 EK30W33
+AOH 241/710
+1280
+450
+12
+14080
+31050
+230.4
+288
+2810
+232/710 EKW33
+AOH 32/710 
+710
+1090
+250
+12
+7720
+16740
+381.6
+477
+950
+230/750 EKW33
+AOH 30/750 
+1090
+335
+12
+9440
+22500
+309.6
+387
+1200
+240/750 EK30W33
+AOH 240/750  
+1220
+365
+12
+11040
+26100
+309.6
+387
+1930
+231/750 EKW33
+AOH 31/750
+1220
+475
+12
+13840
+33750
+259.2
+324
+2280
+241/750 EK30W33
+AOH 241/750 
+1360
+475
+12
+14960
+32850
+216
+270
+3280
+232/750 EKW33
+AOH 32/750
+750
+1150
+258
+12
+8000
+18000
+345.6
+432
+1100
+230/800 EKW33
+AOH 30/800 
+1150
+345
+12
+10320
+25650
+288
+360
+1380
+240/800 EK30W33
+AOH 240/800  
+1280
+375
+12
+11840
+28350
+288
+360
+2200
+231/800 EK30W33
+AOH 31/800
+1280
+475
+12
+14720
+36450
+230.4
+288
+2540
+241/800 EKW33
+AOH 241/800 
+800
+1220
+272
+12
+7496
+19440
+324
+405
+1250
+230/850 EKW33
+AOH 30/850
+1220
+365
+12
+10160
+28350
+259.2
+324
+1670
+240/850 EK30W33
+AOH 240/850 
+1360
+400
+12
+12880
+31050
+259.2
+324
+2500
+231/850 EKW33
+AOH 31/850
+1360
+500
+12
+16160
+40500
+216
+270
+3050
+241/850 EK30W33
+AOH 241/850
+850
+1280
+280
+12
+8080
+20880
+288
+360
+1450
+230/900 EKW33
+AOH 30/900
+1280
+375
+12
+10880
+31050
+244.8
+306
+1850
+240/900 EK30W33
+AOH 240/900
+1420
+515
+12
+17120
+44100
+201.6
+252
+3700
+241/900 EK30W33
+AOH 241/900
+900
+1360
+300
+12
+9600
+25650
+273.6
+342
+1720
+230/950 EKW33
+AOH 30/950
+1360
+412
+12
+11840
+35100
+216
+270
+2300
+240/950 EK30W33
+AOH 240/950
+1500
+545
+12
+19120
+49500
+187.2
+234
+3950
+241/950 EK30W33
+AOH 241/950
+950
+1420
+308
+12
+10160
+27450
+259.2
+324
+1900
+230/1000 EKW33
+AOH 30/1000
+1420
+412
+12
+12320
+36450
+201.6
+252
+2500
+240/1000 EK30W33 AOH 240/1000
+1580
+462
+12
+17120
+43200
+201.6
+252
+3950
+231/1000 EKW33
+AOH 31/1000
+1580
+580
+12
+21360
+55800
+172.8
+216
+4800
+241/1000 EK30W33 AOH 241/1000
+1000
+1500
+325
+12
+11040
+30600
+230.4
+288
+2600
+230/1060 EKW33
+AOH 30/1060
+1500
+438
+12
+13840
+40950
+187.2
+234
+2950
+240/1060 EK30W33 AOH 240/1060

@@ -1,0 +1,360 @@
+---
+type: knowledge
+section: Размеры
+language: ru
+entities: ["72348", "7428", "9385"]
+---
+
+The bearings are fitted with a newly developed slide layer FLUROGLIDE®-MEDIA SOLID, which does 
+not lose its properties even in interaction with oil, grease etc. For spherical plain bearings up to the 
+size 120, the hardened bearing shell is blasted on one side. From size 140, the spherical plain bearing 
+comprises two half-shells, which are secured with a screw clamp.
+Spherical plain bearings GE...EWM-2RSF
+with media-resistant sliding layer
+FLUROGLIDE®-MEDIA SOLID
+For use in oily environments
+Can be used for high static and dynamic loads
+The permissible operating temperature is -30°C to + 130°C.
+Materials
+Outer ring:	
+Rolling bearing steel 100Cr6, hardened and phosphated 
+Inner ring:	
+Rolling bearing steel 100Cr6, hardened, ground, polished, hard-chromed on the sliding surface
+|       Available upon request       |
+
+17
+20
+25
+30
+35
+40
+45
+50
+60
+70
+80
+90
+100
+110
+120
+140
+160
+180
+200
+220
+240
+260
+280
+300
+-0,008
+-0,010
+-0,010
+-0,010
+-0,012
+-0,012
+-0,012
+-0,012
+14
+16
+20
+22
+25
+28
+32
+35
+44
+49
+55
+60
+70
+70
+85
+90
+105
+105
+130
+135
+140
+150
+155
+165
+10
+12
+16
+18
+20
+22
+25
+28
+36
+40
+45
+50
+55
+55
+70
+70
+80
+80
+100
+100
+100
+110
+120
+120
+30
+35
+42
+47
+55
+62
+68
+75
+90
+105
+120
+130
+150
+160
+180
+210
+230
+260
+290
+320
+340
+370
+400
+430
+20,7
+24,1
+29,3
+34,2
+39,7
+45,0
+50,7
+55,9
+66,8
+77,8
+89,4
+98,1
+109,5
+121,2
+135,5
+155,8
+170,3
+198,9
+213,5
+239,5
+265,3
+288,3
+313,8
+366,7
+25,0
+29,0
+35,5
+40,7
+47,0
+53,0
+60,0
+66,0
+80,0
+92,0
+105,0
+115,0
+130,0
+140,0
+160,0
+180,0
+200,0
+225,0
+250,0
+275,0
+300,0
+325,0
+350,0
+375,0
+65
+90
+170
+219
+282
+373
+480
+591
+921
+1.177
+1.512
+1.840
+2.288
+2.464
+3.584
+4.032
+5.120
+5.760
+8.000
+8.800
+9.600
+11.400
+13.440
+14.440
+35,5
+49,5
+93,5
+120,5
+155
+205
+264
+325
+506
+647
+831
+1.012
+1.258
+1.355
+1.971
+2.217
+2.816
+3.168
+4.400
+4.840
+5.280
+6.292
+7.392
+7.920
+10
+9
+7
+7
+7
+5
+7
+7
+8
+7
+8
+8
+7
+7
+37
+60
+110
+140
+220
+300
+390
+530
+980
+1.500
+2.200
+2.700
+4.200
+4.700
+8.100
+10.600
+13.800
+17.400
+28.000 
+35.500
+39.000
+50.800
+64.700
+76.600
+-0,015
+-0,015
+-0,015
+-0,020
+-0,020
+-0,020
+-0,020
+-0,025
+-0,009
+-0,011
+-0,011
+-0,011
+-0,013
+-0,013
+-0,013
+-0,013
+-0,015
+-0,015
+-0,015
+-0,018
+-0,018
+-0,025
+-0,025
+-0,030
+-0,030
+-0,035
+-0,035
+-0,025
+-0,025
+-0,030
+-0,030
+-0,030
+-0,035
+-0,035
+-0,035
+-0,040
+-0,040
+-0,040
+-0,040
+-0,045
+Size
+(D)
+B
+M
+A
+O
+dK
+Static load
+ratings C0 kN
+Dynamic load
+ratings C kN
+Tilting
+angle
+    (°)
+Weight
+g
+FLURO®-Gelenklager GmbH  I  Siemensstr. 13  I  72348 Rosenfeld
+Phone +49 7428 / 9385-0  I  Fax +49 7428 / 9385-25  I  info@fluro.de  I  www.fluro.de
+
+---
+
+FLURO®-Gelenklager GmbH  I  Siemensstr. 13  I  72348 Rosenfeld
+Phone +49 7428 / 9385-0  I  Fax +49 7428 / 9385-25  I  info@fluro.de  I  www.fluro.de
+Spherical plain bearing with 
+new sliding coating 
+FLUROGLIDE®-MEDIA SOLID  
+The new generation of bearings is particularly well suited for application areas in oliy environments.
+The properties of the spherical plain bearings are not impaired by the effects of grease and oil either. 
+Running tests have shown that the expected life of 5 million cycles has been considerably exceeded.
+Both test series, whether dry running or lubricated with grease, achieved a life of over 6 million cycles.
+The friction properties are in similar ranges for both test series as well. 
+Working life
+40.000
+80.000
+120.000
+160.000
+200.000
+0,00
+0,05
+0,10
+0,15
+0,20
+0,25
+0,30
+1
+2
+3
+4
+5
+7
+gefettet
+trocken
+dry
+greased
+Cycles (M)
+100% expected life
+Glide path [m]
+Coefficient of friction [-]

@@ -1,0 +1,174 @@
+UC СЕРИЯ
+- 20°
+- 4°
+450°
+400°
+350°
+300°
+250°
+200°
+150°
+100°
+50°
+0°
+- 100°
+- 150°
+°C
+°F
+842°
+752°
+662°
+572°
+482°
+392°
+302°
+212°
+122°
+32°
+- 148°
+- 238°
+Обозначение
+Øвну.
+(B)
+Øнар.
+(D)
+Скор.
+об/мин
+Стат.нагр,
+kN при 100°C
+Стат.нагр,
+kN при 20°C
+Соответствующие корпуса подшипниковых узлов
+*
+*
+F серии
+FL серии
+P серии
+UC 201 BSS 2RS NSF H1
+12
+47
+1440
+5,94
+5,94
+PLASTIC HOUSING F PL 204
+PLASTIC HOUSING FL PL 204
+PLASTIC HOUSING P PL 204
+UC 202 BSS 2RS NSF H1
+15
+47
+1440
+5,94
+5,94
+PLASTIC HOUSING F PL 204
+PLASTIC HOUSING FL PL 204
+PLASTIC HOUSING P PL 204
+UC 203 BSS 2RS NSF H1
+17
+47
+1440
+5,94
+5,94
+PLASTIC HOUSING F PL 204
+PLASTIC HOUSING FL PL 204
+PLASTIC HOUSING P PL 204
+UC 204 BSS 2RS NSF H1
+20
+47
+1200
+5,94
+5,94
+PLASTIC HOUSING F PL 204
+PLASTIC HOUSING FL PL 204
+PLASTIC HOUSING P PL 204
+UC 205 BSS 2RS NSF H1
+25
+52
+1120
+7,00
+7,00
+PLASTIC HOUSING F PL 205
+PLASTIC HOUSING FL PL 205
+PLASTIC HOUSING P PL 205
+UC 206 BSS 2RS NSF H1
+30
+62
+880
+10,1
+10,1
+PLASTIC HOUSING F PL 206
+PLASTIC HOUSING FL PL 206
+PLASTIC HOUSING P PL 206
+UC 207 BSS 2RS NSF H1
+35
+72
+760
+13,6
+13,6
+PLASTIC HOUSING F PL 207
+PLASTIC HOUSING FL PL 207
+PLASTIC HOUSING P PL 207
+UC 208 BSS 2RS NSF H1
+40
+80
+680
+16,3
+16,3
+PLASTIC HOUSING F PL 208
+PLASTIC HOUSING FL PL 208
+PLASTIC HOUSING P PL 208
+UC 209 BSS 2RS NSF H1
+45
+85
+640
+18,5
+18,5
+PLASTIC HOUSING F PL 209
+PLASTIC HOUSING FL PL 209
+PLASTIC HOUSING P PL 209
+UC 210 BSS 2RS NSF H1
+50
+90
+600
+20,8
+20,8
+PLASTIC HOUSING F PL 210
+PLASTIC HOUSING FL PL 210
+PLASTIC HOUSING P PL 210
+UC 211 BSS 2RS NSF H1
+55
+100
+536
+26,1
+26,1
+PLASTIC HOUSING F PL 211
+PLASTIC HOUSING FL PL 211
+PLASTIC HOUSING P PL 211
+UC 212 BSS 2RS NSF H1
+60
+110
+480
+29,3
+29,3
+PLASTIC HOUSING F PL 212
+PLASTIC HOUSING FL PL 212
+PLASTIC HOUSING P PL 212
+BSS 2RS NSF H1
+Технические характеристики:
+Материал подшипника:
+закаленная нержавеющая сталь (магнитная)
+Стандартный радиальный зазор
+2RS уплотнения из нержавеющей стали
+Подшипники поставляются со смазкой подходящей
+для пищевой промышленности, соответствующей
+стандарту NSF H1
+Корпус из пластика
+Область применения:
+Подвесные конвейеры для предприятий пищевой
+промышленности
+Строительная отрасль, окна, раздвижные окна и т.д.
+Пищевая промышленность
+Самоустанавливающиеся подшипники из нерж. стали
+и Подшипниковые узлы из пластика
+UCF Серия
+UCFL Серия
+UCP Серия

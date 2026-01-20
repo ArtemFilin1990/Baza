@@ -1,0 +1,592 @@
+Каталог подшипников для высоких температур ENC.
+
+Language: английский, испанский о производителе ...
+
+Size: 0,7Mb
+
+Source: PDF
+
+---
+
+Content
+
+One colour for each temperature
+The company 	that brings
+colour to temperature
+as easy as that!
+ENC Bearings
+
+-- 1 of 8 --
+
+One colour for each temperature,
+as easy as that.
+Specialists in high temperature
+BRL Bearings SL is a distributor based in
+the Barcelona Region, we specialise in ro-
+tational solutions for high temperature
+applications predominantly in the bearing
+series of 6000,6200 and 6300 which can
+handle temperatures from 150ºC to 330ºC.
+One colour for each temperature, as easy
+as that.
+BRL has designed boxes in different co-
+lours for each product range according to
+their respective working temperatures,
+making it easier to identify and describe
+them in your warehouse..
+150º
+The company 	that brings
+colour to temperature
+200º
+270º
+normal speed
+270º
+higher speed
+330º
+
+-- 2 of 8 --
+
+Code 	Inner
+diameter Diameter
+(D) Width
+(W) 	Weight 	Speed
+Revs/min. Static charge
+Kn
+6000 2RS ENC 150ºC 	10 	26 	8 	20 	10000 	2,0
+6001 2RS ENC 150ºC 	12 	28 	8 	25 	10000 	2,4
+6002 2RS ENC 150ºC 	15 	32 	9 	30 	10000 	2,9
+6003 2RS ENC 150ºC 	17 	35 	10 	40 	9000 	3,3
+6004 2RS ENC 150ºC 	20 	42 	12 	69 	8000 	5,1
+6005 2RS ENC 150ºC 	25 	47 	12 	80 	7000 	5,8
+6006 2RS ENC 150ºC 	30 	55 	13 	120 	6000 	7,9
+6007 2RS ENC 150ºC 	35 	62 	14 	160 	5000 	10,3
+6008 2RS ENC 150ºC 	40 	68 	15 	190 	4500 	11,7
+6009 2RS ENC 150ºC 	45 	75 	16 	250 	4000 	14,1
+6010 2RS ENC 150ºC 	50 	80 	16 	260 	3500 	15,4
+Code 	Inner
+diameter Diameter
+(D) Width
+(W) 	Weight 	Speed
+Revs/min. Static charge
+Kn
+6200 2RS ENC 150ºC 	10 	30 	9 	30 	10000 	2,6
+6201 2RS ENC 150ºC 	12 	32 	10 	37 	10000 	3,1
+6202 2RS ENC 150ºC 	15 	35 	11 	45 	10000 	3,8
+6203 2RS ENC 150ºC 	17 	40 	12 	65 	9000 	4,8
+6204 2RS ENC 150ºC 	20 	47 	14 	110 	8000 	6,6
+6205 2RS ENC 150ºC 	25 	52 	15 	130 	7000 	7,9
+6206 2RS ENC 150ºC 	30 	62 	16 	200 	6000 	11,1
+6207 2RS ENC 150ºC 	35 	72 	17 	290 	5000 	15,1
+6208 2RS ENC 150ºC 	40 	80 	18 	370 	4000 	17,8
+6209 2RS ENC 150ºC 	45 	85 	19 	410 	3500 	20,1
+6210 2RS ENC 150ºC 	50 	80 	16 	260 	3500 	15.6
+Code 	Inner
+diameter Diameter
+(D) Width
+(W) 	Weight 	Speed
+Revs/min. Static charge
+Kn
+6300 2RS ENC 150ºC 	10 	35 	11 	52 	10000 	3,5
+6301 2RS ENC 150ºC 	12 	37 	12 	68 	9500 	4,2
+6302 2RS ENC 150ºC 	15 	42 	13 	80 	9000 	5,5
+6303 2RS ENC 150ºC 	17 	47 	14 	120 	8000 	6,6
+6304 2RS ENC 150ºC 	20 	52 	15 	140 	7000 	8,6
+6305 2RS ENC 150ºC 	25 	62 	17 	225 	6000 	11,3
+6306 2RS ENC 150ºC 	30 	72 	19 	350 	5000 	16,1
+6307 2RS ENC 150ºC 	35 	80 	21 	450 	4000 	18,8
+6308 2RS ENC 150ºC 	40 	90 	23 	620 	3500 	24,7
+6309 2RS ENC 150ºC 	45 	100 	25 	830 	3000 	31,6
+6310 2RS ENC 150ºC 	50 	110 	27 	1050 	2500 	37,5
+ENC
+
+150º
+TEChNiCal CharaCTErisTiCs
+- AISI 52100 Steel
+- C4 radial clearance
+- Grease from -29º C to 170ºC
+- 150º Protection in vulcanised rubber
+FiElDs OF UsE
+- Industrial fans
+- Farm machinery
+- Air transports
+- Roller chains
+- Etc.
+2RS
+6000
+
+sEri
+Es
+6200
+
+sEri
+Es
+6300
+
+sEri
+Es
+
+-- 3 of 8 --
+
+Code 	Inner
+diameter Diameter
+(D) Width
+(W) 	Weight 	Speed
+Revs/min. Static charge
+Kn
+6000 ZZ ENC 200ºC 	10 	26 	8 	20 	6000 	1,78
+6001 ZZ ENC 200ºC 	12 	28 	8 	25 	5800 	2,13
+6002 ZZ ENC 200ºC 	15 	32 	9 	30 	5600 	2,53
+6003 ZZ ENC 200ºC 	17 	35 	10 	40 	5400 	2,94
+6004 ZZ ENC 200ºC 	20 	42 	12 	69 	5200 	4,56
+6005 ZZ ENC 200ºC 	25 	47 	12 	80 	4800 	5,14
+6006 ZZ ENC 200ºC 	30 	55 	13 	120 	4400 	7,11
+6007 ZZ ENC 200ºC 	35 	62 	14 	160 	4000 	9,19
+6008 ZZ ENC 200ºC 	40 	68 	15 	190 	3600 	10,47
+6009 ZZ ENC 200ºC 	45 	75 	16 	250 	3200 	12,64
+6010 ZZ ENC 200ºC 	50 	80 	16 	260 	2800 	13,83
+6011 ZZ ENC 200ºC 	55 	90 	18 	390 	2400 	18,77
+6012 ZZ ENC 200ºC 	60 	95 	18 	420 	2000 	20.54
+Code 	Inner
+diameter Diameter
+(D) Width
+(W) 	Weight 	Speed
+Revs/min. Static charge
+Kn
+6200 ZZ ENC 200ºC 	10 	30 	9 	30 	5800 	2,33
+6201 ZZ ENC 200ºC 	12 	32 	10 	37 	5600 	2,84
+6202 ZZ ENC 200ºC 	15 	35 	11 	45 	5400 	3,35
+6203 ZZ ENC 200ºC 	17 	40 	12 	65 	5200 	4,26
+6204 ZZ ENC 200ºC 	20 	47 	14 	110 	4800 	5,98
+6205 ZZ ENC 200ºC 	25 	52 	15 	130 	4400 	7,11
+6206 ZZ ENC 200ºC 	30 	62 	16 	200 	4000 	9,88
+6207 ZZ ENC 200ºC 	35 	72 	17 	290 	3600 	13,53
+6208 ZZ ENC 200ºC 	40 	80 	18 	370 	3200 	16,00
+6209 ZZ ENC 200ºC 	45 	85 	19 	410 	2800 	18,07
+6210 ZZ ENC 200ºC 	50 	90 	20 	460 	2400 	21,33
+6211 ZZ ENC 200ºC 	55 	100 	21 	610 	2000 	25,78
+6212 ZZ ENC 200ºC 	62 	110 	22 	780 	1800 	32,00
+Code 	Inner
+diameter Diameter
+(D) Width
+(W) 	Weight 	Speed
+Revs/min. Static charge
+Kn
+6300 ZZ ENC 200ºC 	10 	35 	11 	52 	5600 	3,14
+6301 ZZ ENC 200ºC 	12 	37 	12 	60 	5400 	3,75
+6302 ZZ ENC 200ºC 	15 	42 	13 	80 	5200 	4,87
+6303 ZZ ENC 200ºC 	17 	47 	14 	120 	4800 	5,88
+6304 ZZ ENC 200ºC 	20 	52 	15 	140 	4400 	6,39
+6305 ZZ ENC 200ºC 	25 	62 	17 	225 	4000 	10,07
+6306 ZZ ENC 200ºC 	30 	72 	19 	350 	3600 	14,42
+6307 ZZ ENC 200ºC 	35 	80 	21 	450 	3200 	16,89
+6308 ZZ ENC 200ºC 	40 	90 	23 	620 	2800 	22,22
+6309 ZZ ENC 200ºC 	45 	100 	25 	830 	2400 	28,45
+6310 ZZ ENC 200ºC 	50 	110 	27 	1050 	2000 	33,78
+6311 ZZ ENC 200ºC 	55 	120 	29 	1350 	1800 	42,17
+6312 ZZ ENC 200ºC 	60 	130 	31 	1700 	1600 	46,22
+ENC
+
+200º
+6000
+
+sEri
+Es
+6200
+
+sEri
+Es
+6300
+
+sEri
+Es
+TEChNiCal CharaCTErisTiCs
+- AISI 52100 Steel
+- C4 radial clearance
+- Grease from -25º C to 200ºC
+- ZZ shields
+FiElDs OF UsE
+- Industrial fans
+- Packaging machinery
+- Ceramic industry
+- Roller chains
+- Steel production
+- Etc.
+ZZ
+
+-- 4 of 8 --
+
+Code 	Inner
+diameter Diameter
+(D) Width
+(W) 	Weight 	Speed
+Revs/min. Static charge
+Kn
+6000 ENC ZZ 270ºCL 	10 	26 	8 	20 	300 	1.34
+6001 ENC ZZ 270ºCL 	12 	28 	8 	25 	275 	1.61
+6002 ENC ZZ 270ºCL 	15 	32 	9 	30 	255 	1.94
+6003 ENC ZZ 270ºCL 	17 	35 	10 	40 	230 	2.21
+6004 ENC ZZ 270ºCL 	20 	42 	12 	69 	225 	3.40
+6005 ENC ZZ 270ºCL 	25 	47 	12 	80 	190 	3.98
+6006 ENC ZZ 270ºCL 	30 	55 	13 	120 	150 	5.44
+6007 ENC ZZ 270ºCL 	35 	62 	14 	160 	125 	7.07
+6008 ENC ZZ 270ºCL 	40 	68 	15 	190 	115 	8
+6009 ENC ZZ 270ºCL 	45 	75 	16 	250 	100 	9.73
+6010 ENC ZZ 270ºCL 	50 	80 	16 	260 	95 	10.61
+6011 ENC ZZ 270ºCL 	55 	90 	18 	390 	85 	14.42
+6012 ENC ZZ 270ºCL 	60 	95 	18 	420 	80 	15.80
+6013 ENC ZZ 270ºCL 	65 	100 	18 	440 	70 	17
+6014 ENC ZZ 270ºCL 	70 	110 	20 	600 	65 	21.42
+6015 ENC ZZ 270ºCL 	75 	115 	20 	640 	60 	23.12
+6016 ENC ZZ 270ºCL 	80 	125 	22 	850 	55 	26
+6017 ENC ZZ 270ºCL 	85 	130 	22 	890 	55 	27.9
+6018 ENC ZZ 270ºCL 	90 	140 	24 	1150 	55 	32.5
+Code 	Inner
+diameter Diameter
+(D) Width
+(W) 	Weight 	Speed
+Revs/min. Static charge
+Kn
+6200 ENC ZZ 270ºCL 	10 	30 	9 	30 	290 	1.77
+6201 ENC ZZ 270ºCL 	12 	32 	10 	37 	275 	2.11
+6202 ENC ZZ 270ºCL 	15 	35 	11 	45 	195 	2.55
+6203 ENC ZZ 270ºCL 	17 	40 	12 	65 	185 	3.23
+6204 ENC ZZ 270ºCL 	20 	47 	14 	110 	170 	4.46
+6205 ENC ZZ 270ºCL 	25 	52 	15 	130 	155 	5.44
+6206 ENC ZZ 270ºCL 	30 	62 	16 	200 	130 	7.62
+6207 ENC ZZ 270ºCL 	35 	72 	17 	290 	120 	10
+6208 ENC ZZ 270ºCL 	40 	80 	18 	370 	95 	12.24
+6209 ENC ZZ 270ºCL 	45 	85 	19 	410 	90 	16.3
+6210 ENC ZZ 270ºCL 	50 	90 	20 	460 	85 	19.88
+6211 ENC ZZ 270ºCL 	55 	100 	21 	610 	75 	24.48
+6212 ENC ZZ 270ºCL 	62 	110 	22 	780 	70 	28.22
+6213 ENC ZZ 270ºCL 	65 	120 	23 	990 	50 	29.92
+6214 ENC ZZ 270ºCL 	70 	125 	24 	1040 	50 	33.32
+6215 ENC ZZ 270ºCL 	75 	130 	25 	1210 	50 	35.7
+6216 ENC ZZ 270ºCL 	80 	140 	26 	1400 	50 	41.6
+6217 ENC ZZ 270ºCL 	85 	150 	28 	1800 	50 	43.7
+6218 ENC ZZ 270ºCL 	90 	160 	30 	2150 	50 	52.9
+Code 	Inner
+diameter Diameter
+(D) Width
+(W) 	Weight 	Speed
+Revs/min. Static charge
+Kn
+6300 ENC ZZ 270ºCL 	10 	35 	11 	52 	225 	2.34
+6301 ENC ZZ 270ºCL 	12 	37 	12 	60 	210 	2.82
+6302 ENC ZZ 270ºCL 	15 	42 	13 	80 	190 	3.67
+6303 ENC ZZ 270ºCL 	17 	47 	14 	120 	165 	4.46
+6304 ENC ZZ 270ºCL 	20 	52 	15 	140 	150 	5.78
+6305 ENC ZZ 270ºCL 	25 	62 	17 	225 	110 	7.75
+6306 ENC ZZ 270ºCL 	30 	72 	19 	350 	95 	11
+6307 ENC ZZ 270ºCL 	35 	80 	21 	450 	85 	12.92
+6308 ENC ZZ 270ºCL 	40 	90 	23 	620 	75 	17
+6309 ENC ZZ 270ºCL 	45 	100 	25 	830 	67 	21.76
+6310 ENC ZZ 270ºCL 	50 	110 	27 	1050 	60 	25
+6311 ENC ZZ 270ºCL 	55 	120 	29 	1350 	53 	32.30
+6312 ENC ZZ 270ºCL 	60 	130 	31 	1700 	50 	35.36
+6313 ENC ZZ 270ºCL 	65 	140 	33 	2100 	50 	40.8
+6314 ENC ZZ 270ºCL 	70 	150 	35 	2500 	50 	46
+6315 ENC ZZ 270ºCL 	75 	160 	37 	3000 	50 	52
+6316 ENC ZZ 270ºCL 	80 	170 	39 	3600 	50 	56.2
+6317 ENC ZZ 270ºCL 	85 	180 	41 	4250 	50 	62.7
+6318 ENC ZZ 270ºCL 	90 	190 	43 	4900 	50 	70.2
+ENC
+
+270º
+6000
+
+sEri
+Es
+6200
+
+sEri
+Es
+6300
+
+sEri
+Es
+TEChNiCal CharaCTErisTiCs
+- AISI 52100 Steel
+- Manganese Phosphate surface treatment
+- Increased radial clearance to compensate
+for termal expansion
+- Molyguard CF-2 grease from -35º C to 270ºC
+- ZZ and OPEN available
+FiElDs OF UsE
+- Brick manufacturing kiln karts
+- Ceramic industry kilnes
+- High temperature rollers
+- Steel manufacturing
+- Glass manufacturing
+- Etc.
+Cl
+N
+O
+r
+M
+a
+l
+s
+P
+	E
+	E
+	D
+N
+O
+r
+M
+a
+l
+sP
+E
+E
+D ZZ 	OPEN
+
+-- 5 of 8 --
+
+Code 	Inner
+diameter Diameter
+(D) Width
+(W) 	Weight 	Speed
+Revs/min. Static charge
+Kn
+6000 ENC ZZ 270ºC 	10 	26 	8 	20 	2300 	1.14
+6001 ENC ZZ 270ºC 	12 	28 	8 	25 	2090 	1.37
+6002 ENC ZZ 270ºC 	15 	32 	9 	30 	1930 	1.65
+6003 ENC ZZ 270ºC 	17 	35 	10 	40 	1790 	1.88
+6004 ENC ZZ 270ºC 	20 	42 	12 	69 	1620 	2.89
+6005 ENC ZZ 270ºC 	25 	47 	12 	80 	1375 	3.38
+6006 ENC ZZ 270ºC 	30 	55 	13 	120 	1060 	4.62
+6007 ENC ZZ 270ºC 	35 	62 	14 	160 	895 	6.01
+6008 ENC ZZ 270ºC 	40 	68 	15 	190 	820 	6.80
+6009 ENC ZZ 270ºC 	45 	75 	16 	250 	730 	8.27
+6010 ENC ZZ 270ºC 	50 	80 	16 	260 	690 	9.02
+6011 ENC ZZ 270ºC 	55 	90 	18 	390 	615 	12.26
+6012 ENC ZZ 270ºC 	60 	95 	18 	420 	570 	13.43
+6013 ENC ZZ 270ºC 	65 	100 	18 	440 	510 	14.45
+6014 ENC ZZ 270ºC 	70 	110 	20 	600 	495 	18.21
+6015 ENC ZZ 270ºC 	75 	115 	20 	640 	460 	19.65
+6016 ENC ZZ 270ºC 	80 	125 	22 	850 	410 	22.1
+6017 ENC ZZ 270ºC 	85 	130 	22 	890 	395 	23.7
+6018 ENC ZZ 270ºC 	90 	140 	24 	1150 	375 	27.6
+Code 	Inner
+diameter Diameter
+(D) Width
+(W) 	Weight 	Speed
+Revs/min. Static charge
+Kn
+6200 ENC ZZ 270ºC 	10 	30 	9 	30 	2100 	1.50
+6201 ENC ZZ 270ºC 	12 	32 	10 	37 	1950 	1.79
+6202 ENC ZZ 270ºC 	15 	35 	11 	45 	1650 	2.17
+6203 ENC ZZ 270ºC 	17 	40 	12 	65 	1460 	2.75
+6204 ENC ZZ 270ºC 	20 	47 	14 	110 	1225 	3.79
+6205 ENC ZZ 270ºC 	25 	52 	15 	130 	1150 	4.62
+6206 ENC ZZ 270ºC 	30 	62 	16 	200 	895 	6.48
+6207 ENC ZZ 270ºC 	35 	72 	17 	290 	775 	8.50
+6208 ENC ZZ 270ºC 	40 	80 	18 	370 	695 	10.40
+6209 ENC ZZ 270ºC 	45 	85 	19 	410 	650 	11.79
+6210 ENC ZZ 270ºC 	50 	90 	20 	460 	615 	13.86
+6211 ENC ZZ 270ºC 	55 	100 	21 	610 	540 	16.90
+6212 ENC ZZ 270ºC 	62 	110 	22 	780 	485 	20.81
+6213 ENC ZZ 270ºC 	65 	120 	23 	990 	430 	23.99
+6214 ENC ZZ 270ºC 	70 	125 	24 	1040 	415 	25.43
+6215 ENC ZZ 270ºC 	75 	130 	25 	1210 	390 	28.32
+6216 ENC ZZ 270ºC 	80 	140 	26 	1400 	365 	30.3
+6217 ENC ZZ 270ºC 	85 	150 	28 	1800 	340 	35.3
+6218 ENC ZZ 270ºC 	90 	160 	30 	2150 	320 	40.5
+Code 	Inner
+diameter Diameter
+(D) Width
+(W) 	Weight 	Speed
+Revs/min. Static charge
+Kn
+6300 ENC ZZ 270ºC 	10 	35 	11 	52 	1790 	1.99
+6301 ENC ZZ 270ºC 	12 	37 	12 	60 	1650 	2.40
+6302 ENC ZZ 270ºC 	15 	42 	13 	80 	1460 	3.12
+6303 ENC ZZ 270ºC 	17 	47 	14 	120 	1295 	3.79
+6304 ENC ZZ 270ºC 	20 	52 	15 	140 	1140 	4.91
+6305 ENC ZZ 270ºC 	25 	62 	17 	225 	895 	6.59
+6306 ENC ZZ 270ºC 	30 	72 	19 	350 	775 	9.35
+6307 ENC ZZ 270ºC 	35 	80 	21 	450 	695 	10.98
+6308 ENC ZZ 270ºC 	40 	90 	23 	620 	615 	14.45
+6309 ENC ZZ 270ºC 	45 	100 	25 	830 	545 	18.50
+6310 ENC ZZ 270ºC 	50 	110 	27 	1050 	495 	21.25
+6311 ENC ZZ 270ºC 	55 	120 	29 	1350 	440 	27.46
+6312 ENC ZZ 270ºC 	60 	130 	31 	1700 	415 	30.06
+6313 ENC ZZ 270ºC 	65 	140 	33 	2100 	375 	34.68
+6314 ENC ZZ 270ºC 	70 	150 	35 	2500 	360 	39.10
+6315 ENC ZZ 270ºC 	75 	160 	37 	3000 	335 	44.20
+6316 ENC ZZ 270ºC 	80 	170 	39 	3600 	325 	47.70
+6317 ENC ZZ 270ºC 	85 	180 	41 	4250 	310 	53.20
+6318 ENC ZZ 270ºC 	90 	190 	43 	4900 	290 	59.60
+ENC
+
+270º
+sEriE 	6300
+C
+h
+i
+G
+h
+E
+r
+s
+P
+	E
+	E
+	D
+h
+i
+G
+h
+E
+r
+s
+P
+E
+E
+D
+ZZ
+TEChNiCal CharaCTErisTiCs
+- AISI 52100 Steel
+- Manganese Phosphate surface treatment
+- Increased radial clearance to compensate
+for termal expansion
+- Klüber's Barrierta LT 55/2 grease from -30º
+C to 270º
+- ZZ shields
+FiElDs OF UsE
+- Brick manufacturing kiln karts
+- Ceramic industry kilnes
+- High temperature rollers
+- Steel manufacturing
+- Iron and steel industry
+- Glass manufacturing
+- Etc.
+6000
+
+sEri
+Es
+6200
+
+sEri
+Es
+6300
+
+sEri
+Es
+
+-- 6 of 8 --
+
+Code 	Inner
+diameter Diameter
+(D) Width
+(W) 	Weight 	Speed
+Revs/min. Static charge
+Kn
+6000 ENC ZZ 330ºC 	10 	26 	8 	20 	295 	1.14
+6001 ENC ZZ 330ºC 	12 	28 	8 	25 	275 	1.37
+6002 ENC ZZ 330ºC 	15 	32 	9 	30 	265 	1.65
+6003 ENC ZZ 330ºC 	17 	35 	10 	40 	250 	1.88
+6004 ENC ZZ 330ºC 	20 	42 	12 	69 	240 	2.89
+6005 ENC ZZ 330ºC 	25 	47 	12 	80 	180 	3.38
+6006 ENC ZZ 330ºC 	30 	55 	13 	120 	150 	4.62
+6007 ENC ZZ 330ºC 	35 	62 	14 	160 	125 	6.01
+6008 ENC ZZ 330ºC 	40 	68 	15 	190 	115 	6.80
+6009 ENC ZZ 330ºC 	45 	75 	16 	250 	100 	8.27
+6010 ENC ZZ 330ºC 	50 	80 	16 	260 	90 	9.02
+6011 ENC ZZ 330ºC 	55 	90 	18 	390 	85 	12.26
+6012 ENC ZZ 330ºC 	60 	95 	18 	420 	80 	13.43
+6013 ENC ZZ 330ºC 	65 	100 	18 	440 	70 	14.45
+6014 ENC ZZ 330ºC 	70 	110 	20 	600 	68 	18.21
+6015 ENC ZZ 330ºC 	75 	115 	20 	640 	63 	19.65
+6016 ENC ZZ 330ºC 	80 	125 	22 	850 	55 	22.1
+6017 ENC ZZ 330ºC 	85 	130 	22 	890 	55 	23.7
+6018 ENC ZZ 330ºC 	90 	140 	24 	1150 	55 	27.6
+Code 	Inner
+diameter Diameter
+(D) Width
+(W) 	Weight 	Speed
+Revs/min. Static charge
+Kn
+6200 ENC ZZ 330ºC 	10 	30 	9 	30 	275 	1.50
+6201 ENC ZZ 330ºC 	12 	32 	10 	37 	265 	1.79
+6202 ENC ZZ 330ºC 	15 	35 	11 	45 	250 	2.17
+6203 ENC ZZ 330ºC 	17 	40 	12 	65 	220 	2.75
+6204 ENC ZZ 330ºC 	20 	47 	14 	110 	170 	3.79
+6205 ENC ZZ 330ºC 	25 	52 	15 	130 	160 	4.62
+6206 ENC ZZ 330ºC 	30 	62 	16 	200 	120 	6.48
+6207 ENC ZZ 330ºC 	35 	72 	17 	290 	110 	8.50
+6208 ENC ZZ 330ºC 	40 	80 	18 	370 	95 	10.40
+6209 ENC ZZ 330ºC 	45 	85 	19 	410 	90 	11.79
+6210 ENC ZZ 330ºC 	50 	90 	20 	460 	80 	13.86
+6211 ENC ZZ 330ºC 	55 	100 	21 	610 	70 	16.90
+6212 ENC ZZ 330ºC 	62 	110 	22 	780 	65 	20.81
+6213 ENC ZZ 330ºC 	65 	120 	23 	990 	60 	23.99
+6214 ENC ZZ 330ºC 	70 	125 	24 	1040 	55 	25.43
+6215 ENC ZZ 330ºC 	75 	130 	25 	1210 	55 	28.32
+6216 ENC ZZ 330ºC 	80 	140 	26 	1400 	50 	30.3
+6217 ENC ZZ 330ºC 	85 	150 	28 	1800 	50 	35.3
+6218 ENC ZZ 330ºC 	90 	160 	30 	2150 	50 	40.5
+Code 	Inner
+diameter Diameter
+(D) Width
+(W) 	Weight 	Speed
+Revs/min. Static charge
+Kn
+6300 ENC ZZ 330ºC 	10 	35 	11 	52 	230 	1.99
+6301 ENC ZZ 330ºC 	12 	37 	12 	60 	220 	2.40
+6302 ENC ZZ 330ºC 	15 	42 	13 	80 	190 	3.12
+6303 ENC ZZ 330ºC 	17 	47 	14 	120 	175 	3.79
+6304 ENC ZZ 330ºC 	20 	52 	15 	140 	160 	4.91
+6305 ENC ZZ 330ºC 	25 	62 	17 	225 	150 	6.59
+6306 ENC ZZ 330ºC 	30 	72 	19 	350 	115 	9.35
+6307 ENC ZZ 330ºC 	35 	80 	21 	450 	90 	10.98
+6308 ENC ZZ 330ºC 	40 	90 	23 	620 	80 	14.45
+6309 ENC ZZ 330ºC 	45 	100 	25 	830 	75 	18.50
+6310 ENC ZZ 330ºC 	50 	110 	27 	1050 	65 	21.25
+6311 ENC ZZ 330ºC 	55 	120 	29 	1350 	60 	27.46
+6312 ENC ZZ 330ºC 	60 	130 	31 	1700 	55 	30.06
+6313 ENC ZZ 330ºC 	65 	140 	33 	2100 	50 	34.68
+6314 ENC ZZ 330ºC 	70 	150 	35 	2500 	45 	39.10
+6315 ENC ZZ 330ºC 	75 	160 	37 	3000 	45 	44.20
+6316 ENC ZZ 330ºC 	80 	170 	39 	3600 	45 	47.70
+6317 ENC ZZ 330ºC 	85 	180 	41 	4250 	45 	53.20
+6318 ENC ZZ 330ºC 	90 	190 	43 	4900 	45 	59.60
+ENC
+
+330º
+TEChNiCal CharaCTErisTiCs
+- AISI 52100 Steel
+- Manganese Phosphate surface treatment
+- Increased radial clearance to compensate
+expansions
+- Klüber's Wolfrasin ULAF 60 grease up to 330º
+- ZZ and OPEN available
+FiElDs OF UsE
+- Brick manufacturing kiln karts
+- High temperature rollers
+- Iron and steel industry
+- Glass manufacturing
+- Etc.
+ZZ 	OPEN
+6000
+
+sEri
+Es
+6200
+
+sEri
+Es
+6300
+
+sEri
+Es
+
+-- 7 of 8 --
+
+Distributor:
+The company 	that brings
+colour to temperature
+
+-- 8 of 8 --

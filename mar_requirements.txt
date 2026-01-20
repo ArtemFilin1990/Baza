@@ -1,0 +1,28 @@
+# API Framework
+fastapi>=0.104.0
+uvicorn[standard]>=0.24.0
+pydantic>=2.5.0
+
+# Database
+psycopg2-binary>=2.9.9
+sqlalchemy>=2.0.0
+
+# Search and NLP
+# Для автодополнения
+datasketch>=1.5.0        # MinHash для быстрого поиска схожих строк
+
+# Для вычисления схожести документов
+scikit-learn>=1.3.0      # TF-IDF, косинусное расстояние
+numpy>=1.24.0
+
+# Для экспорта
+pandas>=2.0.0
+openpyxl>=3.1.0          # Excel
+xlsxwriter>=3.1.0        # Альтернативный Excel writer
+
+# Для истории поиска
+redis>=4.5.0             # Опциональный кеш для быстрого доступа
+
+# Utilities
+python-multipart>=0.0.6
+python-dotenv>=1.0.0

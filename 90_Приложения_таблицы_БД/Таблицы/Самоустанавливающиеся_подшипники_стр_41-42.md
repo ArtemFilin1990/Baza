@@ -1,0 +1,722 @@
+---
+type: knowledge
+section: Размеры
+language: ru
+entities: 
+  - "1460"
+  - "2948"
+  - "5202"
+  - "9199"
+  - "2269"
+  - "2276"
+  - "1138"
+  - "4120"
+  - "2060"
+  - "1345"
+  - "5984"
+  - "2992"
+  - "1777"
+  - "7907"
+  - "3953"
+  - "2667"
+  - "1334"
+  - "11870"
+  - "5935"
+  - "4167"
+---
+
+* Except for the O.D., bearings with the self-aligning feature have the same dimensions and tolerances as the standard bearing. There is a spherical crown on 
+the O.D. to create the self-aligning feature. They are used in a straight bore housing. Add an “A” to the part number per the example. More information on selfaligning bearings is on pages 41-42.
+PRECISION I.D. SERIES
+Similar to preloaded ball bearing
+COMPENSATED I.D. SERIES
+Similar to standard ball bearing
+STANDARD O.D.
+SEL-ALIGNING O.D.
+FMA
+C
+LENGTH
+CONCENTRIC
+BEARING
+WEIGHT
+PART NO.
+NOMINAL
+SIZE
+A
+BEARING I.D. (F8)
+PART NO.
+A
+BEARING I.D.
+B
+O.D. (h7)
+B2
+O.D.
+CLOSED
+OPEN
+(mm)
+MIN.
+MAX.
+CLOSED
+OPEN
+MIN.
+MAX.
+MIN.
+MAX.
+MIN.
+MAX.
+MIN.
+MAX.
+MAX. (mm)
+(kg.)
+FM 05
+FMN 05
+5
+5.010
+5.028
+FMC 05 FMCN 05
+5.060
+5.078
+11.982
+12
+11.941
+11.966
+21.746
+22
+0.0254
+0.004
+FM 08
+FMN 08
+8
+8.013
+8.035
+FMC 08 FMCN 08
+8.063
+8.085
+15.982
+16
+15.941
+15.966
+24.746
+25
+0.0254
+0.009
+FM 10
+FMN 10
+10
+10.013
+10.035
+FMC 10 FMCN 10
+10.063
+10.085
+18.979
+19
+18.938
+18.964
+28.746
+29
+0.0254
+0.014
+FM 12
+FMN 12
+12
+12.016
+12.043
+FMC 12 FMCN 12
+12.066
+12.093
+21.979
+22
+21.938
+21.963
+31.746
+32
+0.0254
+0.017
+FM 16
+FMN 16
+16
+16.016
+16.043
+FMC 16 FMCN 16
+16.066
+16.093
+25.979
+26
+25.938
+25.964
+35.746
+36
+0.0254
+0.028
+FM 20
+FMN 20
+20
+20.020
+20.053
+FMC 20 FMCN 20
+20.096
+20.129
+31.975
+32
+31.938
+31.963
+44.746
+45
+0.0254
+0.054
+FM 25
+FMN 25
+25
+25.020
+25.053
+FMC 25 FMCN 25
+25.096
+25.129
+39.975
+40
+39.936
+39.962
+57.746
+58
+0.0254
+0.109
+FM 30
+FMN 30
+30
+30.020
+30.053
+FMC 30 FMCN 30
+30.096
+30.129
+46.975
+47
+46.937
+46.962
+67.746
+68
+0.0254
+0.176
+FM 40
+FMN 40
+40
+40.025
+40.064
+FMC 40 FMCN 40
+40.127
+40.166
+61.970
+62
+61.935
+61.961
+79.746
+80
+0.0254
+0.356
+FM 50
+FMN 50
+50
+50.025
+50.064
+FMC 50 FMCN 50
+50.127
+50.166
+74.970
+75
+74.935
+74.960
+99.746
+100
+0.0254
+0.628
+FM 60
+FMN 60
+60
+60.030
+60.076
+FMC 60 FMCN 60
+60.182
+60.228
+89.965
+90
+89.931
+89.957
+124.492
+125
+0.0380
+1.117
+FM 80
+FMN 80
+80
+80.030
+80.076
+FMC 80 FMCN 80
+80.182
+80.228
+119.965
+120
+119.931
+119.957
+164.492
+165
+0.0510
+2.679
+BASIC DIMENSIONAL INFORMATION
+MOUNTING DIMENSIONAL INFORMATION
+PART NO.
+NOMINAL
+SIZE
+(mm)
+H
+HA
+HB
+RET. RING
+PART NO. 
+(DIN 471)
+J
+JA
+JB
+METRIC
+O’RING
+PART NO.
+BETWEEN
+RET. RINGS
+RET. RING 
+GRV. WIDTH
+RET. RING 
+GRV. DIA.
+BETWEEN
+O’RING GRVS.
+O’RING
+GRV. WIDTH
+O’RING
+GRV. DIA.
+CLOSED
+OPEN
+FM 05
+FMN 05
+5
+12
+1.14
+11.5
+12
+5
+2
+9.86
+9.7 x 1.3
+FM 08
+FMN 08
+8
+14
+1.14
+15.2
+16
+5.33
+2
+13.2
+13 x 1.7
+FM 10
+FMN 10
+10
+19.4
+1.32
+18.0
+19
+5.63
+2.44
+15.7
+15.5 x 2
+FM 12
+FMN 12
+12
+20
+1.32
+21.0
+22
+6
+3.17
+17.9
+17.5 x 2.5
+FM 16
+FMN 16
+16
+22
+1.32
+24.9
+26
+8
+3.17
+21.9
+21.5 x 2.5
+FM 20
+FMN 20
+20
+28
+1.63
+30.3
+32
+10
+3.17
+27.9
+27.5 x 2.5 
+FM 25
+FMN 25
+25
+40
+1.90
+37.5
+40
+12.5
+3.17
+35.9
+35.5 x 2.5
+FM 30
+FMN 30
+30
+48
+1.90
+44.5
+47
+15
+3.17
+42.7
+42.52 x 2.62
+FM 40
+FMN 40
+40
+56
+2.20
+59.0
+62
+20
+4.1
+56.3
+56 x 3.5 
+FM 50
+FMN 50
+50
+72
+2.70
+72.0
+75
+25
+4.1
+69.2
+69 x 3.5
+FM 60
+FMN 60
+60
+95
+3.20
+86.4
+90
+30
+7.1
+81.7
+81 x 5
+FM 80
+FMN 80
+80
+125
+4.17
+116.1
+120
+40
+7.1
+111.7
+111 x 5
+*SELF-ALIGNING O.D. (FMA-XX)    STANDARD O.D. (FM-XX)
+B2
+B
+JB
+JA
+J
+C
+HB
+HA
+H
+C
+A
+FM LINEAR BEARING
+
+---
+
+OPEN DIMENSIONAL INFORMATION
+PART NO.
+NOMINAL
+SIZE
+D
+SLOT
+WIDE
+MIN.
+E
+SLOT
+ANGLE
+X
+RET.
+HOLE
+DIA.
+Y
+RET.
+HOLE
+DIA.
+YZ
+RET.
+HOLE
+LOCATE
+BEARING
+WT.
+CLOSED
+(mm)
+(kg.)
+FMN 05
+5
+3.2
+60
+2.2
+N / A
+N / A
+0.0034
+FMN 08
+8
+5.1
+60
+N / A
+N / A
+0.0077
+FMN 10
+10
+6.4
+60
+N / A
+N / A
+0.0119
+FMN 12
+12
+7.6
+78
+7.0
+0.0156
+FMN 16
+16
+10.4
+78
+2.2
+0
+0.0213
+FMN 20
+20
+10.8
+60
+2.2
+0
+0.0439
+FMN 25
+25
+13.2
+60
+1.5
+0.0893
+FMN 30
+30
+14.2
+72
+2.0
+0.1460
+FMN 40
+40
+19.5
+72
+1.5
+0.2948
+FMN 50
+50
+24.0
+72
+5.0
+2.5
+0.5202
+FMN 60
+60
+29.6
+72
+N / A
+6.0
+0
+0.9199
+FMN 80
+80
+39.0
+72
+N / A
+8.0
+0
+2.2269
+LOAD & SPEED DATA
+PART NO.
+EFFECTIVE
+SURFACE
+AREA
+MAX.
+STATIC LOAD FRELON
+EFFECTIVE
+SURFACE
+AREA
+MAX.
+STATIC LOAD FRELON
+GOLD
+J
+GOLD
+J
+(sq. in.)
+(lbs.)
+(lbs.)
+(cm2)
+(N)
+(N)
+FMN 05
+0.171
+511
+256
+1.10
+2276
+1138
+FMN 08
+0.310
+926
+463
+2.00
+4120
+2060
+FMN 10 
+0.450
+1345
+672
+2.90
+5984
+2992
+FMN 12
+0.589
+1777
+888
+3.80
+7907
+3953
+FMN 16
+0.899
+2667
+1334
+5.80
+11870
+5935
+FMN 20
+1.395
+4167
+2083
+9.00
+18541
+9270
+FMN 25
+2.248
+6715
+3358
+1.450
+29881
+14941
+FMN 30
+3.162
+9444
+4722
+2.040
+42026
+21013
+FMN 40
+4.960
+14814
+7407
+3.200
+65923
+32962
+FMN 50
+7.750
+23147
+11574
+5.000
+103005
+51503
+FMN 60
+11.625
+34721
+17360
+7.500
+154508
+77254
+FMN 80
+20.460
+61120
+30554
+13.200
+271933
+135967
+MAX. PV (m/min. * kg/sq. cm)
+Frelon Gold = 430 PV
+Frelon J = 215 PV
+MAX. PV (m/s. * N/mm2)
+Frelon Gold = 0.70 PV
+Frelon J = 0.35 PV
+MAX. Speed Running Dry (m/min.)
+Frelon Gold = 91.4
+Frelon J = 42.6
+MAX. Speed Running Dry (m/s.)
+Frelon Gold = 1.52
+Frelon J = 0.71
+MAX. Speed Running with 
+Lubrication (m/min.)
+Frelon Gold = 251.5
+Frelon J = 122
+MAX. Speed Running with 
+Lubrication (m/s.)
+Frelon Gold = 4.19
+Frelon J = 2.03
+FMN 12 
+ONLY
+FMN 05 THRU 
+FMN 10 & FMN 80
+FMN 16 THRU 
+FMN 20
+FMN 25 ONLY
+FMN 30 THRU FMN 50
+FMN 60 ONLY
+=
+=
+FMN 60 ONLY
+7°
+E
+D
+Y
+1.35
+X
+E
+D
+E
+D
+E
+D
+E
+D
+E
+D
+YZ
+Y
+X
+X
+X
+Y
+X
+YZ
+Y
+YZ
+Y
+F = -400°F / +400°F
+C = -240°C / +240°C
+FMN OPEN FRELON LINEAR BEARING
+Wide temperature range
