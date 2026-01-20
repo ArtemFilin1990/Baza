@@ -1,0 +1,9 @@
+Unit_Type,Series,Description,Housing_Type,Shaft_Fixing,Typical_Applications
+UCP,200-300,Pillow block units,Pillow block,Eccentric collar,General machinery
+UCF,200-300,Flanged units,Flange - 2 bolt,Eccentric collar,Conveyors
+UCFL,200-300,Flanged units,Flange - 4 bolt,Eccentric collar,Agricultural machinery
+UCT,200-300,Take-up units,Take-up,Eccentric collar,Belt conveyors
+UCFC,200-300,Flanged cartridge units,Flange cartridge,Eccentric collar,Food industry
+UCPA,200-300,Pillow block units,Pillow block - pressed,Eccentric collar,Light duty applications
+UCPH,200-300,Hanger units,Hanger,Eccentric collar,Overhead shafts
+UCFB,200-300,Flanged bearing units,Flange - round,Eccentric collar,Fans and blowers
