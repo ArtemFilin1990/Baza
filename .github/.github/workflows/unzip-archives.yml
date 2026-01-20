@@ -1,0 +1,105 @@
+name: Unzip Archives
+
+on:
+  workflow_dispatch:  # Ручной запуск
+  push:
+    paths:
+      - 'ZIP/**/*. zip'
+      - '**/*.zip'
+      - '**/*. rar'
+      - '**/*. 7z'
+      - '**/*.tar.gz'
+
+jobs:
+  unzip: 
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      
+      - name:  Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y unzip p7zip-full p7zip-rar
+      
+      - name:  Create extracted directory
+        run: mkdir -p extracted_archives
+      
+      - name: Find and extract all archives
+        run: |
+          echo "🔍 Searching for archives..."
+          
+          # Extract ZIP files
+          find .  -name "*.zip" -type f | while read -r zipfile; do
+            echo "📦 Extracting: $zipfile"
+            dirname=$(dirname "$zipfile")
+            basename=$(basename "$zipfile" .zip)
+            outdir="extracted_archives/${dirname}/${basename}"
+            mkdir -p "$outdir"
+            unzip -o "$zipfile" -d "$outdir" || echo "⚠️ Failed to extract $zipfile"
+          done
+          
+          # Extract 7z files
+          find . -name "*.7z" -type f | while read -r archive; do
+            echo "📦 Extracting: $archive"
+            dirname=$(dirname "$archive")
+            basename=$(basename "$archive" . 7z)
+            outdir="extracted_archives/${dirname}/${basename}"
+            mkdir -p "$outdir"
+            7z x "$archive" -o"$outdir" || echo "⚠️ Failed to extract $archive"
+          done
+          
+          # Extract RAR files
+          find . -name "*.rar" -type f | while read -r rarfile; do
+            echo "📦 Extracting: $rarfile"
+            dirname=$(dirname "$rarfile")
+            basename=$(basename "$rarfile" .rar)
+            outdir="extracted_archives/${dirname}/${basename}"
+            mkdir -p "$outdir"
+            7z x "$rarfile" -o"$outdir" || echo "⚠️ Failed to extract $rarfile"
+          done
+          
+          # Extract tar. gz files
+          find . -name "*.tar.gz" -type f | while read -r tarfile; do
+            echo "📦 Extracting: $tarfile"
+            dirname=$(dirname "$tarfile")
+            basename=$(basename "$tarfile" .tar.gz)
+            outdir="extracted_archives/${dirname}/${basename}"
+            mkdir -p "$outdir"
+            tar -xzf "$tarfile" -C "$outdir" || echo "⚠️ Failed to extract $tarfile"
+          done
+          
+          echo "✅ Extraction completed!"
+      
+      - name: Generate extraction report
+        run: |
+          echo "# Archive Extraction Report" > EXTRACTION_REPORT.md
+          echo "" >> EXTRACTION_REPORT.md
+          echo "**Date:** $(date)" >> EXTRACTION_REPORT.md
+          echo "" >> EXTRACTION_REPORT. md
+          echo "## Extracted Archives" >> EXTRACTION_REPORT.md
+          echo "" >> EXTRACTION_REPORT.md
+          
+          find extracted_archives -type d -mindepth 1 | sort | while read -r dir; do
+            file_count=$(find "$dir" -type f | wc -l)
+            echo "- \`$dir\` — $file_count files" >> EXTRACTION_REPORT.md
+          done
+          
+          echo "" >> EXTRACTION_REPORT.md
+          echo "## File Structure" >> EXTRACTION_REPORT.md
+          echo "\`\`\`" >> EXTRACTION_REPORT.md
+          find extracted_archives -type f | head -100 >> EXTRACTION_REPORT.md
+          echo "\`\`\`" >> EXTRACTION_REPORT.md
+      
+      - name: Commit extracted files
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add extracted_archives/ EXTRACTION_REPORT.md
+          git diff --cached --quiet || git commit -m "🤖 Auto-extract archives [skip ci]"
+          git push
