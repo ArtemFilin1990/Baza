@@ -1,0 +1,123 @@
+name: Auto-Extract Archives
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'ZIP/**/*.zip'
+      - '**/*.zip'
+      - '**/*.rar'
+      - '**/*.7z'
+      - '**/*.tar.gz'
+
+permissions:
+  contents: write
+
+jobs:
+  extract-archives:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y unzip p7zip-full p7zip-rar
+      
+      - name: Create extraction directory
+        run: |
+          mkdir -p extracted_archives
+      
+      - name: 🔍 Find and extract ZIP files
+        run: |
+          echo "🔍 Searching for ZIP files..."
+          find . -name "*.zip" -type f -not -path "./extracted_archives/*" | while read -r zipfile; do
+            echo "📦 Found: $zipfile"
+            dirname=$(dirname "$zipfile")
+            basename=$(basename "$zipfile" .zip)
+            outdir="extracted_archives/${dirname}/${basename}"
+            mkdir -p "$outdir"
+            echo "  → Extracting to: $outdir"
+            unzip -o "$zipfile" -d "$outdir" || echo "⚠️ Failed to extract $zipfile"
+            echo "✅ Extracted: $zipfile"
+          done
+      
+      - name: 🔍 Find and extract 7Z files
+        run: |
+          echo "🔍 Searching for 7Z files..."
+          find . -name "*.7z" -type f -not -path "./extracted_archives/*" | while read -r archive; do
+            echo "📦 Found: $archive"
+            dirname=$(dirname "$archive")
+            basename=$(basename "$archive" .7z)
+            outdir="extracted_archives/${dirname}/${basename}"
+            mkdir -p "$outdir"
+            echo "  → Extracting to: $outdir"
+            7z x "$archive" -o"$outdir" -y || echo "⚠️ Failed to extract $archive"
+            echo "✅ Extracted: $archive"
+          done
+      
+      - name: 🔍 Find and extract RAR files
+        run: |
+          echo "🔍 Searching for RAR files..."
+          find . -name "*.rar" -type f -not -path "./extracted_archives/*" | while read -r rarfile; do
+            echo "📦 Found: $rarfile"
+            dirname=$(dirname "$rarfile")
+            basename=$(basename "$rarfile" .rar)
+            outdir="extracted_archives/${dirname}/${basename}"
+            mkdir -p "$outdir"
+            echo "  → Extracting to: $outdir"
+            7z x "$rarfile" -o"$outdir" -y || echo "⚠️ Failed to extract $rarfile"
+            echo "✅ Extracted: $rarfile"
+          done
+      
+      - name: 🔍 Find and extract TAR.GZ files
+        run: |
+          echo "🔍 Searching for TAR.GZ files..."
+          find . -name "*.tar.gz" -type f -not -path "./extracted_archives/*" | while read -r tarfile; do
+            echo "📦 Found: $tarfile"
+            dirname=$(dirname "$tarfile")
+            basename=$(basename "$tarfile" .tar.gz)
+            outdir="extracted_archives/${dirname}/${basename}"
+            mkdir -p "$outdir"
+            echo "  → Extracting to: $outdir"
+            tar -xzf "$tarfile" -C "$outdir" || echo "⚠️ Failed to extract $tarfile"
+            echo "✅ Extracted: $tarfile"
+          done
+      
+      - name: 📝 Generate extraction report
+        run: |
+          echo "# Archive Extraction Report" > EXTRACTION_REPORT.md
+          echo "" >> EXTRACTION_REPORT.md
+          echo "**Date:** $(date '+%Y-%m-%d %H:%M:%S')" >> EXTRACTION_REPORT.md
+          echo "" >> EXTRACTION_REPORT.md
+          echo "## Extracted Archives" >> EXTRACTION_REPORT.md
+          echo "" >> EXTRACTION_REPORT.md
+          
+          # List all extracted archives with file counts
+          if [ -d "extracted_archives" ]; then
+            find extracted_archives -mindepth 2 -maxdepth 2 -type d | sort | while read -r dir; do
+              file_count=$(find "$dir" -type f | wc -l)
+              echo "- \`$dir\` — $file_count files" >> EXTRACTION_REPORT.md
+            done
+          fi
+          
+          echo "" >> EXTRACTION_REPORT.md
+          echo "## File Structure" >> EXTRACTION_REPORT.md
+          echo "" >> EXTRACTION_REPORT.md
+          echo '```' >> EXTRACTION_REPORT.md
+          if [ -d "extracted_archives" ]; then
+            find extracted_archives -type f | head -100 | sort >> EXTRACTION_REPORT.md
+          fi
+          echo '```' >> EXTRACTION_REPORT.md
+      
+      - name: 💾 Commit and push results
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add extracted_archives/ EXTRACTION_REPORT.md
+          git diff --cached --quiet || git commit -m "🤖 Auto-extract archives [skip ci]"
+          git push
