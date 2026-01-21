@@ -46,6 +46,7 @@
 ### Специализированные промпты
 - Энциклопедический ассистент: [`PROMPT_ENCYCLOPEDIA_ASSISTANT.md`](PROMPT_ENCYCLOPEDIA_ASSISTANT.md) - ГОСТ ⇄ ISO справочник с обязательными таблицами соответствий
 - Google Ads: [`PROMPT_GOOGLE_ADS_COPYWRITER.md`](PROMPT_GOOGLE_ADS_COPYWRITER.md) - Создание рекламных заголовков для Google Ads
+- SARD SRS: [`PROMPT_SARD_SRS.md`](PROMPT_SARD_SRS.md) - Генерация технических заданий (ТЗ) и SRS по методике SARD
 
 ### Стандарты и спецификации
 - ГОСТ: [`docs/gost/`](docs/gost/) - Стандарты ГОСТ
