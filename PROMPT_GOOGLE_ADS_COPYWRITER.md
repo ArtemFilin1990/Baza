@@ -132,7 +132,7 @@ New [Product]: [Key Benefit]
 **Examples (30 chars max):**
 - "50% Off Skincare - Shop Now" (27 chars)
 - "Designer Jeans - Only $49" (25 chars)
-- "Free Shipping on Orders $50+" (29 chars)
+- "Free Shipping on Orders $50+" (28 chars)
 
 ### 2. Service-Based
 ```
@@ -262,7 +262,7 @@ Best [Service] [City] Area
 - Use professional tone
 
 **Examples:**
-- "0% APR - Apply in 5 Minutes" (28 chars)
+- "0% APR - Apply in 5 Minutes" (27 chars)
 - "Secure Your Financial Future" (28 chars)
 
 ### Education
@@ -290,7 +290,7 @@ Best [Service] [City] Area
 ## Prohibited Content
 
 ### Never Include:
-- ❌ Excessive punctuation (!!!, ???, etc.)
+- ❌ Excessive punctuation (multiple exclamation/question marks)
 - ❌ ALL CAPS text
 - ❌ Misleading claims
 - ❌ Before/after medical claims without proof
@@ -406,7 +406,7 @@ A/B Test Against: Option [number]
 
 **Title Options:**
 
-1. "Glow Naturally: 20% Off New" (28 chars)
+1. "Glow Naturally: 20% Off New" (27 chars)
    - Strategy: Benefit + offer combination
    - Best for: Conversion-focused campaigns
 
@@ -447,7 +447,7 @@ A/B Test Against: Option [number]
    - Strategy: Urgency + availability + CTA
    - Best for: Emergency service seekers
 
-2. "Free Estimate - Local Plumber" (30 chars)
+2. "Free Estimate - Local Plumber" (29 chars)
    - Strategy: Offer + local appeal
    - Best for: Price-conscious planners
 
