@@ -17,7 +17,12 @@
 - [x] Add placeholder `README.md` in each section.
 - [x] No content migration yet.
 
-### Batch 3+ — Content Migration by Topic (Small Batches)
+### Batch 3 — Content Migration by Topic (Standards & Marking) ✅ Completed
+- Section: `/02_standards_marking/`
+- Files moved: 12
+- Notes: Limited to standards/marking scope; no deep rewrites.
+
+### Batch 4+ — Content Migration by Topic (Small Batches)
 - Move 10–15 markdown/text files into **one** target section per batch.
 - Minimal renames (only for clarity or collisions).
 - Update links only inside touched files.

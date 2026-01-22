@@ -49,3 +49,24 @@ This report tracks incremental cleanup batches. Each batch records scope, action
 - Updated: `README.md`
 - Updated: `MIGRATION_PLAN.md`
 - Updated: `CLEANUP_REPORT.md`
+
+### Batch 3 — Standards & Marking Content Population
+
+**Checklist**
+- [x] Moved standards/marking content into `/02_standards_marking/`.
+- [x] Updated section README index and coverage checklist.
+- [x] Logged moves for standards/marking batch.
+
+**Changed paths**
+- MOVE: `wiki/2-standarty-i-markirovka/2-1-gost-standarty.md` → `02_standards_marking/02_01_gost_standards.md` (Section 02 — standards & marking)
+- MOVE: `wiki/2-standarty-i-markirovka/2-2-iso-standarty.md` → `02_standards_marking/02_02_iso_standards.md` (Section 02 — standards & marking)
+- MOVE: `wiki/1-osnovy-terminologiya-vybor/1-1-sistema-uslovnyh-oboznacheniy.md` → `02_standards_marking/02_03_designation_system.md` (Section 02 — standards & marking)
+- MOVE: `wiki/1-osnovy-terminologiya-vybor/1-2-klass-tochnosti.md` → `02_standards_marking/02_04_accuracy_classes.md` (Section 02 — standards & marking)
+- MOVE: `wiki/1-osnovy-terminologiya-vybor/1-3-zazory.md` → `02_standards_marking/02_05_clearance_groups.md` (Section 02 — standards & marking)
+- MOVE: `wiki/1-osnovy-terminologiya-vybor/1-6-vnutrenniy-diametr.md` → `02_standards_marking/02_06_inner_diameter_rules.md` (Section 02 — standards & marking)
+- MOVE: `wiki/1-osnovy-terminologiya-vybor/1-7-razmernye-serii.md` → `02_standards_marking/02_07_dimension_series.md` (Section 02 — standards & marking)
+- MOVE: `wiki/2-standarty-i-markirovka/2-6-etu-oboznacheniya.md` → `02_standards_marking/02_08_etu_designations.md` (Section 02 — standards & marking)
+- MOVE: `wiki/2-standarty-i-markirovka/2-3-analogi-gost-iso.md` → `02_standards_marking/02_09_gost_iso_analogues.md` (Section 02 — standards & marking)
+- MOVE: `wiki/2-standarty-i-markirovka/2-4-analogi-iso-gost.md` → `02_standards_marking/02_10_iso_gost_analogues.md` (Section 02 — standards & marking)
+- MOVE: `wiki/2-standarty-i-markirovka/2-5-analogi-dop-znakov.md` → `02_standards_marking/02_11_additional_sign_analogues.md` (Section 02 — standards & marking)
+- MOVE: `wiki/2-standarty-i-markirovka/2-8-importnye-analogi.md` → `02_standards_marking/02_12_imported_analogues.md` (Section 02 — standards & marking)
