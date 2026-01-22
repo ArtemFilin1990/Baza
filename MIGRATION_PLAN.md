@@ -12,10 +12,10 @@
 - Update: root `README.md` with Structure (WIP) section linking to `NEW_STRUCTURE.md`.
 - No file moves/renames/deletes.
 
-### Batch 2 — Create Folders + Section Entry Points (No Moves)
-- Create target directories.
-- Add placeholder `README.md` in each section.
-- No content migration yet.
+### Batch 2 — Create Folders + Section Entry Points (No Moves) ✅ Completed
+- [x] Create target directories.
+- [x] Add placeholder `README.md` in each section.
+- [x] No content migration yet.
 
 ### Batch 3+ — Content Migration by Topic (Small Batches)
 - Move 10–15 markdown/text files into **one** target section per batch.
@@ -32,4 +32,3 @@
 - README navigation still works.
 - `CLEANUP_REPORT.md` updated with batch summary.
 - No bulk moves or large diffs.
-

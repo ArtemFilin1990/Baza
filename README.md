@@ -185,6 +185,19 @@ uvicorn api.app.api:app --reload
 ## 🧭 Structure (WIP)
 
 - **[Target structure](NEW_STRUCTURE.md)** — proposed directory layout and conventions.
+- **Section entry points (WIP):**
+  - [00 Meta](00_meta/README.md)
+  - [01 Basics](01_basics/README.md)
+  - [02 Standards & Marking](02_standards_marking/README.md)
+  - [03 Types & Components](03_types_components/README.md)
+  - [04 Parameters & Calculations](04_parameters_calculations/README.md)
+  - [05 Operation & Maintenance](05_operation_maintenance/README.md)
+  - [06 Failures & Diagnostics](06_failures_diagnostics/README.md)
+  - [07 Brands & Manufacturers](07_brands_manufacturers/README.md)
+  - [08 Special Reference](08_special_reference/README.md)
+  - [Tables](./_tables/README.md)
+  - [Assets](./_assets/README.md)
+  - [Trash Review](./_trash_review/README.md)
 
 ### 📂 Основные разделы
 
