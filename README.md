@@ -182,6 +182,10 @@ uvicorn api.app.api:app --reload
 
 ## 📚 Структура репозитория
 
+## 🧭 Structure (WIP)
+
+- **[Target structure](NEW_STRUCTURE.md)** — proposed directory layout and conventions.
+
 ### 📂 Основные разделы
 
 #### Из репозитория Baza (исходная структура):
