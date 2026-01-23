@@ -7,7 +7,7 @@ CREATE TABLE IF NOT EXISTS kb_article (
     section TEXT NOT NULL,
     subsection TEXT NOT NULL,
     status TEXT DEFAULT 'draft',
-    updated_at DATE
+    updated_at TIMESTAMPTZ
 );
 
 CREATE TABLE IF NOT EXISTS kb_alias (
@@ -43,7 +43,7 @@ CREATE TABLE IF NOT EXISTS ref_standard (
 CREATE TABLE IF NOT EXISTS ref_tnved (
     id SERIAL PRIMARY KEY,
     code TEXT UNIQUE NOT NULL,
-    title TEXT
+    title TEXT NOT NULL
 );
 
 CREATE TABLE IF NOT EXISTS map_gost_iso (
@@ -65,8 +65,8 @@ CREATE TABLE IF NOT EXISTS map_suffix (
 CREATE TABLE IF NOT EXISTS bearing_dimension (
     id SERIAL PRIMARY KEY,
     designation TEXT,
-    d_mm NUMERIC,
-    D_mm NUMERIC,
-    B_mm NUMERIC,
+    d_mm NUMERIC(8,3),
+    D_mm NUMERIC(8,3),
+    B_mm NUMERIC(8,3),
     source TEXT
 );
