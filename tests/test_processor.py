@@ -84,17 +84,17 @@ registry:
     # Create parsing_rules.json
     parsing_rules = {
         "column_mappings": {
-            "наименование": ["наименование", "name"],
-            "артикул": ["артикул", "designation", "part"],
-            "аналог": ["аналог", "analog"],
-            "бренд": ["бренд", "brand"],
+            "Наименование": ["наименование", "Наименование", "name"],
+            "Артикул": ["артикул", "Артикул", "designation", "part"],
+            "Аналог": ["аналог", "Аналог", "analog"],
+            "Бренд": ["бренд", "Бренд", "brand"],
             "d": ["d", "inner diameter"],
             "D": ["D", "outer diameter"],
             "H": ["H", "B", "width"],
             "m": ["m", "weight"]
         },
         "required_fields": {
-            "any_of": ["артикул", "наименование"]
+            "any_of": ["Артикул", "Наименование"]
         }
     }
     (config_dir / 'parsing_rules.json').write_text(json.dumps(parsing_rules))
@@ -226,8 +226,9 @@ class TestParser:
         })
         
         normalized = parser.normalize_columns(df)
-        assert 'артикул' in normalized.columns
-        assert 'бренд' in normalized.columns
+        # Should be mapped to target columns (title case)
+        assert 'Артикул' in normalized.columns
+        assert 'Бренд' in normalized.columns
         assert 'd' in normalized.columns
 
 
