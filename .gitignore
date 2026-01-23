@@ -64,3 +64,15 @@ excel-to-md*.md
 /*.xls
 /*.docx
 /*.doc
+
+# Bearing data processing pipeline outputs
+out/catalog_target.csv
+out/catalog_target.json
+out/run_report.ndjson
+out/processed_registry.json
+processed/
+error/
+inbox/*.csv
+inbox/*.xlsx
+inbox/*.json
+inbox/*.txt

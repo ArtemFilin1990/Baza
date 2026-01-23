@@ -1,0 +1,66 @@
+# Application Configuration for Bearing Data Processing Pipeline
+
+# Directory paths (relative to project root)
+paths:
+  inbox: "inbox"
+  processed: "processed"
+  error: "error"
+  out: "out"
+  logs: "logs"
+
+# Watcher configuration
+watcher:
+  # Mode: "poll" (cross-platform) or "watch" (requires watchdog library)
+  mode: "poll"
+  # Polling interval in seconds (only for poll mode)
+  poll_interval: 5
+  # Process files immediately on startup
+  process_on_start: true
+
+# File processing limits
+limits:
+  # Maximum file size in MB
+  max_file_size_mb: 50
+  # Maximum rows to process per file
+  max_rows: 100000
+
+# Normalization settings
+normalization:
+  # Brand name format: "title" or "upper"
+  brand_format: "upper"
+  # Replace characters in dimensions
+  dimension_replacements:
+    "×": "x"
+    "х": "x"  # Cyrillic х
+    "–": "-"  # en-dash
+    "—": "-"  # em-dash
+    "−": "-"  # minus sign
+  # Decimal separator
+  decimal_separator: "."
+
+# Output format
+output:
+  # CSV encoding
+  csv_encoding: "utf-8"
+  # CSV delimiter
+  csv_delimiter: ","
+  # JSON formatting
+  json_indent: 2
+  # Include BOM in CSV
+  csv_bom: false
+
+# Logging configuration
+logging:
+  # Log level: DEBUG, INFO, WARNING, ERROR, CRITICAL
+  level: "INFO"
+  # Log format: "json" or "text"
+  format: "json"
+  # Maximum log file size in MB
+  max_size_mb: 10
+  # Number of backup log files
+  backup_count: 5
+
+# Registry settings
+registry:
+  # Path to processed files registry
+  file: "out/processed_registry.json"

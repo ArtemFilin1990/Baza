@@ -1,0 +1,26 @@
+{
+  "comment": "Brand name normalization mapping (alias -> canonical name)",
+  "aliases": {
+    "skf": "SKF",
+    "SKf": "SKF",
+    "fag": "FAG",
+    "Fag": "FAG",
+    "nsk": "NSK",
+    "Nsk": "NSK",
+    "ntn": "NTN",
+    "Ntn": "NTN",
+    "koyo": "KOYO",
+    "Koyo": "KOYO",
+    "timken": "TIMKEN",
+    "Timken": "TIMKEN",
+    "гпз": "ГПЗ",
+    "ГПз": "ГПЗ",
+    "gpz": "ГПЗ",
+    "спз": "СПЗ",
+    "spz": "СПЗ",
+    "впз": "ВПЗ",
+    "vpz": "ВПЗ",
+    "мпз": "МПЗ",
+    "mpz": "МПЗ"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "comment": "Column mapping and parsing rules for bearing data files",
+  
+  "column_mappings": {
+    "Наименование": ["наименование", "Наименование", "название", "товар", "name", "product", "описание", "description", "product_name", "product name"],
+    "Артикул": ["артикул", "Артикул", "обозначение", "designation", "part", "sku", "part_number", "part number", "article"],
+    "Аналог": ["аналог", "Аналог", "analog", "equivalent", "analogue"],
+    "Бренд": ["бренд", "Бренд", "brand", "производитель", "manufacturer", "maker", "factory"],
+    "d": ["d", "d (мм)", "внутренний диаметр", "внутр. диаметр", "inner diameter", "bore", "н/д", "нд"],
+    "D": ["D", "D (мм)", "наружный диаметр", "наруж. диаметр", "outer diameter", "о/д", "од"],
+    "H": ["H", "B", "H (мм)", "B (мм)", "ширина", "высота", "width", "height", "thickness"],
+    "m": ["m", "m (кг)", "масса", "вес", "weight", "mass"]
+  },
+  
+  "dimension_patterns": [
+    {
+      "comment": "Pattern for dimensions like: d×D×H or dxDxH",
+      "regex": "(?P<d>\\d+(?:\\.\\d+)?)\\s*[x×/]\\s*(?P<D>\\d+(?:\\.\\d+)?)\\s*[x×/]\\s*(?P<H>\\d+(?:\\.\\d+)?)",
+      "groups": ["d", "D", "H"]
+    },
+    {
+      "comment": "Pattern for dimensions like: dxD",
+      "regex": "(?P<d>\\d+(?:\\.\\d+)?)\\s*[x×/]\\s*(?P<D>\\d+(?:\\.\\d+)?)",
+      "groups": ["d", "D"]
+    }
+  ],
+  
+  "required_fields": {
+    "comment": "At least one of these fields must be present in each row",
+    "any_of": ["Артикул", "Наименование"]
+  },
+  
+  "text_normalization": {
+    "trim": true,
+    "collapse_spaces": true,
+    "remove_control_chars": true
+  }
+}
