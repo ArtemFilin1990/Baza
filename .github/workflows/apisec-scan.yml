@@ -53,7 +53,7 @@ jobs:
       actions: read # only required for a private repository by github/codeql-action/upload-sarif to get the Action run status
     runs-on: ubuntu-latest
     # Only run if APIsec credentials are configured
-    if: ${{ secrets.apisec_username != '' && secrets.apisec_password != '' }}
+    if: ${{ secrets.apisec_username && secrets.apisec_password }}
 
     steps:
        - name: APIsec scan
