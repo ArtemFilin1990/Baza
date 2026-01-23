@@ -66,12 +66,12 @@ def test_should_process_file():
         test_pyc.write_text('test')
         
         # Should process
-        assert builder.should_process_file(test_md) == True
-        assert builder.should_process_file(test_py) == True
+        assert builder.should_process_file(test_md)
+        assert builder.should_process_file(test_py)
         
         # Should not process (excluded directories)
-        assert builder.should_process_file(git_config) == False
-        assert builder.should_process_file(test_pyc) == False
+        assert not builder.should_process_file(git_config)
+        assert not builder.should_process_file(test_pyc)
         
         print("✅ File exclusion test passed")
 

@@ -15,7 +15,6 @@ from pathlib import Path
 from typing import Dict, List, Set, Tuple, Any
 from collections import defaultdict
 from datetime import datetime
-import mimetypes
 
 
 class KnowledgeBaseBuilder:
@@ -126,16 +125,16 @@ class KnowledgeBaseBuilder:
                 # Попытка с другой кодировкой
                 with open(file_path, 'r', encoding='cp1251') as f:
                     return f.read()
-            except:
+            except (UnicodeDecodeError, IOError, PermissionError):
                 pass
-        except Exception:
+        except (IOError, PermissionError):
             pass
         
         # Для бинарных файлов возвращаем метаинформацию
         try:
             size = file_path.stat().st_size
             return f"[[BINARY FILE: {size} bytes]]"
-        except:
+        except (IOError, PermissionError, OSError):
             return "[[DATA NOT FOUND]]"
     
     def extract_terms_from_markdown(self, content: str, file_path: Path) -> List[Tuple[str, str]]:
