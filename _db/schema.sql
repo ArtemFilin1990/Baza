@@ -4,15 +4,15 @@ CREATE TABLE IF NOT EXISTS kb_article (
     id SERIAL PRIMARY KEY,
     slug TEXT UNIQUE NOT NULL,
     title TEXT NOT NULL,
-    section TEXT,
-    subsection TEXT,
+    section TEXT NOT NULL,
+    subsection TEXT NOT NULL,
     status TEXT DEFAULT 'draft',
     updated_at DATE
 );
 
 CREATE TABLE IF NOT EXISTS kb_alias (
     id SERIAL PRIMARY KEY,
-    article_id INTEGER REFERENCES kb_article(id),
+    article_id INTEGER REFERENCES kb_article(id) ON DELETE CASCADE,
     alias TEXT NOT NULL,
     kind TEXT
 );
@@ -48,8 +48,8 @@ CREATE TABLE IF NOT EXISTS ref_tnved (
 
 CREATE TABLE IF NOT EXISTS map_gost_iso (
     id SERIAL PRIMARY KEY,
-    gost_code TEXT,
-    iso_code TEXT,
+    gost_code TEXT NOT NULL,
+    iso_code TEXT NOT NULL,
     match_type TEXT,
     confidence TEXT,
     notes TEXT
@@ -57,8 +57,8 @@ CREATE TABLE IF NOT EXISTS map_gost_iso (
 
 CREATE TABLE IF NOT EXISTS map_suffix (
     id SERIAL PRIMARY KEY,
-    standard_code TEXT,
-    suffix TEXT,
+    standard_code TEXT NOT NULL,
+    suffix TEXT NOT NULL,
     meaning TEXT
 );
 
