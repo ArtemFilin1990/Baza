@@ -1,0 +1,20 @@
+paths:
+  inbox: "inbox"
+  processed: "processed"
+  error: "error"
+  out: "out"
+  logs: "logs"
+
+watcher:
+  mode: "polling"
+  interval_seconds: 5
+  min_file_age_seconds: 2
+
+limits:
+  max_file_size_mb: 50
+
+normalization:
+  brand_case: "upper"
+
+parsing:
+  allow_first_token_as_article: true
