@@ -1,49 +1,19 @@
-# Migration Plan (Batch-Based)
+# План миграции (этапы)
 
-## Objectives
-- Incrementally reorganize the repository into the target structure.
-- Keep each batch small and reviewable.
-- Avoid broken links and preserve readability at all times.
+## Этап 1 — Каркас
+- Создать разделы 01–09 и подразделы.
+- Создать технические слои `_data`, `_db`, `_tables`, `_tools`, `_sources`.
+- Добавить минимальные README и базовую SQL-схему.
 
-## Batch Sequence
+## Этап 2 — Миграция контента (батчи ≤15)
+- Переносить материалы по одному разделу за батч.
+- Обновлять ссылки только в затронутых файлах.
+- Фиксировать изменения в `CLEANUP_REPORT.md`.
 
-### Batch 1 — Inventory + Reports (No Moves)
-- Add: `CLEANUP_REPORT.md`, `NEW_STRUCTURE.md`, `MIGRATION_PLAN.md`, `ASSUMPTIONS.md`.
-- Update: root `README.md` with Structure (WIP) section linking to `NEW_STRUCTURE.md`.
-- No file moves/renames/deletes.
+## Этап 3 — Выгрузка и таблицы
+- Выделить CSV/JSON в `_data/*`.
+- Сформировать справочники и сопоставления.
 
-### Batch 2 — Create Folders + Section Entry Points (No Moves) ✅ Completed
-- [x] Create target directories.
-- [x] Add placeholder `README.md` in each section.
-- [x] No content migration yet.
-
-### Batch 3 — Content Migration by Topic (Standards & Marking) ✅ Completed
-- Section: `/02_standards_marking/`
-- Files moved: 12
-- Notes: Limited to standards/marking scope; no deep rewrites.
-
-### Batch 4+ — Content Migration by Topic (Small Batches)
-- Move 10–15 markdown/text files into **one** target section per batch.
-- Minimal renames (only for clarity or collisions).
-- Update links only inside touched files.
-- Record every change in `CLEANUP_REPORT.md`.
-- Duplicates: place into `/_trash_review/` with a note (no merging yet).
-
-### Dedicated Micro-Batches
-- Binary relocation: max 5 files per batch.
-- Duplicate merge: max 3 files per batch with manual review.
-
-## Validation Checklist (Each Batch)
-- README navigation still works.
-- `CLEANUP_REPORT.md` updated with batch summary.
-- No bulk moves or large diffs.
-
-### Batch 4 — Content Migration by Topic (Standards & Marking Supplement) ✅ Completed
-- Section: `/02_standards_marking/`
-- Files moved: 4
-- Notes: Added ГОСТ marking, suffixes/prefixes, dimensions, and standards list references.
-
-### Batch 3 — Content Migration by Topic (Standards & Marking, Full) ✅ Completed
-- Section: `/02_standards_marking/`
-- Files moved: 16
-- Notes: Consolidated standards, marking, suffix/prefix, dimensions, and analogue references.
+## Этап 4 — Валидация
+- Проверка форматов и связей.
+- Подготовка к импорту в БД.

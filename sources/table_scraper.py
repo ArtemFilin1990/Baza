@@ -23,6 +23,7 @@ Example:
 If network access is blocked, the script will log a warning and exit without
 creating or altering the output file.
 """
+
 from __future__ import annotations
 
 import argparse

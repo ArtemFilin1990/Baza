@@ -1,7 +1,9 @@
 # Assumptions
 
-## Batch 1
-- No file moves or renames are performed in the inventory batch.
-- Existing README navigation remains authoritative until migration batches begin.
-- Dates are recorded using the repository documentation date (2026-01-21) for consistency with existing materials.
-
+## 2026-01-23
+1. Разделы 01–09 создаются как каркас без переноса существующего контента.
+   - Проверка: `git status` не содержит move/delete.
+2. Все подразделы пока содержат WIP-шаблон без фактических данных.
+   - Проверка: открыть любой README подраздела и убедиться в наличии заглушек.
+3. Технические слои используются только как пустые каталоги с описанием.
+   - Проверка: наличие README в `_data`, `_db`, `_tables`, `_tools`, `_sources`, `_trash_review`.
