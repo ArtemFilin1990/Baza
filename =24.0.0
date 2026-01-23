@@ -1,0 +1,22 @@
+Defaulting to user installation because normal site-packages is not writeable
+Collecting black
+  Downloading black-26.1.0-cp312-cp312-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl.metadata (88 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 88.9/88.9 kB 7.5 MB/s eta 0:00:00
+Requirement already satisfied: click>=8.0.0 in /usr/lib/python3/dist-packages (from black) (8.1.6)
+Collecting mypy-extensions>=0.4.3 (from black)
+  Downloading mypy_extensions-1.1.0-py3-none-any.whl.metadata (1.1 kB)
+Requirement already satisfied: packaging>=22.0 in /usr/lib/python3/dist-packages (from black) (24.0)
+Collecting pathspec>=1.0.0 (from black)
+  Downloading pathspec-1.0.3-py3-none-any.whl.metadata (13 kB)
+Requirement already satisfied: platformdirs>=2 in /usr/local/lib/python3.12/dist-packages (from black) (4.5.1)
+Collecting pytokens>=0.3.0 (from black)
+  Downloading pytokens-0.4.0-cp312-cp312-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl.metadata (3.8 kB)
+Downloading black-26.1.0-cp312-cp312-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl (1.8 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 1.8/1.8 MB 56.1 MB/s eta 0:00:00
+Downloading mypy_extensions-1.1.0-py3-none-any.whl (5.0 kB)
+Downloading pathspec-1.0.3-py3-none-any.whl (55 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 55.0/55.0 kB 18.4 MB/s eta 0:00:00
+Downloading pytokens-0.4.0-cp312-cp312-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl (268 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 268.9/268.9 kB 68.2 MB/s eta 0:00:00
+Installing collected packages: pytokens, pathspec, mypy-extensions, black
+Successfully installed black-26.1.0 mypy-extensions-1.1.0 pathspec-1.0.3 pytokens-0.4.0
