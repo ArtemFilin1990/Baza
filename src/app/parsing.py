@@ -28,10 +28,18 @@ def recognize_column(header: str, target: str, patterns: Dict[str, List[str]]) -
     header_clean = header.strip()
     header_lower = header_clean.lower()
 
+    # Single letter dimension columns with exact match
+    single_letter_patterns = {
+        "\\bd\\b": "d",
+        "\\bD\\b": "D",
+        "\\bH\\b": "H",
+        "\\bB\\b": "B",
+    }
+
     for pattern in patterns[target]:
         # For exact single-letter matches (d, D, H, B), check directly
-        if pattern in ["\\bd\\b", "\\bD\\b", "\\bH\\b", "\\bB\\b"]:
-            letter = pattern[2]  # Extract the letter from \bX\b
+        if pattern in single_letter_patterns:
+            letter = single_letter_patterns[pattern]
             if header_clean == letter or header_clean == letter.lower() or header_clean == letter.upper():
                 return True
         else:

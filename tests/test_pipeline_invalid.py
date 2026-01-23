@@ -105,7 +105,7 @@ def test_oversized_file_to_error(temp_dir, test_config):
 
     # Temporarily set a lower limit for testing
     original_limit = test_config.limits.get("max_file_size_mb")
-    test_config._data["limits"]["max_file_size_mb"] = 0.1  # 0.1 MB
+    test_config.set_limit("max_file_size_mb", 0.1)  # 0.1 MB
 
     # Setup
     import os
@@ -129,5 +129,5 @@ def test_oversized_file_to_error(temp_dir, test_config):
 
     finally:
         # Restore limit
-        test_config._data["limits"]["max_file_size_mb"] = original_limit
+        test_config.set_limit("max_file_size_mb", original_limit)
         os.chdir(old_cwd)

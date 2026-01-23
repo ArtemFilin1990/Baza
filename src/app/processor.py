@@ -130,7 +130,9 @@ def generate_processed_filename(
         return f"{timestamp}__{source}__{n_records}__{sha256_short}{ext}"
 
 
-def process_file(filepath: Path, config: Config, registry: Registry, report: ReportWriter) -> bool:
+def process_file(
+    filepath: Path, config: Config, registry: Registry, report: ReportWriter, force_reprocess: bool = False
+) -> bool:
     """Process a single file.
 
     Args:
@@ -138,6 +140,7 @@ def process_file(filepath: Path, config: Config, registry: Registry, report: Rep
         config: Configuration object
         registry: File registry
         report: Report writer
+        force_reprocess: If True, bypass registry check
 
     Returns:
         True if successful, False otherwise
@@ -146,8 +149,8 @@ def process_file(filepath: Path, config: Config, registry: Registry, report: Rep
         # Calculate hash
         sha256 = sha256_file(filepath)
 
-        # Check if already processed
-        if registry.is_processed(sha256):
+        # Check if already processed (unless force reprocess)
+        if not force_reprocess and registry.is_processed(sha256):
             logger.info(f"File {filepath.name} already processed (sha256={sha256[:8]}), skipping")
             report.write_entry(
                 filename=filepath.name, sha256=sha256, status="skipped", n_rows=0, error="Already processed"
@@ -324,12 +327,7 @@ def rebuild_catalog(config: Config):
 
     # Process files
     for temp_path in temp_files:
-        # For rebuild, we don't check registry
-        original_registry_check = registry.is_processed
-        registry.is_processed = lambda x: False  # Skip registry check
-
-        process_file(temp_path, config, registry, report)
-
-        registry.is_processed = original_registry_check
+        # For rebuild, force reprocessing
+        process_file(temp_path, config, registry, report, force_reprocess=True)
 
     logger.info("Catalog rebuild complete")

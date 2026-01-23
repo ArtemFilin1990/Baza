@@ -20,13 +20,14 @@ class Config:
         with open(self.config_path, encoding="utf-8") as f:
             self._data = yaml.safe_load(f)
 
-        # Load brand aliases
-        brand_aliases_path = Path("config/brand_aliases.json")
+        # Load brand aliases (path relative to config file location)
+        config_dir = self.config_path.parent
+        brand_aliases_path = config_dir / "brand_aliases.json"
         with open(brand_aliases_path, encoding="utf-8") as f:
             self.brand_aliases = json.load(f)
 
-        # Load parsing rules
-        parsing_rules_path = Path("config/parsing_rules.json")
+        # Load parsing rules (path relative to config file location)
+        parsing_rules_path = config_dir / "parsing_rules.json"
         with open(parsing_rules_path, encoding="utf-8") as f:
             self.parsing_rules = json.load(f)
 
@@ -75,3 +76,14 @@ class Config:
     def parsing(self) -> dict:
         """Get parsing configuration."""
         return self._data.get("parsing", {})
+
+    def set_limit(self, key: str, value: Any):
+        """Set a limit value (for testing purposes).
+
+        Args:
+            key: Limit key
+            value: Limit value
+        """
+        if "limits" not in self._data:
+            self._data["limits"] = {}
+        self._data["limits"][key] = value
