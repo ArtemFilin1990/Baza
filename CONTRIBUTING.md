@@ -439,6 +439,77 @@ ci: add security scanning workflow
 
 CI автоматически перезапустится с новыми изменениями.
 
+#### Частые ошибки CI и их решения
+
+**1. Black formatting failed**
+```
+Error: Files would be reformatted
+```
+**Решение:**
+```bash
+# Убедитесь, что используете ту же версию black, что и CI
+pip install black==24.10.0
+
+# Отформатируйте код
+black scripts/ sources/ tests/
+
+# Или используйте make
+make format
+```
+
+**2. Ruff linting errors**
+```
+Error: Ruff found X issues
+```
+**Решение:**
+```bash
+# Автоматическое исправление (где возможно)
+ruff check --fix .
+
+# Проверка
+make lint
+```
+
+**3. Mypy type errors**
+```
+Error: Incompatible types
+```
+**Решение:**
+```bash
+# Добавьте type hints
+def process_data(data: dict) -> list[str]:
+    ...
+
+# Проверка
+mypy scripts/ sources/
+```
+
+**4. CSV validation errors**
+```
+Error: Duplicate keys found
+```
+**Решение:**
+```bash
+# Запустите дедупликацию
+python scripts/deduplicate_nomenclature.py
+
+# Проверка
+python scripts/validate/run_validations.py
+```
+
+**5. Test failures**
+```
+Error: X tests failed
+```
+**Решение:**
+```bash
+# Запустите тесты локально с подробным выводом
+pytest tests/ -v
+
+# Один конкретный тест
+pytest tests/test_deduplication.py::test_name -v
+```
+
 ### Локальная эмуляция CI
 
 Чтобы проверить все до push:

@@ -28,6 +28,12 @@
   - Добавлен кеширование pip зависимостей
   - Добавлена matrix strategy для Python 3.11 и 3.12
   - Добавлена загрузка test artifacts
+- Обновлён `.github/workflows/pr-checks.yml`:
+  - Добавлена явная установка black==24.10.0 перед проверкой форматирования
+  - Синхронизирована версия black с `.pre-commit-config.yaml`
+- Обновлён `.pre-commit-config.yaml`:
+  - Обновлена версия black с 24.1.1 на 24.10.0
+  - Изменён `language_version` с `python3.11` на `python3` для универсальности
 - Обновлён `README.md`:
   - Добавлены CI/Security badges
   - Добавлены секции "Разработка", "Тестирование", "CI/CD"
@@ -37,6 +43,9 @@
 ### Исправлено
 - Критический баг: дублирующиеся ключи в `data/nomenclature.csv` (55,994+ дубликатов)
 - CI теперь проходит валидацию без ошибок
+- Проблема с форматированием кода black: синхронизированы версии между локальным pre-commit и CI ([PR #124](https://github.com/ArtemFilin1990/BearingsInfo/pull/124))
+  - Отформатированы файлы `scripts/build_enhanced_knowledge_base.py` и `scripts/import_bearings_to_db.py`
+  - Исправлены несоответствия версий black между CI и pre-commit hook
 
 ### Планируется
 - Извлечение данных из PDF каталога NSK (Обозначения подшипников)
