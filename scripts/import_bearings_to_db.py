@@ -212,13 +212,11 @@ def import_all_data(conn):
 
     # Добавить source_standard и target_standard для аналогов
     cursor = conn.cursor()
-    cursor.execute(
-        """
+    cursor.execute("""
         UPDATE analogs 
         SET source_standard = 'GOST', target_standard = 'ISO'
         WHERE source_standard IS NULL AND target_standard IS NULL
-    """
-    )
+    """)
     conn.commit()
     cursor.close()
 
