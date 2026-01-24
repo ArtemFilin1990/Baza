@@ -76,8 +76,7 @@ class Registry:
             'processed_name': processed_name,
             'n_records': n_records,
             'status': status,
-        }Исправить форматирование: запустить black scripts/build_enhanced_knowledge_base.py и закоммитить
-Настроить pre-commit hook с black для автоматической проверки
+        }
         self._save()
     
     def get_entry(self, file_hash: str) -> Optional[Dict]:
