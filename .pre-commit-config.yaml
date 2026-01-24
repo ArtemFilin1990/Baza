@@ -15,10 +15,10 @@ repos:
 
   # Python code formatting
   - repo: https://github.com/psf/black
-    rev: 24.1.1
+    rev: 24.10.0
     hooks:
       - id: black
-        language_version: python3.11
+        language_version: python3
 
   # Python linting
   - repo: https://github.com/astral-sh/ruff-pre-commit
