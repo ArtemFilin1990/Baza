@@ -23,35 +23,35 @@ def example_programmatic_access():
     print("=" * 70)
     print("Example: Programmatic Access to Extracted Data")
     print("=" * 70)
-    
+
     # Create builder
-    builder = KnowledgeBaseBuilder(repo_path='.')
-    
+    builder = KnowledgeBaseBuilder(repo_path=".")
+
     # Scan repository
     builder.scan_repository()
-    
+
     # Access extracted data
     print(f"\n📊 Statistics:")
     print(f"   - Total files: {len(builder.file_inventory)}")
     print(f"   - Terms in glossary: {len(builder.terms_glossary)}")
     print(f"   - Data structures: {sum(len(v) for v in builder.data_structures.values())}")
-    
+
     # Access specific file types
-    markdown_files = [f for f in builder.file_inventory if f['type'] == 'Markdown']
-    python_files = [f for f in builder.file_inventory if f['type'] == 'Python']
-    
+    markdown_files = [f for f in builder.file_inventory if f["type"] == "Markdown"]
+    python_files = [f for f in builder.file_inventory if f["type"] == "Python"]
+
     print(f"\n📁 File Types:")
     print(f"   - Markdown files: {len(markdown_files)}")
     print(f"   - Python files: {len(python_files)}")
-    
+
     # Show some sample terms
     print(f"\n📖 Sample Terms (first 5):")
     for idx, (term, definitions) in enumerate(list(builder.terms_glossary.items())[:5], 1):
         print(f"   {idx}. {term}: {len(definitions)} definition(s)")
-    
+
     print("\n✅ Data extracted successfully")
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     print("\nKnowledge Base Builder - Example Usage\n")
     example_programmatic_access()
