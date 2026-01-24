@@ -69,7 +69,8 @@ class EnhancedKnowledgeBaseBuilder:
                     if desc:
                         domain_desc.append("\n".join(desc))
                         domain_desc.append(f"\n_(Источник: {readme})_\n")
-                except:
+                except Exception:
+                    # Игнорируем ошибки чтения отдельных файлов, продолжаем обработку
                     pass
 
         return "\n\n".join(domain_desc)
@@ -104,7 +105,8 @@ class EnhancedKnowledgeBaseBuilder:
                                     terms[term].append(
                                         {"definition": desc, "source": str(md_file.relative_to(self.repo_path))}
                                     )
-                    except:
+                    except Exception:
+                        # Игнорируем ошибки парсинга отдельных файлов, продолжаем обработку
                         pass
 
         return dict(terms)
@@ -138,7 +140,8 @@ class EnhancedKnowledgeBaseBuilder:
                                 "source": str(md_file.relative_to(self.repo_path)),
                             }
                         )
-            except:
+            except Exception:
+                # Игнорируем ошибки парсинга отдельных файлов, продолжаем обработку
                 pass
 
         return processes
@@ -176,7 +179,8 @@ class EnhancedKnowledgeBaseBuilder:
                                     "source": str(md_file.relative_to(self.repo_path)),
                                 }
                             )
-                    except:
+                    except Exception:
+                        # Игнорируем ошибки парсинга отдельных файлов, продолжаем обработку
                         pass
 
         return rules
@@ -203,7 +207,8 @@ class EnhancedKnowledgeBaseBuilder:
                                 "source": str(md_file.relative_to(self.repo_path)),
                             }
                         )
-                except:
+                except Exception:
+                    # Игнорируем ошибки парсинга сценариев из отдельных файлов, продолжаем обработку
                     pass
 
         return scenarios
@@ -231,7 +236,8 @@ class EnhancedKnowledgeBaseBuilder:
                                     "source": str(md_file.relative_to(self.repo_path)),
                                 }
                             )
-                except:
+                except Exception:
+                    # Игнорируем ошибки парсинга связей из отдельных файлов, продолжаем обработку
                     pass
 
         return relationships

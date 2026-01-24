@@ -35,9 +35,6 @@ jobs:
           pip install -r requirements.txt
           pip install -r requirements-dev.txt
 
-      - name: Install black
-        run: pip install black==24.10.0
-
       - name: Check code formatting with black
         run: black --check scripts/ sources/ tests/
 
