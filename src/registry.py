@@ -1,7 +1,7 @@
 """Registry management for tracking processed files."""
 
 import json
-from datetime import datetime
+from datetime import UTC, datetime
 from pathlib import Path
 from typing import Dict, Optional
 
@@ -77,7 +77,7 @@ class Registry:
             'processed_name': processed_name,
             'n_records': n_records,
             'status': status,
-            'timestamp': datetime.utcnow().isoformat() + 'Z'
+            'timestamp': datetime.now(UTC).isoformat().replace('+00:00', 'Z')
         }
         self._save()
     
