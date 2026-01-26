@@ -9,7 +9,7 @@ asyncpg==0.29.0
 sqlalchemy==2.0.25
 
 # Утилиты
-python-multipart==0.0.18
+python-multipart==0.0.22
 python-dotenv==1.0.0
 
 # Тестирование
